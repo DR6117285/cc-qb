@@ -26,3 +26,4 @@ npm-debug.log*
 # Build
 dist/
 build/
+.handover/
