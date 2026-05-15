@@ -1,0 +1,866 @@
+[
+  {
+    "question_text": "According to the Aerobics Center Longitudinal Study (Blair, 2009), a 55-year-old man is concerned about his overall health risks. Which of the following factors was found to be the strongest predictor of all-cause mortality in this study?",
+    "options": [
+      "A) Smoking status",
+      "B) Body mass index",
+      "C) Cardiorespiratory fitness",
+      "D) Blood pressure"
+    ],
+    "correct_answer": "C) Cardiorespiratory fitness",
+    "page_reference": "198-199",
+    "rationale": "The Aerobics Center Longitudinal Study, as reported by Blair in 2009, found that low cardiorespiratory fitness was the strongest predictor of all-cause mortality. This study, which included 40,842 men and 12,943 women, demonstrated that cardiorespiratory fitness had the highest attributable fraction for all-cause mortality (16% for men and 17% for women), surpassing other well-known risk factors such as smoking, hypertension, and obesity. This finding highlights the critical importance of maintaining good cardiorespiratory fitness for overall health and longevity, regardless of other risk factors.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00666",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A public health official is reviewing the global burden of disease study by Lee, et al. (2012). What percentage of non-communicable diseases worldwide did this study attribute to physical inactivity?",
+    "options": [
+      "A) Up to 5%",
+      "B) Up to 8%",
+      "C) Up to 10%",
+      "D) Up to 15%"
+    ],
+    "correct_answer": "B) Up to 8%",
+    "page_reference": "199",
+    "rationale": "The global burden of disease study by Lee, et al. (2012) found that up to 8% of non-communicable diseases worldwide are attributed to physical inactivity. This study provided crucial evidence on the substantial impact of physical inactivity on global health. It highlighted that physical inactivity is not just a personal health issue but a significant public health concern, contributing to a substantial portion of the global disease burden. This finding underscores the importance of promoting physical activity as a key strategy in preventing non-communicable diseases and improving population health.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00667",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 50-year-old office worker is concerned about her sedentary lifestyle. Based on the study by van der Ploeg, et al. (2012) on sitting time and all-cause mortality, what percentage of all-cause mortality was attributable to prolonged sitting?",
+    "options": [
+      "A) 3.8%",
+      "B) 5.9%",
+      "C) 6.9%",
+      "D) 8.7%"
+    ],
+    "correct_answer": "C) 6.9%",
+    "page_reference": "199-200",
+    "rationale": "The study by van der Ploeg, et al. (2012) evaluated sitting time and all-cause mortality in 222,497 individuals aged 45 or older. The results showed that 6.9% of all-cause mortality was attributable to sitting. This finding was consistent across various subgroups, including gender, age, body mass index, and physical activity levels. It's particularly noteworthy that this effect was observed even in individuals who met physical activity guidelines, highlighting that prolonged sitting is an independent risk factor for mortality. This study emphasizes the importance of reducing sedentary time, even among those who engage in regular physical activity.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00668",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 45-year-old woman with prediabetes is considering lifestyle changes versus medication to prevent progression to type 2 diabetes. Based on the Diabetes Prevention Program Research Group study (Knowler, et al., 2002), how did the effectiveness of lifestyle intervention compare to metformin in reducing the incidence of diabetes?",
+    "options": [
+      "A) Equally effective",
+      "B) Lifestyle intervention was 25% more effective",
+      "C) Lifestyle intervention was approximately twice as effective",
+      "D) Metformin was more effective than lifestyle intervention"
+    ],
+    "correct_answer": "C) Lifestyle intervention was approximately twice as effective",
+    "page_reference": "229",
+    "rationale": "The Diabetes Prevention Program Research Group study, a landmark randomized controlled trial involving 3,234 patients with prediabetes, compared a lifestyle modification program to metformin or placebo. The results showed that compared to placebo, metformin decreased the incidence of diabetes by 31%, whereas lifestyle intervention reduced incidence by 58%. This demonstrates that lifestyle intervention was nearly twice as effective as metformin in preventing the progression from prediabetes to type 2 diabetes. Furthermore, the number needed to treat to prevent one case of diabetes in 3 years was 6.9 for lifestyle intervention compared to 13.9 for metformin, further emphasizing the superior efficacy of lifestyle changes.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00669",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 60-year-old man with stable coronary artery disease is deciding between exercise training and percutaneous coronary intervention (PCI). According to the study by Hambrecht, et al. (2004), what was the difference in event-free survival between the exercise group and the PCI group?",
+    "options": [
+      "A) 8%",
+      "B) 18%",
+      "C) 28%",
+      "D) 38%"
+    ],
+    "correct_answer": "B) 18%",
+    "page_reference": "230",
+    "rationale": "The study by Hambrecht, et al. (2004) compared exercise training with PCI in 101 male patients under 70 years of age with stable coronary artery disease. The results showed that the exercise intervention group had a superior event-free survival rate of 88% compared to 70% in the PCI group, a difference of 18%. This 12-month randomized controlled trial also found that exercise training resulted in improved exercise capacity, lower costs, and higher HDL levels compared to PCI. These findings challenge the common perception that invasive procedures are always superior to lifestyle interventions in managing coronary artery disease and highlight the potential of exercise as a primary treatment option in stable cases. Now, I'll provide the next 5 questions:",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00670",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the pooled cohort analysis by Moore, et al. (2012) on leisure time physical activity and mortality, what was the minimum amount of moderate-intensity exercise per week associated with a significant reduction in all-cause mortality?",
+    "options": [
+      "A) 75 minutes",
+      "B) 150 minutes",
+      "C) 225 minutes",
+      "D) 300 minutes"
+    ],
+    "correct_answer": "A) 75 minutes",
+    "page_reference": "201",
+    "rationale": "Moore, et al. (2012) conducted a large pooled cohort analysis to examine the relationship between leisure time physical activity and mortality. The study found that as little as 75 minutes of brisk walking per week (equivalent to 0.1-3.74 MET hours per week) was associated with a gain of approximately 1.8 years of life compared to no activity. This finding is particularly important as it demonstrates that even modest amounts of physical activity, well below the commonly recommended 150 minutes per week, can have significant health benefits. It provides encouragement for sedentary individuals to start with achievable goals and still reap substantial health rewards.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00671",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 58-year-old woman is concerned about her sedentary behavior. According to the pooled data analysis by Ekelund, et al. (2016), how much moderate to vigorous physical activity per day is required to eliminate the increased risk of death associated with high sitting time (>8 hours/day)?",
+    "options": [
+      "A) 30 minutes",
+      "B) 45 minutes",
+      "C) 60 minutes",
+      "D) 90 minutes"
+    ],
+    "correct_answer": "C) 60 minutes",
+    "page_reference": "200",
+    "rationale": "Ekelund, et al. (2016) conducted a pooled data analysis of more than 1 million participants to examine the combined effects of sedentary behavior and physical activity on mortality. The study found that 60-75 minutes per day of moderate intensity physical activity seems to eliminate the increased risk of death associated with high sitting time (>8 hours/day). This finding is crucial for public health recommendations, especially for individuals with desk jobs or those who spend a lot of time sitting. It suggests that the negative effects of prolonged sitting can be offset by increasing physical activity, providing a practical solution for those unable to reduce their sitting time significantly.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00672",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Based on the study by Kyu, et al. on the dose-response relationship between physical activity and health outcomes, at what level of physical activity do the gains in risk reduction for all-cause mortality begin to diminish?",
+    "options": [
+      "A) 3000 MET minutes per week",
+      "B) 4000 MET minutes per week",
+      "C) 5000 MET minutes per week",
+      "D) 6000 MET minutes per week"
+    ],
+    "correct_answer": "A) 3000 MET minutes per week",
+    "page_reference": "201",
+    "rationale": "The study by Kyu, et al. examined the dose-response relationship between physical activity and various health outcomes. They found that the most benefit in terms of all-cause mortality reduction is gained within 3000-4000 MET minutes per week (equivalent to 10-20 MET hours per week). Beyond this level, there are still benefits, but the magnitude of additional risk reduction begins to plateau. This finding is important for understanding the optimal amount of physical activity for health benefits and for setting realistic goals. It suggests that while more activity is generally better, there may be a point of diminishing returns, which can be valuable information for individuals trying to balance the time invested in physical activity with other life demands.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00673",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the study by Abed, et al. on weight loss and physical fitness effects on atrial fibrillation recurrence, what combination of interventions was found to be most effective in reducing the risk of atrial fibrillation recurrence?",
+    "options": [
+      "A) Weight loss and increased omega-3 fatty acid intake",
+      "B) Weight loss and improved aerobic fitness",
+      "C) Improved aerobic fitness and increased omega-3 fatty acid intake",
+      "D) Reduced aerobic fitness regardless of omega-3 fatty acid intake"
+    ],
+    "correct_answer": "B) Weight loss and improved aerobic fitness",
+    "page_reference": "210",
+    "rationale": "The study by Abed, et al. investigated the effects of various interventions on atrial fibrillation recurrence. They found that the combination of weight loss and improved aerobic fitness led to the greatest reduction in the risk of atrial fibrillation recurrence. This finding is significant because it highlights the importance of addressing multiple lifestyle factors in managing atrial fibrillation. While omega-3 fatty acid intake has been associated with various cardiovascular benefits, this study did not find it to be as effective as the combination of weight loss and improved fitness in preventing atrial fibrillation recurrence. This underscores the importance of a comprehensive approach to lifestyle modification in managing this common cardiac arrhythmia.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00674",
+    "section_number": "06"
+  },
+  {
+    "question_text": "According to the study by Berghella and Saccone on exercise effects on pregnancy outcomes, which of the following pregnancy-related outcomes was associated with increased incidence due to exercise?",
+    "options": [
+      "A) Excessive gestational weight gain",
+      "B) Preterm birth",
+      "C) Vaginal delivery",
+      "D) Cesarean delivery"
+    ],
+    "correct_answer": "C) Vaginal delivery",
+    "page_reference": "210",
+    "rationale": "The study by Berghella and Saccone examined the effects of exercise on various pregnancy outcomes. Interestingly, they found that exercise during pregnancy was associated with a higher rate of vaginal delivery. This is a positive outcome, as vaginal delivery is generally associated with fewer complications and faster recovery compared to cesarean delivery. The study also found that exercise led to a lower incidence of excessive gestational weight gain, preterm birth, and cesarean delivery. These findings provide strong support for the benefits of exercise during pregnancy, challenging older notions that pregnant women should avoid physical activity. It emphasizes that exercise during pregnancy can lead to better outcomes for both mother and baby.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00675",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Based on the Look AHEAD trial (Wing, et al., 2013), what was the primary goal for physical activity in the intensive lifestyle intervention group for adults with type 2 diabetes?",
+    "options": [
+      "A) At least 100 minutes/week of unsupervised physical activity",
+      "B) At least 150 minutes/week of unsupervised physical activity",
+      "C) At least 175 minutes/week of unsupervised physical activity",
+      "D) At least 200 minutes/week of unsupervised physical activity"
+    ],
+    "correct_answer": "C) At least 175 minutes/week of unsupervised physical activity",
+    "page_reference": "229",
+    "rationale": "The Look AHEAD trial targeted at least 175 minutes/week of unsupervised physical activity for the intensive lifestyle intervention group. This large, long-term study aimed to assess the effects of an intensive lifestyle intervention on cardiovascular outcomes in adults with type 2 diabetes. The 175-minute goal was chosen as it's slightly higher than the general recommendation of 150 minutes/week, potentially providing additional benefits for this high-risk population. Options A and B are too low to be considered \"intensive\" interventions, while D is higher than the actual goal set in the study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00676",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the meta-epidemiological study by Naci and Ioannidis (2013) comparing exercise and drug interventions, for which condition did exercise show superior mortality reduction compared to drug interventions?",
+    "options": [
+      "A) Secondary prevention of coronary heart disease",
+      "B) Rehabilitation of stroke",
+      "C) Prevention of diabetes",
+      "D) Treatment of heart failure"
+    ],
+    "correct_answer": "B) Rehabilitation of stroke",
+    "page_reference": "229-230",
+    "rationale": "The study by Naci and Ioannidis found that exercise was superior to drug interventions (anticoagulants and antiplatelet therapy) in reducing mortality for stroke rehabilitation. This finding highlights the potential of exercise as a powerful tool in stroke recovery. For secondary prevention of coronary heart disease and prevention of diabetes, exercise was found to be equally effective as drug interventions, not superior. In the case of heart failure treatment, diuretics were actually found to be superior to exercise, making option D incorrect.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00677",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the Aerobics Center Longitudinal Study (Blair, 2009), what percentage of all-cause mortality was attributable to low cardiorespiratory fitness in men?",
+    "options": [
+      "A) 8%",
+      "B) 12%",
+      "C) 16%",
+      "D) 20%"
+    ],
+    "correct_answer": "C) 16%",
+    "page_reference": "198-199",
+    "rationale": "The Aerobics Center Longitudinal Study found that 16% of all-cause mortality in men was attributable to low cardiorespiratory fitness. This finding underscores the critical importance of maintaining good cardiorespiratory fitness for overall health and longevity. The 16% figure was higher than for other risk factors like smoking (8%) and high cholesterol (4%). Options A and B are too low to represent the significant impact of low fitness, while D is higher than the actual finding.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00678",
+    "section_number": "06"
+  },
+  {
+    "question_text": "According to the global burden of disease study by Lee, et al. (2012), what percentage of type 2 diabetes cases worldwide were attributed to physical inactivity?",
+    "options": [
+      "A) 5%",
+      "B) 7%",
+      "C) 9%",
+      "D) 11%"
+    ],
+    "correct_answer": "B) 7%",
+    "page_reference": "199",
+    "rationale": "Lee, et al. found that 7% of type 2 diabetes cases worldwide were attributed to physical inactivity. This finding highlights the significant role that physical inactivity plays in the development of type 2 diabetes on a global scale. The study also found similar percentages for other diseases: 6% of coronary heart diseases and 10% of breast and colon cancers were attributed to physical inactivity. Options A, C, and D are not the correct percentages reported in this study for type 2 diabetes.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00679",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the study by van der Ploeg, et al. (2012) on sitting time and all-cause mortality, what was the hazard ratio for all-cause mortality when comparing those who sat for more than 11 hours per day to those who sat for less than 4 hours per day?",
+    "options": [
+      "A) 1.15",
+      "B) 1.40",
+      "C) 1.65",
+      "D) 1.90"
+    ],
+    "correct_answer": "B) 1.40",
+    "page_reference": "199-200",
+    "rationale": "The study found a hazard ratio of 1.40 for all-cause mortality when comparing those who sat for more than 11 hours per day to those who sat for less than 4 hours per day. This means that individuals who sat for more than 11 hours daily had a 40% higher risk of death from any cause compared to those who sat for less than 4 hours. This finding emphasizes the dangers of prolonged sitting, even after adjusting for physical activity and other risk factors. Options A, C, and D are not the correct hazard ratios reported in this study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00680",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the Diabetes Prevention Program Research Group study (Knowler, et al., 2002), what was the number needed to treat (NNT) with lifestyle intervention to prevent one case of diabetes over 3 years?",
+    "options": [
+      "A) 3.5",
+      "B) 6.9",
+      "C) 10.2",
+      "D) 13.9"
+    ],
+    "correct_answer": "B) 6.9",
+    "page_reference": "229",
+    "rationale": "The Diabetes Prevention Program Research Group study found that the number needed to treat (NNT) with lifestyle intervention to prevent one case of diabetes over 3 years was 6.9. This means that for every 7 people who underwent the lifestyle intervention, one case of diabetes was prevented over a 3-year period. This demonstrates the high efficacy of lifestyle changes in preventing diabetes. The NNT for metformin was 13.9, showing that lifestyle intervention was about twice as effective. Options A and C are not correct NNT values from this study, while D represents the NNT for metformin, not lifestyle intervention.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00681",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the study by Hambrecht, et al. (2004) comparing exercise training with percutaneous coronary intervention (PCI) in stable coronary artery disease, what was the difference in cost to improve one Canadian Cardiovascular Society class between the exercise and PCI groups?",
+    "options": [
+      "A) $1,527",
+      "B) $2,527",
+      "C) $3,527",
+      "D) $4,527"
+    ],
+    "correct_answer": "C) $3,527",
+    "page_reference": "230",
+    "rationale": "The study found that it cost $3,429 to improve one Canadian Cardiovascular Society class (an angina pectoris scoring system) in the exercise intervention group, compared to $6,956 in the PCI group. This difference of $3,527 highlights the cost-effectiveness of exercise intervention compared to PCI in managing stable coronary artery disease. Exercise not only resulted in better clinical outcomes but also proved to be more economical. Options A, B, and D do not represent the correct cost difference reported in this study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00682",
+    "section_number": "06"
+  },
+  {
+    "question_text": "According to the pooled cohort analysis by Moore, et al. (2012), how many years of life were gained by individuals performing 150-299 minutes of moderate-intensity leisure-time physical activity per week compared to those doing no leisure-time physical activity?",
+    "options": [
+      "A) 1.8 years",
+      "B) 2.5 years",
+      "C) 3.4 years",
+      "D) 4.2 years"
+    ],
+    "correct_answer": "C) 3.4 years",
+    "page_reference": "201",
+    "rationale": "Moore, et al. found that individuals performing 150-299 minutes of moderate-intensity leisure-time physical activity per week gained 3.4 years of life compared to those doing no leisure-time physical activity. This finding demonstrates the substantial life-extending benefits of meeting physical activity guidelines. The study showed a dose-response relationship, with more activity generally associated with greater life expectancy gains. Options A and B represent gains from lower levels of activity, while D is higher than the reported gain for this specific activity level.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00683",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the pooled data analysis by Ekelund, et al. (2016), what level of moderate to vigorous physical activity was associated with eliminating the increased risk of death due to high TV-viewing time (>5 h/day)?",
+    "options": [
+      "A) 15 minutes per day",
+      "B) 30 minutes per day",
+      "C) 45 minutes per day",
+      "D) 60 minutes per day"
+    ],
+    "correct_answer": "B) 30 minutes per day",
+    "page_reference": "200",
+    "rationale": "Ekelund, et al. found that 30 minutes per day of moderate to vigorous physical activity eliminated the increased risk of death associated with high TV-viewing time (>5 h/day). This finding is important as it suggests that relatively modest amounts of physical activity can offset the negative health effects of prolonged sedentary behavior like TV watching. It's worth noting that this is less than the 60-75 minutes required to eliminate risks associated with high sitting time in general. Options A, C, and D do not represent the correct amount of activity reported in this study to offset high TV-viewing time.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00684",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Based on the study by Kyu, et al., at what level of physical activity (in MET-hours per week) does the risk of all-cause mortality begin to plateau?",
+    "options": [
+      "A) 40 MET-hours per week",
+      "B) 60 MET-hours per week",
+      "C) 80 MET-hours per week",
+      "D) 100 MET-hours per week"
+    ],
+    "correct_answer": "C) 80 MET-hours per week",
+    "page_reference": "201",
+    "rationale": "The study by Kyu, et al. found that the risk of all-cause mortality begins to plateau around 80 MET-hours per week. This suggests that while there may be some additional benefits beyond this point, the magnitude of risk reduction becomes much smaller. This finding is important for understanding the dose-response relationship between physical activity and health outcomes, and for setting realistic goals for physical activity. Options A and B represent levels below where the plateau begins, while D is higher than the reported plateau point in this study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00685",
+    "section_number": "06"
+  },
+  {
+    "question_text": "According to the study by Abed, et al., what was the primary outcome measure used to assess the effectiveness of interventions on atrial fibrillation?",
+    "options": [
+      "A) Frequency of atrial fibrillation episodes",
+      "B) Duration of atrial fibrillation episodes",
+      "C) Time to recurrence of atrial fibrillation",
+      "D) Quality of life scores"
+    ],
+    "correct_answer": "C) Time to recurrence of atrial fibrillation",
+    "page_reference": "210",
+    "rationale": "The study by Abed, et al. used time to recurrence of atrial fibrillation as the primary outcome measure to assess the effectiveness of interventions. This metric provides a clear indication of how long patients remain free from atrial fibrillation after the intervention. While frequency and duration of episodes (options A and B) are relevant, they were not the primary outcome. Quality of life scores (option D) may have been a secondary measure but were not the main focus of this study on atrial fibrillation recurrence.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00686",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the study by Berghella and Saccone on exercise effects during pregnancy, which of the following outcomes was NOT found to be reduced with exercise?",
+    "options": [
+      "A) Gestational diabetes",
+      "B) Cesarean delivery",
+      "C) Excessive gestational weight gain",
+      "D) Postpartum depression"
+    ],
+    "correct_answer": "D) Postpartum depression",
+    "page_reference": "210",
+    "rationale": "The study by Berghella and Saccone found that exercise during pregnancy was associated with reduced incidence of gestational diabetes, cesarean delivery, and excessive gestational weight gain. However, the study did not specifically report on postpartum depression as an outcome that was reduced by exercise during pregnancy. While exercise may have benefits for mental health, including potentially reducing the risk of postpartum depression, this particular study did not focus on this outcome. Options A, B, and C were all reported as being reduced with exercise in this study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00687",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the Aerobics Center Longitudinal Study (Blair, 2009), how did the impact of low cardiorespiratory fitness on all-cause mortality compare between men and women?",
+    "options": [
+      "A) It was higher in men",
+      "B) It was higher in women",
+      "C) It was approximately equal",
+      "D) The study only included men"
+    ],
+    "correct_answer": "C) It was approximately equal",
+    "page_reference": "198-199",
+    "rationale": "The Aerobics Center Longitudinal Study found that the impact of low cardiorespiratory fitness on all-cause mortality was approximately equal between men and women. Specifically, it accounted for 16% of all-cause mortality in men and 17% in women. This similarity highlights the importance of cardiorespiratory fitness for both genders. Options A and B are incorrect as the percentages were very close, and D is incorrect as the study included both men and women.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00688",
+    "section_number": "06"
+  },
+  {
+    "question_text": "According to the global burden of disease study by Lee, et al. (2012), what percentage of breast cancer cases worldwide were attributed to physical inactivity?",
+    "options": [
+      "A) 5%",
+      "B) 7%",
+      "C) 10%",
+      "D) 12%"
+    ],
+    "correct_answer": "C) 10%",
+    "page_reference": "199",
+    "rationale": "Lee, et al. found that 10% of breast cancer cases worldwide were attributed to physical inactivity. This finding highlights the significant role that physical inactivity plays in the development of breast cancer on a global scale. The study reported the same percentage (10%) for colon cancer as well. Options A and B are lower than the reported percentage, while D is higher. This information underscores the importance of physical activity in cancer prevention.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00689",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the study by van der Ploeg, et al. (2012) on sitting time and all-cause mortality, what was the minimum daily sitting time associated with a significantly increased risk of all-cause mortality?",
+    "options": [
+      "A) 4 hours",
+      "B) 6 hours",
+      "C) 8 hours",
+      "D) 10 hours"
+    ],
+    "correct_answer": "C) 8 hours",
+    "page_reference": "199-200",
+    "rationale": "The study found that sitting for 8 hours or more per day was associated with a significantly increased risk of all-cause mortality. This threshold is important for public health recommendations. Options A and B represent sitting times that were not associated with significantly increased risk, while D is higher than the minimum threshold identified in the study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00690",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the Diabetes Prevention Program Research Group study (Knowler, et al., 2002), what was the target weight loss percentage for the lifestyle intervention group?",
+    "options": [
+      "A) 5%",
+      "B) 7%",
+      "C) 10%",
+      "D) 15%"
+    ],
+    "correct_answer": "B) 7%",
+    "page_reference": "229",
+    "rationale": "The lifestyle intervention group in this study had a target weight loss of 7%. This moderate weight loss goal, combined with increased physical activity, was found to be highly effective in preventing diabetes. Options A, C, and D represent weight loss percentages that were not the target in this study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00691",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the study by Hambrecht, et al. (2004), what was the duration of the exercise training program compared to PCI in patients with stable coronary artery disease?",
+    "options": [
+      "A) 3 months",
+      "B) 6 months",
+      "C) 12 months",
+      "D) 24 months"
+    ],
+    "correct_answer": "C) 12 months",
+    "page_reference": "230",
+    "rationale": "The study by Hambrecht, et al. was a 12-month randomized controlled trial comparing exercise training with PCI in patients with stable coronary artery disease. This duration was chosen to allow for meaningful comparisons of outcomes over time. Options A and B are shorter than the actual study duration, while D is longer.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00692",
+    "section_number": "06"
+  },
+  {
+    "question_text": "According to the pooled cohort analysis by Moore, et al. (2012), what was the maximum number of years of life gained through leisure-time physical activity?",
+    "options": [
+      "A) 3.4 years",
+      "B) 4.2 years",
+      "C) 4.5 years",
+      "D) 5.5 years"
+    ],
+    "correct_answer": "C) 4.5 years",
+    "page_reference": "201",
+    "rationale": "Moore, et al. found that the maximum life expectancy gain through leisure-time physical activity was approximately 4.5 years. This was associated with the highest levels of physical activity (22.5+ MET-hours per week). Options A and B represent gains from lower levels of activity, while D is higher than the maximum reported in this study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00693",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the pooled data analysis by Ekelund, et al. (2016), what was the effect of high levels of moderate intensity physical activity on mortality risk among those with high sitting time?",
+    "options": [
+      "A) No effect",
+      "B) Slight reduction",
+      "C) Moderate reduction",
+      "D) Complete elimination of increased risk"
+    ],
+    "correct_answer": "D) Complete elimination of increased risk",
+    "page_reference": "200",
+    "rationale": "Ekelund, et al. found that high levels of moderate intensity physical activity (60-75 minutes per day) could eliminate the increased mortality risk associated with high sitting time. This finding suggests that sufficient physical activity can counteract the negative effects of prolonged sitting. Options A, B, and C underestimate the protective effect of high levels of physical activity found in this study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00694",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Based on the study by Kyu, et al., what was the minimum amount of moderate-intensity physical activity per week associated with a substantial reduction in breast cancer risk?",
+    "options": [
+      "A) 600 minutes",
+      "B) 450 minutes",
+      "C) 300 minutes",
+      "D) 150 minutes"
+    ],
+    "correct_answer": "C) 300 minutes",
+    "page_reference": "201",
+    "rationale": "The study by Kyu, et al. found that 300 minutes per week of moderate-intensity physical activity was associated with a substantial reduction in breast cancer risk. This level of activity is higher than general health recommendations, highlighting the specific benefits for breast cancer prevention. Options A and B exceed this threshold, while D represents a lower activity level that may not provide the same degree of risk reduction for breast cancer.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00695",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the study by Abed, et al., what was the average weight loss achieved in the group that showed the greatest reduction in atrial fibrillation recurrence?",
+    "options": [
+      "A) 5 kg",
+      "B) 10 kg",
+      "C) 15 kg",
+      "D) 20 kg"
+    ],
+    "correct_answer": "B) 10 kg",
+    "page_reference": "210",
+    "rationale": "The study by Abed, et al. found that the group achieving an average weight loss of 10 kg showed the greatest reduction in atrial fibrillation recurrence. This finding emphasizes the importance of significant weight loss in managing atrial fibrillation. Options A, C, and D do not represent the correct weight loss associated with the best outcomes in this study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00696",
+    "section_number": "06"
+  },
+  {
+    "question_text": "According to the study by Berghella and Saccone, what type of exercise was most commonly studied for its effects on pregnancy outcomes?",
+    "options": [
+      "A) Swimming",
+      "B) Yoga",
+      "C) Aerobic exercise",
+      "D) Strength training"
+    ],
+    "correct_answer": "C) Aerobic exercise",
+    "page_reference": "210",
+    "rationale": "The study by Berghella and Saccone primarily focused on aerobic exercise and its effects on pregnancy outcomes. While other forms of exercise may be beneficial during pregnancy, aerobic exercise was the most commonly studied type in this research. Options A, B, and D were not the primary focus of this particular study on pregnancy outcomes.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00697",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the Look AHEAD trial (Wing, et al., 2013), what was the target weight loss percentage for participants in the intensive lifestyle intervention group?",
+    "options": [
+      "A) At least 5%",
+      "B) At least 7%",
+      "C) At least 10%",
+      "D) At least 12%"
+    ],
+    "correct_answer": "B) At least 7%",
+    "page_reference": "229",
+    "rationale": "The Look AHEAD trial set a target weight loss of at least 7% for participants in the intensive lifestyle intervention group. This moderate weight loss goal, combined with increased physical activity, was designed to improve cardiovascular outcomes in adults with type 2 diabetes. Options A, C, and D do not represent the correct weight loss target set in this study.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00698",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the meta-epidemiological study by Naci and Ioannidis (2013), how did exercise compare to drug interventions in the secondary prevention of coronary heart disease?",
+    "options": [
+      "A) Exercise was superior",
+      "B) Exercise was inferior",
+      "C) Exercise was equally effective",
+      "D) The comparison was inconclusive"
+    ],
+    "correct_answer": "C) Exercise was equally effective",
+    "page_reference": "229-230",
+    "rationale": "Naci and Ioannidis found that exercise was equally effective as drug interventions in the secondary prevention of coronary heart disease. This finding highlights the potential of exercise as a viable alternative or complement to pharmacological treatments in certain cardiovascular conditions. Options A and B are incorrect as the study did not find exercise to be superior or inferior in this context, and D is incorrect as the study did reach a conclusion on this comparison.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00699",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the Look AHEAD trial, what was the duration of the intensive lifestyle intervention?",
+    "options": [
+      "A) 1 year",
+      "B) 5 years",
+      "C) 10 years",
+      "D) 15 years"
+    ],
+    "correct_answer": "C) 10 years",
+    "rationale": "The Look AHEAD trial was a long-term study that followed participants for up to 11 years, with the intensive lifestyle intervention lasting for 10 years. This extended duration allowed researchers to assess the long-term effects of lifestyle changes on cardiovascular outcomes in adults with type 2 diabetes. Options A, B, and D do not represent the correct duration of the intervention in this study.",
+    "page_reference": "229",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00700",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the Naci and Ioannidis (2013) study, for which condition was exercise found to be potentially inferior to drug interventions?",
+    "options": [
+      "A) Stroke prevention",
+      "B) Heart failure treatment",
+      "C) Diabetes prevention",
+      "D) Coronary heart disease prevention"
+    ],
+    "correct_answer": "B) Heart failure treatment",
+    "page_reference": "229-230",
+    "rationale": "The study found that for heart failure treatment, diuretics were potentially more effective than exercise in reducing mortality. This was the only condition where exercise showed a potentially inferior effect compared to drug interventions. For stroke prevention, diabetes prevention, and coronary heart disease prevention, exercise was found to be either equally effective or potentially superior to drug interventions.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00701",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A primary care physician wants to incorporate the Physical Activity Vital Sign (PAVS) into routine patient assessments. Which of the following best describes how PAVS is calculated?",
+    "options": [
+      "A) (Days per week of aerobic activity) x (Minutes of aerobic activity per day)",
+      "B) (Days per week of resistance training) x (Minutes of resistance training per day)",
+      "C) (Total weekly MET-hours) / (Body weight in kg)",
+      "D) (Maximum heart rate) - (Resting heart rate)"
+    ],
+    "correct_answer": "A) (Days per week of aerobic activity) x (Minutes of aerobic activity per day)",
+    "page_reference": "Page 215",
+    "rationale": "The Physical Activity Vital Sign (PAVS) is calculated by multiplying the number of days per week of aerobic physical activity by the minutes of aerobic physical activity per day. This provides a quick measure of a patient's weekly aerobic activity in minutes. Option B is incorrect as PAVS focuses on aerobic activity, not resistance training. Option C involves MET-hours, which is not part of the PAVS calculation. Option D describes the Heart Rate Reserve (HRR), which is unrelated to PAVS.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00702",
+    "section_number": "06"
+  },
+  {
+    "question_text": "When interpreting PAVS results, what action should a healthcare provider take if a patient is found to be insufficiently active?",
+    "options": [
+      "A) Immediately prescribe a structured exercise program",
+      "B) Refer the patient to a physical therapist",
+      "C) Guide the patient to acknowledge the insufficiency and assess readiness to change",
+      "D) Recommend high-intensity interval training"
+    ],
+    "correct_answer": "C) Guide the patient to acknowledge the insufficiency and assess readiness to change",
+    "page_reference": "Page 215",
+    "rationale": "When a patient is found to be insufficiently active based on PAVS, the healthcare provider should guide them to acknowledge the insufficiency and assess their readiness to change. This approach aligns with motivational interviewing techniques and helps tailor interventions to the patient's stage of change. Option A is too aggressive and doesn't consider the patient's readiness. Option B may be premature without first discussing the patient's activity level. Option D is not appropriate for all patients, especially those who are insufficiently active.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00703",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the FITT-VP principle for exercise prescription, what does the \"I\" stand for?",
+    "options": [
+      "A) Individual",
+      "B) Intensity",
+      "C) Interval",
+      "D) Isometric"
+    ],
+    "correct_answer": "B) Intensity",
+    "page_reference": "Page 225",
+    "rationale": "In the FITT-VP principle, \"I\" stands for Intensity. This refers to how hard an individual is working during the exercise session. It's a crucial component of exercise prescription as it helps determine the appropriate level of exertion for each individual. Option A is incorrect as \"Individual\" is not part of the FITT-VP acronym. Option C, \"Interval,\" is a type of training but not part of this principle. Option D, \"Isometric,\" refers to a type of muscle contraction but is not part of FITT-VP.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00704",
+    "section_number": "06"
+  },
+  {
+    "question_text": "When using the Borg Scale of Perceived Exertion to monitor exercise intensity, which range corresponds to moderate intensity exercise?",
+    "options": [
+      "A) 6-10",
+      "B) 11-13",
+      "C) 14-16",
+      "D) 17-20"
+    ],
+    "correct_answer": "B) 11-13",
+    "page_reference": "Page 216",
+    "rationale": "On the Borg Scale of Perceived Exertion, which ranges from 6-20, moderate intensity exercise corresponds to a rating of 12-13. The range 11-13 encompasses this moderate intensity zone. Option A (6-10) represents very light to light intensity. Option C (14-16) is approaching vigorous intensity, while option D (17-20) represents very hard to maximal exertion.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00705",
+    "section_number": "06"
+  },
+  {
+    "question_text": "During the Talk Test, what level of conversation ability indicates moderate intensity exercise?",
+    "options": [
+      "A) Unable to speak",
+      "B) Able to speak only a few words",
+      "C) Able to speak in short sentences",
+      "D) Able to speak comfortably in full sentences"
+    ],
+    "correct_answer": "C) Able to speak in short sentences",
+    "page_reference": "Page 216",
+    "rationale": "In the Talk Test, moderate intensity exercise is indicated by the ability to speak in short sentences but not sing. At this intensity, breathing is increased but not labored. Option A indicates exercise that is too intense. Option B suggests an intensity that is approaching vigorous. Option D indicates an intensity that is too light for moderate exercise.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00706",
+    "section_number": "06"
+  },
+  {
+    "question_text": "What is the primary purpose of the 6-Minute Walk Test (6MWT) in clinical practice?",
+    "options": [
+      "A) To determine maximal oxygen uptake (VO2 max)",
+      "B) To assess functional exercise capacity",
+      "C) To diagnose cardiovascular disease",
+      "D) To prescribe exercise intensity"
+    ],
+    "correct_answer": "B) To assess functional exercise capacity",
+    "page_reference": "Page 217",
+    "rationale": "The primary purpose of the 6-Minute Walk Test (6MWT) is to assess functional exercise capacity. It measures the distance an individual can walk on a flat, hard surface in 6 minutes, providing insight into their ability to perform activities of daily living. Option A is incorrect as the 6MWT does not directly measure VO2 max. Option C is not accurate because while the 6MWT can provide information about cardiovascular function, it's not a diagnostic test for cardiovascular disease. Option D is incorrect as the 6MWT is not primarily used for exercise prescription, although results may inform exercise recommendations.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00707",
+    "section_number": "06"
+  },
+  {
+    "question_text": "How is Heart Rate Reserve (HRR) calculated?",
+    "options": [
+      "A) Maximum heart rate + Resting heart rate",
+      "B) Maximum heart rate - Resting heart rate",
+      "C) (Maximum heart rate - Resting heart rate) x 0.7",
+      "D) (220 - Age) - Resting heart rate"
+    ],
+    "correct_answer": "B) Maximum heart rate - Resting heart rate",
+    "page_reference": "Page 216",
+    "rationale": "Heart Rate Reserve (HRR) is calculated by subtracting the resting heart rate from the maximum heart rate. This value represents the range within which heart rate can vary during physical activity. Option A is incorrect as it adds instead of subtracts. Option C includes a calculation for a percentage of HRR, not HRR itself. Option D is a method for estimating maximum heart rate minus resting heart rate, which is close but not the exact definition of HRR.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00708",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following best describes a MET (Metabolic Equivalent of Task)?",
+    "options": [
+      "A) The amount of oxygen consumed during maximal exercise",
+      "B) The ratio of work metabolic rate to resting metabolic rate",
+      "C) The total number of calories burned during exercise",
+      "D) The maximum heart rate achieved during exercise"
+    ],
+    "correct_answer": "B) The ratio of work metabolic rate to resting metabolic rate",
+    "page_reference": "Page 224",
+    "rationale": "A MET (Metabolic Equivalent of Task) is defined as the ratio of the work metabolic rate to the resting metabolic rate. One MET is equivalent to the energy cost of sitting quietly, which is approximately 3.5 ml of oxygen consumed per kilogram of body weight per minute. Option A describes VO2 max, not METs. Option C relates to calorie expenditure but doesn't define METs. Option D is unrelated to the definition of METs.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00709",
+    "section_number": "06"
+  },
+  {
+    "question_text": "What is the primary purpose of the PAR-Q+ (Physical Activity Readiness Questionnaire)?",
+    "options": [
+      "A) To measure current physical fitness levels",
+      "B) To screen for potential risks before starting an exercise program",
+      "C) To determine the appropriate intensity of exercise",
+      "D) To diagnose cardiovascular conditions"
+    ],
+    "correct_answer": "B) To screen for potential risks before starting an exercise program",
+    "page_reference": "Page 221",
+    "rationale": "The PAR-Q+ (Physical Activity Readiness Questionnaire) is primarily used as a self-screening tool to identify potential health risks before an individual starts an exercise program. It helps determine if medical clearance is necessary before beginning or increasing physical activity. Option A is incorrect as the PAR-Q+ doesn't measure fitness levels. Option C is not the primary purpose of the PAR-Q+, although the results may inform exercise intensity recommendations. Option D is incorrect as the PAR-Q+ is not a diagnostic tool.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00710",
+    "section_number": "06"
+  },
+  {
+    "question_text": "According to the Physical Activity Vital Sign (PAVS), what is the minimum recommended amount of moderate-intensity aerobic physical activity per week for adults?",
+    "options": [
+      "A) 75 minutes",
+      "B) 100 minutes",
+      "C) 150 minutes",
+      "D) 200 minutes"
+    ],
+    "correct_answer": "C) 150 minutes",
+    "page_reference": "Page 215",
+    "rationale": "The Physical Activity Vital Sign (PAVS) is based on the physical activity guidelines, which recommend a minimum of 150 minutes of moderate-intensity aerobic physical activity per week for adults. This equates to about 30 minutes of activity on 5 days of the week. Option A (75 minutes) refers to the minimum recommendation for vigorous-intensity activity, not moderate-intensity. Options B and D are not aligned with the current guidelines for minimum recommended moderate-intensity activity.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00711",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the context of the Talk Test, which of the following statements is true about moderate-intensity exercise?",
+    "options": [
+      "A) The individual should be able to sing comfortably",
+      "B) The individual should be able to speak only in short phrases",
+      "C) The individual should be able to speak comfortably in full sentences",
+      "D) The individual should be able to speak in sentences, but not sing"
+    ],
+    "correct_answer": "D) The individual should be able to speak in sentences, but not sing",
+    "page_reference": "Page 216",
+    "rationale": "During moderate-intensity exercise, as assessed by the Talk Test, an individual should be able to speak in sentences but not sing. This level of exertion allows for conversation but with some increase in breathing rate. Option A indicates an intensity that is too light. Option B suggests an intensity that is too high for moderate exercise. Option C indicates an intensity that is too light for moderate exercise, as being able to speak comfortably in full sentences typically indicates light intensity.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00712",
+    "section_number": "06"
+  },
+  {
+    "question_text": "What is a key consideration when administering the 6-Minute Walk Test (6MWT) to patients with chronic respiratory conditions?",
+    "options": [
+      "A) The test should be performed on a treadmill",
+      "B) The patient should run instead of walk",
+      "C) Oxygen saturation should be monitored throughout the test",
+      "D) The test should be extended to 10 minutes"
+    ],
+    "correct_answer": "C) Oxygen saturation should be monitored throughout the test",
+    "page_reference": "Page 217",
+    "rationale": "When administering the 6-Minute Walk Test (6MWT) to patients with chronic respiratory conditions, it's crucial to monitor oxygen saturation throughout the test. This ensures patient safety and provides valuable clinical information about the patient's response to exertion. Option A is incorrect as the 6MWT is typically performed on a flat, hard surface, not a treadmill. Option B is incorrect as the test is a walking test, not a running test. Option D is incorrect as changing the duration would alter the standardized protocol of the test.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00713",
+    "section_number": "06"
+  },
+  {
+    "question_text": "When using Heart Rate Reserve (HRR) to prescribe exercise intensity, what percentage range typically corresponds to moderate-intensity exercise?",
+    "options": [
+      "A) 30-39% of HRR",
+      "B) 40-59% of HRR",
+      "C) 60-89% of HRR",
+      "D) 90-100% of HRR"
+    ],
+    "correct_answer": "B) 40-59% of HRR",
+    "page_reference": "Page 216",
+    "rationale": "When using Heart Rate Reserve (HRR) to prescribe exercise intensity, moderate-intensity exercise typically corresponds to 40-59% of HRR. This range allows for a substantial increase in heart rate and breathing, but not to the point of severe exertion. Option A represents light-intensity exercise. Option C corresponds to vigorous-intensity exercise. Option D represents near-maximal to maximal exercise intensity, which is beyond what's considered moderate.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00714",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following activities is equivalent to approximately 6 METs?",
+    "options": [
+      "A) Light gardening",
+      "B) Brisk walking",
+      "C) Bicycling at a moderate pace",
+      "D) Sitting in a chair"
+    ],
+    "correct_answer": "C) Bicycling at a moderate pace",
+    "page_reference": "Page 224",
+    "rationale": "Bicycling at a moderate pace is typically equivalent to approximately 6 METs (Metabolic Equivalents of Task). This level of activity represents moderate to vigorous intensity exercise. Option A (Light gardening) is typically around 2-3 METs. Option B (Brisk walking) is usually around 3-4 METs. Option D (Sitting in a chair) is defined as 1 MET and serves as the reference point for MET calculations.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00715",
+    "section_number": "06"
+  },
+  {
+    "question_text": "According to the PAR-Q+, which of the following individuals would likely be cleared for moderate-intensity exercise without needing further medical evaluation?",
+    "options": [
+      "A) A 50-year-old with controlled type 2 diabetes",
+      "B) A 35-year-old with unexplained dizziness",
+      "C) A 45-year-old with uncontrolled hypertension",
+      "D) A 60-year-old with recent chest pain"
+    ],
+    "correct_answer": "A) A 50-year-old with controlled type 2 diabetes",
+    "page_reference": "Page 221",
+    "rationale": "According to the PAR-Q+ (Physical Activity Readiness Questionnaire), an individual with a controlled chronic condition like type 2 diabetes would likely be cleared for moderate-intensity exercise without needing further medical evaluation. The key here is that the condition is controlled. Options B, C, and D all present symptoms or conditions (unexplained dizziness, uncontrolled hypertension, recent chest pain) that would typically require further medical evaluation before beginning an exercise program.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00716",
+    "section_number": "06"
+  },
+  {
+    "question_text": "What does the \"P\" in FITT-VP stand for, and why is it important in exercise prescription?",
+    "options": [
+      "A) Performance, to track athletic achievements",
+      "B) Progression, to gradually increase exercise difficulty",
+      "C) Persistence, to encourage long-term adherence",
+      "D) Periodization, to structure training cycles"
+    ],
+    "correct_answer": "B) Progression, to gradually increase exercise difficulty",
+    "page_reference": "Page 225",
+    "rationale": "The \"P\" in FITT-VP stands for Progression. This component is crucial in exercise prescription as it ensures that the body continues to adapt to exercise stimuli over time. Without progression, fitness improvements may plateau. Option A is incorrect as performance tracking is not part of FITT-VP. Option C, while important, is not represented by the \"P\". Option D is a training concept but not part of FITT-VP.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00717",
+    "section_number": "06"
+  },
+  {
+    "question_text": "How does the Borg Scale of Perceived Exertion (6-20 scale) relate to heart rate?",
+    "options": [
+      "A) It has no correlation with heart rate",
+      "B) It roughly correlates to heart rate when multiplied by 10",
+      "C) It exactly matches heart rate when multiplied by 10",
+      "D) It inversely correlates with heart rate"
+    ],
+    "correct_answer": "B) It roughly correlates to heart rate when multiplied by 10",
+    "page_reference": "Page 216",
+    "rationale": "The Borg Scale of Perceived Exertion (6-20 scale) roughly correlates to heart rate when the scale number is multiplied by 10. For example, a perceived exertion of 13 would correspond to approximately 130 beats per minute. This relationship provides a useful estimate but is not exact for all individuals. Option A is incorrect as there is a correlation. Option C overstates the precision of the relationship. Option D is incorrect as the correlation is positive, not inverse.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00718",
+    "section_number": "06"
+  },
+  {
+    "question_text": "How can METs be used to estimate calorie expenditure during physical activity?",
+    "options": [
+      "A) Calories = METs x weight in kg x time in hours",
+      "B) Calories = METs x weight in lbs x time in minutes",
+      "C) Calories = METs x height in cm x time in hours",
+      "D) Calories = METs x BMI x time in minutes"
+    ],
+    "correct_answer": "A) Calories = METs x weight in kg x time in hours",
+    "page_reference": "Page 224",
+    "rationale": "METs can be used to estimate calorie expenditure using the formula: Calories = METs x weight in kg x time in hours. This calculation provides an estimate of energy expenditure during physical activity. Option B is incorrect as it uses pounds instead of kilograms and minutes instead of hours. Option C incorrectly uses height instead of weight. Option D incorrectly uses BMI instead of weight.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "Study-Tool Based",
+    "question_id": "00719",
+    "section_number": "06"
+  }
+]

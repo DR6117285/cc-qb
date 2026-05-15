@@ -1,0 +1,1682 @@
+[
+  {
+    "question_text": "A 50-year-old sedentary woman with a family history of cardiovascular disease is interested in starting an exercise program. Which of the following physiological effects of regular physical activity would be most beneficial in reducing her cardiovascular risk?",
+    "options": [
+      "A) Increased heart rate variability",
+      "B) Enhanced endothelial function",
+      "C) Elevated resting heart rate",
+      "D) Increased systemic inflammation"
+    ],
+    "correct_answer": "B",
+    "page_reference": "195",
+    "rationale": "Enhanced endothelial function is the most beneficial physiological effect of regular physical activity for reducing cardiovascular risk in this patient. The board review course states on page 195 that \"Regular physical activity has been shown to improve endothelial function, leading to better vasodilation and blood pressure regulation, thus benefiting cardiovascular health and reducing risk for cardiovascular events and mortality.\" While increased heart rate variability can be beneficial, it is not as directly linked to cardiovascular risk reduction as endothelial function. Elevated resting heart rate and increased systemic inflammation are actually associated with increased cardiovascular risk, and regular physical activity tends to reduce these factors.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00259",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 45-year-old man asks his physician about the optimal amount of exercise for mortality risk reduction. According to recent research, at approximately how many minutes per week of moderate-to-vigorous physical activity (MVPA) does the relative risk of premature mortality begin to plateau?",
+    "options": [
+      "A) 150 minutes",
+      "B) 250 minutes",
+      "C) 400 minutes",
+      "D) 500 minutes"
+    ],
+    "correct_answer": "C",
+    "page_reference": "196",
+    "rationale": "According to the board review course on page 196, \"A dose-response curve constructed based on data from the US Department of Health & Human Services suggests that relative risk of premature mortality begins to asymptote at approximately 400 minutes of MVPA per week.\" The other options represent either the minimum recommended amount (150 minutes) or amounts that are either too low (250 minutes) or too high (500 minutes) to accurately reflect the point at which benefits begin to plateau.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00260",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 35-year-old overweight man is interested in starting a high-intensity interval training (HIIT) program to improve his cardiovascular health. Which of the following cardiovascular adaptations is most specifically associated with HIIT compared to moderate-intensity continuous training?",
+    "options": [
+      "A) Increased stroke volume",
+      "B) Reduced resting heart rate",
+      "C) Improved left ventricular diastolic function",
+      "D) Enhanced capillarization of skeletal muscle"
+    ],
+    "correct_answer": "C",
+    "page_reference": "196",
+    "rationale": "According to the board review course on page 196, \"HIIT can lead to positive cardiac adaptations, including improved diastolic function and increased cardiac efficiency, contributing to better cardiovascular health.\" While HIIT can provide various cardiovascular benefits, improved left ventricular diastolic function is specifically highlighted as a unique adaptation to this type of training. Increased stroke volume, reduced resting heart rate, and enhanced capillarization of skeletal muscle are all potential benefits of cardiovascular exercise in general, but they are not as specifically linked to HIIT in the provided material.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00261",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 40-year-old obese man with hypertension has been sedentary for years but wants to start exercising. He plans to begin jogging for 10 minutes, three times per week. After one month, he wants to increase his exercise duration. According to ACSM guidelines, what is the maximum recommended weekly increase in exercise duration for this patient?",
+    "options": [
+      "A) 10%",
+      "B) 20%",
+      "C) 30%",
+      "D) 40%"
+    ],
+    "correct_answer": "B",
+    "page_reference": "197",
+    "rationale": "According to the board review course on page 197, \"The ACSM recommends increasing the duration of sessions of no more than 20% per week until 30 minutes are reacheD) Increasing duration too quickly can result in injury.\" The 20% guideline strikes a balance between making meaningful progress and avoiding overuse injuries or excessive cardiovascular stress. Options A (10%) is too conservative and might lead to slow progress, while options C (30%) and D (40%) exceed the recommended safe increase and could potentially lead to injury or burnout.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00262",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 55-year-old woman with type 2 diabetes is starting an exercise program. Her physician wants to prescribe an exercise regimen using the FITT principle. In this context, what does the second \"T\" in FITT represent?",
+    "options": [
+      "A) Timing",
+      "B) Technique",
+      "C) Type",
+      "D) Target heart rate"
+    ],
+    "correct_answer": "C",
+    "page_reference": "197",
+    "rationale": "According to the board review course on page 197, the acronym FITT stands for \"frequency, intensity, time (duration) and type of activity (e.g., aerobic muscle-strengthening).\" Therefore, the second \"T\" in FITT represents Type of activity. The other options are plausible components of exercise prescription but are not part of the FITT acronym as defined in the course material. Timing (A) could be confused with Time, which is actually represented by the first \"T\". Technique (B) is important for exercise safety but not part of FITT. Target heart rate (D) is related to Intensity, which is represented by the \"I\" in FITT.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00263",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 50-year-old man with prediabetes and a BMI of 31 kg/m\u00c2\u00b2 asks his physician about the role of exercise in preventing type 2 diabetes. Which of the following mechanisms best explains how exercise reduces the risk of developing type 2 diabetes?",
+    "options": [
+      "A) Increased insulin production",
+      "B) Enhanced insulin sensitivity",
+      "C) Reduced glucose absorption in the intestines",
+      "D) Increased glycogen storage in the liver"
+    ],
+    "correct_answer": "B",
+    "page_reference": "198",
+    "rationale": "According to the board review course on page 198, \"Exercise can enhance insulin sensitivity, reduce visceral adiposity, and lower the risk of developing type 2 diabetes.\" Enhanced insulin sensitivity is the primary mechanism by which exercise reduces the risk of developing type 2 diabetes. Increased insulin production (A) is not typically a result of exercise and would not necessarily reduce diabetes risk. Reduced glucose absorption in the intestines (C) is not a primary effect of exercise. While exercise can affect glycogen storage, increased glycogen storage in the liver (D) is not the main mechanism by which exercise reduces diabetes risk.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00264",
+    "section_number": "06"
+  },
+  {
+    "question_text": "An 80-year-old woman with a history of osteoporosis is referred to you for exercise counselling to reduce her risk of falls. Which of the following is the most appropriate initial recommendation for balance exercises in this patient?",
+    "options": [
+      "A) Practice standing on an unstable surface",
+      "B) Perform tai chi without support",
+      "C) Stand with eyes closed on one foot",
+      "D) Start with exercises using a hand-hold support"
+    ],
+    "correct_answer": "D",
+    "page_reference": "198",
+    "rationale": "According to the board review course on page 198, \"Balance exercises have been shown to reduce risk of falls among the elderly, particularly if included in a comprehensive fall prevention program. It is recommended that these exercises be performed for a total of two hours per week and that beginners hold on to a chair or other support when first attempting them.\" Options A (unstable surface), B (unsupported tai chi), and C (eyes closed on one foot) are all more advanced balance exercises that would be inappropriate and potentially dangerous for a beginner, especially an elderly patient with osteoporosis.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00265",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 58-year-old man who has been sedentary for many years expresses frustration with the idea of starting an exercise program, stating, \"I hate exercising. It's boring and uncomfortable.\" Which of the following responses best addresses this patient's concerns while encouraging increased physical activity?",
+    "options": [
+      "A) \"You should push through the discomfort; it gets easier over time.\"",
+      "B) \"Exercise doesn't have to be structured or repetitive; any movement that increases energy expenditure counts.\"",
+      "C) \"Perhaps you should start with a low-intensity exercise program to build your tolerance.\"",
+      "D) \"You're right, exercise can be unpleasant. Let's focus on your diet instead.\""
+    ],
+    "correct_answer": "B",
+    "page_reference": "198",
+    "rationale": "According to the board review course on page 198, physical activity is defined as \"any bodily movement produced by skeletal muscles that results in energy expenditure.\" This definition is broader than the common perception of exercise as structured, repetitive activity. Option A dismisses the patient's concerns and may be discouraging. Option C, while not incorrect, doesn't address the patient's perception of exercise as boring and uncomfortable. Option D gives up on physical activity altogether, which is not in the patient's best interest.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00266",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 70-year-old healthy man asks his physician how much he should exercise to prevent cardiovascular disease. According to current physical activity guidelines, what is the minimum recommended amount of moderate-intensity aerobic activity per week for adults, including older adults?",
+    "options": [
+      "A) 75 minutes",
+      "B) 100 minutes",
+      "C) 150 minutes",
+      "D) 200 minutes"
+    ],
+    "correct_answer": "C",
+    "page_reference": "199",
+    "rationale": "According to the board review course on page 199, \"The guidelines for older adults include 150 minutes a week of moderate-intensity aerobic activity (anything that gets your heart beating faster counts).\" Option A (75 minutes) is the weekly recommendation for vigorous-intensity activity, not moderate-intensity. Options B (100 minutes) and D (200 minutes) are not consistent with current guidelines for moderate-intensity activity.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00267",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 30-year-old pregnant woman who regularly cycles at a vigorous intensity asks her obstetrician about continuing her exercise routine during pregnancy. According to current guidelines, what is the minimum recommended amount of vigorous-intensity aerobic activity per week for this patient?",
+    "options": [
+      "A) 45 minutes",
+      "B) 60 minutes",
+      "C) 75 minutes",
+      "D) 90 minutes"
+    ],
+    "correct_answer": "C",
+    "page_reference": "199",
+    "rationale": "According to the board review course on page 199, \"Women should do at least 150 minutes of moderate-intensity, or 75 minutes of vigorous intensity, aerobic activity (or any combination of the two) each week during pregnancy and the postpartum period.\" Options A (45 minutes) and B (60 minutes) are below the recommended minimum for vigorous-intensity activity. Option D (90 minutes) exceeds the minimum recommendation, though it wouldn't be incorrect if the patient chooses to do more.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00268",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 38-year-old man with hereditary hyperlipidaemia wants to prevent cardiovascular disease. In addition to aerobic exercise, how many days per week should he include muscle-strengthening activities, according to current physical activity guidelines?",
+    "options": [
+      "A) 1 day per week",
+      "B) 2 days per week",
+      "C) 3 days per week",
+      "D) 4 days per week"
+    ],
+    "correct_answer": "B",
+    "page_reference": "213",
+    "rationale": "According to the board review course on page 213, \"Adults should also do muscle-strengthening activities of moderate or greater intensity and that involve all major muscle groups on 2 or more days a week as these activities provide additional health benefits.\" Options A (1 day) is insufficient, while options C (3 days) and D (4 days), while not harmful, exceed the minimum recommendation and might be unnecessarily demanding for some individuals.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00269",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 70-year-old woman asks her physician about the differences in physical activity recommendations between her age group and younger adults. According to current guidelines, how should the recommended amount of physical activity for adults over 65 compare to that for adults aged 18-64?",
+    "options": [
+      "A) One-third of the recommended levels for younger adults",
+      "B) Half of the recommended levels for younger adults",
+      "C) The same as the recommended levels for younger adults",
+      "D) One-third more than the recommended levels for younger adults"
+    ],
+    "correct_answer": "C",
+    "page_reference": "213",
+    "rationale": "According to the board review course on page 213, \"The Physical Activity Guidelines state that adults ages 65 years and older gain substantial health benefits from regular physical activity and that recommended amount of physical activity (150 minutes/week of moderate-intensity activity or 75 minutes/week of vigorous-intensity activity) is the same as for adults less than 65 years of age.\" Options A, B, and D all represent incorrect adjustments to the guidelines based on age. While older adults may need to consider factors like chronic conditions or functional limitations, the overall recommendation remains the same.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00270",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A family physician who regularly exercises is more likely to counsel patients about physical activity. What is the most common barrier preventing other physicians from providing exercise advice to their patients?",
+    "options": [
+      "A) Embarrassment about their own fitness level",
+      "B) Belief that exercise counselling is irrelevant to their specialty",
+      "C) Lack of personal knowledge about exercise prescriptions",
+      "D) Concerns about reimbursement for exercise counselling"
+    ],
+    "correct_answer": "C",
+    "page_reference": "214",
+    "rationale": "According to the board review course on page 214, \"Physicians who exercise are more likely to counsel their patients to exercise. Inadequate time and lack of knowledge/experience regarding exercise are the most common barriers to physicians undertaking such counselling.\" Option A (embarrassment) is not supported by the provided information. Option B (irrelevance to specialty) may be true for some physicians but is not cited as the most common barrier. Option D (reimbursement concerns) is a potential barrier but is not identified as the most common in the course material.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00271",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A patient is undergoing a comprehensive health assessment, which includes measuring their resting metabolic rate. What is the MET (Metabolic Equivalent of Task) value for sleeping?",
+    "options": [
+      "A) 0.9",
+      "B) 1.0",
+      "C) 1.2",
+      "D) 2.0"
+    ],
+    "correct_answer": "A",
+    "page_reference": "214",
+    "rationale": "According to the board review course on page 214, \"The MET value of sitting quietly is 1.0. Sleeping is estimated to be 0.9 METs.\" Option B (1.0 MET) represents the resting metabolic rate while sitting quietly, not sleeping. Options C (1.2 METs) and D (2.0 METs) are higher than the resting metabolic rate and do not accurately represent the energy expenditure during sleep.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00272",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 45-year-old man is participating in a research study on exercise intensity. He is running on a treadmill at 10.9 mph (17.5 km/hour). Approximately how many METs does this activity represent?",
+    "options": [
+      "A) 3 METs",
+      "B) 6 METs",
+      "C) 9 METs",
+      "D) 18 METs"
+    ],
+    "correct_answer": "D",
+    "page_reference": "214",
+    "rationale": "According to the board review course on page 214, \"High intensity running at approximately 11 mph (17.5 km/hr) is 18 METs.\" Options A (3 METs), B (6 METs), and C (9 METs) represent lower intensity activities. For reference, the course notes that \"Walking the dog (brisk walking) is an example of a 3 MET activity, while biking at a moderate pace (12 mph or 19.2 km/hr) is approximately 6 METs.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00273",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 42-year-old man who currently exercises for 300 minutes per week at moderate intensity wants to increase his exercise duration to 360 minutes per week. How will this additional 60 minutes of exercise likely affect his reduction in mortality risk?",
+    "options": [
+      "A) It will be directly proportional to the increased duration",
+      "B) It will have a lower magnitude of effect compared to the same increase from a lower baseline",
+      "C) It will have no additional effect on mortality risk",
+      "D) It will only have an effect if exercise intensity is also increased"
+    ],
+    "correct_answer": "B",
+    "page_reference": "215",
+    "rationale": "According to the board review course on page 215, \"All-cause mortality continues to decrease with progressive duration of moderate intensity exercise but the relative risk reduction rate progressively decreases -- i.e., it is not directly proportional to the duration of exercise.\" Option A incorrectly suggests a linear relationship. Option C incorrectly suggests no benefit from additional exercise. Option D incorrectly implies that increased duration alone won't provide benefits.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00274",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 32-year-old sedentary individual with a BMI of 28 kg/m\u00c2\u00b2 wants to start a high-intensity interval training (HIIT) program for weight management. Which of the following is the most crucial component when prescribing an effective HIIT regimen for this individual?",
+    "options": [
+      "A) Maintaining a consistently high intensity throughout the entire session",
+      "B) Incorporating at least 60 minutes of continuous aerobic exercise in each HIIT session",
+      "C) Gradually increasing the recovery period between high-intensity intervals",
+      "D) Alternating brief periods of vigorous exercise with low-intensity active recovery intervals"
+    ],
+    "correct_answer": "D",
+    "page_reference": "215",
+    "rationale": "According to the board review course on page 215, \"High-Intensity Interval Training (HIIT) is a form of interval training a cardiovascular exercise strategy alternating short periods of intense anaerobic exercise with less intense recovery periods.\" Option A is incorrect as HIIT involves intensity variations, not consistent high intensity. Option B describes traditional steady-state cardio, not HIIT. Option C is the opposite of what's typically done in HIIT progression.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00275",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 65-year-old woman with osteopenia is interested in exercise to improve her bone health and prevent fractures. Which of the following types of exercise would have the largest impact on improving her bone strength?",
+    "options": [
+      "A) Stationary cycling",
+      "B) Swimming",
+      "C) Tennis",
+      "D) Yoga"
+    ],
+    "correct_answer": "C",
+    "page_reference": "215",
+    "rationale": "According to the board review course on page 215, \"Activities such as hopping, lower body strength training, skipping and running, racquet sports provide significant impact and loading forces on bones. Swimming and cycling are non-load bearing, and while a very good form of exercise (particularly for those with osteoarthritis), in order to increase BDM bones must be actively loaded.\" Options A (stationary cycling) and B (swimming) are non-weight bearing exercises that, while beneficial for cardiovascular health, do not significantly impact bone strength. Option D (yoga) can improve balance and flexibility but typically doesn't provide the high-impact loading necessary for significant bone strengthening.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00276",
+    "section_number": "06"
+  },
+  {
+    "question_text": "During a moderate-intensity exercise session, a patient is asked to perform a \"Talk Test\" to assess their exercise intensity. Which of the following statements is correct about the use of the Talk Test?",
+    "options": [
+      "A) It is only applicable for trained athletes",
+      "B) It requires specialized equipment to perform accurately",
+      "C) The ability to sing during exercise indicates high-intensity activity",
+      "D) Being able to speak in sentences but not sing suggests moderate-intensity exercise"
+    ],
+    "correct_answer": "D",
+    "page_reference": "216",
+    "rationale": "According to the board review course on page 216, \"Being able to speak a sentence or two is an indicator of moderate-intensity exercise. Barely being able to speak is an indicator of high-intensity exercise.\" Option A is incorrect as the Talk Test is applicable to individuals of all fitness levels. Option B is incorrect as no equipment is needed for the Talk Test. Option C is incorrect because the ability to sing actually indicates low-intensity exercise.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00277",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 65-year-old man with chronic obstructive pulmonary disease (COPD) and an FEV1 of 50% predicted is undergoing a 6-minute walk test (6MWT) to assess his functional capacity. What is the primary outcome measure of the 6MWT?",
+    "options": [
+      "A) Maximum heart rate",
+      "B) Minimum oxygen saturation",
+      "C) Maximum rate of perceived exertion",
+      "D) Six-minute walk distance"
+    ],
+    "correct_answer": "D",
+    "page_reference": "217",
+    "rationale": "According to the board review course on page 217, \"The primary test outcome is the final distance walked (6MWD). Among healthy individuals, the average 6MWD is between 400 and 700 meters. The 6MWD has been established as a significant marker of disease severity for COPD patients since it directly correlates with lower quality of life indices, respiratory and functional impairment, and survival.\" While options A, B, and C may be measured during the 6MWT, they are not the primary outcome measure. The distance walked in 6 minutes provides a comprehensive assessment of the patient's functional capacity, integrating all systems involved in exercise.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00278",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 28-year-old woman with a BMI of 26 kg/m\u00c2\u00b2 is interested in understanding her body composition to tailor her exercise program. Which of the following statements about skin-fold thickness measurements for assessing body composition is most accurate?",
+    "options": [
+      "A) It provides a direct measure of visceral fat",
+      "B) It has an accuracy of \u00c2\u00b11% for total body fat percentage",
+      "C) It measures approximately one-third of total body fat",
+      "D) It requires sophisticated laboratory equipment for accuracy"
+    ],
+    "correct_answer": "C",
+    "page_reference": "219",
+    "rationale": "According to the board review course, \"Approximately one-third of body fat is subcutaneous fat, but this varies based on sex, age, and gender. With proper technique, the accuracy of skin-fold testing for percent total body fat percentage is within \u00c2\u00b1 3.5%.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00279",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 70-year-old male undergoes grip strength testing as part of a comprehensive health assessment. His grip strength is significantly lower than average for his age and gender. Which of the following is the most likely clinical implication of this finding?",
+    "options": [
+      "A) Increased risk of falls in the next year",
+      "B) Higher likelihood of cardiovascular disease",
+      "C) Greater risk of all-cause mortality over the next decade",
+      "D) Immediate need for intensive resistance training"
+    ],
+    "correct_answer": "C",
+    "page_reference": "219",
+    "rationale": "The board review course states, \"Lower grip strength at baseline is correlated with an increased risk of mortality over the 10-year follow-up. Numerous studies have shown that lower grip strength is associated with higher mortality rates in older adults and can serve as a predictor of overall health and mortality risk.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00280",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 23-year-old fitness enthusiast wants to become an American College of Sports Medicine (ACSM) certified personal trainer. Which of the following is a prerequisite for ACSM personal trainer certification?",
+    "options": [
+      "A) A bachelor's degree in Exercise Science",
+      "B) 1,200 hours of supervised clinical experience",
+      "C) Current CPR and AED certification",
+      "D) Five years of experience as a fitness instructor"
+    ],
+    "correct_answer": "C",
+    "page_reference": "232",
+    "rationale": "The board review course states, \"ACSM requires candidates to hold a current CPR and AED certification to be eligible for the ACSM Certified Personal Trainer exam.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00281",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 61-year-old man with a history of atrial fibrillation presents for follow-up after an emergency department visit for palpitations. Which combination of lifestyle interventions has been shown to most effectively reduce the recurrence of atrial fibrillation?",
+    "options": [
+      "A) Weight loss and increased omega-3 fatty acid intake",
+      "B) Weight loss and improved aerobic fitness",
+      "C) Improved aerobic fitness and increased omega-3 fatty acid intake",
+      "D) Reduced aerobic fitness and increased omega-3 fatty acid intake"
+    ],
+    "correct_answer": "B",
+    "page_reference": "233",
+    "rationale": "The board review course notes, \"Omega-3 fatty acid intake has not been shown to reduce the risk of recurrence in atrial fibrillation. Abed, et al., found that weight loss and improved physical fitness led to reduced risk of atrial fibrillation recurrence.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00282",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 27-year-old woman at 10 weeks gestation is concerned about the risks of exercise during pregnancy. Which of the following pregnancy-related outcomes is most likely to be increased with regular exercise during pregnancy?",
+    "options": [
+      "A) Gestational diabetes",
+      "B) Preterm birth",
+      "C) Vaginal delivery",
+      "D) Caesarean delivery"
+    ],
+    "correct_answer": "C",
+    "page_reference": "233",
+    "rationale": "The board review course states, \"According to Berghella and Saccone, exercise is associated with a higher rate of vaginal delivery. Exercise leads to the incidence of less gestational weight gain, less preterm birth and less Caesarean delivery.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00283",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 25-year-old man with a family history of colon cancer, diabetes, and cardiovascular disease wants to increase his physical activity at work. He currently expends 15 MET-hours per week in his office joB) Which of the following new job options would provide the optimal balance of increased physical activity and reduced health risk?",
+    "options": [
+      "A) Materials delivery at 30 MET-hours per week",
+      "B) Custodial work at 45 MET-hours per week",
+      "C) Landscaping at 60 MET-hours per week",
+      "D) Cement masonry at 75 MET-hours per week"
+    ],
+    "correct_answer": "A",
+    "page_reference": "233",
+    "rationale": "The board review course explains, \"As the dose of physical activity increases, the gains in risk reduction diminish, according to Kyu, et al. Therefore, an increase from 15 to 30 MET-hours per week will provide the patient the most reduction in the risk of colon cancer, diabetes, and cardiovascular disease. It is also the most reasonable increase in activity from his current level.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00284",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Through which of the following primary mechanisms does exercise contribute to improved glucose regulation in patients with type 2 diabetes?",
+    "options": [
+      "A) Reduced insulin-like growth factor-1 (IGF-1)",
+      "B) Stimulation of glucose transporter type 4 (GLUT-4)",
+      "C) Elevated tumor necrosis factor-\u00ce\u00b1 (TNF-\u00ce\u00b1)",
+      "D) Elevated catecholamines"
+    ],
+    "correct_answer": "B",
+    "page_reference": "233",
+    "rationale": "The board review course states, \"Exercise stimulates GLUT-4 transporters to move glucose into the cell independent of insulin activity. In subjects with insulin resistance, GLUT-4 recruitment and activity was equal to the group without insulin resistance highlighting the importance of exercise in prescriptions for people living with diabetes.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00285",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 68-year-old woman with osteoporosis (BMI 19.5 kg/m\u00c2\u00b2) wants to start strength training to improve her bone mineral density and ability to perform activities of daily living. What is the most appropriate initial resistance training prescription for this patient?",
+    "options": [
+      "A) 1 day per week, 1 set for all major muscle groups, 10-15 reps/set, 40-50% of 1-RM",
+      "B) 2 days per week, 1 set for all major muscle groups, 8-12 reps/set, 40-50% of 1-RM",
+      "C) 2 days per week, 1 set for all major muscle groups, 10-15 reps/set, 40-50% of 1-RM",
+      "D) 2 days per week, 1 set for all major muscle groups, 10-15 reps/set, 60-80% of 1-RM"
+    ],
+    "correct_answer": "C",
+    "page_reference": "234",
+    "rationale": "The board review course recommends, \"According to the American College of Sports Medicine Guidelines for Exercise Testing & Prescription older adults, who are new to resistance training, should strength train a minimum of 2 (non-consecutive) days per week, doing at least 1 set for all major muscle groups (legs, back, chest, shoulders, biceps, triceps, & core), using 10-15 reps/set at 40-50% of one-rep max (1-RM).\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00286",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 55-year-old woman with type 2 diabetes asks about the relative importance of aerobic exercise versus resistance training for managing her condition. Based on current evidence, which of the following statements is most accurate regarding exercise modalities and glycaemic control in type 2 diabetes?",
+    "options": [
+      "A) Aerobic exercise alone is superior to resistance training for improving HbA1c",
+      "B) Resistance training alone can reduce HbA1c by 0.5% or more",
+      "C) Combined aerobic and resistance training is less effective than either modality alone",
+      "D) The effects of exercise on glycaemic control are only significant with dietary intervention"
+    ],
+    "correct_answer": "B",
+    "page_reference": "229",
+    "rationale": "The board review course states, \"Resistance exercise can reduce HbA1c by 0.5% or more in patients with diabetes, similar to many commonly prescribed pharmacologic interventions.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00287",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In a meta-epidemiological study comparing exercise interventions to drug interventions for mortality outcomes in various conditions, which of the following findings was reported for patients with a history of stroke?",
+    "options": [
+      "A) Exercise was inferior to anticoagulants in reducing mortality",
+      "B) Exercise showed no significant difference compared to antiplatelet therapy",
+      "C) Exercise was superior to both anticoagulants and antiplatelet therapy",
+      "D) Exercise increased mortality risk compared to pharmacological interventions"
+    ],
+    "correct_answer": "C",
+    "page_reference": "229-230",
+    "rationale": "The board review course reports, \"In patients with a history of stroke, physical activity interventions versus anticoagulants and antiplatelet therapy in reducing mortality favoured exercise, odds ratio (OR) 0.09, 95% (CI 0.01-0.70) and OR 0.10, 95% (CI 0.01-0.62), respectfully. Essentially, exercise was superior.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00288",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 45-year-old woman with stable coronary artery disease is considering exercise-based cardiac rehabilitation versus percutaneous coronary intervention (PCI). Based on clinical trial evidence, which of the following outcomes is most likely to be superior with exercise intervention compared to PCI?",
+    "options": [
+      "A) Reduction in angina symptoms",
+      "B) Improvement in exercise capacity",
+      "C) Decrease in LDL cholesterol levels",
+      "D) Reduction in systolic blood pressure"
+    ],
+    "correct_answer": "B",
+    "page_reference": "230",
+    "rationale": "The board review course states, \"Exercise intervention as compared with PCI resulted in: Superior event-free survival (88% versus 70% in PCI; p = 0.023), Improved exercise capacity (maximal oxygen uptake +16%; p < 0.001).\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00289",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In a sedentary individual initiating an exercise program, which of the following physiological adaptations is most likely to occur within the first 6 weeks of training?",
+    "options": [
+      "A) Significant muscle hypertrophy",
+      "B) Maximal oxygen uptake improvement of 15%",
+      "C) Resting heart rate reduction of 20 beats per minute",
+      "D) Improved exercise tolerance with minimal changes in VO2 max"
+    ],
+    "correct_answer": "D",
+    "page_reference": "226",
+    "rationale": "The board review course describes the initial stage (1-6 weeks) of exercise progression as \"designed to minimize muscle soreness, discomfort, and injury and to prepare individuals for exercise at the next stage.\" While specific adaptations aren't detailed for this period, improved exercise tolerance with minimal changes in VO2 max is the most likely early adaptation.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00290",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 50-year-old man with type 2 diabetes asks about the comparative effectiveness of exercise versus medication for his condition. Based on current evidence, which of the following statements is most accurate?",
+    "options": [
+      "A) Exercise is superior to metformin in preventing progression to diabetes in prediabetic individuals",
+      "B) Exercise and metformin have equivalent effects on HbA1c reduction in type 2 diabetes",
+      "C) Exercise is less effective than oral hypoglycaemic agents in reducing cardiovascular risk",
+      "D) Exercise and insulin therapy have similar effects on improving insulin sensitivity"
+    ],
+    "correct_answer": "A",
+    "page_reference": "229",
+    "rationale": "The board review course mentions a landmark study where \"When compared to placebo, metformin decreased incidence of diabetes by 31%, whereas lifestyle intervention was significantly more effective and reduced incidence by 58%.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00291",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In prescribing exercise for a patient with chronic obstructive pulmonary disease (COPD), which of the following strategies is most likely to improve both mobility and balance?",
+    "options": [
+      "A) High-intensity interval training focused on lower limbs",
+      "B) Isometric upper body strengthening exercises",
+      "C) Combined aerobic and resistance exercise program",
+      "D) Daily practice of tai chi without supplemental oxygen"
+    ],
+    "correct_answer": "C",
+    "page_reference": "231",
+    "rationale": "The board review course states, \"A Cochrane review found that aerobic exercise and aerobic combined with resistance exercise helps to improve both mobility and balance post-stroke.\" While this refers to stroke patients, the principle can be applied to COPD patients as well.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00292",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 72-year-old woman with a recent history of ischemic stroke is beginning an exercise program for secondary prevention. Which of the following exercise modalities has been shown to have the greatest potential for enhancing neuroplasticity after stroke?",
+    "options": [
+      "A) Low-intensity continuous aerobic exercise",
+      "B) High-intensity resistance training",
+      "C) Moderate to vigorous intensity aerobic exercise",
+      "D) Balance and coordination exercises"
+    ],
+    "correct_answer": "C",
+    "page_reference": "231",
+    "rationale": "The board review course notes, \"Aerobic exercise could potentiate a degree of neuroplasticity after a stroke, particularly when performing moderate to vigorous intensity exercise.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00293",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 35-year-old man with a BMI of 33 kg/m\u00c2\u00b2 wants to start an exercise program primarily for weight loss. Based on current evidence, what is the minimum amount of moderate-intensity exercise per week required for significant weight loss without caloric restriction?",
+    "options": [
+      "A) 150 minutes",
+      "B) 250 minutes",
+      "C) 300 minutes",
+      "D) 420 minutes"
+    ],
+    "correct_answer": "D",
+    "page_reference": "209",
+    "rationale": "The board review course states, \"Findings from NWCR support that many people need more than 150 minutes of moderate-intensity activity each week to maintain weight loss. On average, members of the NWCR exercise at least 1 hour per day (420 minutes per week).\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00294",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 60-year-old woman with osteoarthritis of the knee is interested in starting an exercise program. Which of the following combinations of exercise modalities is most likely to improve both pain and function in this patient?",
+    "options": [
+      "A) Aquatic exercises and static stretching",
+      "B) Resistance training and balance exercises",
+      "C) Aerobic walking and quadriceps strengthening",
+      "D) Yoga and low-impact aerobics"
+    ],
+    "correct_answer": "C",
+    "page_reference": "234",
+    "rationale": "While the board review course doesn't specifically address this combination for osteoarthritis, it does mention that \"Aerobic and resistance exercise programs have been shown to mitigate cardiovascular risk factors in as little as an 8-week intervention.\" Extrapolating from this and general principles of exercise for osteoarthritis, a combination of aerobic walking and quadriceps strengthening would likely be most beneficial for both pain and function.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00295",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 55-year-old man who recently completed treatment for colon cancer asks about the role of exercise in cancer survivorship. Which of the following outcomes has been most consistently associated with post-treatment exercise interventions in cancer survivors?",
+    "options": [
+      "A) Reduced risk of cancer recurrence",
+      "B) Improved cardiovascular fitness",
+      "C) Enhanced immune function",
+      "D) Increased muscle mass"
+    ],
+    "correct_answer": "B",
+    "page_reference": "231",
+    "rationale": "The board review course mentions, \"A 16-week training program of combined aerobic and strength training significantly improved quality of life, fatigue, depressive symptoms, VO2 max, muscular strength, osteocalcin, and bone specific alkaline phosphatase levels in overweight and obese cancer survivors.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00296",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In prescribing exercise for a patient with heart failure, which of the following statements most accurately reflects current evidence on exercise intensity?",
+    "options": [
+      "A) Only low-intensity exercise is safe for heart failure patients",
+      "B) High-intensity interval training is contraindicated in all heart failure patients",
+      "C) Moderate-intensity continuous training is superior to high-intensity interval training",
+      "D) Both moderate continuous and high-intensity interval training can be beneficial"
+    ],
+    "correct_answer": "D",
+    "page_reference": "230",
+    "rationale": "While the board review course doesn't explicitly state this, it does mention that \"Exercise offered similar mortality reduction benefits in the secondary prevention of coronary heart disease, rehabilitation of stroke, and prevention of diabetes but was less effective in treating heart failure.\" This suggests that various forms of exercise, including both moderate continuous and high-intensity interval training, can be beneficial for heart failure patients when appropriately prescribed.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00297",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 45-year-old woman with a history of breast cancer asks about the potential benefits of exercise in preventing cancer recurrence. Based on current evidence, which of the following statements is most accurate regarding physical activity and breast cancer outcomes?",
+    "options": [
+      "A) Only high-intensity exercise reduces the risk of recurrence",
+      "B) Exercise initiated pre-diagnosis has no impact on post-diagnosis outcomes",
+      "C) Regular physical activity is associated with improved survival rates",
+      "D) The benefits of exercise are limited to weight management in breast cancer survivors"
+    ],
+    "correct_answer": "C",
+    "page_reference": "207",
+    "rationale": "The board review course states, \"Physical activity helps prevent reoccurrence as well as primary onset. Increasing physical activity decreases the probability of mortality from breast cancer.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00298",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 45-year-old sedentary woman with a family history of cardiovascular disease wants to start an exercise program. According to current physical activity guidelines, what is the minimum recommended amount of moderate-intensity aerobic activity per week for substantial health benefits?",
+    "options": [
+      "A) 75 minutes",
+      "B) 100 minutes",
+      "C) 150 minutes",
+      "D) 300 minutes"
+    ],
+    "correct_answer": "C",
+    "page_reference": "210",
+    "rationale": "The board review course states, \"For substantial health benefits, adults should do at least 150 minutes (2 hours and 30 minutes) to 300 minutes (5 hours) a week of moderate-intensity or 75 minutes (1 hour and 15 minutes) to 150 minutes (2 hours and 30 minutes) a week of vigorous-intensity aerobic physical activity or an equivalent combination of moderate- and vigorous-intensity aerobic activity.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00299",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 60-year-old man with type 2 diabetes is interested in starting resistance training. How many days per week should he perform resistance exercises, according to current guidelines?",
+    "options": [
+      "A) 1 day",
+      "B) 2 days",
+      "C) 4 days",
+      "D) 7 days"
+    ],
+    "correct_answer": "B",
+    "page_reference": "213",
+    "rationale": "The board review course mentions, \"Adults should also do muscle-strengthening activities of moderate or greater intensity and that involve all major muscle groups on 2 or more days a week as these activities provide additional health benefits.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00300",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following best describes the relationship between physical activity duration and all-cause mortality risk reduction?",
+    "options": [
+      "A) Linear relationship with no upper limit",
+      "B) Threshold effect with no benefit below 150 minutes per week",
+      "C) Inverse relationship with diminishing returns at higher durations",
+      "D) U-shaped curve with increased risk at very high durations"
+    ],
+    "correct_answer": "C",
+    "page_reference": "201-202",
+    "rationale": "The board review course states, \"All-cause mortality is further reduced beyond what is expected with 150 minutes of moderate intensity or 75 minutes of vigorous activity at 300 minutes (5 hours) per week of moderate intensity, or 150 minutes per week of vigorous intensity aerobic physical activity, or an equivalent combination of both. However, the magnitude of the risk reduction is lower.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00301",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 35-year-old woman asks about the benefits of high-intensity interval training (HIIT) compared to moderate-intensity continuous training. Which of the following is a unique cardiovascular adaptation associated with HIIT?",
+    "options": [
+      "A) Decreased resting heart rate",
+      "B) Increased stroke volume",
+      "C) Improved left ventricular diastolic function",
+      "D) Enhanced peripheral vascular resistance"
+    ],
+    "correct_answer": "C",
+    "page_reference": "196",
+    "rationale": "The board review course mentions, \"HIIT can lead to positive cardiac adaptations, including improved diastolic function and increased cardiac efficiency, contributing to better cardiovascular health.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00302",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the context of exercise prescription using the FITT-VP principle, what does the \"V\" stand for?",
+    "options": [
+      "A) Velocity",
+      "B) Variety",
+      "C) Volume",
+      "D) Vigor"
+    ],
+    "correct_answer": "C",
+    "page_reference": "225",
+    "rationale": "The board review course states that FITT-VP stands for \"Frequency, Intensity, Time (duration), Type (of exercise), Volume (amount), and Progression.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00303",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 50-year-old man with prediabetes asks about the comparative effectiveness of lifestyle intervention versus metformin for diabetes prevention. Based on the Diabetes Prevention Program Research Group study, what is the relative risk reduction for developing diabetes with lifestyle intervention compared to metformin?",
+    "options": [
+      "A) 15% more effective",
+      "B) 27% more effective",
+      "C) 41% more effective",
+      "D) 58% more effective"
+    ],
+    "correct_answer": "B",
+    "page_reference": "229",
+    "rationale": "The board review course states, \"When compared to placebo, metformin decreased incidence of diabetes by 31%, whereas lifestyle intervention was significantly more effective and reduced incidence by 58%.\" The difference between 58% and 31% is 27%, making lifestyle intervention 27% more effective than metformin.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00304",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following best describes the relationship between sitting time and all-cause mortality risk, even in individuals who meet physical activity guidelines?",
+    "options": [
+      "A) No association if physical activity guidelines are met",
+      "B) Linear increase in risk with increased sitting time",
+      "C) Threshold effect with risk only increasing after 8 hours of sitting",
+      "D) J-shaped curve with highest risk at both low and high sitting times"
+    ],
+    "correct_answer": "B",
+    "page_reference": "199-200",
+    "rationale": "The board review course mentions, \"A study evaluating sitting time and all-cause mortality evaluated 222,497 people, age 45 or older, and followed them for an average of 2.8 years. The results showed that 6.9% of all-cause mortality was attributable to sitting. The results were consistent across gender, age groups, body mass index (BMI), physical activity level, and healthy participants compared with those who had preexisting cardiovascular disease or diabetes mellitus.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00305",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 70-year-old woman with osteoporosis asks about the best type of exercise to improve her bone health. Which of the following would you recommend?",
+    "options": [
+      "A) Swimming",
+      "B) Cycling",
+      "C) Tennis",
+      "D) Tai chi"
+    ],
+    "correct_answer": "C",
+    "page_reference": "215",
+    "rationale": "The board review course states, \"Activities such as hopping, lower body strength training, skipping and running, racquet sports provide significant impact and loading forces on bones. Swimming and cycling are non-load bearing, and while a very good form of exercise (particularly for those with osteoarthritis), in order to increase BDM bones must be actively loaded.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00306",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In assessing a patient's exercise intensity using the Talk Test, which of the following indicates moderate-intensity exercise?",
+    "options": [
+      "A) Able to sing while exercising",
+      "B) Able to speak in complete sentences but not sing",
+      "C) Barely able to speak at all",
+      "D) Able to shout loudly without difficulty"
+    ],
+    "correct_answer": "B",
+    "page_reference": "216",
+    "rationale": "The board review course mentions, \"Being able to speak a sentence or two is an indicator of moderate-intensity exercise. Barely being able to speak is an indicator of high-intensity exercise.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00307",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 55-year-old man with type 2 diabetes wants to start a resistance training program. What is the recommended frequency of resistance training sessions per week for this patient?",
+    "options": [
+      "A) 1 day per week",
+      "B) 2-3 days per week",
+      "C) 4-5 days per week",
+      "D) Every day"
+    ],
+    "correct_answer": "B",
+    "page_reference": "227",
+    "rationale": "The board review course states, \"Frequency: Two to three non-consecutive days each week\" when discussing ACSM guidelines for resistance training.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00308",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 40-year-old woman with a BMI of 32 kg/m\u00c2\u00b2 wants to lose weight through exercise. According to ACSM guidelines, what is the recommended amount of moderate-intensity physical activity per week for long-term weight loss and maintenance?",
+    "options": [
+      "A) 150-250 minutes",
+      "B) 200-300 minutes",
+      "C) 250-300 minutes",
+      "D) 300-420 minutes"
+    ],
+    "correct_answer": "C",
+    "page_reference": "209",
+    "rationale": "The board review course states, \"Initial goal should be 150 minutes of moderate physical activity per week, but this should build toward 250-300 minutes per week to promote long-term weight loss and weight maintenance.\" This recommendation specifically targets individuals aiming for weight loss and maintenance, which is more than the general health recommendation.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00309",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the context of exercise prescription for older adults, which of the following statements about resistance training is most accurate?",
+    "options": [
+      "A) It should be avoided due to high risk of injury",
+      "B) It should be performed at higher intensities than in younger adults",
+      "C) It should start at very light or light intensity",
+      "D) It should focus exclusively on lower body exercises"
+    ],
+    "correct_answer": "C",
+    "page_reference": "213",
+    "rationale": "The board review course mentions, \"Healthy older adults should do strength training that involves all major muscle groups two times per week or follow the guidelines as much as possible. They should start at very light or light intensity. Weights used for resistance training should be light enough to complete a set of 10-15 repetitions.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00310",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 55-year-old man with stable coronary artery disease is starting an exercise program. Which of the following best describes the comparative effectiveness of exercise versus pharmacological interventions for secondary prevention in this population?",
+    "options": [
+      "A) Exercise is superior to all pharmacological interventions",
+      "B) Exercise is inferior to statins but superior to beta-blockers",
+      "C) Exercise shows no statistical difference compared to drug interventions",
+      "D) Exercise is only effective when combined with pharmacological interventions"
+    ],
+    "correct_answer": "C",
+    "page_reference": "229",
+    "rationale": "The board review course states, \"No statistical difference was evident between physical activity and drug interventions for secondary prevention of coronary heart disease (use of statins, beta blockers, ace inhibitors, antiplatelets) and prediabetes.\" This finding highlights the potential of exercise as a powerful intervention, comparable to pharmacological treatments in certain conditions.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00311",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following best describes the effect of regular physical activity on cancer risk?",
+    "options": [
+      "A) It only reduces risk for colon cancer",
+      "B) It reduces risk for breast and colon cancer, with unclear effects on other cancers",
+      "C) It uniformly reduces risk for all types of cancer",
+      "D) It has no significant effect on cancer risk"
+    ],
+    "correct_answer": "B",
+    "page_reference": "207",
+    "rationale": "The board review course mentions, \"Increased physical activity corresponds to a decreased risk in colon and breast cancers.\" It further states, \"Associations between physical activity and other cancers are less clear.\" This indicates that while there's strong evidence for breast and colon cancer risk reduction, the effects on other cancers are not as well established.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00312",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 30-year-old pregnant woman who regularly engages in vigorous-intensity exercise asks about continuing her routine. According to current guidelines, which of the following is the most appropriate recommendation?",
+    "options": [
+      "A) She should switch to only low-intensity exercise",
+      "B) She can continue her pre-pregnancy exercise routine after medical clearance",
+      "C) She should avoid all exercise during the first trimester",
+      "D) She must limit exercise to 60 minutes per week"
+    ],
+    "correct_answer": "B",
+    "page_reference": "205",
+    "rationale": "The board review course states, \"Women doing vigorous exercise regularly before pregnancy can continue at this level but should discuss with their healthcare provider how and when activity should be adjusted as the pregnancy progresses.\" This guideline supports the continuation of pre-pregnancy exercise routines for women who were already engaged in vigorous activity, with appropriate medical oversight.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00313",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following best describes the relationship between physical activity levels and healthcare costs?",
+    "options": [
+      "A) There is no significant relationship",
+      "B) Only high-intensity exercise reduces healthcare costs",
+      "C) Healthcare spending increases as activity levels decrease",
+      "D) The relationship is only significant for individuals over 65"
+    ],
+    "correct_answer": "C",
+    "page_reference": "204",
+    "rationale": "The board review course mentions, \"Healthcare spending increases as activity levels decrease and vice-versA) Each additional day of physical activity decreased median healthcare costs by 4.7%.\" It further states, \"An inactive person costs $1,543 more per year than an active person.\" This demonstrates a clear inverse relationship between physical activity levels and healthcare costs.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00314",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In prescribing exercise for a patient with type 2 diabetes, which of the following mechanisms best explains the beneficial effects of resistance training on glycaemic control?",
+    "options": [
+      "A) Increased insulin production by pancreatic beta cells",
+      "B) Enhanced glucose uptake through GLUT-4 translocation",
+      "C) Reduced glucose absorption in the intestines",
+      "D) Increased glycogen breakdown in the liver"
+    ],
+    "correct_answer": "B",
+    "page_reference": "204",
+    "rationale": "The board review course states, \"Exercise-induced GLUT4 translocation improves glucose regulation by enhancing acute intracellular uptake of glucose.\" It further mentions, \"Exercise training increases skeletal muscle GLUT4 content, thereby leading to chronic improvements in glucose regulation.\" This mechanism is particularly relevant to resistance training, which can significantly impact skeletal muscle glucose metabolism.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00315",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 70-year-old man with a history of falls is interested in improving his balance. Which of the following exercise recommendations is most appropriate for fall prevention in older adults?",
+    "options": [
+      "A) High-intensity aerobic exercise 5 days per week",
+      "B) Balance training 3 or more days per week",
+      "C) Flexibility exercises daily",
+      "D) Resistance training once per week"
+    ],
+    "correct_answer": "B",
+    "page_reference": "214",
+    "rationale": "The board review course states, \"Adults aged 65 and older should do balance training \u00e2\u2030\u00a5 3 days per week.\" This recommendation is specifically targeted at fall prevention in older adults, recognizing the importance of regular balance training in reducing fall risk.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00316",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following best describes the effect of exercise on brain function in older adults?",
+    "options": [
+      "A) It only improves memory in those with existing cognitive impairment",
+      "B) It has no significant effect on cognitive function in healthy older adults",
+      "C) It improves cognitive function, including concentration and attention",
+      "D) It primarily affects motor skills with no impact on higher cognitive functions"
+    ],
+    "correct_answer": "C",
+    "page_reference": "212",
+    "rationale": "The board review course mentions, \"Single episodes of physical activity improve brain executive function, including concentration, attention, emotional regulation, memory, ability to plan and organize, and speed of processing.\" This indicates that exercise has broad positive effects on various aspects of cognitive function, not limited to those with existing impairment or to specific cognitive domains.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00317",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the context of exercise prescription, what does the acronym NEAT stand for, and what is its significance in energy expenditure?",
+    "options": [
+      "A) New Exercise Assessment Technique; it measures exercise intensity",
+      "B) Non-Exercise Activity Thermogenesis; it accounts for energy expended in daily activities",
+      "C) Normalized Energy Aerobic Training; it standardizes aerobic exercise prescriptions",
+      "D) Neuromuscular Efficiency and Adaptation Test; it assesses muscular fitness"
+    ],
+    "correct_answer": "B",
+    "page_reference": "224",
+    "rationale": "The board review course defines NEAT as \"Non-exercise activity thermogenesis (NEAT): The energy expended for all activities that are not sleeping, eating, or exercise.\" It further explains the significance: \"Adding in Non-Exercise Activity Thermogenesis (NEAT) can expend an additional 350 kcal per day.\" This highlights the important contribution of everyday activities to overall energy expenditure, beyond structured exercise.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00318",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 55-year-old man with type 2 diabetes is starting an exercise program. Which of the following represents the most appropriate initial approach to blood glucose monitoring for this patient during exercise?",
+    "options": [
+      "A) Check blood glucose only before exercise",
+      "B) Check blood glucose before and after each session",
+      "C) Continuous glucose monitoring during exercise only",
+      "D) No monitoring necessary if on oral medications"
+    ],
+    "correct_answer": "B",
+    "page_reference": "234-235",
+    "rationale": "The board review course states, \"Check blood glucose before and after each session.\" This recommendation is specifically for patients with diabetes who are initiating an exercise program. Regular monitoring before and after exercise helps patients understand how their blood glucose responds to physical activity and allows for appropriate adjustments in medication or nutrition.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00319",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following blood glucose ranges is considered safe for a patient with diabetes to begin an exercise session?",
+    "options": [
+      "A) 70-100 mg/dL",
+      "B) 100-250 mg/dL",
+      "C) 250-300 mg/dL",
+      "D) > 300 mg/dL"
+    ],
+    "correct_answer": "B",
+    "page_reference": "234-235",
+    "rationale": "The board review course provides specific guidelines: \"100-250 mg/dL \u00e2\u20ac\u201d Exercise is recommended.\" This range is considered safe for patients with diabetes to begin exercising. The course also notes that for levels above 250 mg/dL, ketone testing is recommended, and exercise should be postponed if ketones are present.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00320",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 40-year-old woman who is 20 weeks pregnant asks about continuing her high-impact aerobic exercise routine. Which of the following is an absolute contraindication to exercise during pregnancy?",
+    "options": [
+      "A) Mild respiratory disorder",
+      "B) Gestational diabetes",
+      "C) Placenta previa after 28 weeks",
+      "D) Mild preeclampsia"
+    ],
+    "correct_answer": "C",
+    "page_reference": "206",
+    "rationale": "The board review course lists placenta previa after 28 weeks as a relative contraindication, not an absolute one. However, it's important to note that this condition requires careful consideration and discussion with a healthcare provider. The other options listed (mild respiratory disorder, gestational diabetes, and mild preeclampsia) are also considered relative contraindications that warrant discussion with a healthcare provider.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00321",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 70-year-old man with a history of falls is starting a balance training program. What is the most appropriate initial recommendation for balance exercises in this patient?",
+    "options": [
+      "A) Practice standing on an unstable surface",
+      "B) Perform complex yoga poses",
+      "C) Start with exercises using a hand-hold support",
+      "D) Begin with single-leg stands with eyes closed"
+    ],
+    "correct_answer": "C",
+    "page_reference": "228",
+    "rationale": "The board review course advises, \"Start with hand-hold support\" when introducing balance training. It further states, \"Increase exercise difficulty by removing support.\" This approach ensures safety while allowing for gradual progression in difficulty as the patient's balance improves.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00322",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following best describes the role of flexibility exercises in a comprehensive exercise program?",
+    "options": [
+      "A) They are the most important component for injury prevention",
+      "B) They have been proven to significantly reduce the risk of cardiovascular disease",
+      "C) They are appropriate but have not been demonstrated to reduce injury risk",
+      "D) They should be avoided in older adults due to increased fall risk"
+    ],
+    "correct_answer": "C",
+    "page_reference": "214",
+    "rationale": "The board review course states, \"The health benefits of flexibility are not known, and they have not been demonstrated to reduce the risk of activity-related injuries, but they are an appropriate component of a physical activity program.\" This indicates that while flexibility exercises are considered appropriate, their benefits in terms of injury prevention are not well-established.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00323",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 45-year-old woman asks about the benefits of increasing her physical activity from 150 minutes per week to 300 minutes per week of moderate-intensity exercise. Which of the following best describes the additional health benefits she might expect?",
+    "options": [
+      "A) No additional benefits beyond 150 minutes per week",
+      "B) Linear increase in benefits proportional to increased time",
+      "C) Additional benefits with diminishing returns",
+      "D) Exponential increase in benefits with doubled time"
+    ],
+    "correct_answer": "C",
+    "page_reference": "201-202",
+    "rationale": "The board review course notes, \"Additional physical activity has further and more extensive health benefits. There is probably no 'maximum' amount of physical activity\u00e2\u20ac\u201donly what is practical based on a person's ability and available time.\" It also states, \"All-cause mortality is further reduced beyond what is expected with 150 minutes of moderate intensity or 75 minutes of vigorous activity at 300 minutes (5 hours) per week of moderate intensity, or 150 minutes per week of vigorous intensity aerobic physical activity, or an equivalent combination of both. However, the magnitude of the risk reduction is lower.\" This indicates that while there are additional benefits to increasing exercise time, there are diminishing returns at higher durations.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00324",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following best describes the relationship between cardiorespiratory fitness and all-cause mortality risk?",
+    "options": [
+      "A) There is no significant relationship",
+      "B) Only high levels of fitness reduce mortality risk",
+      "C) There is an inverse relationship with no upper limit of benefit",
+      "D) There is an inverse relationship with diminishing returns at very high fitness levels"
+    ],
+    "correct_answer": "D",
+    "page_reference": "201-202",
+    "rationale": "The board review course states, \"The most benefit is gained within 10-20 MET hours per week of physical activity. Mortality decreases with any increase in MET hours per week, but may plateau around 80 MET hours per week.\" This indicates an inverse relationship between fitness and mortality risk, but with diminishing returns at very high levels of fitness.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00325",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 35-year-old man with a BMI of 32 kg/m\u00c2\u00b2 wants to lose weight through exercise alone. Based on current evidence, what is the most accurate statement regarding exercise and weight loss?",
+    "options": [
+      "A) Exercise alone is typically sufficient for significant weight loss",
+      "B) Exercise alone usually results in minimal weight loss without dietary changes",
+      "C) Only high-intensity exercise can produce significant weight loss",
+      "D) Weight loss from exercise is primarily due to increased muscle mass"
+    ],
+    "correct_answer": "B",
+    "page_reference": "209",
+    "rationale": "The board review course states, \"If physical activity is used alone as a weight-loss intervention, the following results can be expected: improved diastolic pressure, triglycerides, and fasting glucose, as well as lowered risk of cardiovascular disease, but often little to no reduction in weight.\" It further emphasizes, \"Physical activity and reduced caloric intake are both needed to control body weight. Diet is typically necessary to lose weight, but physical activity is essential to maintain weight loss.\"",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00326",
+    "section_number": "06"
+  },
+  {
+    "question_text": "Which of the following best describes the current understanding of the minimum amount of physical activity needed for health benefits?",
+    "options": [
+      "A) At least 150 minutes of moderate-intensity activity per week",
+      "B) Any amount above complete inactivity provides some benefit",
+      "C) Only vigorous-intensity activity provides health benefits",
+      "D) At least 75 minutes of vigorous-intensity activity per week"
+    ],
+    "correct_answer": "B",
+    "page_reference": "201",
+    "rationale": "The board review course emphasizes, \"A general rule of thumb: 'Move more and sit less.'\" It also states, \"Effort as little as merely standing more shows health benefits.\" This indicates that even small amounts of activity above complete inactivity can provide health benefits. While 150 minutes of moderate-intensity activity is the general recommendation for substantial health benefits, it's important to recognize that any increase in physical activity can be beneficial.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00327",
+    "section_number": "06"
+  },
+  {
+    "question_text": "In the context of exercise prescription for patients with cardiovascular disease, which of the following statements about high-intensity interval training (HIIT) is most accurate?",
+    "options": [
+      "A) HIIT is contraindicated for all patients with cardiovascular disease",
+      "B) HIIT is safe and effective only for patients with mild cardiovascular disease",
+      "C) HIIT can be safe and effective when properly prescribed and monitored",
+      "D) HIIT provides no additional benefits compared to moderate-intensity continuous training"
+    ],
+    "correct_answer": "C",
+    "page_reference": "230",
+    "rationale": "While the board review course doesn't explicitly state this, it does mention that exercise, including various intensities, can be beneficial for cardiovascular health when properly prescribeD) The course notes, \"Exercise offered similar mortality reduction benefits in the secondary prevention of coronary heart disease, rehabilitation of stroke, and prevention of diabetes but was less effective in treating heart failure.\" This suggests that various forms of exercise, including HIIT when appropriately prescribed and monitored, can be beneficial for patients with cardiovascular disease.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00328",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 45-year-old man with type 2 diabetes presents for a follow-up visit. He reports difficulty adhering to his exercise regimen due to frequent episodes of hypoglycaemia during workouts. Which of the following strategies is most appropriate to address this issue?",
+    "options": [
+      "A) Discontinue exercise and focus solely on dietary interventions",
+      "B) Reduce rapid-acting insulin dose by 50% around exercise time",
+      "C) Increase carbohydrate intake by 50g before each exercise session",
+      "D) Switch to exclusively anaerobic exercises to minimize hypoglycaemia risk"
+    ],
+    "correct_answer": "B",
+    "page_reference": "235",
+    "rationale": "The board review course states, \"If on insulin, decrease rapid- or short-acting insulin 50% around exercise time to limit hypoglycaemia.\" This strategy is the most appropriate for addressing hypoglycaemia during exercise in patients with diabetes. It allows the patient to continue benefiting from physical activity while reducing the risk of hypoglycaemiA) Options A and D are too extreme and would deprive the patient of the benefits of aerobic exercise. Option C, while potentially helpful, is not as targeted as adjusting insulin dosage and may lead to unnecessary calorie intake.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00329",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 62-year-old woman with a recent history of stroke is interested in starting an exercise program to improve her recovery. Which of the following exercise modalities should be prioritized in her initial rehabilitation plan?",
+    "options": [
+      "A) High-intensity interval training",
+      "B) Heavy resistance training",
+      "C) Balance and mobility exercises",
+      "D) Prolonged static stretching"
+    ],
+    "correct_answer": "C",
+    "page_reference": "235",
+    "rationale": "The board review course emphasizes that \"Exercise prescriptions for stroke survivors will need to be tailored to their individual deficits. Patients recovering from a stroke usually have multiple comorbidities and these must be considered when prescribing physical activity.\" Additionally, it states that the focus should be on \"balance, mobility, and recovering activities of daily life.\" Therefore, balance and mobility exercises are the most appropriate initial focus for a stroke survivor's rehabilitation plan. Options A and B are too intense for initial rehabilitation, while option D does not directly address the primary needs of stroke recovery.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00330",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 55-year-old man with stable coronary artery disease is participating in a cardiac rehabilitation program. During a resistance training session, he experiences chest discomfort. Which of the following is the most likely cause of his symptoms?",
+    "options": [
+      "A) Acute myocardial infarction",
+      "B) Valsalva manoeuvre",
+      "C) Electrolyte imbalance",
+      "D) Medication side effect"
+    ],
+    "correct_answer": "B",
+    "page_reference": "235-236",
+    "rationale": "The board review course states, \"When resistance training, patients should avoid the Valsalva manoeuvre to avoid elevating blood pressure.\" In patients with cardiovascular disease, the Valsalva manoeuvre during resistance training can cause a sudden increase in intrathoracic pressure, leading to decreased venous return, reduced cardiac output, and potential ischemiA) This can manifest as chest discomfort. While the other options are possible, they are less likely in the context of a stable patient participating in a supervised cardiac rehabilitation program.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00331",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 70-year-old woman with multiple chronic conditions is interested in starting an exercise program. Which of the following approaches is most appropriate for developing her initial exercise prescription?",
+    "options": [
+      "A) Start with high-intensity interval training to maximize benefits",
+      "B) Focus exclusively on resistance training to prevent sarcopenia",
+      "C) Begin with light-intensity activities and gradually increase as tolerated",
+      "D) Implement a standard exercise protocol based on age-matched norms"
+    ],
+    "correct_answer": "C",
+    "page_reference": "233",
+    "rationale": "The board review course emphasizes that for special populations, including older adults with chronic conditions, the approach should be to \"Engage in regular physical activity according to their abilities and avoid inactivity when they are not able to meet these guidelines.\" Starting with light-intensity activities and gradually increasing as tolerated is the safest and most appropriate approach for this patient population. Options A and B are too intense for initial prescription, while option D fails to account for individual differences and comorbidities.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00332",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 38-year-old woman who is 20 weeks pregnant asks about the safety of continuing her pre-pregnancy high-intensity exercise routine. Which of the following is the most appropriate recommendation?",
+    "options": [
+      "A) Discontinue all high-intensity exercise immediately",
+      "B) Continue high-intensity exercise but reduce duration by 50%",
+      "C) Maintain current routine but avoid exercises that require lying on the back",
+      "D) Switch to only low-impact, moderate-intensity exercises for the remainder of pregnancy"
+    ],
+    "correct_answer": "C",
+    "page_reference": "206",
+    "rationale": "The board review course states, \"Women doing vigorous exercise regularly before pregnancy can continue at this level but should discuss with their healthcare provider how and when activity should be adjusted as the pregnancy progresses.\" It also specifically mentions, \"After the first trimester, pregnant women should avoid exercises that require lying on the back as these exercises can compress the vena cava.\" Therefore, maintaining the current routine while avoiding supine exercises is the most appropriate recommendation. This allows the woman to continue benefiting from her established exercise habits while making necessary adjustments for safety during pregnancy.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00333",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 50-year-old man with type 2 diabetes and obesity is struggling to adhere to his exercise program due to knee pain. Which of the following modifications to his exercise prescription would be most appropriate?",
+    "options": [
+      "A) Discontinue all weight-bearing exercises",
+      "B) Focus exclusively on upper body resistance training",
+      "C) Incorporate non-weight bearing aerobic activities",
+      "D) Increase exercise intensity to achieve faster weight loss"
+    ],
+    "correct_answer": "C",
+    "page_reference": "233",
+    "rationale": "The board review course suggests that for patients with obesity, we should \"Consider using aerobic activities that are not weight bearing (e.g., swimming, cycling, rowing, etc.) to help minimize joint stress.\" This approach allows the patient to continue benefiting from aerobic exercise while reducing stress on painful joints. Option A is too restrictive and would limit the overall benefits of exercise. Option B neglects the importance of aerobic exercise for diabetes management. Option D could exacerbate joint pain and potentially lead to injury, making it inappropriate for this patient.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00334",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 72-year-old man with Parkinson's disease is interested in starting an exercise program to improve his balance and mobility. Which of the following exercise modalities has been shown to be most effective in improving postural stability in Parkinson's disease patients?",
+    "options": [
+      "A) High-intensity interval training",
+      "B) Tai chi",
+      "C) Traditional strength training",
+      "D) Yoga"
+    ],
+    "correct_answer": "B",
+    "page_reference": "208",
+    "rationale": "The board review course discusses a study involving 195 patients with Parkinson's disease, which found that \"stability improved with tai chi more than with stretching or resistance training.\" This evidence supports tai chi as the most effective exercise modality for improving postural stability in Parkinson's disease patients. While the other options may offer some benefits, the specific evidence presented in the course favours tai chi for balance and stability improvements in this population.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00335",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 65-year-old woman with osteoporosis is concerned about the risk of fractures during exercise. Which of the following types of physical activity would be most beneficial for improving her bone strength while minimizing fracture risk?",
+    "options": [
+      "A) Swimming",
+      "B) Stationary cycling",
+      "C) Tennis",
+      "D) Yoga"
+    ],
+    "correct_answer": "C",
+    "page_reference": "208",
+    "rationale": "The board review course states, \"Activities such as hopping, lower body strength training, skipping and running, racquet sports provide significant impact and loading forces on bones.\" It specifically mentions that \"Swimming and cycling are non-load bearing, and while a very good form of exercise (particularly for those with osteoarthritis), in order to increase BDM bones must be actively loaded.\" Tennis, as a racquet sport, provides the necessary impact and loading forces to improve bone strength. While yoga can be beneficial for balance and flexibility, it doesn't provide the same level of bone-loading as tennis. Swimming and cycling, being non-weight bearing, are less effective for improving bone density.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00336",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 55-year-old man with coronary artery disease has been cleared for exercise and wants to start a resistance training program. Which of the following is the most appropriate initial prescription for his resistance training?",
+    "options": [
+      "A) 3 sets of 15 repetitions at 80% of 1-RM, 3 days per week",
+      "B) 1 set of 10-15 repetitions at 40-50% of 1-RM, 2 days per week",
+      "C) 5 sets of 5 repetitions at 90% of 1-RM, 2 days per week",
+      "D) 2 sets of 20 repetitions at 30% of 1-RM, 5 days per week"
+    ],
+    "correct_answer": "B",
+    "page_reference": "227",
+    "rationale": "The board review course provides specific guidelines for resistance training in special populations. For older adults or those new to resistance training (which would apply to this patient with coronary artery disease), it recommends \"start at very light or light intensity. Weights used for resistance training should be light enough to complete a set of 10-15 repetitions.\" It also states, \"Healthy older adults should do strength training that involves all major muscle groups two times per week.\" Therefore, 1 set of 10-15 repetitions at 40-50% of 1-RM, 2 days per week is the most appropriate initial prescription. The other options are either too intense or too frequent for a beginner with cardiovascular disease.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00337",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 40-year-old woman with a BMI of 33 kg/m\u00c2\u00b2 is interested in starting an exercise program for weight loss. Which of the following exercise prescriptions is most likely to promote long-term weight loss and maintenance?",
+    "options": [
+      "A) 150 minutes of moderate-intensity aerobic activity per week",
+      "B) 75 minutes of vigorous-intensity aerobic activity per week",
+      "C) 250-300 minutes of moderate-intensity aerobic activity per week",
+      "D) 100 minutes of high-intensity interval training per week"
+    ],
+    "correct_answer": "C",
+    "page_reference": "233",
+    "rationale": "The board review course states, \"Initial goal should be 150 minutes of moderate physical activity per week, but this should build toward 250-300 minutes per week to promote long-term weight loss and weight maintenance.\" This recommendation specifically addresses the needs of patients with obesity aiming for weight loss. While options A and B meet the general physical activity guidelines, they are not sufficient for promoting significant weight loss and long-term maintenance in individuals with obesity. Option D, while intense, does not provide the total volume of activity recommended for weight loss and maintenance.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00338",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 58-year-old sedentary man with hypertension is interested in starting a walking program but lacks motivation. Which of the following resources would be most effective in promoting adherence to his new exercise routine?",
+    "options": [
+      "A) Providing a printed exercise log",
+      "B) Recommending a smartphone fitness app",
+      "C) Suggesting he join a local gym",
+      "D) Referring him to a \"Walk with a Doc\" program"
+    ],
+    "correct_answer": "D",
+    "page_reference": "236",
+    "rationale": "The board review course mentions \"Walk with a Doc\" as one of the wellness programs that can promote physical activity. This program combines in-person meetings with websites and apps, providing both social support and accountability. For a sedentary individual just starting an exercise program, this structured, socially supportive approach is likely to be more effective in promoting adherence than a solitary tracking method (options A and B) or a potentially overwhelming environment like a gym (option C). The social aspect and medical supervision can provide motivation and address any health concerns, making it particularly suitable for someone with hypertension.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00339",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 35-year-old woman wants to incorporate resistance training into her exercise routine but is unsure how to start. Which of the following recommendations would be most appropriate for her initial resistance training program?",
+    "options": [
+      "A) Purchase a set of heavy dumbbells for home use",
+      "B) Begin with bodyweight exercises focusing on major muscle groups",
+      "C) Join a CrossFit gym for high-intensity resistance training",
+      "D) Start with machine-based exercises at a local gym"
+    ],
+    "correct_answer": "B",
+    "page_reference": "236",
+    "rationale": "The board review course lists \"resistance bands, weights, fitness balls, and resistance machines\" as resistance and flexibility devices. For a beginner, bodyweight exercises focusing on major muscle groups are the most appropriate starting point. This approach requires no special equipment, can be done at home, and allows the individual to learn proper form and technique before progressing to external loads. Option A may be too advanced for a beginner, option C is too intense for someone just starting, and option D, while potentially beneficial, may require more guidance and could be intimidating for a novice.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00340",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 62-year-old man with type 2 diabetes wants to monitor his physical activity levels more accurately. Which of the following devices would provide the most comprehensive data for tracking his overall physical activity and energy expenditure?",
+    "options": [
+      "A) Traditional pedometer",
+      "B) Smart watch with heart rate monitor",
+      "C) Bluetooth-connected fitness equipment",
+      "D) Smartphone step counter app"
+    ],
+    "correct_answer": "B",
+    "page_reference": "236",
+    "rationale": "The board review course mentions \"pedometers, smart phones, and smart watches\" as measurement devices/wearables. Among these options, a smart watch with a heart rate monitor provides the most comprehensive data for tracking overall physical activity and energy expenditure. It can measure steps (like a pedometer or smartphone app), but also provides data on heart rate, which allows for more accurate estimation of energy expenditure across various activities. The Bluetooth-connected fitness equipment, while potentially useful, is limited to specific exercise sessions and doesn't capture overall daily activity.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00341",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 45-year-old woman with obesity expresses interest in joining a gym but is concerned about cost and scheduling conflicts. Which of the following alternatives would best address her concerns while still providing structured exercise opportunities?",
+    "options": [
+      "A) Purchasing home exercise equipment",
+      "B) Subscribing to online fitness classes",
+      "C) Utilizing public parks and recreation facilities",
+      "D) Joining a 24-hour budget gym chain"
+    ],
+    "correct_answer": "C",
+    "page_reference": "236",
+    "rationale": "The board review course mentions parks (local, state, and national) as resources for physical activity, noting they typically offer \"Sports fields, tennis and basketball courts, open fields, pools, hiking and walking trails, nature preserves, bike trails.\" It also notes that parks are typically free, which addresses the cost concern. Public parks and recreation facilities offer a variety of structured exercise opportunities without the ongoing cost of a gym membership or home equipment. They also provide flexibility in terms of scheduling, as many outdoor facilities are accessible at various times. This option combines cost-effectiveness, variety, and flexibility, making it the best alternative to address the patient's concerns.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00342",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 70-year-old man with stable coronary artery disease has completed a formal cardiac rehabilitation program and wants to continue exercising. Which of the following recommendations would be most appropriate for maintaining his exercise routine?",
+    "options": [
+      "A) Join a high-intensity group fitness class",
+      "B) Purchase a treadmill for home use",
+      "C) Enrol in a community-based exercise program for older adults",
+      "D) Start a vigorous weight training regimen"
+    ],
+    "correct_answer": "C",
+    "page_reference": "236",
+    "rationale": "The board review course mentions several wellness programs and community resources for promoting physical activity. For an older adult with a history of coronary artery disease who has completed cardiac rehabilitation, a community-based exercise program for older adults would be the most appropriate option. These programs often provide supervised, age-appropriate exercises that can help maintain the benefits gained from cardiac rehabilitation. They also offer social support, which can improve adherence. Option A is too intense for this patient population, option B lacks supervision and social support, and option D may be too vigorous and requires more careful monitoring for a patient with coronary artery disease.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00343",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 55-year-old woman with type 2 diabetes is interested in starting an exercise program but is concerned about potential complications. Which of the following is the most appropriate initial step in developing her exercise prescription?",
+    "options": [
+      "A) Order a stress echocardiogram",
+      "B) Recommend she begin with high-intensity interval training",
+      "C) Prescribe 150 minutes of moderate-intensity aerobic activity per week",
+      "D) Assess her current physical activity level and medical status"
+    ],
+    "correct_answer": "D",
+    "page_reference": "233-234",
+    "rationale": "The board review course emphasizes the importance of individualizing exercise prescriptions for patients with chronic conditions. Assessing the patient's current physical activity level and medical status is crucial to developing a safe and effective exercise plan. This approach allows for consideration of any diabetes-related complications and helps determine an appropriate starting point. Options A and B are too aggressive as initial steps, while option C prescribes a standard recommendation without first assessing the patient's individual needs and capabilities.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00344",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 68-year-old man with osteoarthritis of the knee wants to increase his physical activity. Which of the following exercise modalities would be most appropriate to recommend initially?",
+    "options": [
+      "A) Jogging",
+      "B) Stationary cycling",
+      "C) Stair climbing",
+      "D) High-impact aerobics"
+    ],
+    "correct_answer": "B",
+    "page_reference": "233",
+    "rationale": "The board review course suggests that for patients with obesity (which often coexists with osteoarthritis), we should \"Consider using aerobic activities that are not weight bearing (e.g., swimming, cycling, rowing, etc.) to help minimize joint stress.\" While this advice is given in the context of obesity, it's equally applicable to patients with osteoarthritis. Stationary cycling is a low-impact, non-weight bearing exercise that can provide cardiovascular benefits while minimizing stress on arthritic knees. Options A, C, and D all involve high-impact activities that could exacerbate knee pain and potentially worsen osteoarthritis symptoms.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00345",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 42-year-old woman who is 30 weeks pregnant asks about continuing her pre-pregnancy weightlifting routine. Which of the following modifications is most appropriate to recommend?",
+    "options": [
+      "A) Discontinue all weightlifting exercises",
+      "B) Continue routine but avoid exercises that compress the vena cava",
+      "C) Switch to exclusively using resistance bands",
+      "D) Increase weight and decrease repetitions to maintain strength"
+    ],
+    "correct_answer": "B",
+    "page_reference": "206",
+    "rationale": "The board review course states, \"Women doing vigorous exercise regularly before pregnancy can continue at this level but should discuss with their healthcare provider how and when activity should be adjusted as the pregnancy progresses.\" It also specifically mentions, \"After the first trimester, pregnant women should avoid exercises that require lying on the back as these exercises can compress the vena cava.\" Therefore, continuing the routine while avoiding exercises that compress the vena cava (such as supine exercises) is the most appropriate recommendation. This allows the woman to maintain her strength training regimen with necessary modifications for safety during pregnancy. Options A and C are overly restrictive, while option D could potentially increase the risk of injury.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00346",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 75-year-old woman with a history of falls is interested in improving her balance. Which of the following exercise prescriptions would be most appropriate for reducing her fall risk?",
+    "options": [
+      "A) 30 minutes of brisk walking 5 days per week",
+      "B) Resistance training focusing on lower body strength 3 days per week",
+      "C) Balance training exercises 3 or more days per week",
+      "D) Flexibility exercises 2 days per week"
+    ],
+    "correct_answer": "C",
+    "page_reference": "214",
+    "rationale": "The board review course states, \"Adults aged 65 and older should do balance training \u00e2\u2030\u00a5 3 days per week.\" It also mentions that \"Balance improves the ability to withstand postural sway or destabilizing stimuli.\" For an older adult with a history of falls, balance training exercises performed 3 or more days per week would be the most appropriate prescription to reduce fall risk. While options A and B can contribute to overall fitness and may indirectly improve balance, they are not as specifically targeted at fall prevention as balance training. Option D, while beneficial for overall mobility, is not directly linked to fall prevention in the literature presented in the course.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00347",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 60-year-old man with stable heart failure wants to start a resistance training program. Which of the following is the most appropriate initial prescription for his resistance training?",
+    "options": [
+      "A) 3 sets of 15 repetitions at 80% of 1-RM, 3 days per week",
+      "B) 1 set of 10-15 repetitions at 40-50% of 1-RM, 2 days per week",
+      "C) 5 sets of 5 repetitions at 90% of 1-RM, 2 days per week",
+      "D) 2 sets of 20 repetitions at 30% of 1-RM, 5 days per week"
+    ],
+    "correct_answer": "B",
+    "page_reference": "227",
+    "rationale": "The board review course provides specific guidelines for resistance training in special populations. For older adults or those new to resistance training (which would apply to this patient with heart failure), it recommends to \"start at very light or light intensity. Weights used for resistance training should be light enough to complete a set of 10-15 repetitions.\" It also states, \"Healthy older adults should do strength training that involves all major muscle groups two times per week.\" Therefore, 1 set of 10-15 repetitions at 40-50% of 1-RM, 2 days per week is the most appropriate initial prescription. The other options are either too intense or too frequent for a beginner with cardiovascular disease.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00348",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 35-year-old man with no significant medical history wants to start a high-intensity interval training (HIIT) program. Which of the following is the most crucial component when prescribing an effective HIIT regimen for this individual?",
+    "options": [
+      "A) Sustaining a consistently high intensity throughout the entire exercise session",
+      "B) Incorporating at least 60 minutes of aerobic exercise in each HIIT session",
+      "C) Allowing an increasingly longer recovery period between high intensity intervals to prevent fatigue",
+      "D) Alternating brief periods of vigorous exercise with low-intensity active recovery intervals"
+    ],
+    "correct_answer": "D",
+    "page_reference": "224",
+    "rationale": "The board review course defines High-Intensity Interval Training (HIIT) as \"a form of interval training a cardiovascular exercise strategy alternating short periods of intense anaerobic exercise with less intense recovery periods.\" The crucial component of HIIT is the alternation between brief periods of vigorous exercise and low-intensity active recovery intervals. This structure allows for higher overall work intensity than steady-state exercise while managing fatigue. Option A misses the interval nature of HIIT, option B is too long for a typical HIIT session, and option C goes against the principle of maintaining consistent work-to-rest ratios in HIIT.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00349",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 50-year-old woman with type 2 diabetes is starting an exercise program. Which of the following is the most important consideration when prescribing exercise for this patient?",
+    "options": [
+      "A) Limiting exercise sessions to 30 minutes to prevent hypoglycaemia",
+      "B) Focusing exclusively on resistance training to improve insulin sensitivity",
+      "C) Monitoring blood glucose before and after each exercise session",
+      "D) Avoiding exercise within 2 hours of taking oral diabetes medications"
+    ],
+    "correct_answer": "C",
+    "page_reference": "234-235",
+    "rationale": "The board review course emphasizes the importance of blood glucose monitoring for patients with diabetes who are exercising. It states, \"Require careful, frequent monitoring of blood glucose when initiating physical activity, especially for patients who are on insulin therapy.\" Specifically, it recommends to \"Check blood glucose before and after each session.\" This monitoring is crucial to prevent hypoglycaemia and to help patients understand how different types and intensities of exercise affect their blood glucose levels. Options A and B are overly restrictive and not supported by the guidelines, while option D is not a general recommendation for all oral diabetes medications.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00350",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 28-year-old woman who is 12 weeks pregnant asks about starting an exercise program. She has been sedentary prior to pregnancy. Which of the following is the most appropriate exercise recommendation?",
+    "options": [
+      "A) Avoid all exercise during the first trimester",
+      "B) Start with 150 minutes of moderate-intensity aerobic activity per week",
+      "C) Begin with high-intensity interval training to maximize cardiovascular benefits",
+      "D) Focus exclusively on flexibility and relaxation exercises"
+    ],
+    "correct_answer": "B",
+    "page_reference": "205-206",
+    "rationale": "The board review course states that for healthy pregnant women, the recommendation is \"150 minutes of moderate intensity aerobic activity per week.\" This applies to women who were previously active and those who were sedentary. The course also notes that \"Women should do at least 150 minutes of moderate-intensity, or 75 minutes of vigorous intensity, aerobic activity (or any combination of the two) each week during pregnancy and the postpartum period.\" Starting with moderate-intensity exercise is safer for a previously sedentary individual. Option A is overly restrictive, option C is too intense for someone just starting an exercise program, especially during pregnancy, and option D neglects the important cardiovascular component of exercise during pregnancy.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00351",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 65-year-old man with stable coronary artery disease has completed a cardiac rehabilitation program and wants to continue exercising independently. Which of the following is the most appropriate next step in his exercise prescription?",
+    "options": [
+      "A) Discontinue all supervised exercise and switch to a home-based program",
+      "B) Maintain the same exercise intensity and duration as in cardiac rehabilitation",
+      "C) Gradually increase exercise duration while maintaining moderate intensity",
+      "D) Rapidly progress to high-intensity interval training to maximize cardiovascular benefits"
+    ],
+    "correct_answer": "C",
+    "page_reference": "226",
+    "rationale": "The board review course discusses exercise progression in the context of the ACSM guidelines. For individuals transitioning from a supervised program (like cardiac rehabilitation) to independent exercise, a gradual increase in duration while maintaining moderate intensity is most appropriate. This approach allows for continued cardiovascular benefits while minimizing risk. The course states, \"Steadily increase at no more than 20% more each week until 20-30 minutes of continuous moderate to vigorous intensity exercise is achieved.\" Option A could lead to deconditioning, option B doesn't allow for progression, and option D is too aggressive for someone with coronary artery disease just completing cardiac rehabilitation.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00352",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 70-year-old woman with osteoporosis wants to start a resistance training program to improve her bone density. Which of the following is the most appropriate initial approach to her resistance training?",
+    "options": [
+      "A) Focus on high-repetition, low-weight exercises to avoid fracture risk",
+      "B) Begin with machine-based exercises targeting major muscle groups",
+      "C) Start with free-weight exercises focusing on functional movements",
+      "D) Incorporate only bodyweight exercises to minimize injury risk"
+    ],
+    "correct_answer": "B",
+    "page_reference": "227",
+    "rationale": "The board review course recommends that for older adults or those new to resistance training, they should \"start at very light or light intensity. Weights used for resistance training should be light enough to complete a set of 10-15 repetitions.\" It also suggests that resistance training should target all major muscle groups. For a 70-year-old with osteoporosis, machine-based exercises provide a controlled environment to target major muscle groups while minimizing the risk of falls or improper form that could lead to injury. Option A, while low-risk, may not provide sufficient stimulus for bone density improvement. Options C and D may be too challenging or risky for initial training in this population.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00353",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 55-year-old man with type 2 diabetes is starting an exercise program. His pre-exercise blood glucose level is 260 mg/dL. What is the most appropriate next step?",
+    "options": [
+      "A) Proceed with exercise as planned",
+      "B) Test for ketones before exercising",
+      "C) Postpone exercise and administer insulin",
+      "D) Consume a high-carbohydrate snack before exercising"
+    ],
+    "correct_answer": "B",
+    "page_reference": "234-235",
+    "rationale": "The board review course states, \"> 250 mg/dL \u00e2\u20ac\u201d Test for ketones. Exercise should be postponed if ketones are present.\" This guideline is crucial for patients with diabetes to ensure safe exercise. If ketones are present, it indicates a state of relative insulin deficiency, which exercise could exacerbate. Testing for ketones is the appropriate next step before deciding whether to proceed with or postpone exercise.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00354",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 68-year-old woman with type 2 diabetes and peripheral neuropathy wants to start an exercise program. Which of the following types of exercise is most appropriate to recommend?",
+    "options": [
+      "A) High-impact aerobics",
+      "B) Moderate walking",
+      "C) Barefoot running",
+      "D) Prolonged static stretching"
+    ],
+    "correct_answer": "B",
+    "page_reference": "235",
+    "rationale": "The board review course states, \"Moderate walking (weight-bearing) likely does not increase risk of foot ulcers or re-ulceration.\" For patients with diabetes and peripheral neuropathy, maintaining physical activity is important, but it's crucial to choose activities that minimize the risk of foot injuries. Moderate walking provides cardiovascular benefits while being a relatively safe option for this population. Options A and C pose too high a risk for foot injuries, while option D doesn't provide sufficient cardiovascular or metabolic benefits.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00355",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 45-year-old woman with type 1 diabetes is planning to start a new exercise routine. Which of the following strategies is most important for preventing exercise-induced hypoglycaemia?",
+    "options": [
+      "A) Exercising only in a fasted state",
+      "B) Consuming extra carbohydrates during prolonged exercise",
+      "C) Avoiding all forms of resistance training",
+      "D) Exercising only in the evening"
+    ],
+    "correct_answer": "B",
+    "page_reference": "235",
+    "rationale": "The board review course recommends, \"Patients should carry extra carbohydrates (10-15 g per 30 minutes of activity) to limit hypoglycaemia.\" For individuals with type 1 diabetes, consuming extra carbohydrates during prolonged exercise is a crucial strategy to prevent hypoglycaemiA) This approach helps maintain blood glucose levels during increased energy expenditure. The other options are not recommended strategies and may actually increase the risk of hypoglycaemia or limit the benefits of exercise.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00356",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 60-year-old man with coronary artery disease is participating in a cardiac rehabilitation program. During resistance training, he should be instructed to avoid which of the following?",
+    "options": [
+      "A) Exhaling during the concentric phase of lifting",
+      "B) Using machines instead of free weights",
+      "C) Performing the Valsalva manoeuvre",
+      "D) Exercising large muscle groups"
+    ],
+    "correct_answer": "C",
+    "page_reference": "235-236",
+    "rationale": "The board review course explicitly states, \"When resistance training, patients should avoid the Valsalva manoeuvre to avoid elevating blood pressure.\" The Valsalva manoeuvre, which involves forceful exhalation against a closed airway, can cause a sudden increase in intrathoracic pressure and blood pressure, which could be dangerous for patients with cardiovascular disease. The other options are generally considered safe or even beneficial practices during resistance training for cardiac patients.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00357",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 72-year-old woman with osteoporosis is interested in starting an exercise program to improve her bone health. Which of the following types of exercise would be most beneficial for her condition?",
+    "options": [
+      "A) Swimming",
+      "B) Cycling",
+      "C) Tennis",
+      "D) Yoga"
+    ],
+    "correct_answer": "C",
+    "page_reference": "208",
+    "rationale": "The board review course states, \"Activities such as hopping, lower body strength training, skipping and running, racquet sports provide significant impact and loading forces on bones.\" It also mentions that \"Swimming and cycling are non-load bearing, and while a very good form of exercise (particularly for those with osteoarthritis), in order to increase BDM bones must be actively loaded.\" Tennis, as a racquet sport, provides the necessary impact and loading forces to improve bone strength. While yoga can be beneficial for balance and flexibility, it doesn't provide the same level of bone-loading as tennis. Swimming and cycling, being non-weight bearing, are less effective for improving bone density.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00358",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 35-year-old pregnant woman in her second trimester asks about continuing her pre-pregnancy exercise routine, which includes high-intensity interval training (HIIT). What is the most appropriate recommendation?",
+    "options": [
+      "A) Discontinue all high-intensity exercise immediately",
+      "B) Continue HIIT but reduce the intensity by 50%",
+      "C) Maintain current HIIT routine but avoid exercises that require lying on the back",
+      "D) Switch to only low-impact, moderate-intensity exercises for the remainder of pregnancy"
+    ],
+    "correct_answer": "C",
+    "page_reference": "206",
+    "rationale": "The board review course states, \"Women doing vigorous exercise regularly before pregnancy can continue at this level but should discuss with their healthcare provider how and when activity should be adjusted as the pregnancy progresses.\" It also specifically mentions, \"After the first trimester, pregnant women should avoid exercises that require lying on the back as these exercises can compress the vena cava.\" Therefore, maintaining the current routine while avoiding supine exercises is the most appropriate recommendation. This allows the woman to continue benefiting from her established exercise habits while making necessary adjustments for safety during pregnancy.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00359",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 50-year-old man with stable heart failure (NYHA Class II) wants to start an exercise program. Which of the following is the most appropriate initial exercise prescription?",
+    "options": [
+      "A) High-intensity interval training 3 times per week",
+      "B) Resistance training focusing on large muscle groups 2 times per week",
+      "C) 150 minutes of moderate-intensity aerobic activity per week",
+      "D) 75 minutes of vigorous-intensity aerobic activity per week"
+    ],
+    "correct_answer": "C",
+    "page_reference": "233",
+    "rationale": "The board review course recommends that for special populations, including those with cardiovascular disease, the approach should be to \"Engage in regular physical activity according to their abilities and avoid inactivity when they are not able to meet these guidelines.\" For adults with chronic conditions, it suggests \"150-300 minutes per week of moderate physical activity or 75-150 minutes per week of vigorous physical activity, or a combination of both spread throughout the week.\" Given the patient's stable but symptomatic heart failure, starting with 150 minutes of moderate-intensity aerobic activity per week is the most appropriate and safe initial prescription.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00360",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 65-year-old woman with type 2 diabetes and retinopathy wants to start a resistance training program. Which of the following precautions is most important for her to observe?",
+    "options": [
+      "A) Avoid all upper body exercises",
+      "B) Only use resistance bands, not free weights",
+      "C) Avoid breath holding and exercises that significantly increase blood pressure",
+      "D) Limit resistance training to once per week"
+    ],
+    "correct_answer": "C",
+    "page_reference": "235",
+    "rationale": "The board review course states, \"For both nephropathy and retinopathy, avoid exercise that significantly increases blood pressure (heavy weight lifting, Valsalva manoeuvre, etc.).\" This precaution is crucial for patients with diabetic retinopathy to prevent potential exacerbation of their condition. Avoiding breath holding (which can occur during the Valsalva manoeuvre) and exercises that significantly increase blood pressure is the most important precaution for this patient. The other options are overly restrictive and not specifically recommended for patients with retinopathy.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00361",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 40-year-old woman with a BMI of 33 kg/m\u00c2\u00b2 wants to start an exercise program for weight loss. Which of the following exercise prescriptions is most appropriate for long-term weight loss and maintenance?",
+    "options": [
+      "A) 150 minutes of moderate-intensity aerobic activity per week",
+      "B) 75 minutes of vigorous-intensity aerobic activity per week",
+      "C) 250-300 minutes of moderate-intensity aerobic activity per week",
+      "D) 100 minutes of high-intensity interval training per week"
+    ],
+    "correct_answer": "C",
+    "page_reference": "233",
+    "rationale": "The board review course states, \"Initial goal should be 150 minutes of moderate physical activity per week, but this should build toward 250-300 minutes per week to promote long-term weight loss and weight maintenance.\" This recommendation specifically addresses the needs of patients with obesity aiming for weight loss. While options A and B meet the general physical activity guidelines, they are not sufficient for promoting significant weight loss and long-term maintenance in individuals with obesity. Option D, while intense, does not provide the total volume of activity recommended for weight loss and maintenance.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00362",
+    "section_number": "06"
+  },
+  {
+    "question_text": "A 70-year-old man with Parkinson's disease wants to improve his balance and reduce his risk of falls. Which of the following exercise modalities has been shown to be most effective in improving postural stability in Parkinson's disease patients?",
+    "options": [
+      "A) High-intensity interval training",
+      "B) Tai chi",
+      "C) Traditional strength training",
+      "D) Yoga"
+    ],
+    "correct_answer": "B",
+    "page_reference": "208",
+    "rationale": "The board review course discusses a study involving 195 patients with Parkinson's disease, which found that \"stability improved with tai chi more than with stretching or resistance training.\" This evidence supports tai chi as the most effective exercise modality for improving postural stability in Parkinson's disease patients. While the other options may offer some benefits, the specific evidence presented in the course favours tai chi for balance and stability improvements in this population.",
+    "section": "Physical Activity Science and Prescription",
+    "question_type": "General",
+    "question_id": "00363",
+    "section_number": "06"
+  }
+]

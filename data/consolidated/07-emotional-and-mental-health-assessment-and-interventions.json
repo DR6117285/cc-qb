@@ -1,0 +1,1345 @@
+[
+  {
+    "question_text": "A 45-year-old executive presents with complaints of persistent fatigue, difficulty sleeping, and irritability. She reports working long hours and feeling overwhelmed by job responsibilities. Which of the following physiological changes is most likely to be observed in this patient due to chronic stress?",
+    "options": [
+      "A) Decreased activation of the hypothalamic-pituitary-adrenal (HPA) axis",
+      "B) Reduced production of catecholamines",
+      "C) Increased parasympathetic nervous system activity",
+      "D) Impaired immune function and increased inflammation"
+    ],
+    "correct_answer": "D",
+    "page_reference": "248",
+    "rationale": "The correct answer is D) Impaired immune function and increased inflammation. The board review course states on page 248 that chronic stress can lead to \"Impaired immune function\" and \"Inflammation.\" This patient is presenting with symptoms consistent with chronic stress, including fatigue, sleep difficulties, and irritability. Chronic activation of the stress response leads to prolonged elevation of stress hormones, which can suppress immune function and promote inflammatory processes in the body.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070001",
+    "section_number": "07",
+    "tags": [
+      "stress-management",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A 38-year-old woman with a history of type 2 diabetes presents with symptoms of depression. Recent lab work shows poor glycaemic control (HbA1c 8.5%). Which of the following statements best describes the relationship between depression and diabetes in this patient?",
+    "options": [
+      "A) Depression is likely a consequence of poor glycaemic control",
+      "B) The patient's diabetes increases her risk of developing depression by 15-20%",
+      "C) Depression and diabetes have a bidirectional association",
+      "D) Depression alters glucose metabolism but does not affect insulin sensitivity"
+    ],
+    "correct_answer": "C",
+    "page_reference": "249",
+    "rationale": "The correct answer is C) Depression and diabetes have a bidirectional association. The board review course states on page 249 that \"MDD and type 2 diabetes have a bidirectional association (a diagnosis of MDD predicts a future type 2 diabetes diagnosis and vice-versa).\" This means that not only can diabetes increase the risk of developing depression, but depression can also increase the risk of developing diabetes.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070002",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "diabetes"
+    ]
+  },
+  {
+    "question_text": "A 52-year-old man with coronary artery disease is diagnosed with major depressive disorder (MDD). Which of the following best describes the impact of MDD on this patient's cardiovascular risk?",
+    "options": [
+      "A) MDD doubles the risk of cardiac events, independent of other cardiovascular risk factors",
+      "B) MDD increases cardiac risk by 15-20% in patients with coronary artery disease",
+      "C) MDD is a secondary risk factor for developing ischemic heart disease",
+      "D) MDD increases abnormal platelet adherence but does not affect endothelial function"
+    ],
+    "correct_answer": "A",
+    "page_reference": "250",
+    "rationale": "The correct answer is A) MDD doubles the risk of cardiac events, independent of other cardiovascular risk factors. The board review course states on page 250 that \"MDD doubles cardiac events, even when controlling for ejection fraction and number of blocked arteries.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070003",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_text": "A primary care physician is implementing a stress screening protocol in their practice. Which of the following statements best describes the recommended approach for stress screening and management in primary care?",
+    "options": [
+      "A) Screen all patients using the Perceived Stress Scale and provide stress management plans only for those with high scores",
+      "B) Conduct a brief discussion on stress with all patients and use the Perceived Stress Scale for those reporting significant stress",
+      "C) Use the Patient Health Questionnaire-2 (PHQ-2) as an initial screen for stress in all patients",
+      "D) Provide stress management plans only for patients with diagnosed anxiety or depression"
+    ],
+    "correct_answer": "B",
+    "page_reference": "250",
+    "rationale": "The correct answer is B) Conduct a brief discussion on stress with all patients and use the Perceived Stress Scale for those reporting significant stress. The board review course states on page 250 that \"A brief discussion on stress and its role in a healthy lifestyle is recommended for all patients\" and \"Screening can be done successfully with the Perceived Stress Scale (PSS), a brief stress assessment that will help identify which individuals need closer follow up.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070004",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "stress-management"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old woman presents with symptoms of depression. The primary care provider decides to use the Patient Health Questionnaire two-question screening tool (PHQ-2). If the patient scores a 3 on the PHQ-2, which of the following is the most appropriate next step?",
+    "options": [
+      "A) Diagnose the patient with major depressive disorder",
+      "B) Initiate treatment with a selective serotonin reuptake inhibitor (SSRI)",
+      "C) Conduct further assessment using the PHQ-9, Hamilton Depression Scale, or Beck Depression Inventory",
+      "D) Refer the patient to a psychiatrist for a comprehensive evaluation"
+    ],
+    "correct_answer": "C",
+    "page_reference": "251-252",
+    "rationale": "The correct answer is C) Conduct further assessment using the PHQ-9, Hamilton Depression Scale, or Beck Depression Inventory. The board review course states on page 251-252 that \"The screen is positive if the score is â‰¥ 3. A positive screen requires further assessment with the nine-question Patient Health Questionnaire (PHQ-9), the Hamilton depression scale (HAM-D), or Beck Depression Inventory (BDI-II).\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070005",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A 42-year-old man presents with symptoms of anxiety. The healthcare provider decides to use the general anxiety disorder two-question screening tool (GAD-2). Which of the following statements is true regarding the use and interpretation of the GAD-2?",
+    "options": [
+      "A) A score of 2 or above on the GAD-2 is considered a positive screen",
+      "B) The GAD-2 asks about symptoms over the past month",
+      "C) A positive GAD-2 screen should be followed up with the Hamilton Anxiety Rating Scale, GAD-7, or Beck Anxiety Inventory",
+      "D) The GAD-2 is part of the diagnostic criteria for generalized anxiety disorder in the DSM-5-TR"
+    ],
+    "correct_answer": "C",
+    "page_reference": "252-253",
+    "rationale": "The correct answer is C) A positive GAD-2 screen should be followed up with the Hamilton Anxiety Rating Scale, GAD-7, or Beck Anxiety Inventory. The board review course states on page 252 that \"If positive (score â‰¥ 3), follow up with the Hamilton Anxiety Rating Scale (HAM-A), the seven question GAD-7, or Beck Anxiety Inventory (BAI) diagnostic criteria, or consult the DSM-5-TR.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070006",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is developing a treatment plan for a patient with major depressive disorder (MDD). Which of the following statements best describes the current evidence-based approach to lifestyle interventions for MDD?",
+    "options": [
+      "A) Lifestyle interventions should only be implemented after pharmacotherapy has failed",
+      "B) Physical activity has shown efficacy comparable to cognitive behavioural therapy in treating depression",
+      "C) Dietary interventions have strong evidence for preventing MDD but not for treating existing cases",
+      "D) Mindfulness-based stress reduction (MBSR) has been proven more effective than antidepressant medication for MDD"
+    ],
+    "correct_answer": "B",
+    "page_reference": "259",
+    "rationale": "The correct answer is B) Physical activity has shown efficacy comparable to cognitive behavioural therapy in treating depression. The board review course states on page 259 that \"The impact of physical exercise on treating depression is comparable to CBT.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070007",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "cognitive-behavioral-therapy"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old woman with a history of coronary artery disease and major depressive disorder (MDD) is concerned about her cardiovascular risk. Which of the following best describes the relationship between MDD and cardiovascular disease in this patient?",
+    "options": [
+      "A) MDD is an independent risk factor for cardiac events but does not affect disease progression",
+      "B) MDD increases cardiac risk primarily through its impact on medication adherence",
+      "C) MDD doubles the risk of cardiac events, even when controlling for ejection fraction and number of blocked arteries",
+      "D) MDD increases cardiac risk by altering platelet function but does not affect heart rate variability"
+    ],
+    "correct_answer": "C",
+    "page_reference": "250",
+    "rationale": "The correct answer is C) MDD doubles the risk of cardiac events, even when controlling for ejection fraction and number of blocked arteries. The board review course explicitly states this on page 250: \"MDD doubles cardiac events, even when controlling for ejection fraction and number of blocked arteries.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070008",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is counselling a patient on the relationship between dietary patterns and mental health. Which of the following statements best describes the current evidence on this relationship?",
+    "options": [
+      "A) Nutrient deficiencies, rather than overall dietary patterns, are the primary dietary factor in depression risk",
+      "B) A diet high in fruits, vegetables, whole grains, and fish is associated with increased risk of depression",
+      "C) Consumption of fast food and commercial baked goods is associated with lower risk of depression",
+      "D) Dietary patterns high in plant foods are associated with improved mood and lower risk of depression"
+    ],
+    "correct_answer": "D",
+    "page_reference": "260",
+    "rationale": "The correct answer is D) Dietary patterns high in plant foods are associated with improved mood and lower risk of depression. The board review course states on page 260 that \"A dietary pattern characterized by high intake of fruit, vegetables, whole grains, fish, olive oil, low-fat dairy, and antioxidants, coupled with low intake of animal foods, was associated with a decreased risk of depression.\" It also mentions several studies showing positive associations between plant-based diets and improved mood.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070009",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old man presents with symptoms of anxiety and depression. The healthcare provider decides to use the four-item Patient Health Questionnaire (PHQ-4) as an initial screening tool. Which of the following statements is true regarding the use and interpretation of the PHQ-4?",
+    "options": [
+      "A) The PHQ-4 only screens for depression and not anxiety",
+      "B) A score of 6 or higher on the PHQ-4 indicates severe symptoms",
+      "C) The PHQ-4 asks about symptoms over the past month",
+      "D) Any positive score on the PHQ-4 should lead to further assessment for both depression and anxiety"
+    ],
+    "correct_answer": "D",
+    "page_reference": "253",
+    "rationale": "The correct answer is D) Any positive score on the PHQ-4 should lead to further assessment for both depression and anxiety. The board review course states on page 253 that \"Any positive score (score â‰¥ 3) should lead to further assessment for depression or anxiety.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070010",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "cognitive-behavioral-therapy"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is developing a treatment plan for a patient with generalized anxiety disorder (GAD). Which of the following combinations of interventions is most strongly supported by current evidence for the treatment of GAD?",
+    "options": [
+      "A) Cognitive Behavioural Therapy, benzodiazepines, and dietary changes",
+      "B) Selective Serotonin Reuptake Inhibitors, physical activity, and stress management techniques",
+      "C) Mindfulness-Based Stress Reduction, St. John's Wort, and sleep hygiene education",
+      "D) Psychodynamic therapy, omega-3 supplementation, and yoga"
+    ],
+    "correct_answer": "B",
+    "page_reference": "259",
+    "rationale": "The correct answer is B) Selective Serotonin Reuptake Inhibitors, physical activity, and stress management techniques. The board review course states on page 259 that first-line treatments for GAD include \"Psychotherapy, with CBT having the best evidence\" and \"Pharmacotherapy: Selective serotonin reuptake inhibitors (SSRIs).\" It also mentions physical activity and stress management as important lifestyle interventions for anxiety.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070011",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "cognitive-behavioral-therapy"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old woman with a history of major depressive disorder (MDD) is interested in incorporating dietary changes as part of her treatment plan. Based on current evidence, which of the following dietary patterns is most likely to have a positive impact on her depressive symptoms?",
+    "options": [
+      "A) A ketogenic diet high in saturated fats and low in carbohydrates",
+      "B) A diet rich in refined grains, dairy products, and red meat",
+      "C) A Mediterranean-style diet high in fruits, vegetables, whole grains, and fish",
+      "D) A low-fat diet with emphasis on lean meats and reduced calorie intake"
+    ],
+    "correct_answer": "C",
+    "page_reference": "260",
+    "rationale": "The correct answer is C) A Mediterranean-style diet high in fruits, vegetables, whole grains, and fish. The board review course states on page 260 that \"A dietary pattern characterized by high intake of fruit, vegetables, whole grains, fish, olive oil, low-fat dairy, and antioxidants, coupled with low intake of animal foods, was associated with a decreased risk of depression.\" This description closely matches a Mediterranean-style diet.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070012",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "physical-activity"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is counselling a patient with coronary artery disease and newly diagnosed major depressive disorder (MDD). Which of the following statements best describes the impact of MDD on this patient's cardiovascular health?",
+    "options": [
+      "A) MDD increases the risk of cardiac events by 15-20% in patients with coronary artery disease",
+      "B) MDD doubles the risk of cardiac events, independent of other cardiovascular risk factors",
+      "C) MDD primarily affects cardiovascular health through its impact on medication adherence",
+      "D) MDD increases inflammation but does not directly affect heart rate variability"
+    ],
+    "correct_answer": "B",
+    "page_reference": "250",
+    "rationale": "The correct answer is B) MDD doubles the risk of cardiac events, independent of other cardiovascular risk factors. The board review course states on page 250 that \"MDD doubles cardiac events, even when controlling for ejection fraction and number of blocked arteries.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070013",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old woman presents with symptoms of depression and anxiety. The healthcare provider decides to use the four-item Patient Health Questionnaire (PHQ-4) for initial screening. The patient scores a total of 7 on the PHQ-4. Based on this score, which of the following is the most appropriate next step?",
+    "options": [
+      "A) Diagnose the patient with major depressive disorder and generalized anxiety disorder",
+      "B) Initiate treatment with a selective serotonin reuptake inhibitor (SSRI)",
+      "C) Conduct further assessment using more comprehensive tools for both depression and anxiety",
+      "D) Refer the patient to a psychiatrist without further evaluation"
+    ],
+    "correct_answer": "C",
+    "page_reference": "253",
+    "rationale": "The correct answer is C) Conduct further assessment using more comprehensive tools for both depression and anxiety. The board review course states on page 253 that for the PHQ-4, \"Any positive score (score â‰¥ 3) should lead to further assessment for depression or anxiety.\" A score of 7 falls into the \"moderate\" range (6-8) according to the scoring guide provided in the course.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070014",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is developing a treatment plan for a patient with major depressive disorder (MDD). Which of the following statements best describes the current evidence-based approach to physical activity interventions for MDD?",
+    "options": [
+      "A) Physical activity is only effective as an adjunct to pharmacotherapy in severe MDD",
+      "B) High-intensity interval training has shown superior efficacy compared to moderate continuous exercise in treating MDD",
+      "C) The antidepressant effects of physical activity are primarily due to increased social interaction during group exercise",
+      "D) Physical activity has shown efficacy comparable to cognitive behavioural therapy in treating depression"
+    ],
+    "correct_answer": "D",
+    "page_reference": "259",
+    "rationale": "The correct answer is D) Physical activity has shown efficacy comparable to cognitive behavioural therapy in treating depression. The board review course states on page 259 that \"The impact of physical exercise on treating depression is comparable to CBT.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070015",
+    "section_number": "07",
+    "tags": [
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old man with a history of generalized anxiety disorder (GAD) is interested in incorporating mindfulness practices into his treatment plan. Based on current evidence, which of the following statements best describes the effects of mindfulness-based interventions on anxiety disorders?",
+    "options": [
+      "A) Mindfulness-based interventions have shown superior efficacy to cognitive behavioural therapy for GAD",
+      "B) Mindfulness practices primarily reduce anxiety symptoms by increasing serotonin levels in the brain",
+      "C) Mindfulness-based stress reduction (MBSR) has moderate evidence for improving anxiety symptoms",
+      "D) The benefits of mindfulness interventions for anxiety are limited to the duration of the practice sessions"
+    ],
+    "correct_answer": "C",
+    "page_reference": "255",
+    "rationale": "The correct answer is C) Mindfulness-based stress reduction (MBSR) has moderate evidence for improving anxiety symptoms. The board review course states on page 255 that \"Mindfulness meditation programs had moderate evidence of improved anxiety, depression, and pain.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070016",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "mindfulness"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is counselling a patient on the potential neuroplastic changes associated with mindfulness practices. Which of the following statements most accurately describes the neurobiological effects of sustained mindfulness practice?",
+    "options": [
+      "A) Mindfulness practice primarily affects the occipital lobe, enhancing visual processing",
+      "B) Regular mindfulness meditation leads to decreased grey matter density in the hippocampus",
+      "C) Mindfulness practice increases the thickness of the prefrontal cortex and Gray matter density in the hippocampus",
+      "D) The neuroplastic effects of mindfulness are limited to individuals under 30 years of age due to decreased neural plasticity in older adults"
+    ],
+    "correct_answer": "C",
+    "page_reference": "256",
+    "rationale": "The correct answer is C) Mindfulness practice increases the thickness of the prefrontal cortex and grey matter density in the hippocampus. The board review course states on page 256 that 8 weeks of mindfulness training can \"Increase thickness of the prefrontal cortex responsible for processing of information, decision making, and memory\" and \"Increase grey matter density in the hippocampus, which is responsible for learning and new memory formation, emotional regulation, perspective, and self-awareness.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070017",
+    "section_number": "07",
+    "tags": [
+      "mindfulness"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old woman with a history of coronary artery disease is interested in incorporating mindfulness practices into her cardiac rehabilitation program. Based on current evidence, which of the following statements best describes the potential cardiovascular benefits of mindfulness interventions?",
+    "options": [
+      "A) Mindfulness practices have been shown to directly reduce atherosclerotic plaque formation",
+      "B) Mindfulness-based stress reduction (MBSR) can lead to improved heart rate variability and reduced blood pressure",
+      "C) The cardiovascular benefits of mindfulness are limited to patients with pre-existing heart disease",
+      "D) Mindfulness interventions are as effective as statins in reducing LDL cholesterol levels"
+    ],
+    "correct_answer": "B",
+    "page_reference": "256",
+    "rationale": "The correct answer is B) Mindfulness-based stress reduction (MBSR) can lead to improved heart rate variability and reduced blood pressure. While the board review course doesn't explicitly state this, it does mention on page 256 that mindfulness leads to \"lasting decreases in physical and psychological symptoms\" and \"Reduces or helps alleviate inflammation, response to chronic pain, anxiety, depression, and addiction.\" Given that improved heart rate variability and reduced blood pressure are well-documented benefits of mindfulness in other literature, this is the most accurate statement among the options provided.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070018",
+    "section_number": "07",
+    "tags": [
+      "cardiovascular-disease",
+      "mindfulness"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is developing a comprehensive treatment plan for a patient with major depressive disorder (MDD). Which of the following combinations of interventions is most strongly supported by current evidence for the treatment of MDD?",
+    "options": [
+      "A) Selective Serotonin Reuptake Inhibitors, cognitive behavioural therapy, physical activity, and Mediterranean-style diet",
+      "B) Tricyclic antidepressants, psychodynamic therapy, high-intensity interval training, and ketogenic diet",
+      "C) Monoamine oxidase inhibitors, interpersonal therapy, yoga, and high-protein diet",
+      "D) Benzodiazepines, supportive therapy, tai chi, and intermittent fasting"
+    ],
+    "correct_answer": "A",
+    "page_reference": "257-260",
+    "rationale": "The correct answer is A) Selective Serotonin Reuptake Inhibitors, cognitive behavioural therapy, physical activity, and Mediterranean-style diet. The board review course supports this combination of interventions. On page 259, it mentions SSRIs as first-line pharmacotherapy and states that \"The impact of physical exercise on treating depression is comparable to CBT.\" On page 260, it describes the benefits of a Mediterranean-style diet for depression.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070019",
+    "section_number": "07",
+    "tags": [
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A 60-year-old man with a history of chronic stress is interested in incorporating mindfulness practices into his daily routine. Which of the following best describes the potential benefits of mindfulness for this patient?",
+    "options": [
+      "A) Mindfulness primarily improves physical health outcomes but has limited effects on mental well-being",
+      "B) Mindfulness leads to lasting decreases in psychological symptoms such as anxiety and depression",
+      "C) Mindfulness is only effective when practiced for at least 2 hours daily",
+      "D) Mindfulness benefits are limited to individuals under 50 years of age"
+    ],
+    "correct_answer": "B",
+    "page_reference": "256",
+    "rationale": "The correct answer is B) Mindfulness leads to lasting decreases in psychological symptoms such as anxiety and depression. The board review course states on page 256 that mindfulness \"Leads to lasting decreases in physical and psychological symptoms\" and specifically mentions that it \"Reduces or helps alleviate inflammation, response to chronic pain, anxiety, depression, and addiction.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070020",
+    "section_number": "07",
+    "tags": [
+      "stress-management",
+      "mindfulness"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman is seeking advice on improving her emotional well-being. Which of the following self-management techniques is NOT recommended by the board review course for promoting emotional well-being and resilience?",
+    "options": [
+      "A) Keeping a gratitude journal",
+      "B) Limiting screen time",
+      "C) Isolating oneself to focus on personal growth",
+      "D) Incorporating activities that draw on creativity"
+    ],
+    "correct_answer": "C",
+    "page_reference": "253-254",
+    "rationale": "The correct answer is C) Isolating oneself to focus on personal growth is not recommendeD) The board review course emphasizes the importance of social connections and support. On page 254, it mentions \"Connect with others; face-to-face interaction is especially encouraged for adolescents\" and \"Utilize social support teams for assistance with behaviour changes.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070021",
+    "section_number": "07",
+    "tags": [
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A primary care physician is counselling a patient on the relationship between work-related stress and cardiovascular health. Which of the following statements is most accurate based on the board review course?",
+    "options": [
+      "A) Work stress has no significant impact on cardiovascular disease risk",
+      "B) Only high-level executives are at risk for work-related cardiovascular problems",
+      "C) Long work hours (3-4 hours of overtime a day) have been associated with increased heart disease risk",
+      "D) Work stress primarily affects cardiovascular health through its impact on sleep patterns"
+    ],
+    "correct_answer": "C",
+    "page_reference": "250",
+    "rationale": "The correct answer is C) Long work hours (3-4 hours of overtime a day) have been associated with increased heart disease risk. The board review course states on page 250 that \"One study, including 22,430 Finnish municipal workers, age 19-62, looked at the effect of long work hours (3-4 hours of overtime a day). At the 7.5-year follow-up, the study found the long hours had increased heart disease risk.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070022",
+    "section_number": "07",
+    "tags": [
+      "stress-management",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is educating a patient about the relationship between nutrition and mental health. Which of the following statements best reflects the current evidence as presented in the board review course?",
+    "options": [
+      "A) Nutrient deficiencies are the primary dietary factor in depression risk",
+      "B) A dietary pattern high in fruits, vegetables, whole grains, and fish is associated with a decreased risk of depression",
+      "C) Fast food consumption has no significant impact on mental health",
+      "D) The relationship between diet and mental health is limited to macronutrient composition"
+    ],
+    "correct_answer": "B",
+    "page_reference": "260",
+    "rationale": "The correct answer is B) A dietary pattern high in fruits, vegetables, whole grains, and fish is associated with a decreased risk of depression. The board review course states on page 260 that \"A dietary pattern characterized by high intake of fruit, vegetables, whole grains, fish, olive oil, low-fat dairy, and antioxidants, coupled with low intake of animal foods, was associated with a decreased risk of depression.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070023",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old patient with a history of coronary artery disease is interested in understanding how lifestyle factors might impact their condition. Which of the following statements about the relationship between lifestyle factors and cardiovascular health is most accurate according to the board review course?",
+    "options": [
+      "A) Lifestyle factors have minimal impact on cardiovascular health compared to genetic predisposition",
+      "B) Only physical activity has been shown to significantly impact cardiovascular health",
+      "C) Stress management techniques have no effect on cardiovascular outcomes",
+      "D) Multiple lifestyle factors, including diet, physical activity, and stress management, can significantly impact cardiovascular health"
+    ],
+    "correct_answer": "D",
+    "page_reference": "248-250",
+    "rationale": "The correct answer is D) Multiple lifestyle factors, including diet, physical activity, and stress management, can significantly impact cardiovascular health. Throughout pages 248-250, the board review course discusses various lifestyle factors and their impact on cardiovascular health, including the effects of chronic stress, physical activity, and dietary patterns on cardiovascular risk and outcomes.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070024",
+    "section_number": "07",
+    "tags": [
+      "stress-management",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_text": "A healthcare provider is implementing a screening protocol for mental health in their primary care practice. According to the board review course, which of the following screening tools is recommended as an initial brief screen for both depression and anxiety?",
+    "options": [
+      "A) Patient Health Questionnaire-2 (PHQ-2)",
+      "B) Generalized Anxiety Disorder-2 (GAD-2)",
+      "C) Patient Health Questionnaire-4 (PHQ-4)",
+      "D) Beck Depression Inventory (BDI)"
+    ],
+    "correct_answer": "C",
+    "page_reference": "253",
+    "rationale": "The correct answer is C) Patient Health Questionnaire-4 (PHQ-4). The board review course states on page 253 that the PHQ-4 is \"a brief screening for depression and anxiety.\" It includes questions from both the PHQ-2 (depression screen) and the GAD-2 (anxiety screen), making it an efficient initial screening tool for both conditions in primary care settings.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070025",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old patient with generalized anxiety disorder (GAD) is interested in non-pharmacological treatments. Which of the following interventions has the strongest evidence for treating GAD according to the board review course?",
+    "options": [
+      "A) Acupuncture",
+      "B) Cognitive Behavioural Therapy (CBT)",
+      "C) Herbal supplements",
+      "D) Light therapy"
+    ],
+    "correct_answer": "B",
+    "page_reference": "259",
+    "rationale": "The correct answer is B) Cognitive Behavioural Therapy (CBT). The board review course states on page 259 that for GAD, \"Psychotherapy, with CBT having the best evidence\" is one of the first-line treatments.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070026",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "mindfulness"
+    ]
+  },
+  {
+    "question_text": "Which of the following statements best describes the relationship between folate supplementation and antidepressant effectiveness?",
+    "options": [
+      "A) Folate has no impact on antidepressant efficacy",
+      "B) Folate decreases the effectiveness of antidepressants",
+      "C) Folate increases serotonin and dopamine production and improves antidepressant efficacy or response time",
+      "D) Folate only improves antidepressant efficacy in patients with diagnosed folate deficiency"
+    ],
+    "correct_answer": "C",
+    "page_reference": "261",
+    "rationale": "The correct answer is C) Folate increases serotonin and dopamine production and improves antidepressant efficacy or response time. The board review course states on page 261 that \"Folate (vitamin B9) can help in the production of serotonin and dopamine. When used with antidepressant medication, it has been shown to improve the efficacy or shorten the response time.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070027",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is counselling a patient on the potential benefits of mindfulness practices. Which of the following is NOT mentioned as a benefit of mindfulness in the board review course?",
+    "options": [
+      "A) Reduced rumination",
+      "B) Improved memory",
+      "C) Increased emotional reactivity",
+      "D) Higher relationship satisfaction"
+    ],
+    "correct_answer": "C",
+    "page_reference": "262",
+    "rationale": "The correct answer is C) Increased emotional reactivity. The board review course states on page 262 that mindfulness has many known benefits, including \"Reduced rumination, improved memory, sustained attention, improved focus, stress reduction, less emotional reactivity, improved cognitive flexibility, and higher relationship satisfaction and ability to deal with conflict.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070028",
+    "section_number": "07",
+    "tags": [
+      "mindfulness"
+    ]
+  },
+  {
+    "question_text": "Which of the following best describes the impact of cognitive behavioural therapy (CBT) on brain function according to the board review course?",
+    "options": [
+      "A) CBT has no measurable impact on brain function",
+      "B) CBT decreases prefrontal cortex activity",
+      "C) CBT increases grey matter in the prefrontal cortex",
+      "D) CBT only affects brain function in adolescents"
+    ],
+    "correct_answer": "C",
+    "page_reference": "256",
+    "rationale": "The correct answer is C) CBT increases grey matter in the prefrontal cortex. The board review course states on page 256 that CBT training can \"Increase grey matter in the prefrontal cortex.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070029",
+    "section_number": "07",
+    "tags": [
+      "cognitive-behavioral-therapy"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old patient with a history of major depressive disorder (MDD) is interested in dietary interventions to support their mental health. Based on the board review course, which of the following dietary patterns is most likely to have a positive impact on depressive symptoms?",
+    "options": [
+      "A) A high-protein, low-carbohydrate diet",
+      "B) A diet rich in processed foods and refined sugars",
+      "C) A Mediterranean-style diet high in fruits, vegetables, whole grains, and fish",
+      "D) A very low-fat diet with minimal animal products"
+    ],
+    "correct_answer": "C",
+    "page_reference": "260",
+    "rationale": "The correct answer is C) A Mediterranean-style diet high in fruits, vegetables, whole grains, and fish. The board review course states on page 260 that \"A dietary pattern characterized by high intake of fruit, vegetables, whole grains, fish, olive oil, low-fat dairy, and antioxidants, coupled with low intake of animal foods, was associated with a decreased risk of depression.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070030",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "According to the board review course, which of the following statements about the relationship between physical activity and depression is most accurate?",
+    "options": [
+      "A) Physical activity is only effective as an adjunct to medication in treating depression",
+      "B) High-intensity exercise is the only form of physical activity that shows benefits for depression",
+      "C) The impact of physical exercise on treating depression is comparable to cognitive behavioural therapy",
+      "D) Physical activity is only beneficial in preventing depression, not in treating existing cases"
+    ],
+    "correct_answer": "C",
+    "page_reference": "259",
+    "rationale": "The correct answer is C) The impact of physical exercise on treating depression is comparable to cognitive behavioural therapy. The board review course states on page 259 that \"The impact of physical exercise on treating depression is comparable to CBT.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070031",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT mentioned as a physiological change associated with chronic stress in the board review course?",
+    "options": [
+      "A) Impaired immune function",
+      "B) Increased bone density",
+      "C) Insulin resistance",
+      "D) Increased glucose, cholesterol, and triglycerides"
+    ],
+    "correct_answer": "B",
+    "page_reference": "248",
+    "rationale": "The correct answer is B) Increased bone density. The board review course lists various physiological changes associated with chronic stress on page 248, including impaired immune function, decreased bone density, insulin resistance, and increased glucose, cholesterol, and triglycerides. Increased bone density is not mentioned as an effect of chronic stress.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070032",
+    "section_number": "07",
+    "tags": [
+      "stress-management"
+    ]
+  },
+  {
+    "question_text": "According to the board review course, which of the following screening tools is recommended for initial depression screening in primary care settings?",
+    "options": [
+      "A) Beck Depression Inventory (BDI)",
+      "B) Hamilton Depression Rating Scale (HAM-D)",
+      "C) Patient Health Questionnaire-2 (PHQ-2)",
+      "D) Montgomery-Ã…sberg Depression Rating Scale (MADRS)"
+    ],
+    "correct_answer": "C",
+    "page_reference": "251",
+    "rationale": "The correct answer is C) Patient Health Questionnaire-2 (PHQ-2). The board review course states on page 251 that \"A simple screen for depressed mood can be done with the Patient Health Questionnaire two-question screening tool (PHQ-2).\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070033",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "Which of the following statements best describes the relationship between diet and mental health according to the board review course?",
+    "options": [
+      "A) Only specific nutrient deficiencies are linked to mental health outcomes",
+      "B) Dietary patterns, rather than individual nutrients, are more likely to account for depression symptoms",
+      "C) The impact of diet on mental health is limited to short-term mood changes",
+      "D) Only plant-based diets have been shown to affect mental health outcomes"
+    ],
+    "correct_answer": "B",
+    "page_reference": "260",
+    "rationale": "The correct answer is B) Dietary patterns, rather than individual nutrients, are more likely to account for depression symptoms. The board review course states on page 260 that \"Dietary patterns, rather than nutrient deficiencies, are more likely to account for depression symptoms.\"",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070034",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "According to the board review course, which of the following is a recommended self-management technique for promoting emotional well-being and resilience?",
+    "options": [
+      "A) Isolating oneself from social interactions",
+      "B) Keeping a gratitude journal",
+      "C) Avoiding all forms of stress",
+      "D) Focusing solely on work or academic achievements"
+    ],
+    "correct_answer": "B",
+    "page_reference": "253",
+    "rationale": "The correct answer is B) Keeping a gratitude journal. The board review course mentions on page 253 that keeping a gratitude journal is one of the recommended self-management techniques for promoting emotional well-being and resilience.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070035",
+    "section_number": "07",
+    "tags": [
+      "stress-management"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman presents to her primary care physician with complaints of feeling overwhelmed and stresseD) The physician decides to use the PHQ-4 as an initial screening tool. Which of the following is NOT a component of the PHQ-4?",
+    "options": [
+      "A) Feeling nervous, anxious, or on edge",
+      "B) Not being able to stop or control worrying",
+      "C) Feeling down, depressed, or hopeless",
+      "D) Experiencing changes in appetite or weight"
+    ],
+    "correct_answer": "D",
+    "page_reference": "253",
+    "rationale": "The PHQ-4 is a brief screening tool for depression and anxiety. It includes four questions rated on a scale of 0 to 3. The correct components are: feeling nervous, anxious, or on edge; not being able to stop or control worrying; feeling down, depressed, or hopeless; and little interest or pleasure in doing things. Changes in appetite or weight (option D) are not part of the PHQ-4, but are symptoms assessed in more comprehensive depression screening tools.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070036",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "stress-management"
+    ]
+  },
+  {
+    "question_text": "A primary care physician is implementing a new screening protocol for anxiety disorders. Which of the following statements about the GAD-2 is correct?",
+    "options": [
+      "A) A score of 2 or above is considered a positive screen",
+      "B) It asks about symptoms over the past month",
+      "C) A positive screen should be followed up with more comprehensive assessment",
+      "D) It is part of the diagnostic criteria for generalized anxiety disorder in the DSM-5-TR"
+    ],
+    "correct_answer": "C",
+    "page_reference": "252-253",
+    "rationale": "The correct answer is C) The board review course states that if positive (score â‰¥ 3), follow up with the Hamilton Anxiety Rating Scale (HAM-A), the seven question GAD-7, or Beck Anxiety Inventory (BAI) diagnostic criteria, or consult the DSM-5-TR. Option A is incorrect as a score of 3 or above is considered positive, not 2. Option B is incorrect as it asks about symptoms over the past two weeks, not a month. Option D is incorrect as it is a screening tool, not part of the diagnostic criteria.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070037",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "Which of the following is considered an adverse childhood experience (ACE) according to the Centers for Disease Control and Prevention?",
+    "options": [
+      "A) Experiencing chronic illness during childhood",
+      "B) Witnessing violence in the household",
+      "C) Having a learning disability",
+      "D) Experiencing frequent relocations"
+    ],
+    "correct_answer": "B",
+    "page_reference": "246",
+    "rationale": "The correct answer is B) According to the board review course, experiencing or witnessing violence is considered a major adverse childhood experience (ACE). Options A, C, and D, while potentially stressful, are not specifically listed as ACEs by the CDC) The major examples of ACEs include experiencing abuse or neglect, experiencing or witnessing violence, having a family member attempt or die by suicide, and living in a household with substance use, mental health problems, or instability.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070038",
+    "section_number": "07",
+    "tags": [
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "According to the board review course, approximately what percentage of primary care visits are related to stress and lifestyle?",
+    "options": [
+      "A) 40%",
+      "B) 60%",
+      "C) 75%",
+      "D) 80%"
+    ],
+    "correct_answer": "D",
+    "page_reference": "250",
+    "rationale": "The correct answer is D) The board review course states that 80% of primary care provider visits are related to stress and lifestyle. This highlights the significant impact that stress and lifestyle factors have on overall health and the importance of addressing these issues in primary care settings. The other percentages (40%, 60%, and 75%) are not mentioned in the course material in relation to this statistic.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070039",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "epidemiology-and-burden"
+    ]
+  },
+  {
+    "question_text": "When administering the Perceived Stress Scale, over what time period should patients consider their feelings and thoughts?",
+    "options": [
+      "A) The past week",
+      "B) The past two weeks",
+      "C) The past month",
+      "D) The past six months"
+    ],
+    "correct_answer": "C",
+    "page_reference": "251",
+    "rationale": "The correct answer is C) The Perceived Stress Scale assesses symptoms of stress over the past month. This timeframe allows for a more comprehensive view of the patient's stress levels, capturing both acute and more persistent stressors. Options A, B, and D represent incorrect timeframes that are not consistent with the guidelines for administering the Perceived Stress Scale as described in the board review course.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070040",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "stress-management"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT a key element of Mindfulness-Based Stress Reduction (MBSR) as described in the board review course?",
+    "options": [
+      "A) Paying attention on purpose to thoughts and feelings",
+      "B) Being fully present in the moment",
+      "C) Analyzing and interpreting past experiences",
+      "D) Withholding judgment or interpretation"
+    ],
+    "correct_answer": "C",
+    "page_reference": "254-255",
+    "rationale": "The correct answer is C) Analysing and interpreting past experiences is not a key element of MBSR. According to the board review course, the main elements of MBSR include paying attention on purpose to what you are thinking and feeling, being fully present in the moment, being aware of your surroundings, and withholding judgment or interpretation. MBSR focuses on present-moment awareness rather than analysis of past experiences.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070041",
+    "section_number": "07",
+    "tags": [
+      "mindfulness"
+    ]
+  },
+  {
+    "question_text": "How does folate supplementation potentially impact antidepressant effectiveness?",
+    "options": [
+      "A) It decreases serotonin production but improves antidepressant response time",
+      "B) It increases serotonin and dopamine production and may improve antidepressant efficacy",
+      "C) It has no effect on neurotransmitter production but reduces antidepressant side effects",
+      "D) It increases serotonin but decreases dopamine production, with no effect on antidepressant efficacy"
+    ],
+    "correct_answer": "B",
+    "page_reference": "261",
+    "rationale": "The correct answer is B) According to the board review course, folate (vitamin B9) can help in the production of serotonin and dopamine. When used with antidepressant medication, it has been shown to improve the efficacy or shorten the response time. Options A, C, and D are incorrect as they do not accurately represent the relationship between folate supplementation, neurotransmitter production, and antidepressant effectiveness as described in the course material.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070042",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is counseling a patient on the relationship between dietary patterns and mental health. Which of the following statements best describes the current evidence on this relationship?",
+    "options": [
+      "A) Nutrient deficiencies, rather than overall dietary patterns, are the primary dietary factor in depression risk",
+      "B) A diet high in fruits, vegetables, whole grains, and fish is associated with increased risk of depression",
+      "C) Consumption of fast food and commercial baked goods is associated with lower risk of depression",
+      "D) Dietary patterns high in plant foods are associated with improved mood and lower risk of depression"
+    ],
+    "correct_answer": "D",
+    "page_reference": "260",
+    "rationale": "The correct Correct Answer is D) The board review course states on page 260 that \"A dietary pattern characterized by high intake of fruit, vegetables, whole grains, fish, olive oil, low-fat dairy, and antioxidants, coupled with low intake of animal foods, was associated with a decreased risk of depression.\" It also mentions several studies showing positive associations between plant-based diets and improved mooD) Options A, B, and C are incorrect based on the information provided in the course material.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070043",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "Which of the following best represents the impact of cognitive behavioral therapy (CBT) and antidepressant medication utilization when treating depression?",
+    "options": [
+      "A) CBT and antidepressant medications are equally effective in treating depression",
+      "B) Depression relapse is less common among patients treated with antidepressants compared to CBT",
+      "C) CBT is as effective in treating depression as antidepressant medications",
+      "D) CBT when combined with antidepressant medications appears to be less effective than treatment with only antidepressants medications"
+    ],
+    "correct_answer": "C",
+    "page_reference": "257",
+    "rationale": "The correct Correct Answer is C) The board review course states on page 257 that \"CBT is as efficacious in treating depression as psychotropic medications.\" Furthermore, it notes that CBT when combined with antidepressant medications appears to be more effective than treatment with antidepressants only for major depression, panic disorder and obsessive-compulsive disorder. Depression relapse is less common among patients treated with CBT compared to antidepressant medications.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070044",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "cognitive-behavioral-therapy",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old woman with a history of chronic stress is interested in incorporating mindfulness practices into her daily routine. Which of the following best describes the potential benefits of mindfulness for this patient?",
+    "options": [
+      "A) Mindfulness primarily improves physical health outcomes but has limited effects on mental well-being",
+      "B) Mindfulness leads to lasting decreases in psychological symptoms such as anxiety and depression",
+      "C) Mindfulness is only effective when practiced for at least 2 hours daily",
+      "D) Mindfulness benefits are limited to individuals under 50 years of age"
+    ],
+    "correct_answer": "B",
+    "page_reference": "256",
+    "rationale": "The correct Correct Answer is B) The board review course states on page 256 that mindfulness \"Leads to lasting decreases in physical and psychological symptoms\" and specifically mentions that it \"Reduces or helps alleviate inflammation, response to chronic pain, anxiety, depression, and addiction.\" Options A, C, and D are not supported by the information provided in the course material.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070045",
+    "section_number": "07",
+    "tags": [
+      "stress-management",
+      "mindfulness"
+    ]
+  },
+  {
+    "question_text": "A primary care physician is implementing a screening protocol for mental health in their practice. According to the board review course, which of the following screening tools is recommended as an initial brief screen for both depression and anxiety?",
+    "options": [
+      "A) Patient Health Questionnaire-2 (PHQ-2)",
+      "B) Generalized Anxiety Disorder-2 (GAD-2)",
+      "C) Patient Health Questionnaire-4 (PHQ-4)",
+      "D) Beck Depression Inventory (BDI)"
+    ],
+    "correct_answer": "C",
+    "page_reference": "253",
+    "rationale": "The correct Correct Answer is C) The board review course states on page 253 that the PHQ-4 is \"a brief screening for depression and anxiety.\" It includes questions from both the PHQ-2 (depression screen) and the GAD-2 (anxiety screen), making it an efficient initial screening tool for both conditions in primary care settings. The other options are either specific to depression or anxiety alone, or are more comprehensive tools not typically used for initial screening in primary care.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070046",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is counseling a patient on the potential benefits of mindfulness practices. Which of the following is NOT mentioned as a benefit of mindfulness in the board review course?",
+    "options": [
+      "A) Reduced rumination",
+      "B) Improved memory",
+      "C) Increased emotional reactivity",
+      "D) Higher relationship satisfaction"
+    ],
+    "correct_answer": "C",
+    "page_reference": "262",
+    "rationale": "The correct Correct Answer is C) Increased emotional reactivity is not mentioned as a benefit of mindfulness. The board review course states on page 262 that mindfulness has many known benefits, including \"Reduced rumination, improved memory, sustained attention, improved focus, stress reduction, less emotional reactivity, improved cognitive flexibility, and higher relationship satisfaction and ability to deal with conflict.\" Increased emotional reactivity would be contrary to the goal of mindfulness, which typically aims to reduce emotional reactivity.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070047",
+    "section_number": "07",
+    "tags": [
+      "mindfulness"
+    ]
+  },
+  {
+    "question_text": "Which of the following best represents the impact of cognitive behavioural therapy (CBT) and antidepressant medication utilization when treating depression?",
+    "options": [
+      "A) CBT and antidepressant medications are equally effective in treating depression",
+      "B) Depression relapse is less common among patients treated with antidepressants compared to CBT",
+      "C) CBT is as effective in treating depression as antidepressant medications",
+      "D) CBT when combined with antidepressant medications appears to be less effective than treatment with only antidepressants medications"
+    ],
+    "correct_answer": "C",
+    "page_reference": "257",
+    "rationale": "The correct Answer is C) The board review course states on page 257 that \"CBT is as efficacious in treating depression as psychotropic medications.\" Furthermore, it notes that CBT when combined with antidepressant medications appears to be more effective than treatment with antidepressants only for major depression, panic disorder and obsessive-compulsive disorder. Depression relapse is less common among patients treated with CBT compared to antidepressant medications.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070048",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "cognitive-behavioral-therapy",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 42-year-old software engineer presents to your clinic complaining of chronic stress related to his high-pressure job. You decide to administer the Perceived Stress Scale (PSS) to assess his stress levels. Which of the following best describes the time frame that patients should consider when answering questions on the Perceived Stress Scale?",
+    "options": [
+      "A) The past week",
+      "B) The past two weeks",
+      "C) The past month",
+      "D) The past six months"
+    ],
+    "correct_answer": "C) The past month",
+    "page_reference": "Page 251",
+    "rationale": "The Perceived Stress Scale (PSS), developed by Cohen et al. in 1983, asks respondents to consider their feelings and thoughts during the last month. This time frame allows for a comprehensive assessment of recent stressors while avoiding the potential recall bias associated with longer periods. Option A (past week) and B (past two weeks) are too short to capture the full range of stressors, while option D (past six months) is too long and may lead to inaccurate recall. The month-long time frame provides a balance between recent experiences and a broad enough window to capture typical stress patterns.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070049",
+    "section_number": "07",
+    "tags": [
+      "stress-management",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old woman has been practicing mindfulness meditation for 8 weeks to manage her anxiety symptoms. She reports feeling calmer and more focused. According to recent neuroimaging studies, which of the following brain changes is most likely to be observed in this patient after her 8-week mindfulness practice?",
+    "options": [
+      "A) Decreased gray matter density in the hippocampus",
+      "B) Increased gray matter density in the amygdala",
+      "C) Decreased thickness of the prefrontal cortex",
+      "D) Increased gray matter density in the hippocampus"
+    ],
+    "correct_answer": "D) Increased gray matter density in the hippocampus",
+    "page_reference": "Page 256",
+    "rationale": "According to the studies by Hölzel et al. (2010, 2011), 8 weeks of mindfulness training can lead to several changes in brain structure. The most significant and relevant change mentioned is an increase in gray matter density in the hippocampus, which is responsible for learning, memory formation, emotional regulation, and self-awareness. Option A is incorrect because mindfulness increases, not decreases, hippocampal gray matter density. Option B is incorrect because mindfulness actually reduces gray matter density in the amygdala, which correlates with reduced stress and anxiety. Option C is incorrect because mindfulness increases, not decreases, the thickness of the prefrontal cortex.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070050",
+    "section_number": "07",
+    "tags": [
+      "mindfulness",
+      "mental-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man comes to your clinic reporting feelings of worthlessness, difficulty concentrating, and significant unintentional weight loss over the past month. He mentions that these symptoms have been persistent and are affecting his work and personal life. Based on the DSM-5 criteria, which additional symptom would be necessary to confirm a diagnosis of Major Depressive Disorder (MDD) in this patient?",
+    "options": [
+      "A) Recurrent panic attacks",
+      "B) Depressed mood most of the day, nearly every day",
+      "C) Obsessive thoughts about contamination",
+      "D) Manic episodes alternating with depressive symptoms"
+    ],
+    "correct_answer": "B) Depressed mood most of the day, nearly every day",
+    "page_reference": "Page 252",
+    "rationale": "According to the DSM-5 criteria for Major Depressive Disorder (MDD), a diagnosis requires the presence of five or more symptoms that have persisted for at least two weeks and represent a change from previous functioning. The patient already exhibits three symptoms: feelings of worthlessness, difficulty concentrating, and significant weight loss. To meet the full criteria for MDD, one of the symptoms must be either depressed mood or loss of interest/pleasure (anhedonia). In this case, option B (depressed mood most of the day, nearly every day) would fulfill this requirement and confirm the diagnosis of MDD. Option A (recurrent panic attacks) is a symptom of panic disorder, not MDD. Option C (obsessive thoughts about contamination) is associated with obsessive-compulsive disorder. Option D (manic episodes alternating with depressive symptoms) would suggest bipolar disorder rather than MDD.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070051",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "clinical-assessment-tools",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "You are conducting a mindfulness-based stress reduction (MBSR) program for healthcare professionals. A participant asks about the core principles of mindfulness practice. Which of the following best describes a fundamental element of mindfulness practice, as defined by Jon Kabat-Zinn?",
+    "options": [
+      "A) Analyzing and interpreting the intentions behind each thought",
+      "B) Planning carefully for future stressors",
+      "C) Paying attention on purpose to present thoughts and feelings",
+      "D) Suppressing negative emotions to achieve a calm state"
+    ],
+    "correct_answer": "C) Paying attention on purpose to present thoughts and feelings",
+    "page_reference": "Page 262",
+    "rationale": "According to Jon Kabat-Zinn's work on mindfulness, including his book \"Mindfulness for Beginners,\" a fundamental element of mindfulness practice is paying attention on purpose to what you are thinking and feeling in the present moment. This involves being fully present and aware of one's current experience without judgment. Option A is incorrect because mindfulness does not involve analyzing or interpreting thoughts, but rather observing them without attachment. Option B is incorrect because mindfulness focuses on the present moment rather than planning for the future. Option D is incorrect because mindfulness does not involve suppressing emotions, but rather acknowledging and accepting them without judgment.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070052",
+    "section_number": "07",
+    "tags": [
+      "mindfulness",
+      "physician-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman with a history of depression has been stable on antidepressant medication for the past two years. She is interested in complementary approaches to maintain her mental health. Which of the following lifestyle medicine interventions would be most appropriate to recommend as an adjunct to her current pharmacotherapy?",
+    "options": [
+      "A) Initiating a vigorous exercise program alone",
+      "B) Implementing a strict elimination diet",
+      "C) Focusing solely on improving sleep hygiene",
+      "D) Integrating a whole-person approach addressing all pillars of lifestyle medicine"
+    ],
+    "correct_answer": "D) Integrating a whole-person approach addressing all pillars of lifestyle medicine",
+    "page_reference": "Page 257",
+    "rationale": "Lifestyle medicine treatment plans for improving mental health utilize a whole-person approach to overall well-being by focusing on the six pillars of lifestyle medicine: diet, exercise, substance use, psychological well-being/stress, relationships, and sleep. This comprehensive approach is most likely to provide synergistic benefits and address multiple factors that can influence mental health. Option A (vigorous exercise program alone) is too narrow and may not be appropriate for everyone. Option B (strict elimination diet) is overly restrictive and not evidence-based for depression management. Option C (focusing solely on sleep hygiene) neglects other important aspects of lifestyle that can impact mental health. The whole-person approach in option D allows for a balanced and individualized intervention that can complement pharmacotherapy and potentially enhance overall well-being.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070053",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 52-year-old executive presents with complaints of chronic stress and difficulty managing work-life balance. You decide to implement a Mindfulness-Based Stress Reduction (MBSR) program. Which of the following best describes a key component of MBSR as developed by Jon Kabat-Zinn?",
+    "options": [
+      "A) Analyzing past experiences to identify stress triggers",
+      "B) Practicing intense physical exercises to release tension",
+      "C) Focusing on future goals to motivate stress reduction",
+      "D) Cultivating present-moment awareness without judgment"
+    ],
+    "correct_answer": "D) Cultivating present-moment awareness without judgment",
+    "page_reference": "Page 254",
+    "rationale": "Mindfulness-Based Stress Reduction (MBSR), as developed by Jon Kabat-Zinn, emphasizes cultivating present-moment awareness without judgment. This approach involves paying attention to current thoughts, feelings, and bodily sensations without trying to change or interpret them. Option A is incorrect because MBSR focuses on present experiences rather than analyzing past events. Option B is not a key component of MBSR, which primarily involves mental exercises rather than intense physical activity. Option C contradicts the MBSR principle of focusing on the present moment rather than future goals.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070054",
+    "section_number": "07",
+    "tags": [
+      "stress-management",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old man with a history of coronary artery disease is referred to you for lifestyle management. Recent studies have shown a connection between depression and cardiac health. Which of the following best describes the relationship between major depressive disorder (MDD) and cardiac events in patients with coronary artery disease?",
+    "options": [
+      "A) MDD increases cardiac risk by 5-10%",
+      "B) MDD doubles the risk of cardiac events",
+      "C) MDD has no significant impact on cardiac events",
+      "D) MDD reduces the risk of cardiac events by 15-20%"
+    ],
+    "correct_answer": "B) MDD doubles the risk of cardiac events",
+    "page_reference": "Page 258",
+    "rationale": "According to the research cited in the text, major depressive disorder (MDD) doubles cardiac events, even when controlling for factors such as ejection fraction and number of blocked arteries. This significant increase in risk highlights the importance of addressing mental health in patients with coronary artery disease. Option A underestimates the impact of MDD on cardiac risk. Option C is incorrect as there is a clear and significant relationship between MDD and cardiac events. Option D is the opposite of the actual relationship, as MDD increases, not reduces, cardiac risk.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070055",
+    "section_number": "07",
+    "tags": [
+      "cardiovascular-disease",
+      "mental-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 30-year-old woman has been participating in an 8-week Mindfulness-Based Stress Reduction (MBSR) program to manage her chronic anxiety. She asks about the potential benefits of this practice on her brain. Based on recent neuroimaging studies, which of the following changes would you expect to see in her brain after completing the MBSR program?",
+    "options": [
+      "A) Increased gray matter density in the amygdala",
+      "B) Decreased thickness of the prefrontal cortex",
+      "C) Reduced gray matter density in the amygdala",
+      "D) Decreased gray matter density in the hippocampus"
+    ],
+    "correct_answer": "C) Reduced gray matter density in the amygdala",
+    "page_reference": "Page 256",
+    "rationale": "According to studies by Hölzel et al. (2010, 2011), 8 weeks of mindfulness training can lead to reduced gray matter density in the amygdala, which correlates with reduced stress, anxiety, and negative thoughts. This change is consistent with the reported benefits of mindfulness practice in managing anxiety. Option A is incorrect because mindfulness decreases, not increases, amygdala gray matter density. Option B is incorrect as mindfulness actually increases the thickness of the prefrontal cortex. Option D is incorrect because mindfulness increases, not decreases, hippocampal gray matter density.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070056",
+    "section_number": "07",
+    "tags": [
+      "mindfulness",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman with a history of depression is interested in complementary approaches to maintain her mental health alongside her current pharmacotherapy. Which of the following lifestyle medicine interventions would be most appropriate to recommend?",
+    "options": [
+      "A) Focusing solely on a rigorous exercise regimen",
+      "B) Implementing a strict plant-based diet",
+      "C) Emphasizing sleep hygiene improvements only",
+      "D) Integrating a comprehensive approach addressing all pillars of lifestyle medicine"
+    ],
+    "correct_answer": "D) Integrating a comprehensive approach addressing all pillars of lifestyle medicine",
+    "page_reference": "Page 257",
+    "rationale": "Lifestyle medicine treatment plans for improving mental health utilize a whole-person approach to overall well-being by focusing on the six pillars of lifestyle medicine: diet, exercise, substance use, psychological well-being/stress, relationships, and sleep. This comprehensive approach is most likely to provide synergistic benefits and address multiple factors that can influence mental health. Option A is too narrow and neglects other important aspects of lifestyle medicine. Option B, while potentially beneficial, is not comprehensive enough to address all aspects of mental health. Option C, like option A, is too limited in scope. The integrated approach in option D allows for a balanced intervention that can complement pharmacotherapy and potentially enhance overall well-being.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070057",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old man presents with symptoms of persistent sadness, loss of interest in activities, and difficulty concentrating for the past month. You suspect major depressive disorder (MDD). According to the DSM-5 criteria, which additional symptom is necessary to confirm the diagnosis of MDD?",
+    "options": [
+      "A) Panic attacks occurring at least twice a week",
+      "B) Manic episodes alternating with depressive symptoms",
+      "C) Significant weight loss when not dieting or weight gain",
+      "D) Obsessive thoughts about cleanliness and order"
+    ],
+    "correct_answer": "C) Significant weight loss when not dieting or weight gain",
+    "page_reference": "Page 252",
+    "rationale": "According to the DSM-5 criteria for Major Depressive Disorder (MDD), a diagnosis requires the presence of five or more symptoms that have persisted for at least two weeks. The patient already exhibits three symptoms: persistent sadness (depressed mood), loss of interest in activities (anhedonia), and difficulty concentrating. Significant weight loss when not dieting or weight gain is another criterion for MDD and would help confirm the diagnosis. Option A (panic attacks) is a symptom of panic disorder, not MDD. Option B (manic episodes) would suggest bipolar disorder rather than MDD. Option D (obsessive thoughts) is associated with obsessive-compulsive disorder, not MDD.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070058",
+    "section_number": "07",
+    "tags": [
+      "mental-health",
+      "clinical-assessment-tools",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "070059",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_text": "A 45-year-old executive presents with complaints of chronic fatigue, difficulty sleeping, and frequent headaches. She works 70-hour weeks, has gained 15 pounds in the last 6 months, and reports feeling overwhelmed. Her cortisol levels are elevated, and heart rate variability is decreased. Which combination of physiological changes would most likely be present in this patient based on her chronic stress state?",
+    "options": [
+      "A) Increased bone density, decreased inflammation, and improved immune function",
+      "B) Decreased glucose levels, reduced cholesterol, and enhanced wound healing",
+      "C) Increased insulin resistance, elevated inflammation, and impaired immune function",
+      "D) Reduced abdominal fat, improved sleep quality, and decreased blood clotting"
+    ],
+    "correct_answer": "C",
+    "page_reference": "248",
+    "rationale": "The patient shows classic signs of chronic stress. According to the text, chronic stress leads to multiple physiological changes including increased insulin resistance, inflammation, and impaired immune function. Additionally, it causes increased glucose levels, cholesterol elevation, and problems with wound healing. The other options describe improvements or combinations that are opposite to the documented effects of chronic stress.",
+    "tags": [
+      "stress-management",
+      "mental-health"
+    ]
+  },
+  {
+    "question_id": "070060",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_text": "A lifestyle medicine clinic is implementing a new mindfulness-based stress reduction (MBSR) program. After 8 weeks of consistent practice, which neurological changes would most accurately reflect successful implementation of the program?",
+    "options": [
+      "A) Decreased prefrontal cortex thickness and increased amygdala density",
+      "B) Increased hippocampal gray matter density and reduced amygdala density",
+      "C) Reduced hippocampal volume and increased prefrontal cortex activity",
+      "D) Increased amygdala density and decreased hippocampal activity"
+    ],
+    "correct_answer": "B",
+    "page_reference": "255-256",
+    "rationale": "According to research cited in the text, 8 weeks of mindfulness training produces specific neurological changes: increased thickness of the prefrontal cortex, increased gray matter density in the hippocampus (responsible for learning, memory formation, emotional regulation), and reduced gray matter density in the amygdala (correlating with reduced stress and anxiety). Option B correctly pairs increased hippocampal density with reduced amygdala density.",
+    "tags": [
+      "mindfulness"
+    ]
+  },
+  {
+    "question_id": "070061",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_text": "A research study is examining the relationship between dietary patterns and depression. Which finding would most strongly support the current understanding of this relationship according to recent evidence?",
+    "options": [
+      "A) Individual nutrient deficiencies show stronger correlation with depression than overall dietary patterns",
+      "B) Trans fat consumption shows inverse correlation with depression rates",
+      "C) Fast food consumption has no significant impact on depression risk",
+      "D) High intake of fruits, vegetables, whole grains, and fish with low intake of animal foods correlates with decreased depression risk"
+    ],
+    "correct_answer": "D",
+    "page_reference": "260",
+    "rationale": "The text explicitly states that dietary patterns, rather than nutrient deficiencies, are more likely to account for depression symptoms. A dietary pattern characterized by high intake of fruit, vegetables, whole grains, fish, olive oil, low-fat dairy, and antioxidants, coupled with low intake of animal foods, was associated with decreased risk of depression. Additionally, the text notes that fast food consumption is associated with increased risk of depression, and higher trans fat intake correlates with increased risk of depression.",
+    "tags": [
+      "mental-health",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_id": "070062",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_text": "A lifestyle medicine physician is treating a patient with major depressive disorder (MDD) and coronary artery disease (CAD). Which combination of pathophysiological changes would best explain the interaction between these conditions?",
+    "options": [
+      "A) Decreased platelet adherence and improved endothelial function",
+      "B) Normal heart rate variability and reduced inflammatory markers",
+      "C) Increased platelet adherence, endothelial dysfunction, and lowered heart rate variability",
+      "D) Enhanced vagal tone and reduced sympathetic activation"
+    ],
+    "correct_answer": "C",
+    "page_reference": "250",
+    "rationale": "The text describes specific pathophysiological changes in patients with depression and CAD: increased abnormal platelet adherence, endothelial dysfunction, and lowered heart rate variability. These changes explain why depression is an independent risk factor for cardiac events and doubles cardiac events even when controlling for ejection fraction and number of blocked arteries.",
+    "tags": [
+      "mental-health",
+      "cognitive-behavioral-therapy"
+    ]
+  },
+  {
+    "question_id": "070063",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_text": "A 55-year-old patient presents with type 2 diabetes and symptoms of depression. Which biochemical mechanism best explains the bidirectional relationship between these conditions?",
+    "options": [
+      "A) Decreased insulin sensitivity has no effect on neurotransmitter synthesis",
+      "B) Insulin-mediated mechanisms affect blood levels of tryptophan and tyrosine, influencing brain serotonin and dopamine synthesis",
+      "C) Depression increases insulin sensitivity and glucose utilization",
+      "D) Type 2 diabetes has no impact on neurotransmitter production"
+    ],
+    "correct_answer": "B",
+    "page_reference": "249",
+    "rationale": "The text describes a specific biochemical mechanism linking diabetes and depression: there is an insulin-mediated mechanism for blood levels of both tryptophan and tyrosine that results in brain serotonin, norepinephrine, and dopamine synthesis. This explains the bidirectional relationship between MDD and type 2 diabetes, where each condition can predict the future development of the other.",
+    "tags": [
+      "mental-health",
+      "diabetes"
+    ]
+  },
+  {
+    "question_id": "070064",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_text": "A clinical trial is comparing cognitive behavioral therapy (CBT) to antidepressant medication in treating depression. Which outcome would most accurately reflect current evidence regarding these treatments?",
+    "options": [
+      "A) Antidepressants show significantly better outcomes than CBT",
+      "B) CBT shows higher relapse rates compared to antidepressants",
+      "C) Combined CBT and antidepressants show worse outcomes than antidepressants alone",
+      "D) CBT shows comparable efficacy to antidepressants with lower relapse rates"
+    ],
+    "correct_answer": "D",
+    "page_reference": "256-257",
+    "rationale": "According to the text, CBT is as efficacious in treating depression as psychotropic medications. Furthermore, there is less incidence of depression relapse among patients treated with CBT compared to antidepressant medication. The text also notes that CBT in combined treatment with antidepressant medication appears to be more effective than treatment with only antidepressant medication.",
+    "tags": [
+      "mental-health",
+      "cognitive-behavioral-therapy",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "070065",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_text": "A lifestyle medicine clinic is studying the effects of work-related stress on cardiovascular disease. Which occupational finding would most accurately represent the relationship between work stress and health outcomes?",
+    "options": [
+      "A) Short overtime hours show stronger correlation with cardiovascular disease than extended overtime",
+      "B) Corporate downsizing has no significant impact on cardiovascular death rates",
+      "C) 3-4 hours of daily overtime increases heart disease risk at 7.5-year follow-up",
+      "D) Job strain shows no association with diabetes risk"
+    ],
+    "correct_answer": "C",
+    "page_reference": "250",
+    "rationale": "The text cites a specific study of 22,430 Finnish municipal workers showing that long work hours (3-4 hours of overtime a day) increased heart disease risk at 7.5-year follow-up. Additionally, corporate downsizing increases cardiovascular disease death rates, and work stressors increased the incidence of type 2 diabetes in women by two-fold over a 15-year study period.",
+    "tags": [
+      "stress-management",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_id": "070066",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_text": "A researcher is investigating the impact of adverse childhood experiences (ACEs) on adult psychological health. Which combination of factors would most accurately predict increased psychological distress in adulthood?",
+    "options": [
+      "A) ACEs alone without consideration of adult life stress",
+      "B) Adult socioeconomic status without consideration of ACEs",
+      "C) ACEs combined with adult life stress and lower socioeconomic status",
+      "D) Adult life stress alone without consideration of childhood experiences"
+    ],
+    "correct_answer": "C",
+    "page_reference": "246",
+    "rationale": "According to the text, ACE plus adult life stress and/or socioeconomic status has been shown to lead to psychological distress. The conceptual framework presented shows that the combination of childhood ACEs, adult stress, and socioeconomic status together influence psychological distress outcomes, rather than any single factor alone.",
+    "tags": [
+      "mental-health"
+    ]
+  },
+  {
+    "question_id": "070067",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_text": "A patient with anxiety is participating in mindfulness training. Which neurological mechanism best explains the potential benefits of this intervention?",
+    "options": [
+      "A) Decreased connectivity between prefrontal cortex and amygdala",
+      "B) Reduced activity in both the extended and momentary self-reference systems",
+      "C) Stronger connections between prefrontal cortex and amygdala for emotional response modulation",
+      "D) Increased amygdala activity without prefrontal cortex involvement"
+    ],
+    "correct_answer": "C",
+    "page_reference": "255-256",
+    "rationale": "The text states that mindfulness meditation promotes stronger connections between the prefrontal cortex and amygdala areas that are involved in problem-solving skills and modulating emotional responses. This neurological mechanism helps explain how mindfulness can improve emotional regulation and reduce anxiety.",
+    "tags": [
+      "mindfulness",
+      "mental-health"
+    ]
+  },
+  {
+    "question_id": "070068",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_text": "A systematic review is examining the relationship between lifestyle factors and mental health outcomes. Which combination of findings would most accurately reflect current evidence regarding prevention and treatment of mental disorders?",
+    "options": [
+      "A) Physical activity prevents ADHD but has no effect on treating depression",
+      "B) Sleep patterns affect only treatment outcomes but not prevention",
+      "C) Dietary patterns prevent anxiety but don't affect depression treatment",
+      "D) Physical activity protects against bipolar disorder and is efficacious in treating depression"
+    ],
+    "correct_answer": "D",
+    "page_reference": "257-258",
+    "rationale": "According to the 2019 systematic meta-review cited in the text, physical activity has protective benefits against the risk of developing bipolar disorder and is efficacious in treating anxiety disorders, major depression, and psychotic disorders. The text specifically outlines the role of various lifestyle factors in both prevention and treatment of mental disorders, with physical activity showing strong evidence for both preventive and therapeutic effects.",
+    "tags": [
+      "mental-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A primary care physician is screening patients for mental health conditions. A 45-year-old patient completes the PHQ-4 with the following scores over the last two weeks: feeling nervous/anxious (2), unable to stop worrying (2), feeling down/depressed (2), little interest in activities (3). Which interpretation and next step would be most appropriate?",
+    "options": [
+      "A) Total score of 9 indicates mild symptoms; no further screening needed",
+      "B) Total score of 9 indicates severe symptoms; immediate psychiatric referral required",
+      "C) Total score of 9 indicates severe symptoms; conduct full PHQ-9 and GAD-7 assessments",
+      "D) Total score of 9 indicates moderate symptoms; continue monitoring without further assessment"
+    ],
+    "correct_answer": "C",
+    "page_reference": "253",
+    "rationale": "The PHQ-4 scoring system indicates that a total score of 9-12 represents severe symptoms. The text specifies that any positive score (≥3) should lead to further assessment for depression or anxiety. In this case, with a score of 9 indicating severe symptoms, the appropriate next step would be to conduct full PHQ-9 and GAD-7 assessments to better characterize the type and severity of symptoms.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070069",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is explaining different types of stress to a patient. Which clinical scenario most accurately demonstrates the distinction between eustress, neustress, and distress?",
+    "options": [
+      "A) Eustress causes negative health outcomes, while distress improves performance",
+      "B) Neustress and eustress both result in sympathetic nervous system activation",
+      "C) Eustress occurs during a job promotion, neustress when reading about distant events, and distress during financial crisis",
+      "D) Distress is always acute, while eustress is always chronic"
+    ],
+    "correct_answer": "C",
+    "page_reference": "246",
+    "rationale": "The text defines three types of stress: eustress (good stress, such as a motivating or inspiring situation), neustress (neutral stress, or any information perceived as inconsequential), and distress (bad stress, which is information perceived as threatening). The correct answer accurately illustrates these distinctions with relevant examples: a job promotion represents motivating eustress, reading about distant events represents inconsequential neustress, and a financial crisis represents threatening distress.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070070",
+    "section_number": "07",
+    "tags": [
+      "stress-management"
+    ]
+  },
+  {
+    "question_text": "A patient scores 28 on the Perceived Stress Scale (PSS). The lifestyle medicine physician is developing a comprehensive stress management plan. Based on evidence-based approaches, which combination of nonpharmacologic interventions would be most appropriate?",
+    "options": [
+      "A) Focus exclusively on breathing exercises and meditation",
+      "B) Recommend only physical exercise and dietary changes",
+      "C) Combine lengthened exhale breathing, therapeutic yoga, meditation, nature exposure, and community engagement activities",
+      "D) Limit interventions to light therapy and massage"
+    ],
+    "correct_answer": "C",
+    "page_reference": "248",
+    "rationale": "The text outlines comprehensive nonpharmacologic stress management plans that include multiple evidence-based approaches: breathing tools (including lengthened exhale breath), movement (including therapeutic yoga), meditation, connecting with nature, and community engagement (including volunteering and quality time with family/friends). A score of 28 on the PSS indicates high stress (27-40 range), warranting a comprehensive approach that incorporates multiple evidence-based interventions rather than focusing on a limited set of techniques.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_id": "070071",
+    "section_number": "07",
+    "tags": [
+      "clinical-assessment-tools",
+      "stress-management"
+    ]
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "question_text": "A 32-year-old man complains of falling asleep too early in the evening and then waking up in the very early hours of the morning after five hours of sleep. He is unable to go back to sleep. Which of the following dietary interventions is most likely to help shift his sleep pattern to a later time?",
+    "options": [
+      "A) Eating breakfast shortly after awakening",
+      "B) Eating dinner earlier in the evening",
+      "C) Consuming more protein at dinnertime",
+      "D) Consuming more carbohydrates at dinner time"
+    ],
+    "correct_answer": "D) Consuming more carbohydrates at dinner time",
+    "page_reference": "Page 289",
+    "rationale": "Consuming more carbohydrates at dinner time can help shift falling asleep to later in the evening. Eating breakfast shortly after waking up may help shift wake-up time earlier, not later. Eating dinner earlier may contribute to falling asleep too early. If someone is falling asleep too late, they can shift carbohydrates to earlier meals, but in this case, the patient needs to delay sleep onset, so shifting carbohydrates to dinner is more appropriate.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00428",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 45-year-old woman presents with difficulty staying asleep. She goes to bed at 11 pm but wakes at 2 am and is unable to return to sleep. She recently separated from her husband and is finding it difficult to cope. Which of the following is the best recommendation to help with her sleep maintenance?",
+    "options": [
+      "A) Begin high-intensity physical activity with a personal trainer at the gym",
+      "B) Increase mid-morning sunlight exposure and outdoor physical activity",
+      "C) Keep bedroom lights in a cool blue colour range for a calm sleeping environment",
+      "D) Leave a flask of a hot beverage by the bedside for use at night"
+    ],
+    "correct_answer": "B) Increase mid-morning sunlight exposure and outdoor physical activity",
+    "page_reference": "Page 287",
+    "rationale": "To manage problems of sleep maintenance, increasing morning and mid-afternoon sunlight exposure and increasing physical activity, preferably outdoors, are recommended. High-intensity physical activity, especially late in the day, may be too stimulating. Cool blue light can actually suppress melatonin and disrupt sleep. Keeping beverages by the bedside is not recommended; instead, a glass of cool water is preferable.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00429",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 56-year-old man with chronic insomnia requests a prescription for hypnotics. Which of the following statements best describes the relationship between hypnotic medication use and mortality?",
+    "options": [
+      "A) Hypnotics are associated with decreased mortality in adults over 55",
+      "B) Hypnotics have no significant impact on mortality rates",
+      "C) Hypnotics are associated with increased all-cause mortality in all age groups",
+      "D) Hypnotics decrease mortality only when used short-term"
+    ],
+    "correct_answer": "C) Hypnotics are associated with increased all-cause mortality in all age groups",
+    "page_reference": "Page 297",
+    "rationale": "Prescription-strength hypnotic medications are associated with an increased risk of all-cause mortality in all age groups. This includes risks from overdose, car accidents, falls, depression, cancer, and suicide. They are not recommended as a first-line treatment for insomnia, and their long-term effectiveness is not supported.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00430",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 40-year-old woman reports difficulty falling asleep most nights. Her typical nighttime routine includes working on her computer until bedtime at 11:30 pm. Which of the following light sources in her routine would be expected to have the greatest effect on her melatonin levels?",
+    "options": [
+      "A) Bedside clock with red numerals",
+      "B) Computer screen",
+      "C) Incandescent reading light",
+      "D) Streetlight visible through window shades"
+    ],
+    "correct_answer": "B) Computer screen",
+    "page_reference": "Page 288",
+    "rationale": "Of the sources listed, light from a computer monitor has the shortest wavelength (blue light), which has the greatest effect on suppressing melatonin production. Red light (from the clock) enhances melatonin production. Incandescent light and filtered streetlight have less impact on melatonin levels compared to the direct blue light exposure from a computer screen.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00431",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 50-year-old man is traveling from New York to London for a business trip. Which of the following interventions would be most effective in helping him adjust to the new time zone and minimize jet lag?",
+    "options": [
+      "A) Take a high dose of melatonin (5mg) upon arrival",
+      "B) Avoid bright light exposure until the evening in London",
+      "C) Use low-dose melatonin (0.25mg) 3-4 hours before intended bedtime",
+      "D) Maintain his New York sleep schedule for the first few days"
+    ],
+    "correct_answer": "C) Use low-dose melatonin (0.25mg) 3-4 hours before intended bedtime",
+    "page_reference": "Page 289",
+    "rationale": "For jet lag when traveling east, low-dose melatonin (0.25 mg) taken 3-4 hours prior to intended bedtime can be helpful. High doses of melatonin are not recommended. Bright light exposure should be sought close to the new ideal wake-up time, not avoided until evening. Maintaining the old sleep schedule would prolong adjustment to the new time zone.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00432",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 35-year-old shift worker complains of difficulty sleeping during the day after night shifts. Which of the following is the most accurate statement regarding shift work sleep disorder?",
+    "options": [
+      "A) It affects less than 5% of shift workers",
+      "B) It is more common in older workers",
+      "C) It affects approximately 26.5% of shift workers",
+      "D) It only occurs in those working rotating shifts"
+    ],
+    "correct_answer": "C) It affects approximately 26.5% of shift workers",
+    "page_reference": "Page 275",
+    "rationale": "According to the provided information, approximately 26.5% of shift workers experience shift work sleep disorder. This high prevalence underscores the significant impact of non-traditional work schedules on sleep health. The disorder is not limited to specific age groups or only to those working rotating shifts.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00433",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 28-year-old woman is concerned about her sleep quality. Which of the following assessment tools would be most appropriate to help identify potential negative beliefs about sleep and sleep behaviours that may be contributing to poor sleep quality?",
+    "options": [
+      "A) Pittsburgh Sleep Quality Index",
+      "B) Epworth Sleepiness Scale",
+      "C) STOP-BANG Questionnaire",
+      "D) Adolescent Sleep Hygiene Survey"
+    ],
+    "correct_answer": "D) Adolescent Sleep Hygiene Survey",
+    "page_reference": "Page 285",
+    "rationale": "The Adolescent Sleep Hygiene Survey (ASHS) is a 28-item assessment that can be used with teens and adults to capture beliefs and behaviours that may be contributing to insufficient and poor-quality sleep. It can identify negative attitudes toward sleep, misunderstandings about healthy sleep, and barriers to healthy sleep. The other options are less specific to beliefs and behaviours: Pittsburgh Sleep Quality Index is a general sleep quality index, Epworth Sleepiness Scale assesses daytime sleepiness, and STOP-BANG screens for obstructive sleep apnoea.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00434",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 60-year-old man with a BMI of 32 kg/m\u00c2\u00b2 complains of loud snoring and daytime fatigue. His wife reports observing pauses in his breathing during sleep. Which of the following is the most appropriate next step in his evaluation?",
+    "options": [
+      "A) Prescribe a sleep hygiene regimen",
+      "B) Recommend over-the-counter melatonin",
+      "C) Perform a STOP-BANG assessment",
+      "D) Order an at-home sleep study"
+    ],
+    "correct_answer": "C) Perform a STOP-BANG assessment",
+    "page_reference": "Page 284",
+    "rationale": "Given the patient's symptoms (snoring, observed apnoea\u00e2\u20ac\u2122s, daytime fatigue) and risk factors (age >50, BMI >35), the STOP-BANG questionnaire is an appropriate initial screening tool for obstructive sleep apnoea (OSA). This brief assessment can help determine the risk level for OSA and guide further management decisions. Sleep hygiene alone is insufficient for suspected OSA, melatonin is not indicated, and jumping directly to a sleep study without initial screening is not the most efficient approach.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00435",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 42-year-old woman reports waking up several times during the night and having trouble getting back to sleep. She is interested in non-pharmacological approaches to improve her sleep. Which of the following interventions is considered the most effective single treatment for insomnia?",
+    "options": [
+      "A) Sleep restriction therapy",
+      "B) Relaxation training",
+      "C) Cognitive restructuring",
+      "D) Stimulus control therapy"
+    ],
+    "correct_answer": "D) Stimulus control therapy",
+    "page_reference": "Page 296",
+    "rationale": "Stimulus control therapy (SCT) is considered the most effective single treatment for insomnia. It involves strengthening the bed as a cue for sleep by limiting activities in bed to sleep and sex only, and moving all other activities to another location. While sleep restriction therapy, relaxation training, and cognitive restructuring are all components of cognitive behavioural therapy for insomnia (CBT-i), SCT has been identified as the most effective individual component.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00436",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 55-year-old man undergoes a polysomnography study due to suspected sleep apnoea. His results show an apnoea-hypopnea index (AHI) of 22. How would his sleep apnoea be classified based on this result?",
+    "options": [
+      "A) Mild",
+      "B) Moderate",
+      "C) Severe",
+      "D) Borderline"
+    ],
+    "correct_answer": "B) Moderate",
+    "page_reference": "Page 291",
+    "rationale": "For adult populations, sleep apnoea severity is classified based on the apnoea-hypopnea index (AHI) as follows: mild (AHI = 5 to < 15), moderate (AHI = 15 to < 30), and severe (AHI = 30+). With an AHI of 22, this patient's condition falls into the moderate category. This classification helps guide treatment decisions and assess the potential impact on the patient's health.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00437",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 30-year-old woman complains of an irresistible urge to move her legs, accompanied by uncomfortable sensations, which worsen in the evening. Which of the following conditions does this most likely represent?",
+    "options": [
+      "A) Periodic limb movement disorder",
+      "B) Restless legs syndrome",
+      "C) Obstructive sleep apnoea",
+      "D) Narcolepsy"
+    ],
+    "correct_answer": "B) Restless legs syndrome",
+    "page_reference": "Page 294",
+    "rationale": "The description matches the diagnostic criteria for Restless Legs Syndrome (RLS): an urge to move the legs usually accompanied by uncomfortable sensations, symptoms that start or worsen during periods of rest or inactivity, and worsening of symptoms in the evening or night. Periodic limb movement disorder involves involuntary movements during sleep, OSA is characterized by breathing pauses during sleep, and narcolepsy involves excessive daytime sleepiness and sudden sleep attacks.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00438",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 25-year-old man reports feeling excessively sleepy during the day, despite getting what he considers adequate sleep at night. He occasionally experiences sudden muscle weakness when laughing. Which of the following conditions is most likely?",
+    "options": [
+      "A) Insomnia",
+      "B) Obstructive sleep apnoea",
+      "C) Narcolepsy",
+      "D) Delayed sleep phase syndrome"
+    ],
+    "correct_answer": "C) Narcolepsy",
+    "page_reference": "Page 293-294",
+    "rationale": "The symptoms described - excessive daytime sleepiness despite adequate sleep and sudden muscle weakness triggered by emotion (cataplexy) - are characteristic of narcolepsy. Insomnia involves difficulty initiating or maintaining sleep, OSA is characterized by breathing pauses during sleep and is not typically associated with cataplexy, and delayed sleep phase syndrome involves a shift in the sleep-wake cycle without daytime sleepiness or cataplexy.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00439",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 38-year-old woman is struggling with chronic insomnia and has been taking over-the-counter sleep aids nightly for the past month. What is the most appropriate next step in her management?",
+    "options": [
+      "A) Prescribe a benzodiazepine for long-term use",
+      "B) Recommend cognitive behavioural therapy for insomnia (CBT-i)",
+      "C) Increase the dose of her current over-the-counter sleep aid",
+      "D) Switch to a prescription strength hypnotic medication"
+    ],
+    "correct_answer": "B) Recommend cognitive behavioural therapy for insomnia (CBT-i)",
+    "page_reference": "Page 296",
+    "rationale": "Cognitive behavioural therapy for insomnia (CBT-i) is the recommended first-line treatment for chronic insomnia over medications. It is more likely to produce sustained benefit and has less risk of tolerance or side effects compared to pharmacological interventions. Benzodiazepines and other hypnotic medications are not recommended as first-line treatments due to their potential for dependency and adverse effects. Increasing the dose of over-the-counter sleep aids or switching to prescription hypnotics is not advised without first trying evidence-based non-pharmacological approaches.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00440",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 50-year-old man undergoes a sleep study that reveals frequent limb movements occurring at roughly 30-second intervals during sleep, causing brief arousals. He is unaware of these movements. What is the most likely diagnosis?",
+    "options": [
+      "A) Restless legs syndrome",
+      "B) Periodic limb movement disorder",
+      "C) Obstructive sleep apnoea",
+      "D) REM sleep behaviour disorder"
+    ],
+    "correct_answer": "B) Periodic limb movement disorder",
+    "page_reference": "Page 294-295",
+    "rationale": "The description matches periodic limb movement disorder (PLMD). This condition is characterized by limb movements occurring at roughly 30-second intervals during sleep, with patients typically unaware of these movements and the resulting brief arousals. Unlike restless legs syndrome, PLMD does not involve uncomfortable sensations or an urge to move while awake. It's distinct from OSA, which involves breathing pauses, and REM sleep behaviour disorder, which involves acting out dreams during REM sleep.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00441",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 45-year-old woman reports difficulty falling asleep and frequently wakes up during the night. She has been diagnosed with chronic insomnia. Which of the following is a key component of sleep restriction therapy for this condition?",
+    "options": [
+      "A) Increasing time in bed to allow more opportunity for sleep",
+      "B) Maintaining a consistent bedtime but allowing flexible wake times",
+      "C) Prescribing a sleep period shorter than the patient's typical sleep duration",
+      "D) Encouraging daytime naps to compensate for nighttime sleep loss"
+    ],
+    "correct_answer": "C) Prescribing a sleep period shorter than the patient's typical sleep duration",
+    "page_reference": "Page 296",
+    "rationale": "Sleep restriction therapy (SRT) involves prescribing a bedtime and wake time that results in a sleep period shorter than the patient's typical sleep duration. This approach aims to consolidate sleep and improve sleep efficiency. The sleep period is then gradually extended as sleep quality improves. Increasing time in bed, allowing flexible wake times, or encouraging daytime naps are not consistent with the principles of SRT and may actually perpetuate insomnia symptoms. Certainly. I'll create 15 questions based on the provided reference material, starting from page 273 and working sequentially through the content. These questions will adhere to the standards and style outlined in the original prompt.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00442",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 35-year-old man reports working long hours and having difficulty sleeping due to noise around his apartment complex. He feels sleepy every day around 1:30 pm and wonders if taking a nap would be helpful. What is the best guidance regarding naps for this patient?",
+    "options": [
+      "A) Daytime naps are not recommended",
+      "B) Optimal nap length would be less than 10 minutes",
+      "C) Optimal nap length would be 10 to 20 minutes",
+      "D) Optimal nap length would be 30 to 40 minutes"
+    ],
+    "correct_answer": "C) Optimal nap length would be 10 to 20 minutes",
+    "page_reference": "Page 286",
+    "rationale": "Research has shown that naps of 10-20 minutes in duration are optimal. This length allows for restorative sleep while remaining in the lightest stages of non-REM sleep, from which it is easier to wake up and become alert. Naps shorter than 10 minutes may not be as restorative, while longer naps may result in entering deeper sleep cycles, potentially making the person feel more tired upon waking.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00443",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 45-year-old woman with type 2 diabetes presents to the primary care clinic with insomnia of 10 years duration. She has been managed with different medications by several clinicians, but none have helped. Her current health care provider recommends outdoor physical activities. Which of the following is the best recommendation for the woman at this time?",
+    "options": [
+      "A) Change medication to hypnotic type medication and add 30 minutes exercise every morning",
+      "B) Change medication to sedative type medication and add 30 minutes exercise every evening",
+      "C) Cognitive behavioural therapy for insomnia sessions and add 30 minutes exercise every morning",
+      "D) Increase the dose of supplemental melatonin and add 30 minutes exercise every afternoon"
+    ],
+    "correct_answer": "C) Cognitive behavioural therapy for insomnia sessions and add 30 minutes exercise every morning",
+    "page_reference": "Page 288",
+    "rationale": "Cognitive behavioural therapy for insomnia (CBT-i) is the recommended first-line treatment for chronic insomnia over medications. It has been shown to facilitate getting off sleep medications and sustaining sleep over time. Combined with behavioural therapies like morning exercise, it offers the best approach for long-term management of chronic insomnia.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00444",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 32-year-old man complains of falling asleep too early in the evening and then waking up in the very early hours of the morning after five hours of sleep. He is unable to go back to sleep. Which of the following is the best advice for the man to change his sleep pattern?",
+    "options": [
+      "A) Eat breakfast shortly after awakening to shift wake-up time to later in the morning",
+      "B) Eat dinner earlier to shift falling asleep to later in the evening",
+      "C) Eat more protein at dinnertime to shift falling asleep to later in the evening",
+      "D) Eat more carbohydrates at dinner time to shift falling asleep to later in the evening"
+    ],
+    "correct_answer": "D) Eat more carbohydrates at dinner time to shift falling asleep to later in the evening",
+    "page_reference": "Page 289",
+    "rationale": "Eating more carbohydrates at dinner time can help shift falling asleep to later in the evening. Eating breakfast shortly after waking up may help shift wake-up time earlier, not later. Eating dinner earlier may contribute to falling asleep too early. If someone is falling asleep too late, they can shift carbohydrates to earlier meals, but in this case, the patient needs to delay sleep onset.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00445",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 50-year-old man is preparing for a business trip from New York to London. Which of the following is the most appropriate recommendation to help him adjust to the new time zone when traveling east?",
+    "options": [
+      "A) Get exposure to bright light close to new ideal wake-up time",
+      "B) Get dim-light exposure starting 1 hour before new ideal sleep time",
+      "C) Eat a hearty breakfast within 30-45 minutes of arrival time",
+      "D) Use high-dose melatonin (5mg) upon arrival"
+    ],
+    "correct_answer": "A) Get exposure to bright light close to new ideal wake-up time",
+    "page_reference": "Page 290",
+    "rationale": "When traveling east, getting exposure to bright light, preferably outdoors, close to the new ideal wake-up time is recommended to help adjust to the new time zone. This helps reset the circadian rhythm. Dim-light exposure before sleep is also correct but less impactful than morning light exposure. Eating a hearty breakfast within 30-45 minutes of the new ideal wake-up time (not arrival time) is recommended. Low-dose melatonin (not high-dose) can be used to assist with adjustment.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00446",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 28-year-old woman presents with difficulty falling asleep and frequent night wakings. She reports these symptoms occur at least three times per week and have been ongoing for the past 4 months. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A) Delayed sleep phase syndrome",
+      "B) Insomnia",
+      "C) Obstructive sleep apnoea",
+      "D) Restless legs syndrome"
+    ],
+    "correct_answer": "B) Insomnia",
+    "page_reference": "Page 291-292",
+    "rationale": "The symptoms described - difficulty initiating and maintaining sleep, occurring at least three times per week and ongoing for at least 3 months - meet the diagnostic criteria for insomnia. Delayed sleep phase syndrome primarily affects sleep timing, not sleep initiation and maintenance. Obstructive sleep apnoea is characterized by breathing pauses during sleep, and restless legs syndrome involves uncomfortable sensations in the legs, neither of which are mentioned in this case.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00447",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 60-year-old man with a BMI of 33 kg/m\u00c2\u00b2 reports loud snoring and daytime fatigue. His wife has observed pauses in his breathing during sleep. Which of the following is the most appropriate next step in evaluating this patient?",
+    "options": [
+      "A) Order a full polysomnography study",
+      "B) Prescribe a CPAP machine",
+      "C) Recommend weight loss and sleep hygiene improvements",
+      "D) Perform a STOP-BANG assessment"
+    ],
+    "correct_answer": "D) Perform a STOP-BANG assessment",
+    "page_reference": "Page 284-285",
+    "rationale": "Given the patient's symptoms (snoring, observed apnoea\u00e2\u20ac\u2122s, daytime fatigue) and risk factors (age >50, BMI >30), the STOP-BANG questionnaire is an appropriate initial screening tool for obstructive sleep apnoea (OSA). This brief assessment can help determine the risk level for OSA and guide further management decisions. While polysomnography is the gold standard for diagnosis, it's typically not the first step. Prescribing CPAP without a confirmed diagnosis is premature, and while lifestyle changes may be beneficial, they don't address the immediate need for proper assessment.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00448",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 40-year-old woman reports difficulty falling asleep and staying asleep. She has a history of anxiety and depression. Which of the following statements best describes the relationship between insomnia and mental health conditions?",
+    "options": [
+      "A) Insomnia is always a symptom of underlying mental health conditions",
+      "B) Insomnia is a risk factor for mental health conditions but not vice versa",
+      "C) Insomnia is both a symptom of and risk factor for almost every mental health condition",
+      "D) Insomnia and mental health conditions are unrelated"
+    ],
+    "correct_answer": "C) Insomnia is both a symptom of and risk factor for almost every mental health condition",
+    "page_reference": "Page 292",
+    "rationale": "Insomnia is both a symptom of and a risk factor for almost every mental health condition, with an especially strong connection to anxiety and depression. This bidirectional relationship highlights the importance of addressing sleep issues in patients with mental health concerns and vice versa.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00449",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 55-year-old man undergoes a sleep study due to suspected obstructive sleep apnoea. His results show an apnoea-hypopnea index (AHI) of 18. How would his sleep apnoea be classified based on this result?",
+    "options": [
+      "A) Mild",
+      "B) Moderate",
+      "C) Severe",
+      "D) Borderline"
+    ],
+    "correct_answer": "B) Moderate",
+    "page_reference": "Page 291",
+    "rationale": "For adult populations, obstructive sleep apnoea severity is classified based on the apnoea-hypopnea index (AHI) as follows: mild (AHI = 5 to < 15), moderate (AHI = 15 to < 30), and severe (AHI = 30+). With an AHI of 18, this patient's condition falls into the moderate category.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00450",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 30-year-old pregnant woman in her second trimester reports difficulty sleeping at night. Which of the following sleep disorders is most prevalent among pregnant women?",
+    "options": [
+      "A) Obstructive sleep apnoea",
+      "B) Insomnia",
+      "C) Restless legs syndrome",
+      "D) Narcolepsy"
+    ],
+    "correct_answer": "C) Restless legs syndrome",
+    "page_reference": "Page 294",
+    "rationale": "Restless legs syndrome (RLS) is highly prevalent among pregnant women, affecting 26-32% of this population. While insomnia and obstructive sleep apnoea can also occur during pregnancy, RLS shows the highest prevalence rates in this group.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00451",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 25-year-old man reports excessive daytime sleepiness despite getting what he considers adequate sleep at night. He occasionally experiences sudden muscle weakness when laughing. Which of the following conditions is most likely?",
+    "options": [
+      "A) Insomnia",
+      "B) Obstructive sleep apnoea",
+      "C) Narcolepsy",
+      "D) Delayed sleep phase syndrome"
+    ],
+    "correct_answer": "C) Narcolepsy",
+    "page_reference": "Page 293-294",
+    "rationale": "The symptoms described - excessive daytime sleepiness despite adequate sleep and sudden muscle weakness triggered by emotion (cataplexy) - are characteristic of narcolepsy. Insomnia involves difficulty initiating or maintaining sleep, OSA is characterized by breathing pauses during sleep and is not typically associated with cataplexy, and delayed sleep phase syndrome involves a shift in the sleep-wake cycle without daytime sleepiness or cataplexy.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00452",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 35-year-old shift worker complains of persistent difficulty sleeping during the day after night shifts, leading to decreased job performance. What is the most likely diagnosis?",
+    "options": [
+      "A) Insomnia",
+      "B) Obstructive sleep apnoea",
+      "C) Shift work sleep disorder",
+      "D) Delayed sleep phase syndrome"
+    ],
+    "correct_answer": "C) Shift work sleep disorder",
+    "page_reference": "Page 291",
+    "rationale": "Given the patient's shift work schedule and persistent difficulty sleeping during the day after night shifts, along with impaired job performance, shift work sleep disorder is the most likely diagnosis. This disorder affects approximately 26.5% of shift workers and can significantly impact both sleep quality and daytime functioning.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00453",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 40-year-old woman reports difficulty falling asleep most nights. Her typical nighttime routine includes working on her computer until bedtime at 11:30 pm. Which of the following interventions would be most effective in improving her sleep onset?",
+    "options": [
+      "A) Taking a warm bath before bedtime",
+      "B) Using blue light-blocking glasses in the evening",
+      "C) Keeping a glass of wine by the bedside",
+      "D) Installing blackout curtains in the bedroom"
+    ],
+    "correct_answer": "B) Using blue light-blocking glasses in the evening",
+    "page_reference": "Page 288",
+    "rationale": "Using blue light-blocking glasses in the evening can help reduce exposure to blue light from screens, which can suppress melatonin production and delay sleep onset. While taking a warm bath and using blackout curtains can be helpful sleep hygiene practices, addressing the blue light exposure from the computer is likely to have the most direct impact on this patient's difficulty falling asleep. Keeping alcohol by the bedside is not recommended, as it can disrupt sleep quality.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00454",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 50-year-old man undergoes a sleep study that reveals frequent limb movements occurring at roughly 30-second intervals during sleep, causing brief arousals. He is unaware of these movements. What is the most likely diagnosis?",
+    "options": [
+      "A) Restless legs syndrome",
+      "B) Periodic limb movement disorder",
+      "C) Obstructive sleep apnoea",
+      "D) REM sleep behaviour disorder"
+    ],
+    "correct_answer": "B) Periodic limb movement disorder",
+    "page_reference": "Page 294-295",
+    "rationale": "The description matches periodic limb movement disorder (PLMD). This condition is characterized by limb movements occurring at roughly 30-second intervals during sleep, with patients typically unaware of these movements and the resulting brief arousals. Unlike restless legs syndrome, PLMD does not involve uncomfortable sensations or an urge to move while awake.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00455",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 45-year-old woman with chronic insomnia is interested in non-pharmacological approaches to improve her sleep. Which of the following interventions is considered the most effective single treatment for insomnia?",
+    "options": [
+      "A) Sleep restriction therapy",
+      "B) Relaxation training",
+      "C) Cognitive restructuring",
+      "D) Stimulus control therapy"
+    ],
+    "correct_answer": "D) Stimulus control therapy",
+    "page_reference": "Page 296",
+    "rationale": "Stimulus control therapy (SCT) is considered the most effective single treatment for insomnia. It involves strengthening the bed as a cue for sleep by limiting activities in bed to sleep and sex only, and moving all other activities to another location. While sleep restriction therapy, relaxation training, and cognitive restructuring are all components of cognitive behavioural therapy for insomnia (CBT-i), SCT has been identified as the most effective individual component.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00456",
+    "section_number": "08"
+  },
+  {
+    "question_text": "A 38-year-old man with insomnia has been taking over-the-counter sleep aids nightly for the past two months. He is concerned about long-term use and potential side effects. What is the most appropriate next step in his management?",
+    "options": [
+      "A) Prescribe a benzodiazepine for long-term use",
+      "B) Recommend cognitive behavioural therapy for insomnia (CBT-i)",
+      "C) Increase the dose of his current over-the-counter sleep aid",
+      "D) Switch to a prescription strength hypnotic medication"
+    ],
+    "correct_answer": "B) Recommend cognitive behavioural therapy for insomnia (CBT-i)",
+    "page_reference": "Page 296-297",
+    "rationale": "Cognitive behavioural therapy for insomnia (CBT-i) is the recommended first-line treatment for chronic insomnia over medications. It is more likely to produce sustained benefit and has less risk of tolerance or side effects compared to pharmacological interventions. Benzodiazepines and other hypnotic medications are not recommended as first-line treatments due to their potential for dependency and adverse effects, including increased risk of all-cause mortality.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "General",
+    "question_id": "00457",
+    "section_number": "08"
+  }
+]

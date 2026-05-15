@@ -1,0 +1,290 @@
+[
+  {
+    "question_text": "A 45-year-old male physician presents for a routine check-up. He reports exercising regularly and following a plant-based diet. According to the study by Frank et al. (2013), how is this physician's lifestyle likely to impact his patient care practices?",
+    "options": [
+      "A) He is more likely to counsel patients on nutrition",
+      "B) He is less likely to discuss physical activity with patients",
+      "C) He is equally likely to counsel on lifestyle as other physicians",
+      "D) He is more likely to prescribe medications for chronic diseases"
+    ],
+    "correct_answer": "A) He is more likely to counsel patients on nutrition",
+    "page_reference": "Page 105",
+    "rationale": "The study by Frank et al. (2013) found that physicians' personal health practices were strongly associated with their patient counselling practices. Specifically, physicians who consumed a vegetarian diet were more likely to counsel on nutrition (odds ratio of 2.1). The other options are incorrect: B) is contrary to the study findings, which showed that physically active physicians were more likely to counsel on exercise; C) is incorrect as the study showed a significant difference in counselling practices; D) is not supported by the study findings and goes against the principles of lifestyle medicine.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00595",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A systematic review by Lobelo et al. (2016) examined the relationship between healthcare providers' physical activity habits and their likelihood of counselling patients about physical activity. Which of the following best describes the main finding of this study?",
+    "options": [
+      "A) No correlation between providers' activity and counselling frequency",
+      "B) Negative correlation between providers' activity and counselling frequency",
+      "C) Providers' activity habits had no impact on patient outcomes",
+      "D) Strong positive correlation between providers' activity and counselling frequency"
+    ],
+    "correct_answer": "D) Strong positive correlation between providers' activity and counselling frequency",
+    "page_reference": "Page 105",
+    "rationale": "The systematic review by Lobelo et al. (2016) found a high correlation between physicians' physical activity habits and counselling frequency. The study showed that the odds of counselling were 1.4-5.7 times higher among physically active physicians (p < 0.05). Option A is incorrect as the study found a significant correlation. Option B is the opposite of the study's findings. Option C is not related to the main finding of the study, which focused on counselling frequency rather than patient outcomes.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00596",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A cross-sectional study of 1,349 internists by Lewis et al. (1991) examined the relationship between physicians' personal health practices and their patient counselling practices. Which of the following findings is consistent with this study?",
+    "options": [
+      "A) Female internists' alcohol use was positively associated with counselling on alcohol",
+      "B) Male internists' smoking habits had no association with smoking cessation counselling",
+      "C) Male internists' physical activity was positively associated with exercise counselling",
+      "D) Female internists' diet had no impact on nutritional counselling"
+    ],
+    "correct_answer": "C) Male internists' physical activity was positively associated with exercise counselling",
+    "page_reference": "Page 105",
+    "rationale": "The study by Lewis et al. (1991) found that male internists' health practices for physical activity were positively associated with counselling patients about exercise. Option A is incorrect as the study did not find this association for female internists and alcohol use. Option B is contrary to the study's findings, which showed a positive association between male internists' personal health practices and counselling. Option D is incorrect as the study did not specifically report on this relationship for female internists and diet.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00597",
+    "section_number": "04"
+  },
+  {
+    "question_text": "According to the study by Abramson et al. (2000), which of the following statements is true regarding the relationship between physicians' exercise habits and their counselling practices?",
+    "options": [
+      "A) Physicians who exercise are less likely to counsel patients on exercise",
+      "B) There is no relationship between physicians' exercise habits and counselling practices",
+      "C) Physicians who exercise are more likely to counsel patients on exercise",
+      "D) Only physicians who engage in strength training counsel patients on exercise"
+    ],
+    "correct_answer": "C) Physicians who exercise are more likely to counsel patients on exercise",
+    "page_reference": "Page 105",
+    "rationale": "The study by Abramson et al. (2000) found that physicians who exercise (aerobic or strength training) are more likely to counsel patients on exercise than those who do not. Option A is the opposite of the study's findings. Option B is incorrect as the study found a significant relationship. Option D is too narrow and not supported by the study, which included both aerobic and strength training.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00598",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A systematic review by Fie et al. (2013) examined the relationship between healthcare providers' personal physical activity levels and their promotion of physical activity to patients. Which of the following conclusions is most consistent with the findings of this review?",
+    "options": [
+      "A) Healthcare providers' activity levels had no impact on patient counselling",
+      "B) Only highly active providers promoted physical activity to patients",
+      "C) Providers with higher personal activity levels were more likely to promote physical activity",
+      "D) Providers' attitudes towards physical activity were unrelated to their counselling practices"
+    ],
+    "correct_answer": "C) Providers with higher personal activity levels were more likely to promote physical activity",
+    "page_reference": "Page 106",
+    "rationale": "The systematic review by Fie et al. (2013) found that among nurses and physicians, those who had higher personal physical activity levels were more likely to promote physical activity to their patients. Option A is incorrect as the review found a significant relationship. Option B is too extreme and not supported by the study findings. Option D is incorrect as the review also found that positive attitudes towards physical activity were associated with increased promotion to patients.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00599",
+    "section_number": "04"
+  },
+  {
+    "question_text": "According to the study by Stanford et al. (2014), which of the following factors was associated with increased confidence in counselling patients about physical activity among physicians and medical students?",
+    "options": [
+      "A) Having a high body mass index (BMI)",
+      "B) Having a normal body mass index (BMI)",
+      "C) Having completed a specific physical activity counselling course",
+      "D) Having more years of clinical experience"
+    ],
+    "correct_answer": "B) Having a normal body mass index (BMI)",
+    "page_reference": "Page 105",
+    "rationale": "The 2014 study by Stanford et al. concluded that physicians and medical students who had normal BMIs were more likely to feel confident about counselling their patients about physical activity. Option A is the opposite of the study's findings. Option C, while potentially beneficial, was not a finding reported in this particular study. Option D was not mentioned as a factor in the confidence levels for physical activity counselling in this study.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00600",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A study by Frank et al. (2002) examined the personal nutrition practices of US female physicians. Which of the following findings is consistent with this study regarding the relationship between physicians' dietary habits and their counselling practices?",
+    "options": [
+      "A) Physicians who ate less fat were less likely to counsel on cholesterol",
+      "B) Physicians who consumed five fruits and vegetables daily were more likely to counsel on nutrition",
+      "C) Vegetarian physicians were less likely to counsel on weight loss",
+      "D) Physicians' dietary habits had no impact on their counselling practices"
+    ],
+    "correct_answer": "B) Physicians who consumed five fruits and vegetables daily were more likely to counsel on nutrition",
+    "page_reference": "Page 105-106",
+    "rationale": "The study by Frank et al. (2002) found that female physicians who ate five fruits and vegetables per day counselled more on nutrition (p = 0.046). Option A is incorrect; the study actually found that physicians who ate less fat counselled more on cholesterol (p = 0.08). Option C is the opposite of the study's findings, which showed that vegetarian physicians were more likely to counsel on weight loss (odds ratio of 2.0). Option D is incorrect as the study found significant relationships between dietary habits and counselling practices.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00601",
+    "section_number": "04"
+  },
+  {
+    "question_text": "The study by Elkan et al. (2008) investigated the effects of a gluten-free vegan diet on patients with rheumatoid arthritis. Which of the following outcomes was observed in this study?",
+    "options": [
+      "A) Increased LDL cholesterol levels",
+      "B) No change in oxidized LDL levels",
+      "C) Decreased levels of natural antibodies against phosphorylcholine",
+      "D) Decreased LDL and oxidized LDL levels"
+    ],
+    "correct_answer": "D) Decreased LDL and oxidized LDL levels",
+    "page_reference": "Page 106",
+    "rationale": "The study by Elkan et al. (2008) found that a gluten-free vegan diet induced decreased LDL and oxidized LDL levels in patients with rheumatoid arthritis. Option A is the opposite of the study's findings. Option B is incorrect as the study observed a change in oxidized LDL levels. Option C is incorrect; the study actually found raised levels of atheroprotective natural antibodies against phosphorylcholine.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00602",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A lifestyle medicine physician is designing a wellness program for healthcare providers in a large hospital system. Based on the findings from Frank et al. (2013), which of the following interventions is most likely to improve the providers' counselling practices regarding nutrition?",
+    "options": [
+      "A) Implementing mandatory nutrition lectures",
+      "B) Providing discounted gym memberships",
+      "C) Offering plant-based meals in the hospital cafeteria",
+      "D) Requiring providers to log their daily step count"
+    ],
+    "correct_answer": "C) Offering plant-based meals in the hospital cafeteria",
+    "page_reference": "Page 105",
+    "rationale": "The study by Frank et al. (2013) found that physicians who consumed a vegetarian diet were more likely to counsel on nutrition (odds ratio of 2.1). Therefore, offering plant-based meals in the hospital cafeteria could encourage providers to adopt more plant-based eating habits, potentially improving their likelihood of counselling patients on nutrition. Option A, while educational, doesn't directly address personal dietary habits. Option B focuses on physical activity rather than nutrition. Option D, while promoting physical activity, doesn't specifically address the nutrition counselling aspect highlighted in the study.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00603",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A hospital is implementing a new wellness programme for its staff. Based on research findings, which of the following interventions is most likely to increase the frequency of physical activity counselling by healthcare providers?",
+    "options": [
+      "A) Providing nutritional seminars for staff",
+      "B) Offering on-site exercise facilities for staff use",
+      "C) Implementing a smoking cessation programme",
+      "D) Organizing team-building activities"
+    ],
+    "correct_answer": "B) Offering on-site exercise facilities for staff use",
+    "page_reference": "Page 105",
+    "rationale": "Studies have shown that healthcare providers who engage in regular physical activity are more likely to counsel their patients about exercise. Offering on-site exercise facilities would encourage staff to be more physically active, potentially leading to increased counselling on physical activity. Option A focuses on nutrition rather than physical activity. While Option C is beneficial, it doesn't directly address physical activity counselling. Option D, while potentially beneficial for staff morale, doesn't specifically target physical activity habits or counselling practices.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00604",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A primary care physician is concerned about her counselling practices regarding healthy lifestyles. Which of the following personal health behaviours is most likely to positively influence her counselling practices on nutrition, according to research?",
+    "options": [
+      "A) Maintaining a normal BMI",
+      "B) Practicing meditation regularly",
+      "C) Consuming a vegetarian diet",
+      "D) Getting 8 hours of sleep nightly"
+    ],
+    "correct_answer": "C) Consuming a vegetarian diet",
+    "page_reference": "Page 105",
+    "rationale": "Research has shown that physicians who consume a vegetarian diet are more likely to counsel on nutrition and weight loss. Specifically, one study found that physicians who consumed a vegetarian diet were 2.1 times more likely to counsel on nutrition. While Option A (maintaining a normal BMI) may influence confidence in counselling, it wasn't specifically linked to increased nutrition counselling. Options B and D, while important for overall health, were not directly associated with increased nutrition counselling in the studies referenced.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00605",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A study examining the relationship between physicians' personal health practices and patient care found a strong positive association between certain behaviours and counselling practices. For male physicians, which of the following personal health practices was positively associated with counselling patients about the same behaviour?",
+    "options": [
+      "A) Alcohol consumption",
+      "B) Dietary habits",
+      "C) Physical activity",
+      "D) Sleep patterns"
+    ],
+    "correct_answer": "C) Physical activity",
+    "page_reference": "Page 105",
+    "rationale": "A cross-sectional study of internists showed that for male physicians, their personal health practices for physical activity were positively associated with counselling patients about exercise. The study did not find a significant association between male physicians' alcohol use and counselling on alcohol use. While dietary habits and sleep patterns are important, they were not specifically mentioned as having a strong positive association for male physicians in this particular study.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00606",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A hospital administrator is reviewing data on physicians' counselling practices. According to research, which of the following groups of physicians is most likely to emphasize the risks of smoking to their patients?",
+    "options": [
+      "A) Physicians who recently quit smoking",
+      "B) Physicians who have never smoked",
+      "C) Physicians who smoke occasionally",
+      "D) Physicians who smoke regularly"
+    ],
+    "correct_answer": "B) Physicians who have never smoked",
+    "page_reference": "Page 105",
+    "rationale": "Studies have consistently shown that non-smoking physicians are more likely to emphasize the risks of smoking to their patients. Physicians who have never smoked tend to have stronger anti-smoking attitudes and are more likely to engage in smoking cessation counselling. While physicians who recently quit (Option A) may also emphasize smoking risks, the research specifically highlights non-smokers as being most likely to do so. Options C and D are incorrect, as physicians who smoke (even occasionally) are less likely to emphasize smoking risks compared to non-smoking physicians.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00607",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A research team is studying the impact of physicians' personal health behaviours on their patient care practices. Based on existing studies, which of the following is most likely to be true regarding female physicians' personal health practices and their counselling behaviours?",
+    "options": [
+      "A) Their alcohol consumption habits strongly influence alcohol use counselling",
+      "B) Their physical activity levels are associated with counselling on exercise and alcohol use",
+      "C) Their dietary habits have no impact on nutritional counselling",
+      "D) Their smoking status is unrelated to smoking cessation counselling"
+    ],
+    "correct_answer": "B) Their physical activity levels are associated with counselling on exercise and alcohol use",
+    "page_reference": "Page 105",
+    "rationale": "Research has shown that female physicians' personal health practices for physical activity were associated positively with counselling patients about exercise and alcohol use. This finding highlights the potential influence of physicians' own health behaviours on their counselling practices. Option A is incorrect as the studies did not report a strong influence of female physicians' alcohol consumption on counselling. Option C is contrary to the findings, which generally showed positive associations between personal health practices and counselling. Option D is also incorrect, as physicians' smoking status has been shown to influence smoking cessation counselling across genders.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00608",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A hospital is implementing a new wellness programme based on the findings of Lobelo et al. (2016). Which of the following interventions is most likely to have the greatest impact on increasing physical activity counselling among healthcare providers?",
+    "options": [
+      "A) Providing educational materials on the benefits of physical activity",
+      "B) Offering financial incentives for providers who counsel patients on physical activity",
+      "C) Implementing a structured physical activity programme for healthcare providers",
+      "D) Requiring providers to complete an online course on physical activity counselling"
+    ],
+    "correct_answer": "C) Implementing a structured physical activity programme for healthcare providers",
+    "page_reference": "Page 105",
+    "rationale": "The systematic review by Lobelo et al. (2016) found a strong positive correlation between healthcare providers' personal physical activity habits and their likelihood of counselling patients about physical activity. The odds of counselling were 1.4-5.7 times higher among physically active physicians. Therefore, implementing a structured physical activity programme for providers is most likely to increase their personal activity levels and, consequently, their counselling practices. While options A and D may increase knowledge, they don't directly address personal habits. Option B might increase counselling frequency but doesn't align with the study's findings about the importance of personal habits.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00609",
+    "section_number": "04"
+  },
+  {
+    "question_text": "Based on the findings of Lewis et al. (1991), a large healthcare system wants to improve its male physicians' counselling practices across multiple health behaviours. Which combination of personal health interventions for these physicians is most likely to yield the broadest improvement in counselling practices?",
+    "options": [
+      "A) Smoking cessation and alcohol reduction programmes",
+      "B) Physical activity promotion and smoking cessation programmes",
+      "C) Nutrition education and alcohol reduction programmes",
+      "D) Stress management and nutrition education programmes"
+    ],
+    "correct_answer": "B) Physical activity promotion and smoking cessation programmes",
+    "page_reference": "Page 105",
+    "rationale": "The study by Lewis et al. (1991) found that for male internists, personal health practices for smoking, physical activity, and seat belt use were positively associated with counselling for each respective health behaviour. Notably, alcohol use was not associated with counselling for male internists. Therefore, a combination of physical activity promotion and smoking cessation programmes is most likely to yield the broadest improvement in counselling practices. This combination addresses two of the three behaviours found to be influential in the study. Options A and C include alcohol reduction, which was not found to be associated with counselling practices for male internists in this study. Option D doesn't address the specific behaviours highlighted in the study's findings.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00610",
+    "section_number": "04"
+  },
+  {
+    "question_text": "A researcher is designing a study to further investigate the findings of Stanford et al. (2014) regarding the relationship between physicians' BMI and their confidence in counselling about physical activity. Which of the following study designs would best address potential confounding factors not considered in the original study?",
+    "options": [
+      "A) A cross-sectional survey of physicians' BMI and counselling practices",
+      "B) A longitudinal study tracking changes in physicians' BMI and counselling confidence over time",
+      "C) A randomised controlled trial of a weight loss intervention for overweight physicians",
+      "D) A qualitative study exploring physicians' perceptions of the relationship between their BMI and counselling practices"
+    ],
+    "correct_answer": "C) A randomised controlled trial of a weight loss intervention for overweight physicians",
+    "page_reference": "Page 105",
+    "rationale": "Stanford et al. (2014) found that physicians with normal BMIs were more likely to feel confident about counselling patients on physical activity. A randomised controlled trial of a weight loss intervention for overweight physicians would best address potential confounding factors by allowing for causal inference. This design would enable researchers to directly observe whether changes in physicians' BMI lead to changes in counselling confidence, controlling for other variables. Option A wouldn't improve upon the original study's design. Option B would show changes over time but wouldn't establish causality. Option D could provide valuable insights but wouldn't quantitatively assess the relationship or control for confounding factors.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00611",
+    "section_number": "04"
+  },
+  {
+    "question_text": "Considering the findings of Elkan et al. (2008) on the effects of a gluten-free vegan diet in rheumatoid arthritis patients, a rheumatologist is designing a follow-up study. Which of the following research questions would most effectively build upon and extend the original study's findings?",
+    "options": [
+      "A) Does a gluten-free vegan diet improve symptoms in patients with osteoarthritis?",
+      "B) What is the long-term adherence rate to a gluten-free vegan diet in rheumatoid arthritis patients?",
+      "C) How does a gluten-free vegan diet compare to standard pharmacological treatments for rheumatoid arthritis in terms of LDL reduction and antibody production?",
+      "D) Can the benefits of a gluten-free vegan diet be achieved with a less restrictive plant-based diet in rheumatoid arthritis patients?"
+    ],
+    "correct_answer": "C) How does a gluten-free vegan diet compare to standard pharmacological treatments for rheumatoid arthritis in terms of LDL reduction and antibody production?",
+    "page_reference": "Page 106",
+    "rationale": "Elkan et al. (2008) found that a gluten-free vegan diet induced decreased LDL and oxidized LDL levels and raised levels of natural antibodies against phosphorylcholine in rheumatoid arthritis patients. A study comparing these effects to standard pharmacological treatments would directly build upon these findings, providing valuable information about the relative efficacy of dietary intervention versus conventional treatment. This question addresses the specific outcomes measured in the original study (LDL levels and antibody production) while extending the research to compare with current standard treatments. Option A doesn't focus on rheumatoid arthritis. Option B, while important, doesn't address the physiological effects found in the original study. Option D is relevant but doesn't as directly extend the original findings in terms of comparing to standard treatments.",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_type": "Study-Tool Based",
+    "question_id": "00612",
+    "section_number": "04"
+  }
+]

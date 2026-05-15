@@ -1,0 +1,322 @@
+[
+  {
+    "question_text": "A 62-year-old man with a history of coronary heart disease presents for a follow-up appointment. He has been struggling to adhere to lifestyle changes recommended at his last visit. Which of the following interventions has been shown to be most effective in reversing coronary heart disease?",
+    "options": [
+      "A) Low-fat vegetarian diet and moderate exercise",
+      "B) Mediterranean diet and daily yoga practice",
+      "C) Intensive lifestyle changes including a low-fat vegetarian diet, aerobic exercise, stress management, and group support",
+      "D) Ketogenic diet and high-intensity interval training"
+    ],
+    "correct_answer": "C) Intensive lifestyle changes including a low-fat vegetarian diet, aerobic exercise, stress management, and group support",
+    "page_reference": "Page 71",
+    "rationale": "The Ornish Lifestyle Heart Trial, as mentioned on page 71, demonstrated that intensive lifestyle changes, including a low-fat vegetarian diet, aerobic exercise, stress management, and group psychosocial support, resulted in significant reductions in both LDL cholesterol and anginal episodes after one year, and showed even more regression of coronary atherosclerosis after 5 years. This comprehensive approach has been shown to be the most effective in reversing coronary heart disease. Options A and B, while beneficial, are not as comprehensive or proven to reverse coronary heart disease. Option D is not supported by evidence for reversing coronary heart disease.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00575",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 54-year-old woman with newly diagnosed type 2 diabetes (HbA1c 7.8%) is interested in exploring non-pharmacological management options. Based on recent research, which of the following approaches is most likely to lead to diabetes remission?",
+    "options": [
+      "A) Bariatric surgery",
+      "B) Intensive lifestyle intervention focusing on weight management",
+      "C) Metformin therapy",
+      "D) Intermittent fasting"
+    ],
+    "correct_answer": "B) Intensive lifestyle intervention focusing on weight management",
+    "page_reference": "Page 72",
+    "rationale": "The DIRECT (Diabetes Remission Clinical Trial) study, mentioned on page 72, demonstrated that at 12 months, almost half of participants (46%) achieved remission to a non-diabetic state and were off antidiabetic drugs through an intensive weight management programme. This study shows that remission of type 2 diabetes is a practical target for primary care through lifestyle intervention. While option A (bariatric surgery) can be effective, it's more invasive and typically reserved for severe cases. Option C (metformin) is a common first-line treatment but is less effective than lifestyle changes for remission. Option D (intermittent fasting) may have benefits but has not been shown to be as effective as comprehensive weight management for diabetes remission.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00576",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 45-year-old man with hypercholesterolaemia (LDL 160 mg/dL) is reluctant to start statin therapy and asks about dietary interventions. Which of the following dietary approaches has been shown to have comparable effects to statin therapy in lowering LDL cholesterol?",
+    "options": [
+      "A) Low-carbohydrate, high-fat diet",
+      "B) Mediterranean diet with olive oil supplementation",
+      "C) Dietary portfolio emphasising plant sterols, viscous fibres, soy protein, and nuts",
+      "D) Paleolithic diet rich in lean meats and vegetables"
+    ],
+    "correct_answer": "C) Dietary portfolio emphasising plant sterols, viscous fibres, soy protein, and nuts",
+    "page_reference": "Page 72",
+    "rationale": "The study by Jenkins et al. (2003), mentioned on page 72, demonstrated that a dietary portfolio emphasising plant sterols, viscous fibres, soy protein, and nuts resulted in LDL cholesterol reductions comparable to statin therapy. Specifically, the dietary portfolio group had an average decrease in LDL cholesterol of 28.6%, which was not significantly different from the 30.9% reduction in the statin group. This dietary approach offers a viable alternative for patients who are hesitant about pharmacological interventions. Options A and D are not supported by evidence for comparable cholesterol-lowering effects to statins. While option B (Mediterranean diet) has cardiovascular benefits, it has not been shown to lower LDL cholesterol to the same extent as the specific dietary portfolio described in the study.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00577",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 68-year-old woman with stable coronary artery disease is interested in non-pharmacological interventions to improve her cardiovascular health. Based on recent research comparing exercise and drug interventions, which of the following statements is most accurate?",
+    "options": [
+      "A) Exercise interventions are superior to drug interventions for all cardiovascular conditions",
+      "B) Drug interventions are always more effective than exercise for cardiovascular health",
+      "C) Exercise interventions are comparable to drug interventions for secondary prevention of coronary heart disease",
+      "D) Exercise interventions are only effective when combined with drug therapy"
+    ],
+    "correct_answer": "C) Exercise interventions are comparable to drug interventions for secondary prevention of coronary heart disease",
+    "page_reference": "Page 73",
+    "rationale": "The meta-epidemiological study by Naci and Ioannidis (2013), mentioned on page 73, found that exercise interventions were no different than drug interventions in the secondary prevention of coronary heart disease (OR 0.94 [CI 0.8-1.14]). This suggests that exercise can be as effective as medication for patients with established coronary heart disease. It's important to note that the study found exercise to be more effective than drug interventions for stroke rehabilitation, but less effective than diuretics for heart failure. Option A is incorrect because the effectiveness varied depending on the specific cardiovascular condition. Option B is overly broad and contradicted by the study's findings.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00578",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 50-year-old man with prediabetes (fasting glucose 110 mg/dL, HbA1c 6.2%) is concerned about developing type 2 diabetes. Which of the following interventions has been shown to be most effective in preventing the progression from prediabetes to type 2 diabetes?",
+    "options": [
+      "A) Intensive lifestyle intervention",
+      "B) Metformin therapy",
+      "C) Combination of lifestyle intervention and metformin",
+      "D) Watchful waiting with annual HbA1c checks"
+    ],
+    "correct_answer": "A) Intensive lifestyle intervention",
+    "page_reference": "Page 72",
+    "rationale": "The Diabetes Prevention Program (DPP) trial, mentioned on page 72, demonstrated that lifestyle changes were more effective than metformin in reducing the incidence of diabetes in persons at high risk. The study showed that both lifestyle changes and treatment with metformin reduced the incidence of diabetes, but the lifestyle intervention was more effective than metformin at an average follow-up of 2.8 years. This highlights the importance of intensive lifestyle interventions as a first-line approach for preventing the progression from prediabetes to type 2 diabetes. While option B (metformin) was also effective, it was less so than lifestyle changes. Option C, while potentially beneficial, was not specifically studied in the DPP trial mentioned. Option D (watchful waiting) is not an active intervention and is less likely to prevent progression to diabetes compared to lifestyle changes or metformin.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00579",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 55-year-old woman with a BMI of 32 kg/m\u00c2\u00b2 and hypertension visits your clinic for advice on weight loss. Which of the following tools would be most appropriate to assess her readiness for physical activity?",
+    "options": [
+      "A) AUDIT-C questionnaire",
+      "B) Pittsburgh Sleep Quality Index",
+      "C) Physical Activity Vital Sign (PAVS)",
+      "D) Perceived Stress Scale"
+    ],
+    "correct_answer": "C) Physical Activity Vital Sign (PAVS)",
+    "page_reference": "Page 59",
+    "rationale": "The Physical Activity Vital Sign (PAVS) is a validated tool mentioned on page 59 of the board review. It provides general information about cardiovascular exercise and strength training. The PAVS asks two key questions: (1) On average, how many days per week do you engage in moderate to strenuous exercise (like a brisk walk)? and (2) On average, how many minutes per day do you exercise at this level? This tool is most appropriate for assessing the patient's current physical activity level and readiness for increasing activity. The AUDIT-C (option A) is for alcohol use assessment, the Pittsburgh Sleep Quality Index (option B) is for sleep assessment, and the Perceived Stress Scale (option D) is for stress assessment, making them less suitable for this scenario.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00580",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 48-year-old man with type 2 diabetes (HbA1c 8.2%) is interested in trying lifestyle interventions to improve his condition. Based on the DIRECT trial, what percentage of patients achieved remission of type 2 diabetes after 12 months of intensive lifestyle intervention?",
+    "options": [
+      "A) 25%",
+      "B) 36%",
+      "C) 46%",
+      "D) 58%"
+    ],
+    "correct_answer": "C) 46%",
+    "page_reference": "Page 72",
+    "rationale": "The DIRECT (Diabetes Remission Clinical Trial) study, mentioned on page 72 of the board review book, demonstrated that at 12 months, almost half of participants (46%) achieved remission to a non-diabetic state and were off antidiabetic drugs. This finding highlights the potential effectiveness of intensive lifestyle interventions for type 2 diabetes management. Options A, B, and D are incorrect percentages that do not accurately reflect the study's findings.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00581",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is designing a comprehensive intervention for patients with cardiovascular disease. According to the Lifestyle Heart Trial, which combination of interventions showed significant regression of coronary atherosclerosis after 5 years?",
+    "options": [
+      "A) Low-fat diet, moderate exercise, and medication adherence",
+      "B) Mediterranean diet, yoga, and stress management",
+      "C) Low-fat vegetarian diet, aerobic exercise, stress management, and group psychosocial support",
+      "D) Ketogenic diet, high-intensity interval training, and mindfulness meditation"
+    ],
+    "correct_answer": "C) Low-fat vegetarian diet, aerobic exercise, stress management, and group psychosocial support",
+    "page_reference": "Page 71",
+    "rationale": "The Lifestyle Heart Trial, as described on page 71 of the board review book, demonstrated that comprehensive lifestyle changes in patients with moderate to severe coronary heart disease resulted in significant reductions in both LDL cholesterol and anginal episodes after one year, and showed even more regression of coronary atherosclerosis after 5 years. These lifestyle changes included a low-fat (10% of calories) vegetarian diet, aerobic exercise, stress management, and group psychosocial support. This combination of interventions (option C) is the most comprehensive and aligns with the study's findings. The other options, while potentially beneficial, do not accurately reflect the specific intervention studied in the Lifestyle Heart Trial.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00582",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A primary care physician is implementing the Chronic Care Model in their practice. Which of the following is NOT one of the six key elements of the Chronic Care Model?",
+    "options": [
+      "A) Self-management support",
+      "B) Decision support",
+      "C) Delivery system design",
+      "D) Pharmaceutical interventions"
+    ],
+    "correct_answer": "D) Pharmaceutical interventions",
+    "page_reference": "Page 84",
+    "rationale": "The Chronic Care Model, as described on page 84 of the board review book, includes six key elements: (1) Community resources and policies, (2) Health care organization, (3) Self-management support, (4) Delivery system design, (5) Decision support, and (6) Clinical information systems. Pharmaceutical interventions, while an important aspect of chronic disease management, are not specifically listed as one of the six key elements of the Chronic Care Model. This question tests the understanding of the model's components and the ability to identify elements that are not part of the core structure.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00583",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is assessing a patient's dietary habits. Which of the following tools is considered a validated measure for adherence to the Mediterranean diet?",
+    "options": [
+      "A) Starting the Conversation",
+      "B) Mediterranean Diet Adherence Screener (MEDAS)",
+      "C) Dietary History Questionnaire (DHQ)",
+      "D) Automated Self-Administered 24-Hour (ASA24) Dietary Assessment Tool"
+    ],
+    "correct_answer": "B) Mediterranean Diet Adherence Screener (MEDAS)",
+    "page_reference": "Page 59",
+    "rationale": "As mentioned on page 59 of the board review book, the Mediterranean Diet Adherence Screener (MEDAS) is a validated assessment tool for measuring adherence to the Mediterranean diet. The Mediterranean diet is characterized by regular consumption of olive oil, whole grains, fruits, vegetables, legumes, nuts, fish, and wine, as well as a moderate intake of lean meats and dairy. While the other options are valid dietary assessment tools, they are not specifically designed to measure adherence to the Mediterranean diet. Starting the Conversation (option A) is a simplified food frequency instrument, the Dietary History Questionnaire (option C) is a general dietary assessment tool, and the ASA24 (option D) is a 24-hour recall tool.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00584",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is assessing a patient's stress levels using the Perceived Stress Scale (PSS). Which of the following statements about the PSS is FALSE?",
+    "options": [
+      "A) It is a 10-item questionnaire in its full form",
+      "B) It evaluates symptoms of stress over the past month",
+      "C) It uses a 7-point scale for responses",
+      "D) A brief 4-item version is available for quick screening"
+    ],
+    "correct_answer": "C) It uses a 7-point scale for responses",
+    "page_reference": "Page 67",
+    "rationale": "The Perceived Stress Scale (PSS) is mentioned on page 67 of the board review book. While it is correct that the PSS is a 10-item questionnaire in its full form (option A), evaluates symptoms of stress over the past month (option B), and has a brief 4-item version available (option D), it actually uses a 5-point scale for responses, not a 7-point scale. This question tests detailed knowledge of the assessment tool and requires careful attention to the specifics provided in the text.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00585",
+    "section_number": "03"
+  },
+  {
+    "question_text": "In the context of the Chronic Care Model, which of the following combinations best represents the concept of \"productive interactions\" between an informed, activated patient and a prepared, proactive practice team?",
+    "options": [
+      "A) Self-management support and delivery system design",
+      "B) Decision support and clinical information systems",
+      "C) Community resources and health care organization",
+      "D) Health care organization and self-management support"
+    ],
+    "correct_answer": "A) Self-management support and delivery system design",
+    "page_reference": "Page 84",
+    "rationale": "The Chronic Care Model, as described on page 84 of the board review book, emphasizes productive interactions between informed, activated patients and prepared, proactive practice teams. Self-management support directly relates to empowering patients, while delivery system design focuses on preparing the practice team. This combination most accurately represents the concept of productive interactions in the model. The other options, while components of the Chronic Care Model, do not specifically address the interaction between patients and the practice team in the same way.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00586",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is using the AUDIT-C for alcohol screening. A 45-year-old male patient scores 6 on the AUDIT-C. Based on this information, which of the following is the most appropriate next step?",
+    "options": [
+      "A) Provide brief advice on reducing alcohol consumption",
+      "B) Refer the patient to an addiction specialist",
+      "C) Conduct a full AUDIT assessment",
+      "D) Recommend complete abstinence from alcohol"
+    ],
+    "correct_answer": "C) Conduct a full AUDIT assessment",
+    "page_reference": "Page 62",
+    "rationale": "The AUDIT-C is mentioned on page 62 of the board review book as a concise alcohol screening tool. While the specific cut-off scores are not provided in the board review book, general guidelines suggest that a score of 4 or more for men (3 or more for women) indicates a positive screen. A score of 6 for a male patient suggests a higher risk of alcohol misuse, but it's not definitive for diagnosis. The most appropriate next step would be to conduct a full AUDIT assessment to gather more comprehensive information about the patient's alcohol use patterns and potential problems. This approach allows for a more thorough evaluation before deciding on interventions or referrals.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00587",
+    "section_number": "03"
+  },
+  {
+    "question_text": "In the context of quality improvement in lifestyle medicine practice, which of the following best describes the correct order of steps in the Plan-Do-Study-Act (PDSA) cycle?",
+    "options": [
+      "A) Develop a plan, implement changes, analyze results, modify approach",
+      "B) Analyze current practice, develop a plan, implement changes, review outcomes",
+      "C) Implement changes, review outcomes, develop a new plan, analyze results",
+      "D) Review current outcomes, implement changes, analyze results, develop a new plan"
+    ],
+    "correct_answer": "A) Develop a plan, implement changes, analyze results, modify approach",
+    "page_reference": "Page 89",
+    "rationale": "The Plan-Do-Study-Act (PDSA) cycle is described on page 89 of the board review book. The correct order of steps is: Plan (develop the plan), Do (carry out the plan), Study (complete the data analysis), and Act (determine what needs to be changed in the next cycle). This order is best represented by option A. The question tests the understanding of the PDSA cycle's structure and the ability to recognize the correct sequence of steps in quality improvement processes.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00588",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is assessing a patient's physical activity level using the Physical Activity Vital Sign (PAVS). The patient reports exercising moderately for 30 minutes, 3 days per week. According to the PAVS classification, how would this patient's activity level be categorized?",
+    "options": [
+      "A) Inactive",
+      "B) Insufficiently active",
+      "C) Sufficiently active",
+      "D) Highly active"
+    ],
+    "correct_answer": "B) Insufficiently active",
+    "page_reference": "Page 59-60",
+    "rationale": "The Physical Activity Vital Sign (PAVS) is described on pages 59-60 of the board review book. The PAVS classifies activity levels as follows: inactive (0 minutes/week), insufficiently active (1-149 minutes/week), or sufficiently active (150+ minutes/week). In this case, the patient's reported activity (30 minutes x 3 days = 90 minutes per week) falls into the \"insufficiently active\" category. This question requires calculating the total minutes of activity per week and applying the PAVS classification criteria, testing both computational skills and knowledge of the assessment tool.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00589",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 42-year-old female physician reports feeling burnt out and struggling to counsel patients effectively on lifestyle changes. Which of the following statements about the relationship between practitioner health and patient care is most accurate?",
+    "options": [
+      "A) Physician health habits have no impact on patient counseling practices",
+      "B) Only physicians with perfect health habits should counsel patients on lifestyle changes",
+      "C) Physicians attempting to improve their own health habits counsel patients more frequently",
+      "D) Patient outcomes are solely determined by the physician's knowledge, not personal habits"
+    ],
+    "correct_answer": "C) Physicians attempting to improve their own health habits counsel patients more frequently",
+    "page_reference": "Page 105",
+    "rationale": "According to the board review book (page 105), \"Physicians attempting to improve their poor habits have been found to counsel patients significantly more often than physicians who were not trying to change their health behaviors.\" This finding suggests that the process of personal improvement can positively influence patient care, even if the physician hasn't achieved perfect health habits. Options A and D are incorrect as they contradict the evidence presented in the board review book. Option B sets an unrealistic and unnecessary standard.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00590",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing a quality improvement project to increase the capture of lifestyle vital signs. Which of the following is the correct first step in the Plan-Do-Study-Act (PDSA) cycle for this project?",
+    "options": [
+      "A) Start collecting lifestyle vital signs for all patients immediately",
+      "B) Analyze current rates of lifestyle vital sign collection",
+      "C) Develop a plan for capturing lifestyle vital signs, including who will collect them and when",
+      "D) Train all staff on the importance of lifestyle vital signs"
+    ],
+    "correct_answer": "C) Develop a plan for capturing lifestyle vital signs, including who will collect them and when",
+    "page_reference": "Page 89",
+    "rationale": "The board review book describes the PDSA cycle on page 89. The \"Plan\" phase is the first step, which involves developing the plan (who, what, when, where) and making predictions. In this scenario, developing a specific plan for capturing lifestyle vital signs, including assigning responsibilities and timing, is the correct first step. Option A jumps directly to implementation (Do phase), option B is part of the Study phase, and option D might be part of the plan but isn't the first step in the PDSA cycle.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00591",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 55-year-old man with a BMI of 31 kg/m\u00c2\u00b2 asks about the most effective approach for weight loss. Based on the evidence presented in the board review book, which of the following statements is most accurate regarding weight loss interventions?",
+    "options": [
+      "A) Bariatric surgery is the only effective long-term solution for obesity",
+      "B) Pharmacotherapy alone is sufficient for sustainable weight loss",
+      "C) A comprehensive lifestyle intervention program is most effective for weight loss",
+      "D) Intermittent fasting is superior to all other weight loss approaches"
+    ],
+    "correct_answer": "C) A comprehensive lifestyle intervention program is most effective for weight loss",
+    "page_reference": "Page 68",
+    "rationale": "The board review book (page 68) states that the ACC/AHA/TOS 2013 Obesity recommendations suggest referring patients with BMI \u00e2\u2030\u00a5 30 to a comprehensive lifestyle intervention program. These programs include caloric restriction, increased physical activity, and behavioral strategies to facilitate lifestyle changes. While other options may have roles in weight management, the evidence presented in the board review book emphasizes the importance of comprehensive lifestyle interventions as the primary approach.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00592",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is assessing a patient's dietary habits using the \"Starting the Conversation\" tool. Which of the following best describes this assessment tool?",
+    "options": [
+      "A) A 24-hour dietary recall questionnaire",
+      "B) An 8-item simplified food frequency instrument",
+      "C) A comprehensive nutrient analysis software",
+      "D) A 7-day food diary app"
+    ],
+    "correct_answer": "B) An 8-item simplified food frequency instrument",
+    "page_reference": "Page 59",
+    "rationale": "The board review book (page 59) describes \"Starting the Conversation\" as \"an eight-item simplified food frequency instrument designed for use in primary care and health-promotion settings.\" This tool is meant to provide a quick assessment of dietary habits in a clinical setting. The other options represent different types of dietary assessment tools that are not specifically mentioned in relation to \"Starting the Conversation\" in the board review book.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00593",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is considering implementing group visits for patients with chronic conditions. According to the information provided in the board review book, which of the following is NOT a reported benefit of group medical visits?",
+    "options": [
+      "A) Improved access to care",
+      "B) Increased patient and provider satisfaction",
+      "C) Reduced healthcare expenditures",
+      "D) Elimination of the need for individual follow-up care"
+    ],
+    "correct_answer": "D) Elimination of the need for individual follow-up care",
+    "page_reference": "Page 79-80",
+    "rationale": "The board review book (pages 79-80) discusses several benefits of group medical visits, including improved access to care, increased patient and provider satisfaction, and reduced healthcare expenditures. However, it does not suggest that group visits eliminate the need for individual follow-up care. In fact, the board review book mentions that these visits can still offer personalized care, with each patient's unique needs being addressed individually while maintaining privacy. The other options are all mentioned as benefits of group visits in the board review book.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00594",
+    "section_number": "03"
+  }
+]

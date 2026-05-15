@@ -1,0 +1,323 @@
+[
+  {
+    "question_text": "A lifestyle medicine physician is developing a treatment plan for a 45-year-old patient with treatment-resistant depression. Recent meta-analyses of positive psychology interventions (PPIs) have shown which of the following findings that should inform the treatment approach?",
+    "options": [
+      "A) PPIs show large effect sizes comparable to pharmacotherapy",
+      "B) PPIs are most effective when used as standalone treatments",
+      "C) PPIs demonstrate smaller effects than previously reported but remain significant",
+      "D) PPIs are only effective for mild depression cases"
+    ],
+    "correct_answer": "C",
+    "page_reference": "333",
+    "rationale": "According to White et al.'s meta-analyses referenced in the text, the effects of positive psychology interventions are much smaller than previously reported, but they still show significant impact. This finding suggests that while PPIs shouldn't be oversold, they remain a valid complementary intervention. The text specifically notes that PPIs should be made as conjuncts to other treatment interventions, not as standalone treatments, and their effectiveness isn't limited to only mild cases.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Supplementary",
+    "question_id": "1175",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A researcher is studying the genomic effects of different types of well-being. Based on current evidence, which pattern would most likely be observed in individuals experiencing predominantly eudaimonic well-being compared to those experiencing primarily hedonic well-being?",
+    "options": [
+      "A) Increased pro-inflammatory gene expression and decreased antibody synthesis",
+      "B) No significant difference in gene expression patterns",
+      "C) Downregulation of both inflammatory and antibody synthesis genes",
+      "D) Decreased pro-inflammatory gene expression and increased antibody synthesis"
+    ],
+    "correct_answer": "D",
+    "page_reference": "335",
+    "rationale": "The text explicitly states that eudaimonia is associated with downregulation of pro-inflammatory genes while antibody synthesis genes are upregulated. Conversely, hedonia is associated with the opposite pattern. This represents a complex biological distinction between these two types of well-being, with eudaimonic well-being showing a more favorable genomic profile for long-term health outcomes.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Supplementary",
+    "question_id": "1176",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is evaluating the effectiveness of their social media-based health promotion program. Which theoretical framework would be most appropriate for understanding the potential negative impacts of their social media strategy on patient well-being?",
+    "options": [
+      "A) Social comparison theory only",
+      "B) Displacement theory in isolation",
+      "C) The combination of upward comparison, displacement, and reinforcing spirals theories",
+      "D) Positivity resonance theory"
+    ],
+    "correct_answer": "C",
+    "page_reference": "337",
+    "rationale": "The text identifies three key theories for understanding social media's effects on well-being: upward comparison theory, displacement theory, and reinforcing spirals theory. These theories work together to explain how social media can negatively impact well-being through multiple mechanisms: comparison with others, displacement of in-person activities, and reinforcement of existing negative patterns. Understanding all three theories provides the most comprehensive framework for evaluating potential negative impacts.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Supplementary",
+    "question_id": "1177",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 50-year-old executive presents with concerns about work-related stress and declining life satisfaction. Based on Lyubomirsky's set point theory of happiness, which intervention would likely have the most substantial impact on their well-being?",
+    "options": [
+      "A) Focusing on improving their genetic predisposition",
+      "B) Implementing intentional activities and forming meaningful social bonds",
+      "C) Prioritizing improvements in socioeconomic status",
+      "D) Addressing childhood experiences through therapy"
+    ],
+    "correct_answer": "B",
+    "page_reference": "333",
+    "rationale": "According to Lyubomirsky's set point theory discussed in the text, there are three meta-factors affecting happiness: genetics/unmodifiable childhood experiences, life circumstances (like socioeconomic status), and intentional activities. Of these, intentional activities, including PPIs and forming meaningful social bonds, represent the factor most amenable to intervention and significant influence on well-being. Genetics and childhood experiences are unmodifiable, and socioeconomic status has less impact than intentional activities.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Supplementary",
+    "question_id": "1178",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine program is designing interventions based on the PERMA model. Which combination of elements would most effectively target the 'engagement' component of well-being?",
+    "options": [
+      "A) Goal setting and achievement tracking",
+      "B) High skill development matched with high challenge activities",
+      "C) Social connection and community building",
+      "D) Meaning-making through narrative development"
+    ],
+    "correct_answer": "B",
+    "page_reference": "332",
+    "rationale": "The text describes engagement in the PERMA model as being fully absorbed in the present moment with a 'blissful immersion' that stretches intelligence, skill, and emotional capacity. This is specifically linked to Csikszentmihalyi's concept of 'flow,' which occurs when high skill meets high challenge. While the other options relate to different PERMA components (accomplishment, relationships, and meaning respectively), the combination of high skill development and high challenge specifically targets engagement.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Supplementary",
+    "question_id": "1179",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A research team is studying the relationship between social connections and health outcomes using network analysis. Based on the Framingham Heart Study findings, what would be the most accurate prediction about the spread of positive health behaviors within a social network?",
+    "options": [
+      "A) Positive behaviors spread only to immediate contacts",
+      "B) Behavioral influence extends to three degrees of separation",
+      "C) Network effects are limited to family members",
+      "D) Influence is confined to direct peer relationships"
+    ],
+    "correct_answer": "B",
+    "page_reference": "336",
+    "rationale": "The text specifically references the Framingham Heart Study findings that emotional states are socially contagious up to three degrees of separation (i.e., to the friends of their friend's friends). This implies that health behaviors and outcomes can be influenced through extended social networks, beyond immediate contacts or family members, making the three degrees of separation option the most accurate prediction based on the evidence.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Supplementary",
+    "question_id": "1180",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A patient with multiple chronic conditions shows improved inflammatory markers despite limited change in their physical symptoms. Which psychological factor, supported by research evidence, most likely explains this improvement?",
+    "options": [
+      "A) Increased hedonic well-being",
+      "B) Enhanced social media engagement",
+      "C) Higher levels of life purpose and positive relationships",
+      "D) Improved sleep quality alone"
+    ],
+    "correct_answer": "C",
+    "page_reference": "335",
+    "rationale": "The text explicitly states that individuals with chronic conditions who responded with higher levels of purpose in life, positive relationships, and positive affect had lower levels of inflammatory markers (interleukin-6 and C-reactive protein). This finding specifically links purpose and positive relationships to improved inflammatory markers, independent of physical symptom changes.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Supplementary",
+    "question_id": "1181",
+    "section_number": "10"
+  },
+  {
+    "question_text": "In developing a comprehensive lifestyle medicine intervention for depression, which combination of therapeutic lifestyle changes (TLC) is most strongly supported by current evidence?",
+    "options": [
+      "A) Exercise, sleep, and dietary pattern modifications",
+      "B) Mindfulness and spiritual involvement only",
+      "C) Social support and recreation exclusively",
+      "D) Nature exposure and relaxation techniques"
+    ],
+    "correct_answer": "A",
+    "page_reference": "337",
+    "rationale": "The text specifically emphasizes that dietary pattern, sleep, and physical activity play an especially important role in the prevention, progression, and treatment of major depression and anxiety. While other TLC interventions are beneficial, this particular combination is highlighted as having the strongest evidence base for depression treatment.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Supplementary",
+    "question_id": "1182",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is implementing positive psychology interventions (PPIs) across different time orientations. Which intervention would be most appropriate for cultivating future-oriented positive emotions?",
+    "options": [
+      "A) Practicing gratitude journaling",
+      "B) Savoring present moments",
+      "C) Developing positive anticipation and vision",
+      "D) Focusing on past achievements"
+    ],
+    "correct_answer": "C",
+    "page_reference": "333",
+    "rationale": "The text categorizes PPIs based on their temporal orientation, with future-focused interventions specifically including hope, vision, positive anticipation, and optimism. While the other options are valid PPIs, they target different temporal orientations: gratitude and achievements focus on the past, while savoring targets the present moment.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Supplementary",
+    "question_id": "1183",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A research study examining social media use in young adults finds a linear dose-dependent relationship between usage and depression. Based on current evidence, which theoretical mechanism best explains this relationship?",
+    "options": [
+      "A) Direct causation from social comparison",
+      "B) Multiple concurrent mechanisms including displacement and reinforcing spirals",
+      "C) Purely behavioral addiction patterns",
+      "D) Neurological reward system alterations"
+    ],
+    "correct_answer": "B",
+    "page_reference": "336-337",
+    "rationale": "The text presents multiple theoretical mechanisms for social media's effects on well-being, specifically highlighting displacement theory (less time for healthy behaviors) and reinforcing spirals theory (reinforcement of existing negative patterns), along with upward comparison effects. The evidence suggests these mechanisms work concurrently rather than in isolation, making the multiple concurrent mechanisms the most comprehensive explanation for the observed dose-dependent relationship.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Supplementary",
+    "question_id": "1184",
+    "section_number": "10"
+  },
+  
+    {
+      "question_text": "A lifestyle medicine physician is developing a treatment plan for a 45-year-old patient with treatment-resistant depression. Recent meta-analyses of positive psychology interventions (PPIs) have shown which of the following findings that should inform the treatment approach?",
+      "options": [
+        "A) PPIs show large effect sizes comparable to pharmacotherapy",
+        "B) PPIs are most effective when used as standalone treatments",
+        "C) PPIs demonstrate smaller effects than previously reported but remain significant",
+        "D) PPIs are only effective for mild depression cases"
+      ],
+      "correct_answer": "C",
+      "page_reference": "333",
+      "rationale": "According to White et al.'s meta-analyses referenced in the text, the effects of positive psychology interventions are much smaller than previously reported, but they still show significant impact. This finding suggests that while PPIs shouldn't be oversold, they remain a valid complementary intervention. The text specifically notes that PPIs should be made as conjuncts to other treatment interventions, not as standalone treatments, and their effectiveness isn't limited to only mild cases.",
+      "section": "The Role of Connectedness and Positive Psychology",
+      "question_type": "Supplementary",
+      "question_id": "1175",
+      "section_number": "10"
+    },
+    {
+      "question_text": "A researcher is studying the genomic effects of different types of well-being. Based on current evidence, which pattern would most likely be observed in individuals experiencing predominantly eudaimonic well-being compared to those experiencing primarily hedonic well-being?",
+      "options": [
+        "A) Increased pro-inflammatory gene expression and decreased antibody synthesis",
+        "B) No significant difference in gene expression patterns",
+        "C) Downregulation of both inflammatory and antibody synthesis genes",
+        "D) Decreased pro-inflammatory gene expression and increased antibody synthesis"
+      ],
+      "correct_answer": "D",
+      "page_reference": "335",
+      "rationale": "The text explicitly states that eudaimonia is associated with downregulation of pro-inflammatory genes while antibody synthesis genes are upregulated. Conversely, hedonia is associated with the opposite pattern. This represents a complex biological distinction between these two types of well-being, with eudaimonic well-being showing a more favorable genomic profile for long-term health outcomes.",
+      "section": "The Role of Connectedness and Positive Psychology",
+      "question_type": "Supplementary",
+      "question_id": "1176",
+      "section_number": "10"
+    },
+    {
+      "question_text": "A lifestyle medicine clinic is evaluating the effectiveness of their social media-based health promotion program. Which theoretical framework would be most appropriate for understanding the potential negative impacts of their social media strategy on patient well-being?",
+      "options": [
+        "A) Social comparison theory only",
+        "B) Displacement theory in isolation",
+        "C) The combination of upward comparison, displacement, and reinforcing spirals theories",
+        "D) Positivity resonance theory"
+      ],
+      "correct_answer": "C",
+      "page_reference": "337",
+      "rationale": "The text identifies three key theories for understanding social media's effects on well-being: upward comparison theory, displacement theory, and reinforcing spirals theory. These theories work together to explain how social media can negatively impact well-being through multiple mechanisms: comparison with others, displacement of in-person activities, and reinforcement of existing negative patterns. Understanding all three theories provides the most comprehensive framework for evaluating potential negative impacts.",
+      "section": "The Role of Connectedness and Positive Psychology",
+      "question_type": "Supplementary",
+      "question_id": "1177",
+      "section_number": "10"
+    },
+    {
+      "question_text": "A 50-year-old executive presents with concerns about work-related stress and declining life satisfaction. Based on Lyubomirsky's set point theory of happiness, which intervention would likely have the most substantial impact on their well-being?",
+      "options": [
+        "A) Focusing on improving their genetic predisposition",
+        "B) Implementing intentional activities and forming meaningful social bonds",
+        "C) Prioritizing improvements in socioeconomic status",
+        "D) Addressing childhood experiences through therapy"
+      ],
+      "correct_answer": "B",
+      "page_reference": "333",
+      "rationale": "According to Lyubomirsky's set point theory discussed in the text, there are three meta-factors affecting happiness: genetics/unmodifiable childhood experiences, life circumstances (like socioeconomic status), and intentional activities. Of these, intentional activities, including PPIs and forming meaningful social bonds, represent the factor most amenable to intervention and significant influence on well-being. Genetics and childhood experiences are unmodifiable, and socioeconomic status has less impact than intentional activities.",
+      "section": "The Role of Connectedness and Positive Psychology",
+      "question_type": "Supplementary",
+      "question_id": "1178",
+      "section_number": "10"
+    },
+    {
+      "question_text": "A lifestyle medicine program is designing interventions based on the PERMA model. Which combination of elements would most effectively target the 'engagement' component of well-being?",
+      "options": [
+        "A) Goal setting and achievement tracking",
+        "B) High skill development matched with high challenge activities",
+        "C) Social connection and community building",
+        "D) Meaning-making through narrative development"
+      ],
+      "correct_answer": "B",
+      "page_reference": "332",
+      "rationale": "The text describes engagement in the PERMA model as being fully absorbed in the present moment with a 'blissful immersion' that stretches intelligence, skill, and emotional capacity. This is specifically linked to Csikszentmihalyi's concept of 'flow,' which occurs when high skill meets high challenge. While the other options relate to different PERMA components (accomplishment, relationships, and meaning respectively), the combination of high skill development and high challenge specifically targets engagement.",
+      "section": "The Role of Connectedness and Positive Psychology",
+      "question_type": "Supplementary",
+      "question_id": "1179",
+      "section_number": "10"
+    },
+    {
+      "question_text": "A research team is studying the relationship between social connections and health outcomes using network analysis. Based on the Framingham Heart Study findings, what would be the most accurate prediction about the spread of positive health behaviors within a social network?",
+      "options": [
+        "A) Positive behaviors spread only to immediate contacts",
+        "B) Behavioral influence extends to three degrees of separation",
+        "C) Network effects are limited to family members",
+        "D) Influence is confined to direct peer relationships"
+      ],
+      "correct_answer": "B",
+      "page_reference": "336",
+      "rationale": "The text specifically references the Framingham Heart Study findings that emotional states are socially contagious up to three degrees of separation (i.e., to the friends of their friend's friends). This implies that health behaviors and outcomes can be influenced through extended social networks, beyond immediate contacts or family members, making the three degrees of separation option the most accurate prediction based on the evidence.",
+      "section": "The Role of Connectedness and Positive Psychology",
+      "question_type": "Supplementary",
+      "question_id": "1180",
+      "section_number": "10"
+    },
+    {
+      "question_text": "A patient with multiple chronic conditions shows improved inflammatory markers despite limited change in their physical symptoms. Which psychological factor, supported by research evidence, most likely explains this improvement?",
+      "options": [
+        "A) Increased hedonic well-being",
+        "B) Enhanced social media engagement",
+        "C) Higher levels of life purpose and positive relationships",
+        "D) Improved sleep quality alone"
+      ],
+      "correct_answer": "C",
+      "page_reference": "335",
+      "rationale": "The text explicitly states that individuals with chronic conditions who responded with higher levels of purpose in life, positive relationships, and positive affect had lower levels of inflammatory markers (interleukin-6 and C-reactive protein). This finding specifically links purpose and positive relationships to improved inflammatory markers, independent of physical symptom changes.",
+      "section": "The Role of Connectedness and Positive Psychology",
+      "question_type": "Supplementary",
+      "question_id": "1181",
+      "section_number": "10"
+    },
+    {
+      "question_text": "In developing a comprehensive lifestyle medicine intervention for depression, which combination of therapeutic lifestyle changes (TLC) is most strongly supported by current evidence?",
+      "options": [
+        "A) Exercise, sleep, and dietary pattern modifications",
+        "B) Mindfulness and spiritual involvement only",
+        "C) Social support and recreation exclusively",
+        "D) Nature exposure and relaxation techniques"
+      ],
+      "correct_answer": "A",
+      "page_reference": "337",
+      "rationale": "The text specifically emphasizes that dietary pattern, sleep, and physical activity play an especially important role in the prevention, progression, and treatment of major depression and anxiety. While other TLC interventions are beneficial, this particular combination is highlighted as having the strongest evidence base for depression treatment.",
+      "section": "The Role of Connectedness and Positive Psychology",
+      "question_type": "Supplementary",
+      "question_id": "1182",
+      "section_number": "10"
+    },
+    {
+      "question_text": "A lifestyle medicine practitioner is implementing positive psychology interventions (PPIs) across different time orientations. Which intervention would be most appropriate for cultivating future-oriented positive emotions?",
+      "options": [
+        "A) Practicing gratitude journaling",
+        "B) Savoring present moments",
+        "C) Developing positive anticipation and vision",
+        "D) Focusing on past achievements"
+      ],
+      "correct_answer": "C",
+      "page_reference": "333",
+      "rationale": "The text categorizes PPIs based on their temporal orientation, with future-focused interventions specifically including hope, vision, positive anticipation, and optimism. While the other options are valid PPIs, they target different temporal orientations: gratitude and achievements focus on the past, while savoring targets the present moment.",
+      "section": "The Role of Connectedness and Positive Psychology",
+      "question_type": "Supplementary",
+      "question_id": "1183",
+      "section_number": "10"
+    },
+    {
+      "question_text": "A research study examining social media use in young adults finds a linear dose-dependent relationship between usage and depression. Based on current evidence, which theoretical mechanism best explains this relationship?",
+      "options": [
+        "A) Direct causation from social comparison",
+        "B) Multiple concurrent mechanisms including displacement and reinforcing spirals",
+        "C) Purely behavioral addiction patterns",
+        "D) Neurological reward system alterations"
+      ],
+      "correct_answer": "B",
+      "page_reference": "336-337",
+      "rationale": "The text presents multiple theoretical mechanisms for social media's effects on well-being, specifically highlighting displacement theory (less time for healthy behaviors) and reinforcing spirals theory (reinforcement of existing negative patterns), along with upward comparison effects. The evidence suggests these mechanisms work concurrently rather than in isolation, making the multiple concurrent mechanisms the most comprehensive explanation for the observed dose-dependent relationship.",
+      "section": "The Role of Connectedness and Positive Psychology",
+      "question_type": "Supplementary",
+      "question_id": "1184",
+      "section_number": "10"
+    }
+  ]

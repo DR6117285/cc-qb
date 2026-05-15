@@ -1,0 +1,338 @@
+[
+  {
+    "question_text": "According to the Health Professionals Follow-up Study, which of the following best describes the relationship between sleep duration and mortality?",
+    "options": [
+      "A) Linear relationship with increased mortality for longer sleep duration",
+      "B) U-shaped curve with increased mortality at both short and long sleep durations",
+      "C) Inverse relationship with decreased mortality for longer sleep duration",
+      "D) No significant relationship between sleep duration and mortality"
+    ],
+    "correct_answer": "B) U-shaped curve with increased mortality at both short and long sleep durations",
+    "page_reference": "274",
+    "rationale": "The text states, \"Both insufficient sleep and excess sleep are associated with increased mortality from both cardiovascular and non-cardiovascular causes.\" This describes a U-shaped curve relationship. Option A is incorrect as it only accounts for long sleep duration. Option C is opposite to the correct relationship. Option D contradicts the study's findings.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00730",
+    "section_number": "08"
+  },
+  {
+    "question_text": "The Health Professionals Follow-up Study found that short sleep duration was associated with an increased risk of which of the following conditions?",
+    "options": [
+      "A) Osteoporosis",
+      "B) Type 2 diabetes",
+      "C) Alzheimer's disease",
+      "D) Rheumatoid arthritis"
+    ],
+    "correct_answer": "B) Type 2 diabetes",
+    "page_reference": "275",
+    "rationale": "The text mentions that \"Sleep deprivation and reduced duration of short-wave sleep are associated with... impaired \u00ce\u00b2-cell function and decreased insulin sensitivity,\" which are key factors in the development of type 2 diabetes. The other options, while potential health concerns, are not specifically mentioned in relation to this study's findings on sleep duration.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00731",
+    "section_number": "08"
+  },
+  {
+    "question_text": "Based on the Health Professionals Follow-up Study, which of the following is true regarding the impact of sleep on cardiovascular health?",
+    "options": [
+      "A) Only short sleep duration increases cardiovascular risk",
+      "B) Sleep duration has no impact on cardiovascular health",
+      "C) Both short and long sleep durations increase cardiovascular risk",
+      "D) Only long sleep duration increases cardiovascular risk"
+    ],
+    "correct_answer": "C) Both short and long sleep durations increase cardiovascular risk",
+    "page_reference": "274",
+    "rationale": "The study found that \"Both insufficient sleep and excess sleep are associated with increased mortality from both cardiovascular and non-cardiovascular causes.\" This indicates that both extremes of sleep duration (short and long) increase cardiovascular risk. Options A and D are incorrect as they only consider one extreme. Option B contradicts the study's findings.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00732",
+    "section_number": "08"
+  },
+  {
+    "question_text": "The Western Collaborative Group Study examined the relationship between sleep and which of the following over a 30-year period?",
+    "options": [
+      "A) Cognitive decline",
+      "B) Obesity",
+      "C) Cancer risk",
+      "D) Bone density"
+    ],
+    "correct_answer": "B) Obesity",
+    "page_reference": "275",
+    "rationale": "The text mentions \"Carmelli D, Swan GE, Bliwise DL. Relationship of 30-year changes in obesity to sleep-disordered breathing in the Western Collaborative Group Study.\" This clearly indicates that the study examined the relationship between sleep and obesity over a 30-year period. The other options are not mentioned in relation to this specific study.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00733",
+    "section_number": "08"
+  },
+  {
+    "question_text": "According to the Western Collaborative Group Study, what was observed regarding the relationship between sleep and obesity over time?",
+    "options": [
+      "A) No significant relationship was found",
+      "B) Obesity led to improved sleep quality over time",
+      "C) Changes in obesity were related to sleep-disordered breathing",
+      "D) Sleep duration increased as obesity rates increased"
+    ],
+    "correct_answer": "C) Changes in obesity were related to sleep-disordered breathing",
+    "page_reference": "275",
+    "rationale": "While the specific details of the study aren't provided, the title \"Relationship of 30-year changes in obesity to sleep-disordered breathing in the Western Collaborative Group Study\" implies that changes in obesity were related to sleep-disordered breathing. The other options are not supported by the information given about this study.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00734",
+    "section_number": "08"
+  },
+  {
+    "question_text": "The Western Collaborative Group Study's findings on obesity and sleep-disordered breathing are most relevant to which of the following sleep disorders?",
+    "options": [
+      "A) Insomnia",
+      "B) Narcolepsy",
+      "C) Obstructive Sleep Apnea",
+      "D) Restless Legs Syndrome"
+    ],
+    "correct_answer": "C) Obstructive Sleep Apnea",
+    "page_reference": "275, 291",
+    "rationale": "The study's focus on obesity and sleep-disordered breathing is most relevant to Obstructive Sleep Apnea (OSA). The text mentions that elevated BMI (overweight or obese) is a risk factor for OSA. Insomnia, narcolepsy, and restless legs syndrome are not as directly related to obesity and sleep-disordered breathing as OSA is.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00735",
+    "section_number": "08"
+  },
+  {
+    "question_text": "The Whitehall II cohort study examined the relationship between changes in sleep duration and what health outcome?",
+    "options": [
+      "A) Cardiovascular disease",
+      "B) Mental health",
+      "C) Mortality",
+      "D) Cognitive function"
+    ],
+    "correct_answer": "C) Mortality",
+    "page_reference": "277",
+    "rationale": "The text mentions \"Ferrie JE, Shipley MJ, Cappuccio FP, et al. A prospective study of change in sleep duration: associations with mortality in the Whitehall II cohort.\" This clearly indicates that the study examined the relationship between changes in sleep duration and mortality. The other options, while potentially related to sleep, are not specifically mentioned in relation to this study.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00736",
+    "section_number": "08"
+  },
+  {
+    "question_text": "What type of study design did the Whitehall II cohort use to examine sleep duration and mortality?",
+    "options": [
+      "A) Cross-sectional study",
+      "B) Case-control study",
+      "C) Randomized controlled trial",
+      "D) Prospective cohort study"
+    ],
+    "correct_answer": "D) Prospective cohort study",
+    "page_reference": "277",
+    "rationale": "The study is described as \"A prospective study of change in sleep duration: associations with mortality in the Whitehall II cohort.\" A prospective cohort study follows a group of similar individuals over time to examine how different factors affect health outcomes. The other study designs listed do not match this description.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00737",
+    "section_number": "08"
+  },
+  {
+    "question_text": "Based on the Whitehall II cohort study, which of the following statements about sleep duration and mortality is most likely true?",
+    "options": [
+      "A) Only increased sleep duration was associated with higher mortality",
+      "B) Only decreased sleep duration was associated with higher mortality",
+      "C) Both increased and decreased sleep duration were associated with higher mortality",
+      "D) There was no significant association between changes in sleep duration and mortality"
+    ],
+    "correct_answer": "C) Both increased and decreased sleep duration were associated with higher mortality",
+    "page_reference": "274, 277",
+    "rationale": "While the specific results of the Whitehall II study aren't provided, it aligns with the general findings mentioned earlier that \"Both insufficient sleep and excess sleep are associated with increased mortality.\" This U-shaped relationship between sleep duration and mortality is consistent across multiple studies. Options A and B are likely incorrect as they only consider one direction of change, and option D contradicts the typical findings in sleep duration studies.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00738",
+    "section_number": "08"
+  },
+  {
+    "question_text": "Which of the following is NOT one of the components of the STOP-BANG screening tool for obstructive sleep apnea?",
+    "options": [
+      "A) Snoring",
+      "B) Age",
+      "C) Neck circumference",
+      "D) Gender identity"
+    ],
+    "correct_answer": "D) Gender identity",
+    "page_reference": "284",
+    "rationale": "The STOP-BANG acronym stands for Snoring, Tired, Observed apnea, Pressure (hypertension), BMI, Age, Neck circumference, and Gender (male). Gender identity is not part of this screening tool. The other options (Snoring, Age, and Neck circumference) are all components of STOP-BANG.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00739",
+    "section_number": "08"
+  },
+  {
+    "question_text": "In the STOP-BANG questionnaire, what age is considered a risk factor for obstructive sleep apnea?",
+    "options": [
+      "A) Greater than 40 years",
+      "B) Greater than 45 years",
+      "C) Greater than 50 years",
+      "D) Greater than 55 years"
+    ],
+    "correct_answer": "C) Greater than 50 years",
+    "page_reference": "284",
+    "rationale": "The text specifically states that in the STOP-BANG questionnaire, \"Age greater than 50\" is considered a risk factor for obstructive sleep apnea. The other age options are incorrect according to this screening tool.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00740",
+    "section_number": "08"
+  },
+  {
+    "question_text": "According to the STOP-BANG questionnaire, what neck circumference in males is considered a risk factor for obstructive sleep apnea?",
+    "options": [
+      "A) Greater than or equal to 15 inches",
+      "B) Greater than or equal to 16 inches",
+      "C) Greater than or equal to 17 inches",
+      "D) Greater than or equal to 18 inches"
+    ],
+    "correct_answer": "C) Greater than or equal to 17 inches",
+    "page_reference": "284",
+    "rationale": "The text states that in the STOP-BANG questionnaire, a neck size \"greater than or equal to 17 inches (43 cm) in a male\" is considered a risk factor for obstructive sleep apnea. For females, it's 16 inches or greater, but the question specifically asks about males.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00741",
+    "section_number": "08"
+  },
+  {
+    "question_text": "What is the primary purpose of the Pittsburgh Sleep Quality Index?",
+    "options": [
+      "A) To screen for obstructive sleep apnea",
+      "B) To assess general sleep quality",
+      "C) To diagnose insomnia",
+      "D) To evaluate daytime sleepiness"
+    ],
+    "correct_answer": "B) To assess general sleep quality",
+    "page_reference": "284",
+    "rationale": "The text describes the Pittsburgh Sleep Quality Index as a \"Brief, general sleep quality index.\" It is not specific to obstructive sleep apnea or insomnia diagnosis, nor does it focus on daytime sleepiness. Its primary purpose is to provide a general assessment of sleep quality.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00742",
+    "section_number": "08"
+  },
+  {
+    "question_text": "Which of the following statements about the Pittsburgh Sleep Quality Index is true?",
+    "options": [
+      "A) It is a single-question assessment",
+      "B) It is specifically designed for diagnosing sleep apnea",
+      "C) It is a brief but relatively extensive assessment of subjective sleep quality",
+      "D) It is recommended as the first-line screening tool for all sleep disorders"
+    ],
+    "correct_answer": "C) It is a brief but relatively extensive assessment of subjective sleep quality",
+    "page_reference": "284",
+    "rationale": "The text states that the Pittsburgh Sleep Quality Index is \"relatively extensive for assessing a subjective complaint of disturbed sleep.\" It is not a single-question assessment, is not specific to sleep apnea, and is not recommended as the first-line screening tool for all sleep disorders.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00743",
+    "section_number": "08"
+  },
+  {
+    "question_text": "When is the Pittsburgh Sleep Quality Index NOT recommended for use?",
+    "options": [
+      "A) When assessing general sleep quality",
+      "B) When diagnosing specific sleep disorders",
+      "C) When trying to minimize patient assessment overload",
+      "D) When evaluating the effectiveness of sleep interventions"
+    ],
+    "correct_answer": "C) When trying to minimize patient assessment overload",
+    "page_reference": "284",
+    "rationale": "The text suggests that the Pittsburgh Sleep Quality Index is \"Generally... not recommended if you are trying to minimize patient overload for assessments.\" In such cases, it recommends asking about sleep and then using a more specific measure. The other options are not mentioned as reasons to avoid using this index.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00744",
+    "section_number": "08"
+  },
+  {
+    "question_text": "What is the primary purpose of the Epworth Sleepiness Scale?",
+    "options": [
+      "A) To diagnose insomnia",
+      "B) To screen for obstructive sleep apnea",
+      "C) To assess daytime sleepiness",
+      "D) To evaluate sleep quality"
+    ],
+    "correct_answer": "C) To assess daytime sleepiness",
+    "page_reference": "284",
+    "rationale": "The Epworth Sleepiness Scale is described as a tool \"to help healthcare providers recognize daytime sleepiness.\" It specifically assesses the likelihood of dozing off or falling asleep in various situations. It is not designed to diagnose insomnia, screen for sleep apnea, or evaluate overall sleep quality.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00745",
+    "section_number": "08"
+  },
+  {
+    "question_text": "According to the Epworth Sleepiness Scale, what score indicates excessive daytime sleepiness?",
+    "options": [
+      "A) 6 or above",
+      "B) 8 or above",
+      "C) 10 or above",
+      "D) 12 or above"
+    ],
+    "correct_answer": "B) 8 or above",
+    "page_reference": "284",
+    "rationale": "The text explicitly states, \"Scores of 8 or above indicate excessive daytime sleepiness and a more thorough review of their sleep patterns and possible sleep disorders is indicated.\" The other options are not consistent with this threshold.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00746",
+    "section_number": "08"
+  },
+  {
+    "question_text": "Which of the following situations is NOT assessed in the Epworth Sleepiness Scale?",
+    "options": [
+      "A) Sitting and reading",
+      "B) Watching TV",
+      "C) Lying down to rest in the afternoon",
+      "D) Exercising in the evening"
+    ],
+    "correct_answer": "D) Exercising in the evening",
+    "page_reference": "284-285",
+    "rationale": "The Epworth Sleepiness Scale assesses the likelihood of dozing in various situations, including sitting and reading, watching TV, and lying down to rest in the afternoon. Exercising in the evening is not mentioned as one of the situations assessed. This activity would typically promote alertness rather than sleepiness.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00747",
+    "section_number": "08"
+  },
+  {
+    "question_text": "How many items does the Women's Health Initiative Insomnia Rating Scale contain?",
+    "options": [
+      "A) 3 items",
+      "B) 4 items",
+      "C) 5 items",
+      "D) 6 items"
+    ],
+    "correct_answer": "C) 5 items",
+    "page_reference": "285",
+    "rationale": "The text specifically states that the Women's Health Initiative Insomnia Rating Scale is a \"five-item assessment of insomnia symptoms.\" The other options do not match this description.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00748",
+    "section_number": "08"
+  },
+  {
+    "question_text": "Which of the following is NOT one of the symptoms assessed by the Women's Health Initiative Insomnia Rating Scale?",
+    "options": [
+      "A) Trouble falling asleep",
+      "B) Waking up several times at night",
+      "C) Waking up earlier than planned",
+      "D) Feeling sleepy during the day"
+    ],
+    "correct_answer": "D) Feeling sleepy during the day",
+    "page_reference": "285",
+    "rationale": "The Women's Health Initiative Insomnia Rating Scale assesses trouble falling asleep, waking up several times at night, waking up earlier than planned, trouble getting back to sleep after waking too early, and overall sleep quality. Daytime sleepiness is not mentioned as one of the assessed symptoms.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00749",
+    "section_number": "08"
+  },
+  {
+    "question_text": "Although originally validated in women, for which populations has the Women's Health Initiative Insomnia Rating Scale been used?",
+    "options": [
+      "A) Only in adult women",
+      "B) In women and men, but only adults",
+      "C) In adult women and teenage girls",
+      "D) In teens and adults of both genders"
+    ],
+    "correct_answer": "D) In teens and adults of both genders",
+    "page_reference": "285",
+    "rationale": "The text states that although the scale was originally validated in a large study of women, \"the items assess the criteria for insomnia disorder and the tool has been used in teen and adult populations of women and men.\" This indicates its use across both genders and in both teen and adult populations.",
+    "section": "Sleep Health Science and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00750",
+    "section_number": "08"
+  }
+]

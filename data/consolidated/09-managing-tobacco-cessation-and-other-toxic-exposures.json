@@ -1,0 +1,1537 @@
+[
+  {
+    "question_text": "A 45-year-old man with a 25 pack-year smoking history has failed two quit attempts in the past year due to severe cravings. Which pharmacotherapy option is most likely to be effective?",
+    "options": [
+      "A) Nicotine patch alone",
+      "B) Varenicline alone",
+      "C) Combination of nicotine patch and nicotine gum",
+      "D) Combination of varenicline and nicotine patch"
+    ],
+    "correct_answer": "D",
+    "page_reference": "315",
+    "rationale": "Combination therapy of varenicline and nicotine patch has shown increased smoking abstinence rates compared to varenicline alone, especially effective for heavy smokers with previous failed quit attempts. A: Less effective than combination therapy for heavy smokers. B: While effective, combination therapy may be more beneficial for this patient. C: Less effective than varenicline and nicotine patch combination for difficult cases.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090001",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation"
+    ]
+  },
+  {
+    "question_text": "A 32-year-old woman, 10 weeks pregnant, seeks advice on quitting smoking. She smokes half a pack daily. What is the most appropriate first-line intervention?",
+    "options": [
+      "A) Varenicline therapy",
+      "B) Nicotine replacement therapy (NRT) patch",
+      "C) Bupropion therapy",
+      "D) Behavioural counselling without pharmacotherapy"
+    ],
+    "correct_answer": "D",
+    "page_reference": "317",
+    "rationale": "For pregnant smokers, counselling is considered the best first-line intervention due to potential risks of pharmacotherapy to the foetus. A: FDA category C for pregnancy; safety not established) B: Limited research on safety during pregnancy; not first-line. C: FDA category C for pregnancy; safety not established)",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090002",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old man with a history of myocardial infarction 6 months ago wants to quit smoking. Which statement regarding pharmacotherapy is most accurate?",
+    "options": [
+      "A) Nicotine replacement therapy is contraindicated",
+      "B) Varenicline is contraindicated",
+      "C) Bupropion is the only safe option",
+      "D) Both varenicline and combination NRT are considered first-line therapies"
+    ],
+    "correct_answer": "D",
+    "page_reference": "317",
+    "rationale": "Meta-analyses show that both varenicline and combination NRT are effective first-line therapies for smokers with cardiovascular disease. A: No association between NRT and acute cardiovascular events. B: Varenicline is safe for patients with stable cardiovascular disease. C: Not the only safe option; others have shown superior efficacy.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090003",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_text": "A 28-year-old man smokes 15 cigarettes daily, with his first cigarette within 5 minutes of waking. Using the Heaviness of Smoking Index (HSI), how would you categorize his nicotine dependence?",
+    "options": [
+      "A) Low dependence",
+      "B) Medium dependence",
+      "C) High dependence",
+      "D) Unable to determine from the information provided"
+    ],
+    "correct_answer": "C",
+    "page_reference": "307, 309",
+    "rationale": "The HSI assesses time to first cigarette and number of cigarettes per day. Smoking within 5 minutes of waking indicates high dependence, despite the moderate number of cigarettes. A: Short time to first cigarette doesn't indicate low dependence. B: Very short time to first cigarette suggests high, not medium, dependence. D: Sufficient information is provided to determine dependence level.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090004",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "clinical-assessment-tools"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old woman with depression and anxiety wants to quit smoking. Which statement about smoking cessation in patients with mental health conditions is most accurate?",
+    "options": [
+      "A) Smoking cessation is likely to worsen her psychiatric symptoms",
+      "B) Bupropion is contraindicated due to her history of depression",
+      "C) She is less likely to quit smoking successfully compared to individuals without mental health conditions",
+      "D) Long-term pharmacotherapy may improve her chances of sustained abstinence"
+    ],
+    "correct_answer": "D",
+    "page_reference": "316",
+    "rationale": "Maintenance pharmacotherapy for 1 year may improve abstinence in patients with mental health conditions and is generally well-tolerated) A: Quitting doesn't typically worsen psychiatric symptoms in stable patients. B: Bupropion is not contraindicated and may have beneficial antidepressant effects. C: With appropriate support and treatment, patients with mental health conditions can successfully quit.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090005",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old man who uses e-cigarettes daily asks about their safety compared to traditional cigarettes. Which statement most accurately reflects current understanding?",
+    "options": [
+      "A) E-cigarettes are completely safe and non-addictive",
+      "B) E-cigarettes contain no harmful chemicals",
+      "C) E-cigarettes contain fewer harmful chemicals than traditional cigarettes but still pose health risks",
+      "D) E-cigarettes have been proven to cause more lung damage than traditional cigarettes"
+    ],
+    "correct_answer": "C",
+    "page_reference": "318",
+    "rationale": "E-cigarette aerosol contains fewer harmful chemicals than tobacco smoke but still includes heavy metals and other harmful substances, posing health risks. A: E-cigarettes can be addictive due to nicotine content. B: E-cigarettes do contain some harmful chemicals. D: While risky, e-cigarettes haven't been proven more damaging than traditional cigarettes.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090006",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old woman with alcohol use disorder drinks 6-8 beers daily and experiences withdrawal symptoms when cutting back. Which medication is most appropriate as first-line treatment?",
+    "options": [
+      "A) Disulfiram",
+      "B) Acamprosate",
+      "C) Naltrexone",
+      "D) Topiramate"
+    ],
+    "correct_answer": "C",
+    "page_reference": "320-321",
+    "rationale": "Naltrexone is an FDA-approved, first-line medication for alcohol use disorder that can be started while the patient is still drinking. A: Not first-line due to compliance issues and limited efficacy. B: Second-line medication, most beneficial after achieving abstinence. D: Not FDA-approved for alcohol use disorder; not first-line.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090007",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "A 28-year-old man with daily heroin use seeks help for opioid use disorder. He relapses due to severe withdrawal symptoms. Which treatment option is most appropriate?",
+    "options": [
+      "A) Naltrexone oral tablets",
+      "B) Buprenorphine/naloxone sublingual film",
+      "C) Methadone",
+      "D) Gabapentin"
+    ],
+    "correct_answer": "B",
+    "page_reference": "321",
+    "rationale": "Buprenorphine, a partial opioid agonist, mitigates withdrawal symptoms and manages cravings, making it ideal for patients struggling with withdrawal during quit attempts. A: Requires abstinence before initiation, unsuitable for active users. C: Effective but less accessible due to dispensing restrictions. D: Not FDA-approved for opioid use disorder.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090008",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man reports drinking 3-4 beers daily after work but denies problems. Which screening tool is most appropriate to assess his alcohol use?",
+    "options": [
+      "A) CAGE questionnaire",
+      "B) AUDIT-C",
+      "C) CRAFFT screening test",
+      "D) TAPS tool"
+    ],
+    "correct_answer": "B",
+    "page_reference": "309-310",
+    "rationale": "AUDIT-C is a short, effective tool for identifying risky drinking patterns before dependence develops. A: More focused on dependence, less sensitive to early problematic use. C: Designed for adolescents and young adults, not appropriate for this patient. D: More comprehensive than needed for primarily alcohol use assessment.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090009",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools"
+    ]
+  },
+  {
+    "question_text": "A 42-year-old woman wants to quit smoking after failed attempts using nicotine gum alone. Which approach is most likely to improve her chances of success?",
+    "options": [
+      "A) Switching to e-cigarettes as a harm reduction strategy",
+      "B) Using the 5A's model combined with pharmacotherapy",
+      "C) Cognitive behavioural therapy alone",
+      "D) Acupuncture for smoking cessation"
+    ],
+    "correct_answer": "B",
+    "page_reference": "322-324",
+    "rationale": "The 5A's model with pharmacotherapy provides a structured approach to cessation while addressing physical dependence. A: Long-term safety not established, not FDA-approved for cessation. C: Combination with pharmacotherapy likely more effective given past failures. D: Not demonstrated to be effective for smoking cessation. Now, I'll continue with the next 10 questions:",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090010",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation"
+    ]
+  },
+  {
+    "question_text": "A 38-year-old man presents for a routine check-up. He reports drinking 2-3 glasses of wine daily. Which screening tool would be most appropriate to assess his alcohol use?",
+    "options": [
+      "A) CAGE questionnaire",
+      "B) AUDIT",
+      "C) NMASSIST",
+      "D) MSASQ"
+    ],
+    "correct_answer": "B",
+    "page_reference": "309-310",
+    "rationale": "The full 10-question AUDIT is ideal for a comprehensive assessment of alcohol use patterns and potential problems, especially when routine drinking is reported) A: Less sensitive for detecting early problematic use. C: More comprehensive than needed for primarily alcohol assessment. D: Single-question screen; full AUDIT provides more detailed assessment.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090011",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools"
+    ]
+  },
+  {
+    "question_text": "A 25-year-old woman is interested in quitting smoking but is concerned about weight gain. Which pharmacotherapy option might be most beneficial for her concerns?",
+    "options": [
+      "A) Nicotine patch",
+      "B) Varenicline",
+      "C) Bupropion",
+      "D) Nicotine gum"
+    ],
+    "correct_answer": "C",
+    "page_reference": "317",
+    "rationale": "Bupropion may delay weight gain associated with smoking cessation, addressing this patient's specific concern. A: Does not specifically address weight gain concerns. B: Not specifically associated with weight control during cessation. D: While helpful for cravings, doesn't specifically address weight concerns.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090012",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man with stable coronary artery disease wants to quit smoking. Which statement about nicotine replacement therapy (NRT) is most accurate?",
+    "options": [
+      "A) NRT is absolutely contraindicated in patients with cardiovascular disease",
+      "B) NRT can be used safely in patients with stable cardiovascular disease",
+      "C) NRT should only be used under continuous cardiac monitoring",
+      "D) NRT is less effective in patients with cardiovascular disease"
+    ],
+    "correct_answer": "B",
+    "page_reference": "317",
+    "rationale": "There is no association between NRT and acute cardiovascular events, even in those with recent cardiac events. It can be used safely in patients with stable cardiovascular disease. A: Not contraindicated in stable cardiovascular disease. C: Continuous monitoring is not necessary for NRT use in stable patients. D: NRT efficacy is not reduced in patients with cardiovascular disease.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090013",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_text": "A 30-year-old woman is planning to have surgery next month and wants to quit smoking. Which statement about perioperative nicotine replacement therapy is most accurate?",
+    "options": [
+      "A) NRT should be discontinued at least 2 weeks before surgery",
+      "B) NRT is associated with increased surgical complications",
+      "C) NRT appears safe in surgical patients and doesn't increase complications",
+      "D) NRT should only be started postoperatively"
+    ],
+    "correct_answer": "C",
+    "page_reference": "317",
+    "rationale": "Studies have shown that NRT appears safe in surgical patients and is not associated with increased complications, length of stay, or readmission rates. A: Discontinuation is not necessary; NRT can be continued perioperatively. B: No evidence of increased surgical complications with NRT use. D: NRT can be used before surgery; preoperative cessation is beneficial.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090014",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation"
+    ]
+  },
+  {
+    "question_text": "A 22-year-old college student reports occasional use of e-cigarettes at parties. Which statement about e-cigarette use in young adults is most accurate?",
+    "options": [
+      "A) E-cigarette use is risk-free for young adults",
+      "B) E-cigarette use is associated with increased risk of transitioning to traditional cigarettes",
+      "C) E-cigarette use has no impact on brain development in young adults",
+      "D) E-cigarette use is recommended as a smoking cessation aid for young adults"
+    ],
+    "correct_answer": "B",
+    "page_reference": "318",
+    "rationale": "E-cigarette use in young adults is associated with an increased risk of transitioning to traditional cigarette smoking. A: E-cigarettes pose health risks and are not risk-free. C: Nicotine in e-cigarettes can impact brain development in young adults. D: E-cigarettes are not recommended as a first-line cessation aid, especially for young adults.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090015",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old man with alcohol use disorder has failed previous treatment attempts. He is interested in medication to help reduce his drinking. Which medication might be considered if first-line options have been ineffective?",
+    "options": [
+      "A) Naltrexone",
+      "B) Disulfiram",
+      "C) Acamprosate",
+      "D) Gabapentin"
+    ],
+    "correct_answer": "D",
+    "page_reference": "321",
+    "rationale": "Gabapentin, while off-label, has shown some efficacy in reducing heavy drinking days and may be considered when first-line options have failed) A: First-line treatment, but question asks about alternatives if this has failed) B: Not typically used due to compliance issues and limited efficacy. C: Second-line treatment, but may not be effective if others have failed)",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090016",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old woman with opioid use disorder is interested in medication-assisted treatment. She has a history of medication diversion. Which treatment option might be most appropriate?",
+    "options": [
+      "A) Methadone",
+      "B) Buprenorphine sublingual tablets",
+      "C) Buprenorphine extended-release injection",
+      "D) Oral naltrexone"
+    ],
+    "correct_answer": "C",
+    "page_reference": "321",
+    "rationale": "Buprenorphine extended-release injection reduces the risk of diversion and ensures consistent medication levels, addressing concerns about potential misuse. A: Requires daily clinic visits, increasing diversion risk. B: Sublingual tablets have higher diversion potential. D: Requires complete opioid abstinence before initiation, challenging for many patients.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090017",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "A 28-year-old man presents to your clinic reporting daily marijuana use. He denies any problems but his partner is concerned) Which screening tool would be most appropriate?",
+    "options": [
+      "A) CAGE-AID",
+      "B) AUDIT",
+      "C) TAPS",
+      "D) DAST-10"
+    ],
+    "correct_answer": "C",
+    "page_reference": "311",
+    "rationale": "The TAPS (Tobacco, Alcohol, Prescription medications, and other Substances) tool is comprehensive and can assess use of multiple substances, including marijuana) A: While adapted for drugs, it's less comprehensive than TAPS. B: Focused on alcohol use, not ideal for assessing marijuana use. D: Drug-specific, but TAPS offers a more comprehensive assessment.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090018",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old woman with a history of alcohol use disorder has maintained sobriety for 3 months. She is concerned about relapse. Which medication might be most appropriate to help maintain abstinence?",
+    "options": [
+      "A) Naltrexone",
+      "B) Disulfiram",
+      "C) Acamprosate",
+      "D) Topiramate"
+    ],
+    "correct_answer": "C",
+    "page_reference": "320",
+    "rationale": "Acamprosate is most effective when initiated after a period of abstinence and can help maintain sobriety by modulating glutamate neurotransmission. A: While effective, it's often used to reduce heavy drinking rather than maintain abstinence. B: Compliance issues and side effects limit its use for long-term maintenance. D: Off-label use, less evidence for maintaining abstinence compared to acamprosate.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090019",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man expresses interest in quitting smoking but is reluctant to set a quit date. Which approach is most appropriate?",
+    "options": [
+      "A) Insist on setting a quit date before providing any intervention",
+      "B) Provide nicotine replacement therapy and set a future follow-up",
+      "C) Use motivational interviewing techniques to explore his ambivalence",
+      "D) Advise him to return when he's ready to set a quit date"
+    ],
+    "correct_answer": "C",
+    "page_reference": "324-325",
+    "rationale": "Motivational interviewing can help explore and resolve ambivalence about quitting, potentially increasing the patient's readiness to change. A: May alienate the patient who isn't ready to commit to quitting. B: Premature without addressing the patient's reluctance. D: Misses an opportunity to engage the patient and promote change. These questions cover a range of topics from the reference material, including screening tools, pharmacotherapy for various substance use disorders, special populations, and counselling techniques. They require application of knowledge and critical thinking, matching the difficulty level expected for the board exam. After reviewing the previous questions, I'll now generate 20 new questions focusing on areas from the reference material that haven't been covered extensively. I'll continue to move systematically through the content.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090020",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "motivational-interviewing"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old man who smokes asks about the economic impact of tobacco use. Which of the following best represents the annual economic cost of tobacco use in the US?",
+    "options": [
+      "A) Less than $100 billion",
+      "B) Between $100-200 billion",
+      "C) Between $200-300 billion",
+      "D) More than $300 billion"
+    ],
+    "correct_answer": "D",
+    "page_reference": "304",
+    "rationale": "The economic costs of tobacco use in the US exceed $300 billion annually, including direct medical costs and lost productivity. A, B, C: Underestimate the total economic impact of tobacco use.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090021",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "epidemiology-and-burden"
+    ]
+  },
+  {
+    "question_text": "What percentage of tobacco users globally live in low- and middle-income countries?",
+    "options": [
+      "A) Less than 50%",
+      "B) 60-70%",
+      "C) 70-80%",
+      "D) More than 80%"
+    ],
+    "correct_answer": "D",
+    "page_reference": "304",
+    "rationale": "Over 80% of the world's tobacco users live in low- and middle-income countries. A, B, C: Underestimate the proportion of tobacco users in low- and middle-income countries.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090022",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "epidemiology-and-burden"
+    ]
+  },
+  {
+    "question_text": "Which of the following cancers has the clearest pattern linked to alcohol use?",
+    "options": [
+      "A) Pancreatic cancer",
+      "B) Prostate cancer",
+      "C) Oesophageal cancer",
+      "D) Skin cancer"
+    ],
+    "correct_answer": "C",
+    "page_reference": "305",
+    "rationale": "Oesophageal cancer has one of the clearest patterns linked to alcohol use, along with head and neck, liver, breast, and colorectal cancers. A, B, D: Not as strongly or clearly linked to alcohol use as oesophageal cancer.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090023",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "cancer"
+    ]
+  },
+  {
+    "question_text": "What is the most common pattern of excessive alcohol use in the US?",
+    "options": [
+      "A) Daily heavy drinking",
+      "B) Binge drinking",
+      "C) Weekend-only drinking",
+      "D) Periodic alcohol use disorder"
+    ],
+    "correct_answer": "B",
+    "page_reference": "306",
+    "rationale": "Binge drinking is the most common pattern of excessive alcohol use in the US. A, C, D: Less common patterns of excessive alcohol use compared to binge drinking.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090024",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "epidemiology-and-burden"
+    ]
+  },
+  {
+    "question_text": "Which age group has the highest prevalence of binge drinking in the US?",
+    "options": [
+      "A) 12-17 years old",
+      "B) 18-25 years old",
+      "C) 26-35 years old",
+      "D) 36-50 years old"
+    ],
+    "correct_answer": "B",
+    "page_reference": "306",
+    "rationale": "Binge drinking is most common (31.4%) in young adults (18-25 years old). A, C, D: Have lower prevalence of binge drinking compared to the 18-25 age group.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090025",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "epidemiology-and-burden"
+    ]
+  },
+  {
+    "question_text": "What percentage of people aged 12 or older in the US used an illicit drug in 2020?",
+    "options": [
+      "A) Less than 10%",
+      "B) 10-15%",
+      "C) 15-20%",
+      "D) More than 20%"
+    ],
+    "correct_answer": "D",
+    "page_reference": "306",
+    "rationale": "In 2020, 21.4% of people in the US above the age of 12 used an illicit drug. A, B, C: Underestimate the percentage of illicit drug use in the US population.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090026",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "epidemiology-and-burden"
+    ]
+  },
+  {
+    "question_text": "What was the most commonly misused opioid in the US in 2020?",
+    "options": [
+      "A) Heroin",
+      "B) Fentanyl",
+      "C) Prescription pain relievers",
+      "D) Methadone"
+    ],
+    "correct_answer": "C",
+    "page_reference": "306",
+    "rationale": "In 2020, the most common opioid misuse occurred with prescription pain relievers. A, B, D: Less commonly misused than prescription pain relievers.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090027",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "epidemiology-and-burden"
+    ]
+  },
+  {
+    "question_text": "Which of the following is a key point in the US Public Health Service clinical practice guidelines for tobacco cessation?",
+    "options": [
+      "A) Tobacco dependence should be treated as an acute condition",
+      "B) Only intensive interventions are effective for tobacco cessation",
+      "C) Clinicians should recognize tobacco dependence as a chronic disease",
+      "D) Pharmacotherapy is always necessary for successful quit attempts"
+    ],
+    "correct_answer": "C",
+    "page_reference": "307",
+    "rationale": "The USPHS guidelines state that clinicians need to recognize tobacco dependence as a chronic disease that should be treated and appropriately followed up. A: Contradicts the guideline's emphasis on tobacco dependence as a chronic condition. B: Brief interventions can also be effective. D: While often helpful, pharmacotherapy is not always necessary for successful quitting.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090028",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "According to the US Preventive Services Task Force, which of the following criteria is NOT part of the recommendations for annual lung cancer screening?",
+    "options": [
+      "A) Greater or equal to 20 pack-year smoking history",
+      "B) Current smoker or quit within the past 15 years",
+      "C) Between the ages of 50-80 years",
+      "D) No symptoms of lung cancer"
+    ],
+    "correct_answer": "D",
+    "page_reference": "307",
+    "rationale": "The USPSTF recommends yearly low-dose CT screening for those who meet the criteria of â‰¥20 pack-year smoking history, current smoker or quit within past 15 years, and age 50-80. The absence of lung cancer symptoms is not mentioned as a criterion. A, B, C: Are all part of the USPSTF recommendations for lung cancer screening.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090029",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT one of the 5 A's in the tobacco cessation model?",
+    "options": [
+      "A) Ask",
+      "B) Advise",
+      "C) Assess",
+      "D) Administer"
+    ],
+    "correct_answer": "D",
+    "page_reference": "322",
+    "rationale": "The 5 A's model for tobacco cessation includes Ask, Advise, Assess, Assist, and Arrange. \"Administer\" is not part of this model. A, B, C: Are all part of the 5 A's model for tobacco cessation.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090030",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "What is the recommended timing for the first follow-up contact after a patient's quit date according to the 5 A's model?",
+    "options": [
+      "A) Within 24 hours",
+      "B) Within the first week",
+      "C) After two weeks",
+      "D) After one month"
+    ],
+    "correct_answer": "B",
+    "page_reference": "324",
+    "rationale": "The 5 A's model recommends following up within the first week of the quit date, ideally within the first week. A: Too soon for most patients. C, D: Later than recommended for initial follow-up.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090031",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT a principle of Motivational Interviewing as applied to substance use treatment?",
+    "options": [
+      "A) Express empathy",
+      "B) Develop discrepancy",
+      "C) Roll with resistance",
+      "D) Confront denial"
+    ],
+    "correct_answer": "D",
+    "page_reference": "324",
+    "rationale": "Confronting denial is not a principle of Motivational Interviewing. MI emphasizes a non-confrontational approach. A, B, C: Are all principles of Motivational Interviewing.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090032",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "motivational-interviewing"
+    ]
+  },
+  {
+    "question_text": "Which of the following is a component of the \"Relevance\" step in the 5 R's of Motivational Interviewing for tobacco cessation?",
+    "options": [
+      "A) Listing potential benefits of quitting",
+      "B) Identifying barriers to quitting",
+      "C) Asking the patient to identify negative consequences of use",
+      "D) Repeating motivational interventions"
+    ],
+    "correct_answer": "C",
+    "page_reference": "325",
+    "rationale": "In the \"Relevance\" step, the clinician asks the patient to identify the negative consequences of tobacco use that are personally relevant. A: Part of the \"Rewards\" step B: Part of the \"Roadblocks\" step D: Part of the \"Repetition\" step",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090033",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "motivational-interviewing"
+    ]
+  },
+  {
+    "question_text": "What is the USPSTF recommendation regarding screening for unhealthy alcohol use in primary care settings for adults 18 years or older?",
+    "options": [
+      "A) Grade A recommendation",
+      "B) Grade B recommendation",
+      "C) Grade C recommendation",
+      "D) Grade D recommendation"
+    ],
+    "correct_answer": "B",
+    "page_reference": "326",
+    "rationale": "The USPSTF gives a Grade B recommendation for screening for unhealthy alcohol use in primary care settings in adults 18 and older. A, C, D: Incorrect grade assignments for this recommendation.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090034",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "What is the USPSTF recommendation regarding pharmacotherapy interventions for tobacco cessation in pregnant persons?",
+    "options": [
+      "A) Grade A recommendation",
+      "B) Grade B recommendation",
+      "C) Grade C recommendation",
+      "D) Insufficient evidence to assess the balance of benefits and harms"
+    ],
+    "correct_answer": "D",
+    "page_reference": "325",
+    "rationale": "The USPSTF states that there is insufficient evidence to assess the balance of benefits and harms of pharmacotherapy interventions for tobacco cessation in pregnant persons. A, B, C: Incorrect; the USPSTF does not give a letter grade recommendation due to insufficient evidence.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090035",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "According to the DSM-5-TR, how many criteria must be met to diagnose a severe substance use disorder?",
+    "options": [
+      "A) 2-3 criteria",
+      "B) 4-5 criteria",
+      "C) 6 or more criteria",
+      "D) 8 or more criteria"
+    ],
+    "correct_answer": "C",
+    "page_reference": "311",
+    "rationale": "The DSM-5-TR classifies a substance use disorder as severe when 6 or more criteria are met. A: Corresponds to mild substance use disorder B: Corresponds to moderate substance use disorder D: Exceeds the minimum threshold for severe substance use disorder",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090036",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "What is the time frame for \"early remission\" in substance use disorders according to the DSM-5-TR?",
+    "options": [
+      "A) 1 month",
+      "B) 3 months",
+      "C) 6 months",
+      "D) 12 months"
+    ],
+    "correct_answer": "B",
+    "page_reference": "312",
+    "rationale": "According to the DSM-5-TR, a patient is considered in early remission after 3 months of resolution of problematic behaviour. A: Too short for early remission classification C, D: Longer than the early remission time frame",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090037",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT one of the DSM-5-TR criteria for substance use disorders?",
+    "options": [
+      "A) Using larger amounts over a longer period than intended",
+      "B) Persistent desire or unsuccessful efforts to cut down or control use",
+      "C) Experiencing financial problems due to substance use",
+      "D) Continued use despite having persistent social or interpersonal problems caused by the substance"
+    ],
+    "correct_answer": "C",
+    "page_reference": "312",
+    "rationale": "While financial problems may occur with substance use, it is not one of the specific DSM-5-TR criteria for substance use disorders. A, B, D: Are all part of the DSM-5-TR criteria for substance use disorders.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090038",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "What is the recommended dosing schedule for acamprosate in alcohol use disorder treatment?",
+    "options": [
+      "A) Once daily",
+      "B) Twice daily",
+      "C) Three times daily",
+      "D) Weekly"
+    ],
+    "correct_answer": "C",
+    "page_reference": "320",
+    "rationale": "The standard dosing for acamprosate is two tablets three times daily. A, B, D: Incorrect dosing schedules for acamprosate.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090039",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "Which medication used in alcohol use disorder treatment works by inhibiting aldehyde dehydrogenase?",
+    "options": [
+      "A) Naltrexone",
+      "B) Acamprosate",
+      "C) Disulfiram",
+      "D) Gabapentin"
+    ],
+    "correct_answer": "C",
+    "page_reference": "321",
+    "rationale": "Disulfiram works by inhibiting aldehyde dehydrogenase, leading to the accumulation of acetaldehyde when alcohol is consumed) A, B, D: Work through different mechanisms and do not inhibit aldehyde dehydrogenase.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090040",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "Based on the EAGLES trial, which smoking cessation medication showed the highest efficacy in patients with psychiatric disorders?",
+    "options": [
+      "A) Bupropion",
+      "B) Nicotine patch",
+      "C) Varenicline",
+      "D) Combination NRT"
+    ],
+    "correct_answer": "C) Varenicline",
+    "page_reference": "316",
+    "rationale": "The EAGLES trial found that varenicline had the highest efficacy for smoking cessation in both the general population and in patients with psychiatric disorders. It showed a 6-month quit rate of 18.3% in psychiatric patients, compared to 13.7% for bupropion, 13.0% for nicotine patch, and 8.3% for placebo. This study was significant in demonstrating that varenicline and bupropion did not increase neuropsychiatric adverse events in patients with psychiatric disorders.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090041",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old man with a history of depression wants to quit smoking. Based on the EAGLES trial, which statement is most accurate regarding his treatment options?",
+    "options": [
+      "A) He should avoid varenicline due to increased risk of neuropsychiatric events",
+      "B) Bupropion is the safest option for patients with psychiatric disorders",
+      "C) Nicotine replacement therapy is the only recommended treatment",
+      "D) He can be safely prescribed any FDA-approved smoking cessation medication"
+    ],
+    "correct_answer": "D) He can be safely prescribed any FDA-approved smoking cessation medication",
+    "page_reference": "316",
+    "rationale": "The EAGLES trial demonstrated that varenicline and bupropion did not significantly increase the risk of neuropsychiatric adverse events in patients with or without psychiatric disorders compared to nicotine patch or placebo. This finding contradicted previous concerns about these medications in psychiatric patients. Therefore, all FDA-approved smoking cessation medications can be considered for this patient, with varenicline showing the highest efficacy.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090042",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "mental-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the EAGLES trial, what was the approximate difference in 6-month continuous abstinence rates between varenicline and nicotine patch in the general population?",
+    "options": [
+      "A) 2%",
+      "B) 6%",
+      "C) 10%",
+      "D) 14%"
+    ],
+    "correct_answer": "B) 6%",
+    "page_reference": "316",
+    "rationale": "The EAGLES trial found that varenicline had a 6-month continuous abstinence rate of 21.8% in the general population, while the nicotine patch had a rate of 15.7%. The difference between these rates is approximately 6%. This significant difference highlights varenicline's superior efficacy compared to nicotine patch. Bupropion's rate was 16.2%, and placebo was 9.4%.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090043",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Health Professionals Follow-up Study, which of the following best describes the association between olive oil consumption and cardiovascular disease risk in men?",
+    "options": [
+      "A) No significant association",
+      "B) Increased risk with higher consumption",
+      "C) Decreased risk with consumption of at least 1.5 teaspoons per day",
+      "D) Decreased risk only with extra virgin olive oil consumption"
+    ],
+    "correct_answer": "C) Decreased risk with consumption of at least 1.5 teaspoons per day",
+    "page_reference": "158",
+    "rationale": "The Health Professionals Follow-up Study found that men who consumed at least 1.5 teaspoons (7 grams) of olive oil per day had a 14% lower risk of cardiovascular disease compared to those who didn't consume olive oil. This association was observed for total olive oil consumption, not just extra virgin olive oil. The study showed a significant protective effect, contradicting options A and B, while option D is too specific and not supported by the study findings.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090044",
+    "section_number": "09",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Health Professionals Follow-up Study, replacing which of the following with olive oil was associated with the greatest reduction in cardiovascular disease risk?",
+    "options": [
+      "A) Butter",
+      "B) Margarine",
+      "C) Mayonnaise",
+      "D) Other vegetable oils"
+    ],
+    "correct_answer": "A) Butter",
+    "page_reference": "158",
+    "rationale": "The Health Professionals Follow-up Study found that replacing 5 grams/day of margarine, butter, mayonnaise, or dairy fat with an equivalent amount of olive oil was associated with a 5-7% lower risk of cardiovascular disease. Among these, replacing butter with olive oil showed the greatest risk reduction. This highlights the potential benefits of substituting saturated fats with healthier monounsaturated fats found in olive oil.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090045",
+    "section_number": "09",
+    "tags": [
+      "dietary-patterns",
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which step of the 5A's model for smoking cessation involves determining the patient's willingness to make a quit attempt?",
+    "options": [
+      "A) Ask",
+      "B) Advise",
+      "C) Assess",
+      "D) Assist"
+    ],
+    "correct_answer": "C) Assess",
+    "page_reference": "322",
+    "rationale": "In the 5A's model (Ask, Advise, Assess, Assist, Arrange), the \"Assess\" step involves evaluating the patient's willingness to make a quit attempt. This step is crucial in determining the next course of action. \"Ask\" involves identifying tobacco use, \"Advise\" is about urging users to quit, \"Assist\" involves aiding the patient in quitting, and \"Arrange\" involves scheduling follow-up contact.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090046",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A patient who smokes is not ready to quit. Which step of the 5A's model would be most appropriate to apply at this point?",
+    "options": [
+      "A) Advise to quit in a clear, strong, and personalized manner",
+      "B) Assess readiness to quit again",
+      "C) Assist by providing a quit plan",
+      "D) Arrange follow-up to reassess in the future"
+    ],
+    "correct_answer": "A) Advise to quit in a clear, strong, and personalized manner",
+    "page_reference": "322",
+    "rationale": "Even when a patient is not ready to quit, it's important to consistently advise quitting in a clear, strong, and personalized manner. This aligns with the \"Advise\" step of the 5A's model. While the patient isn't ready to quit, repeated advice can increase motivation over time. Assessing again immediately or providing a quit plan (Assist) would be premature. Arranging follow-up is important but should be done after advising.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090047",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the OARS framework for motivational interviewing, which technique is most useful for exploring the patient's ambivalence about change?",
+    "options": [
+      "A) Open-ended questions",
+      "B) Affirmations",
+      "C) Reflections",
+      "D) Summarize"
+    ],
+    "correct_answer": "A) Open-ended questions",
+    "page_reference": "320",
+    "rationale": "Open-ended questions are particularly useful for exploring a patient's ambivalence about change in motivational interviewing. They allow patients to express their thoughts and feelings more fully, revealing their motivations and barriers to change. While all OARS techniques are valuable, open-ended questions are especially effective for initial exploration. Affirmations build confidence, reflections demonstrate understanding, and summarizing recaps the discussion, but these are less suited for initial exploration of ambivalence.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090048",
+    "section_number": "09",
+    "tags": [
+      "motivational-interviewing",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which component of the OARS framework is most effective for reinforcing a patient's sense of self-efficacy in behavior change?",
+    "options": [
+      "A) Open-ended questions",
+      "B) Affirmations",
+      "C) Reflections",
+      "D) Summarize"
+    ],
+    "correct_answer": "B) Affirmations",
+    "page_reference": "320",
+    "rationale": "Affirmations are most effective for reinforcing a patient's sense of self-efficacy in behavior change. By recognizing and validating the patient's strengths, efforts, and past successes, affirmations boost confidence in their ability to change. Open-ended questions explore thoughts and feelings, reflections demonstrate understanding, and summarizing recaps the discussion, but these don't directly reinforce self-efficacy like affirmations do.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090049",
+    "section_number": "09",
+    "tags": [
+      "motivational-interviewing",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A patient expresses conflicting feelings about quitting smoking. Which OARS technique would be most appropriate to use next?",
+    "options": [
+      "A) Open-ended questions",
+      "B) Affirmations",
+      "C) Reflections",
+      "D) Summarize"
+    ],
+    "correct_answer": "C) Reflections",
+    "page_reference": "320",
+    "rationale": "When a patient expresses conflicting feelings, reflections are the most appropriate OARS technique to use next. Reflections allow the clinician to mirror back the patient's statements, helping them hear their own ambivalence and potentially resolve it. This technique shows understanding and can help the patient explore their conflicting feelings further. While open-ended questions could also be useful, reflections are particularly effective for addressing ambivalence expressed in the moment.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090050",
+    "section_number": "09",
+    "tags": [
+      "motivational-interviewing",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A patient scores 15 on the Alcohol Use Disorders Identification Test (AUDIT). What is the most appropriate next step in management?",
+    "options": [
+      "A) Provide simple advice about reducing alcohol consumption",
+      "B) Offer brief counseling and continued monitoring",
+      "C) Refer for diagnostic evaluation and treatment",
+      "D) No intervention needed, continue routine screening"
+    ],
+    "correct_answer": "B) Offer brief counseling and continued monitoring",
+    "page_reference": "310",
+    "rationale": "An AUDIT score of 15 falls in the range of 8-15, which indicates a medium level of alcohol problems. The most appropriate intervention for this score is to provide brief counseling and continued monitoring. Simple advice (A) is for lower scores (0-7), while referral for diagnostic evaluation (C) is typically for scores of 20 or above. No intervention (D) would be inappropriate given the elevated score.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090051",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which of the following AUDIT scores would most strongly indicate the need for referral to specialist diagnostic evaluation for alcohol dependence?",
+    "options": [
+      "A) 8",
+      "B) 15",
+      "C) 20",
+      "D) 25"
+    ],
+    "correct_answer": "D) 25",
+    "page_reference": "310",
+    "rationale": "An AUDIT score of 25 or higher strongly indicates alcohol dependence and the need for referral to specialist diagnostic evaluation and treatment. Scores of 8-15 suggest a medium level of alcohol problems, requiring brief counseling. Scores of 16-19 suggest a high level of alcohol problems, requiring brief therapy and continued monitoring. A score of 20 or above suggests possible alcohol dependence, but 25 and above is a clearer indicator for specialist referral.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090052",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which domain of alcohol use does the AUDIT question \"How often during the last year have you failed to do what was normally expected of you because of drinking?\" primarily assess?",
+    "options": [
+      "A) Hazardous alcohol use",
+      "B) Dependence symptoms",
+      "C) Harmful alcohol use",
+      "D) Quantity of alcohol consumed"
+    ],
+    "correct_answer": "C) Harmful alcohol use",
+    "page_reference": "310",
+    "rationale": "This question from the AUDIT primarily assesses harmful alcohol use. It specifically addresses negative consequences of drinking that affect the individual's ability to meet responsibilities. Questions about hazardous use typically focus on frequency and quantity of drinking. Dependence symptoms are assessed by questions about morning drinking or inability to stop once started. Quantity of alcohol is directly asked in separate questions.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090053",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Fagerström Test for Nicotine Dependence, which of the following most strongly indicates severe nicotine dependence?",
+    "options": [
+      "A) Smoking more than 30 cigarettes per day",
+      "B) Smoking within 5 minutes of waking",
+      "C) Finding it difficult to refrain from smoking in forbidden places",
+      "D) Smoking even when ill in bed most of the day"
+    ],
+    "correct_answer": "B) Smoking within 5 minutes of waking",
+    "page_reference": "307",
+    "rationale": "In the Fagerström Test, smoking within 5 minutes of waking is considered the strongest single indicator of nicotine dependence. This reflects the urgent need for nicotine after nighttime abstinence. While smoking more than 30 cigarettes per day also indicates high dependence, the time to first cigarette is weighted more heavily in the test. Difficulty refraining from smoking in forbidden places and smoking when ill are indicators of dependence but are not as strongly weighted as time to first cigarette.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090054",
+    "section_number": "09",
+    "tags": [
+      "clinical-assessment-tools",
+      "tobacco-cessation",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A patient reports smoking 15 cigarettes per day and having their first cigarette 31-60 minutes after waking. Based on the Heaviness of Smoking Index (derived from the Fagerström Test), what level of nicotine dependence does this suggest?",
+    "options": [
+      "A) Low dependence",
+      "B) Medium dependence",
+      "C) High dependence",
+      "D) Very high dependence"
+    ],
+    "correct_answer": "B) Medium dependence",
+    "page_reference": "307",
+    "rationale": "The Heaviness of Smoking Index uses two questions from the Fagerström Test: time to first cigarette and number of cigarettes per day. Smoking 11-20 cigarettes per day scores 1 point, and smoking 31-60 minutes after waking scores 1 point. A total score of 2 indicates medium dependence. Low dependence is 0-1, high dependence is 3-4, and very high dependence is 5-6.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090055",
+    "section_number": "09",
+    "tags": [
+      "clinical-assessment-tools",
+      "tobacco-cessation",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which component of the TAPS (Tobacco, Alcohol, Prescription medication, and other Substance use) tool is designed to assess frequency of use in the past 3 months?",
+    "options": [
+      "A) TAPS-1",
+      "B) TAPS-2",
+      "C) TAPS-3",
+      "D) TAPS-4"
+    ],
+    "correct_answer": "B) TAPS-2",
+    "page_reference": "311",
+    "rationale": "The TAPS tool consists of a 4-item screening component (TAPS-1) followed by a brief assessment (TAPS-2) for those who screen positive. TAPS-2 assesses the frequency of use in the past 3 months for each substance that screened positive in TAPS-1. TAPS-1 only asks about any use in the past year, while TAPS-3 and TAPS-4 are not part of the standard TAPS tool.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090056",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A patient responds \"yes\" to using prescription medications for non-medical reasons in the past year on the TAPS-1 screening. What should be the next step in assessment?",
+    "options": [
+      "A) Refer immediately for substance use treatment",
+      "B) Administer the full AUDIT questionnaire",
+      "C) Proceed to TAPS-2 for that substance",
+      "D) Conclude the screening as positive for substance misuse"
+    ],
+    "correct_answer": "C) Proceed to TAPS-2 for that substance",
+    "page_reference": "311",
+    "rationale": "If a patient responds positively to any substance use in TAPS-1, including prescription medications for non-medical reasons, the next step is to proceed to TAPS-2 for that specific substance. TAPS-2 provides more detailed information about the frequency and potential problems associated with use. Immediate referral (A) would be premature without further assessment. The AUDIT (B) is specific to alcohol use. Concluding the screening (D) without further assessment would miss important information about the extent of use.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090057",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which of the following best describes the primary advantage of the TAPS tool over other substance use screening instruments?",
+    "options": [
+      "A) It only screens for illegal drug use",
+      "B) It provides a comprehensive assessment of all substance use including tobacco and alcohol",
+      "C) It focuses exclusively on prescription drug misuse",
+      "D) It is designed only for use in emergency department settings"
+    ],
+    "correct_answer": "B) It provides a comprehensive assessment of all substance use including tobacco and alcohol",
+    "page_reference": "311",
+    "rationale": "The primary advantage of the TAPS tool is its comprehensive approach to screening for multiple substances, including tobacco, alcohol, prescription medications, and illicit drugs. This makes it more efficient than using separate screens for different substances. It does not focus only on illegal drugs (A) or prescription drug misuse (C), nor is it limited to emergency department use (D). Its broad scope makes it suitable for various healthcare settings.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090058",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Health Professionals Follow-up Study, replacing which type of fat with olive oil was associated with the greatest reduction in cardiovascular disease risk?",
+    "options": [
+      "A) Polyunsaturated fat",
+      "B) Monounsaturated fat",
+      "C) Animal fat",
+      "D) Trans fat"
+    ],
+    "correct_answer": "C) Animal fat",
+    "page_reference": "158",
+    "rationale": "The Health Professionals Follow-up Study found that replacing animal fats, particularly dairy fat and butter, with olive oil was associated with the greatest reduction in cardiovascular disease risk. This finding underscores the potential benefits of substituting saturated animal fats with the monounsaturated fats found in olive oil. While replacing trans fats with olive oil is generally beneficial, the study specifically highlighted the benefits of replacing animal fats.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090059",
+    "section_number": "09",
+    "tags": [
+      "dietary-patterns",
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Based on the Health Professionals Follow-up Study, which of the following statements about olive oil consumption and total mortality is correct?",
+    "options": [
+      "A) Olive oil consumption had no significant effect on total mortality",
+      "B) Only extra virgin olive oil consumption was associated with reduced mortality",
+      "C) Higher olive oil consumption was associated with lower total mortality",
+      "D) Olive oil consumption increased mortality from certain causes"
+    ],
+    "correct_answer": "C) Higher olive oil consumption was associated with lower total mortality",
+    "page_reference": "158",
+    "rationale": "The Health Professionals Follow-up Study found that higher olive oil consumption was associated with lower total mortality. Participants consuming the highest amount of olive oil had a 19% lower risk of total mortality compared to those who rarely or never consumed olive oil. This association was observed for total olive oil consumption, not just extra virgin olive oil. The study did",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090060",
+    "section_number": "09",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the EAGLES trial, which statement is true regarding the safety of varenicline and bupropion in patients with psychiatric disorders?",
+    "options": [
+      "A) They significantly increased the risk of neuropsychiatric events",
+      "B) They were safe only in patients with depression",
+      "C) They did not significantly increase the risk of neuropsychiatric events",
+      "D) They were contraindicated in all psychiatric patients"
+    ],
+    "correct_answer": "C) They did not significantly increase the risk of neuropsychiatric events",
+    "page_reference": "316",
+    "rationale": "The EAGLES trial demonstrated that varenicline and bupropion did not significantly increase the risk of neuropsychiatric adverse events in patients with or without psychiatric disorders compared to nicotine patch or placebo. This finding was crucial in establishing the safety of these medications in psychiatric patients, contradicting previous concerns.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090061",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "mental-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Health Professionals Follow-up Study, what was the recommended minimum daily intake of olive oil associated with reduced cardiovascular disease risk?",
+    "options": [
+      "A) 1 teaspoon",
+      "B) 1.5 teaspoons",
+      "C) 1 tablespoon",
+      "D) 2 tablespoons"
+    ],
+    "correct_answer": "B) 1.5 teaspoons",
+    "page_reference": "158",
+    "rationale": "The Health Professionals Follow-up Study found that consuming at least 1.5 teaspoons (approximately 7 grams) of olive oil per day was associated with a 14% lower risk of cardiovascular disease. This amount represents the minimum intake associated with significant benefits, highlighting the importance of regular, moderate olive oil consumption in a heart-healthy diet.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090062",
+    "section_number": "09",
+    "tags": [
+      "dietary-patterns",
+      "micronutrients",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In applying the 5A's model, a patient is advised to quit smoking but is not ready. What is the most appropriate next step?",
+    "options": [
+      "A) Move to the Assist step and provide a quit plan",
+      "B) Skip to the Arrange step and schedule a follow-up",
+      "C) Repeat the Advise step more forcefully",
+      "D) Move to the Assess step to understand their barriers to quitting"
+    ],
+    "correct_answer": "D) Move to the Assess step to understand their barriers to quitting",
+    "page_reference": "322",
+    "rationale": "When a patient is not ready to quit after being advised, the most appropriate next step is to move to the Assess step. This involves understanding the patient's willingness to quit and exploring their barriers to quitting. This information can guide future interventions. Providing a quit plan (Assist) or scheduling follow-up (Arrange) would be premature at this stage. Repeating the Advise step more forcefully is not recommended and could be counterproductive.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090063",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In motivational interviewing using the OARS framework, a patient expresses doubt about their ability to quit smoking. Which technique would be most appropriate to use next?",
+    "options": [
+      "A) Open-ended questions to explore their doubts",
+      "B) Affirmations to boost their confidence",
+      "C) Reflections to clarify their concerns",
+      "D) Summarize to recap the conversation"
+    ],
+    "correct_answer": "B) Affirmations to boost their confidence",
+    "page_reference": "320",
+    "rationale": "When a patient expresses doubt about their ability to change, affirmations are the most appropriate OARS technique to use. Affirmations can help boost the patient's confidence by recognizing their strengths, past successes, or efforts. This can increase their self-efficacy and motivation to change. While the other techniques are useful in motivational interviewing, affirmations directly address the patient's expressed lack of confidence.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090064",
+    "section_number": "09",
+    "tags": [
+      "motivational-interviewing",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which of the following AUDIT questions is most specific for assessing alcohol dependence?",
+    "options": [
+      "A) How often do you have six or more drinks on one occasion?",
+      "B) How often during the last year have you found that you were not able to stop drinking once you had started?",
+      "C) How often do you have a drink containing alcohol?",
+      "D) Have you or someone else been injured because of your drinking?"
+    ],
+    "correct_answer": "B) How often during the last year have you found that you were not able to stop drinking once you had started?",
+    "page_reference": "310",
+    "rationale": "This question specifically assesses a key component of alcohol dependence: loss of control over drinking. The inability to stop drinking once started is a hallmark of dependence. The other questions assess frequency of heavy drinking (A), general frequency of alcohol use (C), and harmful consequences of drinking (D), but are less specific to dependence.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090065",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A patient smokes 10 cigarettes per day and has their first cigarette 30 minutes after waking. According to the Fagerström Test, what level of nicotine dependence does this indicate?",
+    "options": [
+      "A) Very low dependence",
+      "B) Low dependence",
+      "C) Moderate dependence",
+      "D) High dependence"
+    ],
+    "correct_answer": "B) Low dependence",
+    "page_reference": "307",
+    "rationale": "In the Fagerström Test, smoking 10 cigarettes per day scores 0 points, and having the first cigarette 30 minutes after waking scores 1 point. A total score of 1 indicates low dependence. This demonstrates how the test weighs both the amount smoked and the urgency of nicotine need after waking. Moderate dependence typically requires a score of 4-6, and high dependence 7-10.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090066",
+    "section_number": "09",
+    "tags": [
+      "clinical-assessment-tools",
+      "tobacco-cessation",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A patient screens positive on TAPS-1 for both alcohol and prescription drug misuse. What is the next appropriate step in using this tool?",
+    "options": [
+      "A) Refer the patient immediately to a substance abuse specialist",
+      "B) Administer TAPS-2 for both alcohol and prescription drugs",
+      "C) Only administer TAPS-2 for the substance with higher risk",
+      "D) Conclude the screening and provide general substance use education"
+    ],
+    "correct_answer": "B) Administer TAPS-2 for both alcohol and prescription drugs",
+    "page_reference": "311",
+    "rationale": "When a patient screens positive on TAPS-1 for multiple substances, the appropriate next step is to administer TAPS-2 for each of those substances. This allows for a more detailed assessment of the frequency and potential problems associated with each substance. Referring immediately (A) or concluding the screening (D) would be premature without this additional information. Assessing only one substance (C) would miss important information about the other.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090067",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old male with a 30-pack-year smoking history presents for smoking cessation counseling. He reports smoking within 5 minutes of waking and consuming 25 cigarettes daily. He has failed multiple quit attempts using nicotine patches alone. Based on his Heaviness of Smoking Index (HSI) and clinical presentation, which combination therapy would be most appropriate?",
+    "options": [
+      "A) Nicotine patch + nicotine gum",
+      "B) Varenicline + nicotine patch",
+      "C) Bupropion + nicotine patch",
+      "D) Varenicline + bupropion"
+    ],
+    "correct_answer": "D",
+    "page_reference": "314-315",
+    "rationale": "The patient's HSI indicators (smoking within 5 minutes of waking and >20 cigarettes/day) suggest high nicotine dependence. According to page 315, for patients who smoke >20 cigarettes per day, combination therapy with varenicline plus bupropion showed higher rates of prolonged abstinence at 3, 6, and 12 months compared to other combinations. This is particularly relevant for patients with high dependence and previous failed attempts with NRT alone.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090068",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation"
+    ]
+  },
+  {
+    "question_text": "A 32-year-old female smoker with a history of major depressive disorder presents for smoking cessation. She is currently stable on sertraline and has been smoking 1 pack per day for 15 years. Which statement regarding her smoking cessation treatment is most accurate?",
+    "options": [
+      "A) Varenicline is contraindicated due to her psychiatric history",
+      "B) She should avoid pharmacotherapy until her depression fully resolves",
+      "C) Combination therapy should be delayed until monotherapy fails",
+      "D) Maintenance pharmacotherapy for 1 year may improve abstinence rates"
+    ],
+    "correct_answer": "D",
+    "page_reference": "315-316",
+    "rationale": "According to page 316, patients with psychiatric conditions who quit smoking do not appear to suffer worsening of their psychiatric symptoms when using cessation aids. Furthermore, maintenance pharmacotherapy for 1 year may improve abstinence in patients with serious mental illness and appears to be well-tolerated. The EAGLES trial (page 316) specifically demonstrated the safety and efficacy of varenicline, bupropion, and nicotine patch in patients with psychiatric disorders.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090069",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "mental-health"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine physician is designing a comprehensive tobacco cessation program. According to evidence-based guidelines, which combination of interventions would likely yield the highest success rate?",
+    "options": [
+      "A) Combined pharmacotherapy + weekly group counseling",
+      "B) Single-agent NRT + monthly follow-up",
+      "C) Behavioral therapy + acupuncture",
+      "D) E-cigarettes + biofeedback therapy"
+    ],
+    "correct_answer": "A",
+    "page_reference": "315-318",
+    "rationale": "According to pages 315-316, treatment combinations are more effective than monotherapies, and pharmacotherapy plus behavior modification results in the highest quit rate. Page 318 specifically states that other treatment modalities such as acupuncture and biofeedback have either not demonstrated effectiveness or have insufficient evidence. Additionally, while e-cigarettes may help with short-term abstinence, there is limited evidence for long-term success.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090070",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old male with recent myocardial infarction expresses interest in quitting smoking during his cardiac rehabilitation program. Which statement about nicotine replacement therapy (NRT) in this patient population is most accurate?",
+    "options": [
+      "A) NRT should be avoided until 6 months post-MI",
+      "B) Only non-nicotine medications are safe in this population",
+      "C) Varenicline and combination NRT are first-line options",
+      "D) Short-acting NRT only should be used"
+    ],
+    "correct_answer": "C",
+    "page_reference": "317",
+    "rationale": "According to page 317, several meta-analyses show that both varenicline and combination NRT are first-line therapies that are more effective than single-agent NRT or bupropion in smokers with cardiovascular disease. The text specifically notes there is no association between nicotine patch and acute cardiovascular events, even among those who continued to smoke while on the patch.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090071",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_text": "A 42-year-old female with alcohol use disorder reports drinking 6-8 standard drinks daily. She has attempted to quit multiple times but experiences severe withdrawal symptoms. Which medication regimen would be most appropriate as part of her comprehensive treatment plan?",
+    "options": [
+      "A) Naltrexone 50mg daily only",
+      "B) Acamprosate 666mg three times daily only",
+      "C) Gabapentin 300mg three times daily",
+      "D) Combined naltrexone and acamprosate"
+    ],
+    "correct_answer": "B",
+    "page_reference": "320-321",
+    "rationale": "For severe alcohol use disorder with significant withdrawal symptoms, acamprosate (standard dosing 666mg TID) is particularly appropriate as it modulates glutamate neurotransmission and shows the most benefit in those maintaining abstinence. While naltrexone is also FDA-approved, it's typically used more for reducing drinking rather than managing withdrawal. Gabapentin, while sometimes used off-label, has limited evidence and concerns for potential misuse.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090072",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "A 28-year-old patient with opioid use disorder is interested in medication-assisted treatment. He uses heroin daily and last used 6 hours ago. Which statement about initiating buprenorphine is most accurate?",
+    "options": [
+      "A) Can safely initiate immediately regardless of last use",
+      "B) Must wait 7-14 days after last opioid use",
+      "C) Should be in moderate withdrawal before initiation",
+      "D) Can only be initiated in an inpatient setting"
+    ],
+    "correct_answer": "C",
+    "page_reference": "321",
+    "rationale": "According to page 321, buprenorphine must be initiated with caution as it can induce precipitated withdrawal if full agonist opioids are present. The patient should be in moderate withdrawal before initiation to avoid precipitated withdrawal. The 7-14 day waiting period mentioned in the text refers to naltrexone, not buprenorphine. Outpatient initiation is possible with appropriate monitoring.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090073",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "A hospital is implementing a new tobacco cessation program for surgical patients. Based on current evidence, which statement about perioperative nicotine replacement therapy is most accurate?",
+    "options": [
+      "A) Increases post-operative complications",
+      "B) Should be restricted to minimum dosing",
+      "C) Has no impact on surgical outcomes",
+      "D) Must be discontinued 48 hours pre-op"
+    ],
+    "correct_answer": "C",
+    "page_reference": "317",
+    "rationale": "According to page 317, a retrospective study of over 500 hospitals found no difference in mortality, complications, or readmissions with NRT use in surgical patients. The study specifically showed NRT was not associated with complications, length of stay, or admission rates. The text emphasizes that surgical admission is actually a 'teachable moment' that is often missed for implementing tobacco cessation interventions.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090074",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine physician is implementing the 5A's model for tobacco cessation. When providing the 'Assist' component, which combination of interventions has the strongest evidence base?",
+    "options": [
+      "A) Self-help materials + follow-up calls",
+      "B) Problem-solving skills + pharmacotherapy",
+      "C) Support group + alternative therapies",
+      "D) Brief advice + written materials"
+    ],
+    "correct_answer": "B",
+    "page_reference": "322-323",
+    "rationale": "According to pages 322-323, the 'Assist' component should include helping the patient develop a quit plan, recommending appropriate prescription medication, and providing counseling that specifically includes problem-solving and skills training. The evidence shows that combining pharmacotherapy with behavioral interventions yields the highest success rates. Alternative therapies have insufficient evidence, and brief advice alone is less effective than comprehensive intervention.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090075",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "A patient with alcohol use disorder has been prescribed naltrexone but reports continued heavy drinking despite medication adherence. Which pharmacological modification would be most appropriate?",
+    "options": [
+      "A) Increase naltrexone to 100mg daily",
+      "B) Add disulfiram 250mg daily",
+      "C) Switch to topiramate monotherapy",
+      "D) Add gabapentin 300mg TID"
+    ],
+    "correct_answer": "D",
+    "page_reference": "320-321",
+    "rationale": "According to pages 320-321, gabapentin (300-600mg TID) has shown evidence of improving abstinence rates when added to treatment regimens. Studies showed higher abstinent rates in 900 and 1800mg/day gabapentin groups compared to placebo. While topiramate has some evidence for reducing heavy drinking days, it has limiting side effects. Disulfiram has high rates of non-compliance and hasn't been found more effective than placebo. Increasing naltrexone beyond standard dosing isn't supported by evidence.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090076",
+    "section_number": "09",
+    "tags": [
+      "substance-use"
+    ]
+  },
+  {
+    "question_text": "A pregnant patient at 20 weeks gestation continues to smoke despite counseling. She has tried to quit but experiences severe withdrawal symptoms. Which statement about pharmacotherapy in this situation is most accurate?",
+    "options": [
+      "A) All pharmacotherapy is contraindicated",
+      "B) Only varenicline can be safely used",
+      "C) OTC NRT benefits outweigh risks",
+      "D) Must use prescription NRT only"
+    ],
+    "correct_answer": "C",
+    "page_reference": "317",
+    "rationale": "According to page 317, for pregnant smokers, while counseling is best, the benefits of over-the-counter NRT (patches, lozenge, and gum) outweigh the risk. No harm is expected, though this is based on limited research. The text specifically notes that bupropion and varenicline are both FDA category C, while prescription NRT is category D with a potential risk of birth defects. Continuing to smoke likely has a higher risk of harm than the risk of birth defects from NRT.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090077",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation"
+    ]
+  },
+  {
+    "question_text": "A clinic is implementing alcohol screening protocols. According to current evidence, which pattern of alcohol use and demographic characteristics is most accurate?",
+    "options": [
+      "A) Highest binge drinking rates in Southeast, decreasing with income level",
+      "B) Highest binge drinking rates in Northeast/Midwest, increasing with income level",
+      "C) Highest binge drinking rates in West Coast, no correlation with income",
+      "D) Highest binge drinking rates in Southwest, inverse correlation with income"
+    ],
+    "correct_answer": "B",
+    "page_reference": "306",
+    "rationale": "According to page 306, alcohol use varies by location with binge drinking being more prevalent in the Northeast, upper Midwest, and Hawaii. The text specifically notes that the prevalence of binge drinking increases with income. Additionally, whites binge drink more than Blacks or Asians, and men are two times more likely to binge drink than women.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090078",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "clinical-assessment-tools"
+    ]
+  },
+  {
+    "question_text": "A physician is assessing a patient's nicotine dependence using the Fagerstrom Test. Which score and interpretation is most accurate for determining the level of dependence?",
+    "options": [
+      "A) Score 5-7 = moderate dependence",
+      "B) Score 7-10 = high dependence",
+      "C) Score 3-6 = minimal dependence",
+      "D) Score 8-10 = moderate dependence"
+    ],
+    "correct_answer": "B",
+    "page_reference": "307",
+    "rationale": "According to page 307, the Fagerstrom Test for Nicotine Dependence scoring interpretation is: Score of 7-10 = high dependence, Score of 4-6 = moderate dependence, Score of less than 4 = minimal dependence. This ten-item questionnaire is specifically designed to measure tobacco dependence and can help predict likelihood of relapse and guide therapeutic strategy selection.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090079",
+    "section_number": "09",
+    "tags": [
+      "clinical-assessment-tools",
+      "tobacco-cessation"
+    ]
+  },
+  {
+    "question_text": "A healthcare system is analyzing substance use patterns in their patient population. Which combination of statistics most accurately reflects current U.S. illicit drug use patterns?",
+    "options": [
+      "A) 15% use marijuana, 5% misuse opioids, highest use in 35-44 age group",
+      "B) 17.9% use marijuana, 2.4% misuse opioids, highest use in 18-25 age group",
+      "C) 20% use marijuana, 3.5% misuse opioids, highest use in 25-34 age group",
+      "D) 25% use marijuana, 1.5% misuse opioids, highest use in 30-39 age group"
+    ],
+    "correct_answer": "B",
+    "page_reference": "306",
+    "rationale": "According to page 306, among people 12 or older in 2020, 17.9% of people (49.6 million) used marijuana in the past year. Approximately 9.5 million people aged 13 or older misused opioids in 2020 (2.4% of the population). Use was highest among people 18-25 years old for both substances. This reflects the most current and accurate statistics for U.S. illicit drug use patterns.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090080",
+    "section_number": "09",
+    "tags": [
+      "substance-use",
+      "epidemiology-and-burden"
+    ]
+  },
+  {
+    "question_text": "A primary care practice is implementing the 5R's motivational interviewing framework for tobacco cessation. Which combination of interventions most accurately represents the evidence-based approach?",
+    "options": [
+      "A) Relevance, Risk reduction, Rewards, Roadblocks, Repeat annually",
+      "B) Relevance, Risks, Rewards, Roadblocks, Repetition",
+      "C) Risk assessment, Rewards, Resources, Referral, Review",
+      "D) Readiness, Risk factors, Resources, Roadmap, Repeat"
+    ],
+    "correct_answer": "B",
+    "page_reference": "325",
+    "rationale": "According to page 325, the 5R's of Motivational Interviewing are: Relevance (identify negative consequences pertinent to patient), Risks (acute, long-term, and environmental risks), Rewards (potential benefits of quitting), Roadblocks (identified barriers to quitting), and Repetition (repeat steps at every visit for unmotivated patients). This framework is specifically designed to help increase motivation for tobacco cessation.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_id": "090081",
+    "section_number": "09",
+    "tags": [
+      "tobacco-cessation",
+      "motivational-interviewing"
+    ]
+  }
+]

@@ -1,0 +1,850 @@
+[
+  {
+    "question_text": "A 55-year-old woman participating in the Nurses' Health Study reports consuming two sugar-sweetened beverages daily. According to the study findings, which of the following outcomes is she at increased risk for?",
+    "options": [
+      "A) Osteoporosis",
+      "B) All-cause mortality",
+      "C) Rheumatoid arthritis",
+      "D) Macular degeneration"
+    ],
+    "correct_answer": "B) All-cause mortality",
+    "page_reference": "Page 158",
+    "rationale": "The Nurses' Health Study found that compared with drinking sugar-sweetened beverages less than once per month, drinking two or more per day was associated with a 21% higher risk of overall mortality. Option A is incorrect as the study didn't report on osteoporosis risk. Option C is not mentioned in the study findings. Option D is not associated with sugar-sweetened beverage consumption in this study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00613",
+    "section_number": "05"
+  },
+  {
+    "question_text": "The Health Professionals Follow-up Study found that higher consumption of olive oil was associated with decreased heart disease risk in Americans. What was the reduction in cardiovascular disease risk for men who consumed at least one and a half teaspoons of olive oil per day compared to those who consumed no olive oil?",
+    "options": [
+      "A) 7%",
+      "B) 14%",
+      "C) 18%",
+      "D) 25%"
+    ],
+    "correct_answer": "B) 14%",
+    "page_reference": "Page 158",
+    "rationale": "The Health Professionals Follow-up Study found that compared with men who consumed no olive oil, those who consumed at least one and a half teaspoons of olive oil per day had a 14% lower risk for cardiovascular disease. Option A is incorrect as it's too low. Option C refers to the risk reduction for coronary heart disease specifically, not overall cardiovascular disease. Option D is not mentioned in the study findings.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00614",
+    "section_number": "05"
+  },
+  {
+    "question_text": "A 68-year-old postmenopausal woman participating in the Women's Health Initiative study asks about the benefits of hormone therapy (HT) for cardiovascular disease prevention. Based on the WHI findings, what should you advise her?",
+    "options": [
+      "A) HT is highly recommended for cardiovascular disease prevention",
+      "B) HT has no effect on cardiovascular disease risk",
+      "C) HT increases the risk of cardiovascular disease",
+      "D) HT should be used in combination with calcium and vitamin D supplements for optimal cardiovascular protection"
+    ],
+    "correct_answer": "C) HT increases the risk of cardiovascular disease",
+    "page_reference": "Page 158",
+    "rationale": "The Women's Health Initiative found that hormone therapy did not prevent heart disease in postmenopausal women as once thought. In fact, the study showed that HT increased cardiovascular disease risk. Option A is incorrect as it contradicts the study findings. Option B is false as HT did have an effect, albeit negative. Option D is not supported by the study results, which showed no apparent risk reductions for cardiovascular disease with calcium and vitamin D supplementation.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00615",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the EPIC-Oxford Study, which dietary pattern was associated with the lowest risk of developing type 2 diabetes compared to meat-eaters?",
+    "options": [
+      "A) Pescatarian",
+      "B) Lacto-ovo vegetarian",
+      "C) Vegan",
+      "D) Mediterranean"
+    ],
+    "correct_answer": "C) Vegan",
+    "page_reference": "Page 159",
+    "rationale": "The EPIC-Oxford Study found that compared with meat-eaters, the vegan group alone had a 47% lower risk of developing type 2 diabetes. Option A (pescatarian) and B (lacto-ovo vegetarian) were not specifically mentioned to have this level of risk reduction. Option D (Mediterranean) was not one of the dietary patterns studied in the EPIC-Oxford Study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00616",
+    "section_number": "05"
+  },
+  {
+    "question_text": "The Adventist Health Study-2 found that adherence to a vegetarian diet was associated with a lower prevalence of which of the following conditions?",
+    "options": [
+      "A) Osteoarthritis",
+      "B) Hypertension",
+      "C) Alzheimer's disease",
+      "D) Glaucoma"
+    ],
+    "correct_answer": "B) Hypertension",
+    "page_reference": "Page 159",
+    "rationale": "The Adventist Health Study-2 found that hypertension is uncommon in people who eat plant-based diets. The study reported that 7% of vegans versus 23% of non-vegetarians had hypertension. Options A, C, and D were not mentioned as significant findings in the study summary provided.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00617",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the Nurses' Health Study, which of the following dietary factors was found to reduce the risk of colon cancer?",
+    "options": [
+      "A) High red meat intake",
+      "B) High dairy consumption",
+      "C) High folate intake",
+      "D) High saturated fat intake"
+    ],
+    "correct_answer": "C) High folate intake",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study found that folate intake was associated with a reduced risk of colon cancer. Options A and D are incorrect as high red meat and saturated fat intake are generally associated with increased cancer risk. Option B is not mentioned as a protective factor for colon cancer in the study findings.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00618",
+    "section_number": "05"
+  },
+  {
+    "question_text": "The Nurses' Health Study found that moderate alcohol intake reduces the risk of which of the following conditions?",
+    "options": [
+      "A) Breast cancer",
+      "B) Coronary heart disease",
+      "C) Hypertension",
+      "D) Osteoporosis"
+    ],
+    "correct_answer": "B) Coronary heart disease",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study reported that moderate alcohol intake reduces the risk of coronary heart disease (CHD). Option A is incorrect as the study found that alcohol intake increases the risk of breast cancer. Options C and D were not mentioned as benefits of moderate alcohol consumption in the study summary.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00619",
+    "section_number": "05"
+  },
+  {
+    "question_text": "Based on the Nurses' Health Study findings, which dietary pattern was associated with a reduced risk of stroke?",
+    "options": [
+      "A) Low-carbohydrate diet",
+      "B) High-protein diet",
+      "C) Mediterranean diet",
+      "D) Ketogenic diet"
+    ],
+    "correct_answer": "C) Mediterranean diet",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study found that the Mediterranean dietary pattern reduces the risk of stroke. Options A, B, and D were not mentioned as dietary patterns associated with reduced stroke risk in the study findings.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00620",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the Health Professionals Follow-up Study, consumption of which food item was associated with a 21% higher risk of overall mortality?",
+    "options": [
+      "A) Red meat",
+      "B) Processed grains",
+      "C) Sugar-sweetened beverages",
+      "D) Fried foods"
+    ],
+    "correct_answer": "C) Sugar-sweetened beverages",
+    "page_reference": "Page 158",
+    "rationale": "The Health Professionals Follow-up Study found that compared with drinking sugar-sweetened beverages less than once per month, drinking two or more per day was associated with a 21% higher risk of overall mortality. Options A, B, and D were not specifically mentioned with this level of risk in the study summary.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00621",
+    "section_number": "05"
+  },
+  {
+    "question_text": "The Health Professionals Follow-up Study found that replacing 5 g/day of which food item with olive oil was associated with a 5-7% lower risk of total cardiovascular disease and coronary heart disease?",
+    "options": [
+      "A) Butter",
+      "B) Coconut oil",
+      "C) Avocado",
+      "D) Nuts"
+    ],
+    "correct_answer": "A) Butter",
+    "page_reference": "Page 158",
+    "rationale": "The study found that replacing 5 g/day of margarine, butter, mayonnaise, or dairy fat with an equal amount of olive oil was associated with a 5-7% lower risk of total cardiovascular disease and",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00622",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Health Professionals Follow-up Study, higher consumption of which food was associated with a decreased risk of coronary heart disease in Americans?",
+    "options": [
+      "A) Red meat",
+      "B) Olive oil",
+      "C) Dairy products",
+      "D) Refined grains"
+    ],
+    "correct_answer": "B) Olive oil",
+    "page_reference": "Page 158",
+    "rationale": "The Health Professionals Follow-up Study found that higher consumption of olive oil was associated with decreased heart disease in Americans. Options A, C, and D were not mentioned as having a protective effect against coronary heart disease in this study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00623",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the Women's Health Initiative study, which intervention did not offer significant breast cancer risk reduction over 8 years?",
+    "options": [
+      "A) Hormone therapy",
+      "B) Low-fat diet",
+      "C) Calcium and vitamin D supplementation",
+      "D) Increased physical activity"
+    ],
+    "correct_answer": "B) Low-fat diet",
+    "page_reference": "Page 158",
+    "rationale": "The Women's Health Initiative Diet Modification trial indicated that reducing % energy from fat per study diet parameters did not offer breast cancer risk reductions over 8 years. Options A, C, and D were not specifically mentioned in relation to breast cancer risk in the summary provided.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00624",
+    "section_number": "05"
+  },
+  {
+    "question_text": "The Women's Health Initiative study found that hormone therapy did not prevent which of the following conditions in postmenopausal women?",
+    "options": [
+      "A) Osteoporosis",
+      "B) Heart disease",
+      "C) Breast cancer",
+      "D) Cognitive decline"
+    ],
+    "correct_answer": "B) Heart disease",
+    "page_reference": "Page 158",
+    "rationale": "The Women's Health Initiative found that hormone therapy did not prevent heart disease in postmenopausal women as once thought. Options A, C, and D were not specifically mentioned in relation to hormone therapy in the study summary provided.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00625",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the EPIC-Oxford Study, which dietary group had the lowest average BMI?",
+    "options": [
+      "A) Meat-eaters",
+      "B) Fish-eaters",
+      "C) Vegetarians",
+      "D) Vegans"
+    ],
+    "correct_answer": "D) Vegans",
+    "page_reference": "Page 159",
+    "rationale": "According to the EPIC-Oxford Study, vegans had the lowest average BMI at ~22.5. Meat-eaters had the highest (~25), while fish-eaters and vegetarians were in between (~23.5).",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00626",
+    "section_number": "05"
+  },
+  {
+    "question_text": "The EPIC-Oxford Study found that vegetarians had a lower rate of which condition compared to meat-eaters?",
+    "options": [
+      "A) Stroke",
+      "B) Osteoporosis",
+      "C) Ischemic heart disease",
+      "D) Type 1 diabetes"
+    ],
+    "correct_answer": "C) Ischemic heart disease",
+    "page_reference": "Page 159",
+    "rationale": "The EPIC-Oxford Study found that vegetarians had a 22% lower rate of ischemic heart disease than meat-eaters. Interestingly, the study found that vegetarians and vegans had a 20% higher rate of stroke than meat-eaters. Options B and D were not mentioned in the study summary provided.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00627",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Adventist Health Study-2, what was the approximate difference in weight between a 55-year-old male vegan and a non-vegetarian of similar height?",
+    "options": [
+      "A) 10 pounds",
+      "B) 20 pounds",
+      "C) 30 pounds",
+      "D) 40 pounds"
+    ],
+    "correct_answer": "C) 30 pounds",
+    "page_reference": "Page 161",
+    "rationale": "The Adventist Health Study-2 found that a 55-year-old male vegan weighed approximately 30 pounds less than a non-vegetarian of similar height. Options A, B, and D are incorrect as they do not reflect the findings reported in the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00628",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the Adventist Health Study, which food group was associated with a 47% lower risk of prostate cancer when consumed more than three times a week?",
+    "options": [
+      "A) Fruits",
+      "B) Vegetables",
+      "C) Legumes",
+      "D) Whole grains"
+    ],
+    "correct_answer": "C) Legumes",
+    "page_reference": "Page 160",
+    "rationale": "The Adventist Health Study found that those eating legumes more than three times a week had a 47% lower risk of prostate cancer than those who ate legumes less than once a month. Options A, B, and D were not mentioned with this specific risk reduction for prostate cancer.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00629",
+    "section_number": "05"
+  },
+  {
+    "question_text": "The Framingham Heart Study demonstrated an increased risk of coronary heart disease morbidity with which of the following factors?",
+    "options": [
+      "A) Rising baseline blood pressure",
+      "B) Increased HDL cholesterol",
+      "C) Lower body mass index",
+      "D) Decreased total cholesterol"
+    ],
+    "correct_answer": "A) Rising baseline blood pressure",
+    "page_reference": "Page 161",
+    "rationale": "The Framingham Heart Study demonstrated an increased risk of coronary heart disease morbidity with rising baseline blood pressure. Options B, C, and D are incorrect as they generally represent factors associated with decreased cardiovascular risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00630",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the Framingham Heart Study, which blood pressure measurement was found to be a stronger predictor of cerebrovascular accidents and heart failure?",
+    "options": [
+      "A) Diastolic blood pressure",
+      "B) Systolic blood pressure",
+      "C) Mean arterial pressure",
+      "D) Pulse pressure"
+    ],
+    "correct_answer": "B) Systolic blood pressure",
+    "page_reference": "Page 161",
+    "rationale": "The Framingham Heart Study suggested that elevated systolic blood pressure is a predictor of cerebrovascular accidents as well as heart failure, and that diastolic blood pressure was not more strongly associated with these events. Options A, C, and D are incorrect based on the study findings.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00631",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Multi-Ethnic Study of Atherosclerosis (MESA), which dietary pattern was associated with an 18% greater risk of type 2 diabetes?",
+    "options": [
+      "A) High intake of whole grains and fruits",
+      "B) High intake of tomatoes, beans, and red meat",
+      "C) High intake of nuts, seeds, and green leafy vegetables",
+      "D) High intake of low-fat dairy and fish"
+    ],
+    "correct_answer": "B) High intake of tomatoes, beans, and red meat",
+    "page_reference": "Page 162",
+    "rationale": "MESA found that a high intake of tomatoes, beans, refined grains, high-fat dairy, and red meat was associated with an 18% greater risk of type 2 diabetes. Options A, C, and D are incorrect as they were not associated with increased diabetes risk in this study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00632",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the Multi-Ethnic Study of Atherosclerosis (MESA), which dietary pattern was associated with a 15% lower risk of diabetes?",
+    "options": [
+      "A) High intake of processed meats and refined grains",
+      "B) High intake of sugar-sweetened beverages and snacks",
+      "C) High intake of whole grains, fruits, nuts/seeds, and green leafy vegetables",
+      "D) High intake of red meat and high-fat dairy products"
+    ],
+    "correct_answer": "C) High intake of whole grains, fruits, nuts/seeds, and green leafy vegetables",
+    "page_reference": "Page 162",
+    "rationale": "MESA found that high intake of whole grains, fruits, nuts/seeds, green leafy vegetables, and low-fat dairy was associated with a 15% lower risk of diabetes. Options A, B, and D are incorrect as they generally represent dietary patterns associated with increased diabetes risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00633",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the National Health and Nutrition Examination Survey (NHANES), what percentage of calories from ultra-processed foods was found in the diets of US adults?",
+    "options": [
+      "A) Less than 25%",
+      "B) Between 25-40%",
+      "C) More than 50%",
+      "D) More than 75%"
+    ],
+    "correct_answer": "C) More than 50%",
+    "page_reference": "Page 162",
+    "rationale": "NHANES data showed that ultra-processed foods represented more than half of total calorie intake in US adults. Options A, B, and D are incorrect as they do not accurately reflect the findings reported in the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00634",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the Lyon Heart Study, which dietary pattern was associated with a 50-70% lower risk of recurrent heart disease?",
+    "options": [
+      "A) Low-carbohydrate diet",
+      "B) Mediterranean-style diet",
+      "C) High-protein diet",
+      "D) Ketogenic diet"
+    ],
+    "correct_answer": "B) Mediterranean-style diet",
+    "page_reference": "Page 163",
+    "rationale": "The Lyon Heart Study found that subjects following the Mediterranean-style diet had a 50-70% lower risk of recurrent heart disease. Options A, C, and D were not mentioned as having this protective effect in the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00635",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the OmniHeart study, which macronutrient-rich diet provided additional benefits on blood pressure and blood lipids compared to a carbohydrate-rich diet?",
+    "options": [
+      "A) Saturated fat-rich diet",
+      "B) Trans fat-rich diet",
+      "C) Protein-rich diet",
+      "D) Simple sugar-rich diet"
+    ],
+    "correct_answer": "C) Protein-rich diet",
+    "page_reference": "Page 164",
+    "rationale": "The OmniHeart study found that the protein-rich and unsaturated fat-rich diets provided additional benefits on blood pressure and blood lipids compared to the carbohydrate-rich diet. Options A, B, and D are incorrect as they were not mentioned as beneficial diets in the study summary.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00636",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to a recent systematic review and meta-analysis, the DASH diet reduced mean systolic blood pressure by how much?",
+    "options": [
+      "A) 1.5 mmHg",
+      "B) 3.2 mmHg",
+      "C) 5.0 mmHg",
+      "D) 7.5 mmHg"
+    ],
+    "correct_answer": "B) 3.2 mmHg",
+    "page_reference": "Page 165",
+    "rationale": "A systematic review and meta-analysis of 30 RCTs concluded that the DASH diet reduced mean systolic blood pressure by 3.2 mmHg. Options A, C, and D are incorrect as they do not reflect the",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00637",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Lyon Heart Trial, what was the primary intervention that led to a 50-70% lower risk of recurrent heart disease?",
+    "options": [
+      "A) Low-fat diet",
+      "B) Mediterranean-style diet",
+      "C) High-protein diet",
+      "D) Ketogenic diet"
+    ],
+    "correct_answer": "B) Mediterranean-style diet",
+    "page_reference": "Page 163",
+    "rationale": "The Lyon Heart Trial found that subjects following the Mediterranean-style diet had a 50-70% lower risk of recurrent heart disease. Options A, C, and D were not the interventions used in this study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00638",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the PREDIMED study, which dietary pattern was associated with a lower incidence of major cardiovascular events?",
+    "options": [
+      "A) Low-fat diet",
+      "B) Mediterranean diet supplemented with extra-virgin olive oil",
+      "C) High-protein diet",
+      "D) DASH diet"
+    ],
+    "correct_answer": "B) Mediterranean diet supplemented with extra-virgin olive oil",
+    "page_reference": "Page 165",
+    "rationale": "The PREDIMED study found that the incidence of major cardiovascular events was lower in those assigned to the Mediterranean pattern supplemented with extra-virgin olive oil or nuts than those assigned to a reduced-fat dietary pattern. Options A, C, and D were not the interventions associated with reduced cardiovascular events in this study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00639",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the PREDIMED study, what was the effect of better adherence to the Mediterranean diet on cardiovascular event rates?",
+    "options": [
+      "A) No significant difference",
+      "B) Slightly increased rates",
+      "C) Greater difference in rates",
+      "D) Only affected those with pre-existing conditions"
+    ],
+    "correct_answer": "C) Greater difference in rates",
+    "page_reference": "Page 165",
+    "rationale": "The PREDIMED study found that differences in rates of cardiovascular events between those assigned to the two Mediterranean patterns and the control pattern were greater among participants with better adherence. Options A, B, and D do not accurately reflect the findings of the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00640",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Nurses' Health Study, which combination of dietary factors was associated with the lowest risk of coronary heart disease?",
+    "options": [
+      "A) High intake of saturated fat and low intake of trans fat",
+      "B) High intake of polyunsaturated fat and low intake of trans fat",
+      "C) High intake of monounsaturated fat and high intake of trans fat",
+      "D) High intake of saturated fat and high intake of trans fat"
+    ],
+    "correct_answer": "B) High intake of polyunsaturated fat and low intake of trans fat",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study found that a dietary pattern high in polyunsaturated fats and low in trans fats was associated with a reduced risk of coronary heart disease. Refined carbohydrates and trans fats were found to increase the risk of CHD, while nuts, whole grains, and polyunsaturated fats were protective. This question requires synthesizing multiple findings from the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00641",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Health Professionals Follow-up Study, which of the following combinations was associated with the greatest reduction in cardiovascular disease risk?",
+    "options": [
+      "A) Replacing red meat with poultry and increasing olive oil intake",
+      "B) Increasing fish consumption and decreasing refined grain intake",
+      "C) Replacing margarine with olive oil and increasing nut consumption",
+      "D) Increasing dairy intake and decreasing sugar-sweetened beverage consumption"
+    ],
+    "correct_answer": "C) Replacing margarine with olive oil and increasing nut consumption",
+    "page_reference": "Page 158",
+    "rationale": "This question combines multiple findings from the Health Professionals Follow-up Study. The study found that replacing margarine with olive oil was associated with lower cardiovascular disease risk, and that substituting nuts for red meat was also beneficial. While all options contain elements of healthy dietary changes, option C best represents the specific findings of this study in terms of cardiovascular risk reduction.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00642",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Women's Health Initiative study, which combination of interventions had the most significant impact on health outcomes for postmenopausal women?",
+    "options": [
+      "A) Hormone therapy and calcium supplementation",
+      "B) Low-fat diet and vitamin D supplementation",
+      "C) Hormone therapy and low-fat diet",
+      "D) None of the interventions showed significant benefits"
+    ],
+    "correct_answer": "D) None of the interventions showed significant benefits",
+    "page_reference": "Page 158",
+    "rationale": "This question requires synthesizing multiple findings from the Women's Health Initiative. The study found that hormone therapy did not prevent heart disease as once thought, the low-fat diet did not significantly reduce breast or colorectal cancer risk, and calcium and vitamin D supplementation did not show apparent risk reductions for various outcomes. Therefore, none of the interventions showed the significant benefits that were initially hypothesized.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00643",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the EPIC-Oxford Study, which dietary pattern was associated with the most favorable overall health outcomes when considering cardiovascular disease, cancer, and nutrient intake?",
+    "options": [
+      "A) Vegan diet",
+      "B) Lacto-ovo vegetarian diet",
+      "C) Pesco-vegetarian diet",
+      "D) Low-meat omnivorous diet"
+    ],
+    "correct_answer": "A) Vegan diet",
+    "page_reference": "Page 159",
+    "rationale": "This question requires synthesizing multiple findings from the EPIC-Oxford Study. The vegan diet was associated with the lowest BMI, lowest total and LDL cholesterol levels, lowest risk of heart disease, and highest intake of fiber, vitamin B1, folate, vitamin C, vitamin E, magnesium, and iron. While each dietary pattern had some benefits, the vegan diet showed the most consistently favorable outcomes across various health markers.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00644",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the Adventist Health Studies, which combination of lifestyle factors was associated with the greatest increase in life expectancy?",
+    "options": [
+      "A) Vegetarian diet and regular exercise",
+      "B) Vegan diet and nut consumption",
+      "C) Pesco-vegetarian diet and stress management",
+      "D) Plant-based diet, nut consumption, exercise, and non-smoking"
+    ],
+    "correct_answer": "D) Plant-based diet, nut consumption, exercise, and non-smoking",
+    "page_reference": "Page 160-161",
+    "rationale": "This question requires synthesizing multiple findings from the Adventist Health Studies. The studies found benefits for plant-based diets, particularly vegan and vegetarian diets. They also found significant benefits for nut consumption, regular exercise, and not smoking. The combination of all these factors (plant-based diet, nut consumption, exercise, and non-smoking) would likely be associated with the greatest increase in life expectancy based on the overall findings of these studies.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00645",
+    "section_number": "05"
+  },
+  {
+    "question_text": "(Based on the Framingham Heart Study, which combination of factors would be most predictive of future cardiovascular disease risk?",
+    "options": [
+      "A) Elevated systolic blood pressure and obesity",
+      "B) Elevated diastolic blood pressure and high total cholesterol",
+      "C) Elevated systolic blood pressure, obesity, and a specific genetic variant",
+      "D) Elevated diastolic blood pressure and family history of heart disease"
+    ],
+    "correct_answer": "C) Elevated systolic blood pressure, obesity, and a specific genetic variant",
+    "page_reference": "Page 161",
+    "rationale": "This question combines multiple findings from the Framingham Heart Study. The study found that elevated systolic blood pressure was a stronger predictor of cardiovascular events than diastolic pressure. It also revealed a genetic variant associated with obesity, and obesity is a known risk factor for cardiovascular disease. Therefore, the combination of elevated systolic blood pressure, obesity, and the presence of this genetic variant would likely be most predictive of future cardiovascular disease risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00646",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Multi-Ethnic Study of Atherosclerosis (MESA), which combination of factors was most strongly associated with increased cardiovascular risk?",
+    "options": [
+      "A) High coronary artery calcium score and low-fat diet",
+      "B) High coronary artery calcium score and high intake of refined grains",
+      "C) Low coronary artery calcium score and high intake of red meat",
+      "D) Low coronary artery calcium score and high intake of vegetables"
+    ],
+    "correct_answer": "B) High coronary artery calcium score and high intake of refined grains",
+    "page_reference": "Page 162",
+    "rationale": "This question combines multiple findings from MESA. The study found a strong association between coronary artery calcium scores and cardiovascular health. It also found that a dietary pattern high in refined grains was associated with increased risk of type 2 diabetes, which is a risk factor for cardiovascular disease. Therefore, the combination of a high coronary artery calcium score and high intake of refined grains would likely be most strongly associated with increased cardiovascular risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00647",
+    "section_number": "05"
+  },
+  {
+    "question_text": "Based on NHANES data, which combination of dietary factors is most strongly associated with poor cardiovascular health in US adults?",
+    "options": [
+      "A) High intake of ultra-processed foods and low intake of fruits and vegetables",
+      "B) High intake of whole grains and high intake of lean meats",
+      "C) Moderate intake of ultra-processed foods and high intake of plant-based proteins",
+      "D) Low intake of ultra-processed foods and high intake of saturated fats"
+    ],
+    "correct_answer": "A) High intake of ultra-processed foods and low intake of fruits and vegetables",
+    "page_reference": "Page 162",
+    "rationale": "This question requires synthesizing multiple findings from NHANES. The survey found that ultra-processed foods represent more than half of total calorie intake in US adults and contribute to nearly 90% of added sugar intake. It also showed that higher intake of ultra-processed foods was associated with lower cardiovascular health scores. While not explicitly stated, NHANES generally supports the health benefits of fruit and vegetable consumption. Therefore, the combination of high ultra-processed food intake and low fruit and vegetable intake would likely be most strongly associated with poor cardiovascular health.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00648",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Lyon Heart Trial, which specific component of the Mediterranean-style diet was most strongly associated with the reduction in recurrent heart disease risk?",
+    "options": [
+      "A) High intake of olive oil",
+      "B) Regular consumption of fatty fish",
+      "C) High intake of \u00ce\u00b1-linolenic acid",
+      "D) Moderate red wine consumption"
+    ],
+    "correct_answer": "C) High intake of \u00ce\u00b1-linolenic acid",
+    "page_reference": "Page 163",
+    "rationale": "This question requires a deeper understanding of the Lyon Heart Trial's findings. While the Mediterranean-style diet as a whole was associated with a 50-70% lower risk of recurrent heart disease, the study particularly emphasized the role of \u00ce\u00b1-linolenic acid. The experimental group had higher plasma levels of \u00ce\u00b1-linolenic acid, which was associated with the protective effect. While olive oil, fish, and moderate wine consumption are often associated with the Mediterranean diet, the Lyon Heart Trial specifically highlighted the importance of \u00ce\u00b1-linolenic acid.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00649",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the OmniHeart study, which combination of macronutrient adjustments provided the most beneficial effects on both blood pressure and lipid profile?",
+    "options": [
+      "A) Increasing carbohydrates and decreasing unsaturated fats",
+      "B) Increasing proteins and decreasing carbohydrates",
+      "C) Increasing unsaturated fats and decreasing proteins",
+      "D) Increasing both proteins and unsaturated fats while decreasing carbohydrates"
+    ],
+    "correct_answer": "D) Increasing both proteins and unsaturated fats while decreasing carbohydrates",
+    "page_reference": "Page 164",
+    "rationale": "This question requires synthesizing the main findings of the OmniHeart study. The study found that both the protein-rich and unsaturated fat-rich diets provided additional benefits on blood pressure and blood lipids compared to the carbohydrate-rich diet. Therefore, the combination of increasing both proteins and unsaturated fats while decreasing carbohydrates would likely provide the most beneficial effects on both blood pressure and lipid profile.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00650",
+    "section_number": "05"
+  },
+  {
+    "question_text": "Based on the DASH trial and subsequent meta-analyses, which combination of dietary changes and patient characteristics is associated with the greatest reduction in blood pressure?",
+    "options": [
+      "A) High fruit and vegetable intake in patients with normal blood pressure",
+      "B) Low sodium intake in elderly patients with hypertension",
+      "C) High dairy intake in young adults with prehypertension",
+      "D) Combination of high fruits, vegetables, low-fat dairy, and low sodium in patients with stage 1 hypertension"
+    ],
+    "correct_answer": "D) Combination of high fruits, vegetables, low-fat dairy, and low sodium in patients with stage 1 hypertension",
+    "page_reference": "Page 165",
+    "rationale": "This question requires integrating multiple findings from the DASH trial and subsequent analyses. The DASH diet, which is high in fruits, vegetables, and low-fat dairy, was shown to significantly reduce blood pressure. Additionally, sodium reduction enhanced this effect. The meta-analysis mentioned that the DASH diet reduced systolic BP more in trials with sodium intake > 2,400 mg/day than in trials with lower sodium intake. Furthermore, while the DASH diet was effective for all groups, those with hypertension typically show greater reductions in blood pressure than those with normal blood pressure. Therefore, the combination of the full DASH diet pattern with low sodium in patients with existing hypertension would likely yield the greatest blood pressure reduction.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00651",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the PREDIMED study, which combination of Mediterranean diet components and participant characteristics was associated with the greatest reduction in cardiovascular disease risk?",
+    "options": [
+      "A) High olive oil consumption in participants with diabetes",
+      "B) High nut consumption in participants with hypertension",
+      "C) High fish consumption in participants with dyslipidemia",
+      "D) High vegetable consumption in participants with obesity"
+    ],
+    "correct_answer": "A) High olive oil consumption in participants with diabetes",
+    "page_reference": "Page 165",
+    "rationale": "This question requires a comprehensive understanding of the PREDIMED study results. The study found that a Mediterranean diet supplemented with extra-virgin olive oil or nuts reduced the incidence of major cardiovascular events. However, the olive oil intervention showed slightly stronger effects overall. Moreover, subgroup analyses often show that participants with existing risk factors (like diabetes) tend to benefit more from dietary interventions. While the study didn't explicitly state this combination, based on the overall findings, high olive oil consumption in participants with diabetes would likely be associated with the greatest reduction in cardiovascular disease risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00652",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the EPIC-Oxford Study, what was the association between dietary fiber intake and colorectal cancer risk among the different dietary groups (meat-eaters, fish-eaters, vegetarians, and vegans)?",
+    "options": [
+      "A) Only vegans showed a significant inverse association",
+      "B) All groups showed a similar inverse association",
+      "C) Vegetarians and vegans showed a stronger inverse association than meat-eaters",
+      "D) No significant association was found in any group"
+    ],
+    "correct_answer": "C) Vegetarians and vegans showed a stronger inverse association than meat-eaters",
+    "page_reference": "Page 159",
+    "rationale": "While the exact details weren't provided in our summary, the EPIC-Oxford Study generally found that vegetarians and vegans had higher fiber intakes and lower colorectal cancer risks. This question requires candidates to apply knowledge of the study's findings on dietary patterns and their health outcomes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00653",
+    "section_number": "05"
+  },
+  {
+    "question_text": "What methodological feature of the Nurses' Health Study contributed to its ability to assess long-term dietary impacts on health outcomes?",
+    "options": [
+      "A) Use of 24-hour dietary recalls",
+      "B) Regular administration of food frequency questionnaires",
+      "C) Annual blood tests for all participants",
+      "D) Monthly phone interviews about dietary habits"
+    ],
+    "correct_answer": "B) Regular administration of food frequency questionnaires",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study used questionnaire-based data collection methods, including food frequency questionnaires, to assess dietary intake over time. This methodological approach allowed researchers to examine long-term dietary impacts on health outcomes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00654",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Multi-Ethnic Study of Atherosclerosis (MESA), how did the association between dietary patterns and type 2 diabetes risk differ among various ethnic groups?",
+    "options": [
+      "A) The associations were identical across all ethnic groups",
+      "B) The associations were strongest in Hispanic and weakest in Asian participants",
+      "C) The associations were only significant in Caucasian participants",
+      "D) The study did not analyze ethnic differences in dietary pattern associations"
+    ],
+    "correct_answer": "D) The study did not analyze ethnic differences in dietary pattern associations",
+    "page_reference": "Page 162",
+    "rationale": "While MESA is a multi-ethnic study, the summary provided does not mention any analysis of ethnic differences in dietary pattern associations with type 2 diabetes risk. This question tests the candidate's careful reading of the study details and ability to recognize when information is not provided.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00655",
+    "section_number": "05"
+  },
+  {
+    "question_text": "How did the Women's Health Initiative study's findings on hormone therapy and cardiovascular disease risk change public health recommendations?",
+    "options": [
+      "A) It led to increased recommendations for hormone therapy use",
+      "B) It resulted in more cautious prescribing of hormone therapy",
+      "C) It had no impact on hormone therapy recommendations",
+      "D) It led to recommendations for higher doses of hormone therapy"
+    ],
+    "correct_answer": "B) It resulted in more cautious prescribing of hormone therapy",
+    "page_reference": "Page 158",
+    "rationale": "The Women's Health Initiative found that hormone therapy did not prevent heart disease in postmenopausal women as once thought. This finding likely led to more cautious prescribing of hormone therapy, changing previous public health recommendations.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00656",
+    "section_number": "05"
+  },
+  {
+    "question_text": "What was a key limitation of the Framingham Heart Study in terms of population representation?",
+    "options": [
+      "A) It only included men",
+      "B) It only studied young adults",
+      "C) It lacked ethnic diversity",
+      "D) It only included individuals with pre-existing heart conditions"
+    ],
+    "correct_answer": "C) It lacked ethnic diversity",
+    "page_reference": "Page 161",
+    "rationale": "While not explicitly stated in our summary, the Framingham Heart Study is well-known for its initial lack of ethnic diversity, as it primarily studied a white, middle-class population. This limitation is important to recognize when generalizing its findings.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00657",
+    "section_number": "05"
+  },
+  {
+    "question_text": "How did the PREDIMED study's findings on Mediterranean diet and cardiovascular risk compare to those of the Lyon Heart Trial?",
+    "options": [
+      "A) PREDIMED showed stronger protective effects",
+      "B) Lyon Heart Trial showed stronger protective effects",
+      "C) Both studies showed similar levels of cardiovascular risk reduction",
+      "D) PREDIMED showed protective effects while Lyon Heart Trial did not"
+    ],
+    "correct_answer": "C) Both studies showed similar levels of cardiovascular risk reduction",
+    "page_reference": "Pages 163 and 165",
+    "rationale": "Both the PREDIMED study and the Lyon Heart Trial found significant cardiovascular risk reduction with Mediterranean-style diets. The Lyon Heart Trial found a 50-70% lower risk of recurrent heart disease, while PREDIMED found lower incidence of major cardiovascular events. This question requires synthesizing information from two different studies.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00658",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Adventist Health Study-2, how did the relationship between nut consumption and cardiovascular risk differ between age groups?",
+    "options": [
+      "A) Nut consumption was only protective in younger adults",
+      "B) The protective effect was stronger in those under 80 years old",
+      "C) The protective effect was identical across all age groups",
+      "D) Nut consumption increased risk in older adults"
+    ],
+    "correct_answer": "B) The protective effect was stronger in those under 80 years old",
+    "page_reference": "Page 161",
+    "rationale": "The Adventist Health Study-2 found that eating nuts more than five times per week lowered heart risk by 47% among those under age 80, and by 45% among those over 80. This question tests understanding of subgroup analyses within the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00659",
+    "section_number": "05"
+  },
+  {
+    "question_text": "Based on the National Health and Nutrition Examination Survey (NHANES), how has the contribution of ultra-processed foods to total energy intake in the US diet changed over time?",
+    "options": [
+      "A) It has remained stable",
+      "B) It has decreased slightly",
+      "C) It has increased significantly",
+      "D) NHANES did not assess changes over time"
+    ],
+    "correct_answer": "C) It has increased significantly",
+    "page_reference": "Page 162",
+    "rationale": "While our summary doesn't provide exact figures, NHANES data typically show trends over time. The high proportion of calories from ultra-processed foods (more than 50%) and their contribution to added sugar intake (nearly 90%) suggest an increase over time, as these levels are higher than historical dietary patterns.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00660",
+    "section_number": "05"
+  },
+  {
+    "question_text": "How did the Health Professionals Follow-up Study's findings on olive oil consumption and cardiovascular risk compare to Mediterranean-based studies like PREDIMED?",
+    "options": [
+      "A) It showed stronger protective effects than Mediterranean studies",
+      "B) It showed weaker protective effects than Mediterranean studies",
+      "C) It showed similar protective effects to Mediterranean studies",
+      "D) It found no protective effects, contrary to Mediterranean studies"
+    ],
+    "correct_answer": "C) It showed similar protective effects to Mediterranean studies",
+    "page_reference": "Pages 158 and 165",
+    "rationale": "Both the Health Professionals Follow-up Study and PREDIMED found protective effects of olive oil consumption on cardiovascular risk. This question requires comparing findings across different studies and populations.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00661",
+    "section_number": "05"
+  },
+  {
+    "question_text": "What unique aspect of the EPIC-Oxford Study design allowed for comparison of long-term health outcomes between different dietary patterns?",
+    "options": [
+      "A) Its focus on only vegetarian participants",
+      "B) Its inclusion of a high proportion of non-meat eaters",
+      "C) Its exclusive study of British population",
+      "D) Its use of interventional dietary changes"
+    ],
+    "correct_answer": "B) Its inclusion of a high proportion of non-meat eaters",
+    "page_reference": "Page 159",
+    "rationale": "The EPIC-Oxford Study included a high proportion of participants who did not eat meat, allowing for robust comparisons between meat-eaters, fish-eaters, vegetarians, and vegans. This unique aspect of the study design facilitated the investigation of long-term health outcomes associated with different dietary patterns.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00662",
+    "section_number": "05"
+  },
+  {
+    "question_text": "In the Nurses' Health Study, what was the association between vitamin D intake and colon cancer risk?",
+    "options": [
+      "A) No significant association",
+      "B) Increased risk with higher intake",
+      "C) Decreased risk with higher intake",
+      "D) Increased risk only with supplemental vitamin D"
+    ],
+    "correct_answer": "C) Decreased risk with higher intake",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study found that higher levels of vitamin D are associated with lower risk of colon polyps and colon cancer.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00663",
+    "section_number": "05"
+  },
+  {
+    "question_text": "According to the Adventist Health Study, how did legume consumption affect pancreatic cancer risk?",
+    "options": [
+      "A) No significant effect",
+      "B) Increased risk with higher consumption",
+      "C) Decreased risk with higher consumption",
+      "D) Increased risk only with certain types of legumes"
+    ],
+    "correct_answer": "C) Decreased risk with higher consumption",
+    "page_reference": "Page 160",
+    "rationale": "The Adventist Health Study found that those eating legumes more than twice a week had a much lower risk of pancreatic cancer than those who did not.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00664",
+    "section_number": "05"
+  },
+  {
+    "question_text": "What unique methodological feature of the EPIC-Oxford study allowed for robust comparison of different dietary patterns?",
+    "options": [
+      "A) Use of 24-hour dietary recalls",
+      "B) Inclusion of a high proportion of non-meat eaters",
+      "C) Annual blood tests for all participants",
+      "D) Monthly dietary interventions"
+    ],
+    "correct_answer": "B) Inclusion of a high proportion of non-meat eaters",
+    "page_reference": "Page 159",
+    "rationale": "The EPIC-Oxford study included a high proportion of participants who did not eat meat, allowing for robust comparisons between meat-eaters, fish-eaters, vegetarians, and vegans.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_type": "Study-Tool Based",
+    "question_id": "00665",
+    "section_number": "05"
+  }
+]

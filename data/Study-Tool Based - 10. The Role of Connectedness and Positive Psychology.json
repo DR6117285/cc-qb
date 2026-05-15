@@ -1,0 +1,594 @@
+[
+  {
+    "question_text": "Dr. Smith is counselling a 45-year-old patient on improving their overall well-being and life satisfaction. The patient reports feeling unfulfilled despite having a stable job and good physical health. Which of the following models would be most appropriate for Dr. Smith to use in guiding the patient towards a more flourishing life?",
+    "options": [
+      "A) SMART goals",
+      "B) PERMA model",
+      "C) SWOT analysis",
+      "D) Maslow's hierarchy of needs"
+    ],
+    "correct_answer": "B) PERMA model",
+    "page_reference": "332",
+    "rationale": "The PERMA model, developed by positive psychology pioneer Professor Martin Seligman, is the most appropriate tool for guiding individuals towards a flourishing life. It consists of five elements: Positive emotion, Engagement, Relationships, Meaning, and Accomplishment. This model directly addresses well-being and life satisfaction, which are the patient's primary concerns. The other options, while useful in various contexts, are not specifically designed for improving overall well-being and flourishing in the context of positive psychology.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00518",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 65-year-old retired teacher comes to your office expressing concerns about maintaining cognitive function as she ages. Which of the following factors, based on recent research, would you emphasize as potentially having the strongest protective effect against Alzheimer's disease and mild cognitive impairment?",
+    "options": [
+      "A) Regular physical exercise",
+      "B) A Mediterranean diet",
+      "C) Having a strong purpose in life",
+      "D) Engaging in social activities"
+    ],
+    "correct_answer": "C) Having a strong purpose in life",
+    "page_reference": "335",
+    "rationale": "Based on the research presented in the text, having a strong purpose in life has been associated with a reduced risk of Alzheimer's disease and mild cognitive impairment. The study showed that those with a high score for \"life purpose\" were less likely to be diagnosed with Alzheimer's disease or mild cognitive impairment and had a slower rate of cognitive decline. While the other options (regular physical exercise, Mediterranean diet, and social activities) are generally beneficial for overall health and may have some cognitive benefits, the specific research highlighted in this text emphasizes the importance of having a strong purpose in life for cognitive protection.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00519",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Dr. Johnson is conducting a longitudinal study on factors contributing to longevity and well-being in older adults. Which of the following studies would serve as the best model for Dr. Johnson's research design?",
+    "options": [
+      "A) Framingham Heart Study",
+      "B) The Harvard Study of Adult Development",
+      "C) Health and Retirement Study",
+      "D) National Health and Nutrition Examination Survey (NHANES)"
+    ],
+    "correct_answer": "B) The Harvard Study of Adult Development",
+    "page_reference": "336",
+    "rationale": "The Harvard Study of Adult Development is the best model for Dr. Johnson's research on longevity and well-being in older adults. This 75-year cohort study looked at 268 male Harvard students from graduating years 1939-1944 and 456 men from inner-city Boston, concluding that social connections were the single most important predictor of happiness and longevity. This study's long-term, comprehensive approach to examining factors contributing to well-being and longevity makes it the most appropriate model for Dr. Johnson's research. While the other studies mentioned are valuable, they either focus on specific health aspects (Framingham Heart Study), are shorter in duration (Health and Retirement Study), or are cross-sectional rather than longitudinal (NHANES).",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00520",
+    "section_number": "10"
+  },
+  {
+    "question_text": "The Framingham Heart Study contributed to our understanding of social networks and health. What key finding did this study reveal about the spread of happiness in social networks?",
+    "options": [
+      "A) Happiness spreads only between immediate family members",
+      "B) Happiness is contagious up to three degrees of separation",
+      "C) Happiness is not influenced by social connections",
+      "D) Happiness spreads only among people of the same age group"
+    ],
+    "correct_answer": "B) Happiness is contagious up to three degrees of separation",
+    "page_reference": "336",
+    "rationale": "The Framingham Heart Study found that people's emotional states are socially contagious up to three degrees of separation (i.e., to the friends of their friend's friends). This finding underscores the far-reaching impact of social connections on emotional well-being and highlights the potential for positive emotions to spread through social networks.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00521",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Dr. Smith is using the PERMA model to help a patient improve their overall well-being. Which of the following elements is NOT a component of the PERMA model?",
+    "options": [
+      "A) Positive emotion",
+      "B) Engagement",
+      "C) Resilience",
+      "D) Meaning"
+    ],
+    "correct_answer": "C) Resilience",
+    "page_reference": "332",
+    "rationale": "The PERMA model, developed by positive psychology pioneer Professor Martin Seligman, consists of five elements: Positive emotion, Engagement, Relationships, Meaning, and Accomplishment. Resilience, while an important concept in psychology, is not one of the core components of the PERMA model. This question tests the understanding of the specific elements that make up this influential framework in positive psychology.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00522",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A psychologist is using the VIA Character Strengths Inventory with a client. Which of the following is NOT one of the six broad categories of core virtues assessed by this tool?",
+    "options": [
+      "A) Wisdom and knowledge",
+      "B) Courage",
+      "C) Humanity",
+      "D) Patience"
+    ],
+    "correct_answer": "D) Patience",
+    "page_reference": "332-333",
+    "rationale": "The VIA Character Strengths Inventory assesses character strengths that fall into six broad categories of core virtues: Wisdom and knowledge, Courage, Humanity, Justice, Temperance, and Transcendence. Patience, while a valuable trait, is not one of the six core virtue categories in this inventory. This question tests the knowledge of the specific categories used in this widely-recognized assessment tool in positive psychology.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00523",
+    "section_number": "10"
+  },
+  {
+    "question_text": "The Harvard Study of Adult Development is known for its longitudinal approach. Approximately how long did this study follow its participants?",
+    "options": [
+      "A) 25 years",
+      "B) 50 years",
+      "C) 75 years",
+      "D) 100 years"
+    ],
+    "correct_answer": "C) 75 years",
+    "page_reference": "336",
+    "rationale": "The Harvard Study of Adult Development is a 75-year cohort study. This exceptionally long duration is what makes this study so valuable and unique, allowing researchers to observe patterns and factors contributing to well-being and longevity across most of the adult lifespan. The length of the study contributes significantly to the weight of its findings about the importance of social connections.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00524",
+    "section_number": "10"
+  },
+  {
+    "question_text": "In addition to a reduced incidence of stroke, the Health and Retirement Study found that individuals with higher levels of life purpose were more likely to engage in which of the following behaviours?",
+    "options": [
+      "A) Excessive exercise",
+      "B) Strict dieting",
+      "C) Preventive health screenings",
+      "D) Alternative medicine therapies"
+    ],
+    "correct_answer": "C) Preventive health screenings",
+    "page_reference": "335",
+    "rationale": "The Health and Retirement Study showed that older individuals with higher levels of life purpose were more likely to participate in preventive labs and screening exams. This finding suggests that having a strong sense of purpose may motivate individuals to take proactive steps in maintaining their health, specifically through engagement with preventive healthcare measures.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00525",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Besides happiness, what other health-related factor did the Framingham Heart Study find could spread through social networks?",
+    "options": [
+      "A) Hypertension",
+      "B) Obesity",
+      "C) Diabetes",
+      "D) Asthma"
+    ],
+    "correct_answer": "B) Obesity",
+    "page_reference": "336",
+    "rationale": "While the Framingham Heart Study is noted for its findings on the spread of happiness through social networks, it also found that obesity could spread in a similar manner. This finding highlights how social connections can influence not just emotional states but also physical health conditions, emphasizing the profound impact of social networks on overall health.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00526",
+    "section_number": "10"
+  },
+  {
+    "question_text": "In the PERMA model, which element refers to being fully absorbed in the present moment with a \"blissful immersion\" that stretches intelligence, skill, and emotional capacity?",
+    "options": [
+      "A) Positive emotion",
+      "B) Engagement",
+      "C) Relationships",
+      "D) Accomplishment"
+    ],
+    "correct_answer": "B) Engagement",
+    "page_reference": "332",
+    "rationale": "In the PERMA model, Engagement refers to being fully absorbed in the present moment with a \"blissful immersion\" that stretches intelligence, skill, and emotional capacity. This state is often described using Csikszentmihalyi's concept of \"flow.\" Understanding the specific definitions of each PERMA component is crucial for applying this model effectively in positive psychology interventions.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00527",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the text, approximately what proportion of adults know what their strengths are, as assessed by tools like the VIA Character Strengths Inventory?",
+    "options": [
+      "A) One-tenth",
+      "B) One-quarter",
+      "C) One-third",
+      "D) One-half"
+    ],
+    "correct_answer": "C) One-third",
+    "page_reference": "332",
+    "rationale": "The text states that only about one-third of adults know what their strengths are. This statistic highlights the importance of assessment tools like the VIA Character Strengths Inventory in helping individuals identify and leverage their personal strengths, which is a key aspect of positive psychology interventions. Certainly, I'll continue with the format provided, starting from question 12, to complete up to 3 questions for each topic.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00528",
+    "section_number": "10"
+  },
+  {
+    "question_text": "The Harvard Study of Adult Development included participants from two distinct groups. Which of the following accurately describes these groups?",
+    "options": [
+      "A) Harvard students and MIT students",
+      "B) Male Harvard students and male inner-city Boston residents",
+      "C) Male and female Harvard students",
+      "D) Harvard students and their siblings"
+    ],
+    "correct_answer": "B) Male Harvard students and male inner-city Boston residents",
+    "page_reference": "336",
+    "rationale": "The Harvard Study of Adult Development looked at 268 male Harvard students from graduating years 1939-1944 and 456 men from inner-city Boston. This diverse sample allowed researchers to compare outcomes across different socioeconomic backgrounds, adding depth to the study's findings on factors contributing to happiness and longevity.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00529",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the Health and Retirement Study, what was the relationship between having a high level of life purpose and the risk of heart attacks in older adults?",
+    "options": [
+      "A) No significant relationship",
+      "B) Increased risk of heart attacks",
+      "C) Decreased risk of heart attacks",
+      "D) Increased risk only in men"
+    ],
+    "correct_answer": "C) Decreased risk of heart attacks",
+    "page_reference": "335",
+    "rationale": "The Health and Retirement Study showed that older individuals with higher levels of life purpose were less likely to have heart attacks. This finding, along with the reduced risk of stroke, emphasizes the importance of having a sense of purpose for cardiovascular health in older adults.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00530",
+    "section_number": "10"
+  },
+  {
+    "question_text": "In the context of the Framingham Heart Study's findings on social networks, what does \"three degrees of separation\" mean?",
+    "options": [
+      "A) Emotions spread to friends of friends of friends",
+      "B) Emotions only affect immediate family members",
+      "C) Emotions spread to three random individuals in a network",
+      "D) Emotions affect only three close friends"
+    ],
+    "correct_answer": "A) Emotions spread to friends of friends of friends",
+    "page_reference": "336",
+    "rationale": "The Framingham Heart Study found that people's emotional states are socially contagious up to three degrees of separation, meaning they can influence the friends of their friend's friends. This concept illustrates the far-reaching impact of social connections on emotional well-being and health behaviours.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00531",
+    "section_number": "10"
+  },
+  {
+    "question_text": "In the PERMA model, which element is most closely associated with the concept of eudaimonia?",
+    "options": [
+      "A) Positive emotion",
+      "B) Engagement",
+      "C) Relationships",
+      "D) Meaning"
+    ],
+    "correct_answer": "D) Meaning",
+    "page_reference": "332",
+    "rationale": "In the PERMA model, the element of Meaning is most closely associated with the concept of eudaimonia. Eudaimonia refers to living well or actualizing one's human potentials, which aligns with the idea of connecting one's daily life to a broader and larger narrative, as described in the Meaning component of PERMA.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00532",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following is considered a character strength under the \"Wisdom and Knowledge\" virtue in the VIA Character Strengths Inventory?",
+    "options": [
+      "A) Bravery",
+      "B) Kindness",
+      "C) Creativity",
+      "D) Forgiveness"
+    ],
+    "correct_answer": "C) Creativity",
+    "page_reference": "332-333",
+    "rationale": "In the VIA Character Strengths Inventory, creativity is listed as one of the character strengths falling under the \"Wisdom and Knowledge\" virtue category. The other options belong to different virtue categories: bravery (Courage), kindness (Humanity), and forgiveness (Temperance).",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00533",
+    "section_number": "10"
+  },
+  {
+    "question_text": "What was the primary conclusion of the Harvard Study of Adult Development regarding the most important predictor of happiness and longevity?",
+    "options": [
+      "A) Financial success",
+      "B) Career achievements",
+      "C) Social connections",
+      "D) Physical health"
+    ],
+    "correct_answer": "C) Social connections",
+    "page_reference": "336",
+    "rationale": "The Harvard Study of Adult Development concluded that social connections were the single most important predictor of happiness and longevity. This finding emphasizes the crucial role of relationships in overall well-being and lifespan, surpassing other factors such as financial success, career achievements, or physical health.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00534",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the Health and Retirement Study, how did higher levels of life purpose affect participation in preventive health measures among older adults?",
+    "options": [
+      "A) It had no significant effect",
+      "B) It decreased participation",
+      "C) It increased participation",
+      "D) It only affected participation in men"
+    ],
+    "correct_answer": "C) It increased participation",
+    "page_reference": "335",
+    "rationale": "The Health and Retirement Study found that older individuals with higher levels of life purpose were more likely to participate in preventive labs and screening exams. This finding suggests that having a strong sense of purpose may motivate individuals to take proactive steps in maintaining their health through engagement with preventive healthcare measures.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00535",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following is NOT one of the character strengths associated with the \"Transcendence\" virtue in the VIA Character Strengths Inventory?",
+    "options": [
+      "A) Appreciation of beauty",
+      "B) Gratitude",
+      "C) Hope",
+      "D) Leadership"
+    ],
+    "correct_answer": "D) Leadership",
+    "page_reference": "333",
+    "rationale": "In the VIA Character Strengths Inventory, the \"Transcendence\" virtue includes character strengths such as appreciation of beauty, gratitude, hope, humour, and religiousness/spirituality. Leadership is not part of this category; it falls under the \"Justice\" virtue. This question tests the understanding of the specific character strengths associated with each virtue category in the VIA inventory.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00536",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 45-year-old man is interested in improving his overall well-being. You decide to introduce him to the PERMA model. Which of the following best represents the 'E' in the PERMA model?",
+    "options": [
+      "A) Emotions",
+      "B) Exercise",
+      "C) Engagement",
+      "D) Empathy"
+    ],
+    "correct_answer": "C) Engagement",
+    "page_reference": "Page 332",
+    "rationale": "The PERMA model, developed by Martin Seligman, includes five elements. Positive emotion, Engagement, Relationships, Meaning, and Accomplishment. Engagement refers to being fully absorbed in the present moment, often described as a state of \"flow\".",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00537",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 50-year-old woman wants to understand her personal strengths better. Which assessment tool would be most appropriate to recommend?",
+    "options": [
+      "A) Beck Depression Inventory",
+      "B) VIA Character Strengths Inventory",
+      "C) Mini-Mental State Examination",
+      "D) Framingham Risk Score"
+    ],
+    "correct_answer": "B) VIA Character Strengths Inventory",
+    "page_reference": "Page 332",
+    "rationale": "The VIA Character Strengths Inventory is a free online tool that helps individuals identify their character strengths, which fall into six broad categories of core virtues. This tool is specifically mentioned in the context of positive psychology interventions.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00538",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the Harvard Study of Adult Development, which factor was found to be the single most important predictor of happiness and longevity?",
+    "options": [
+      "A) Financial stability",
+      "B) Physical health",
+      "C) Social connections",
+      "D) Career success"
+    ],
+    "correct_answer": "C) Social connections",
+    "page_reference": "Page 336",
+    "rationale": "The Harvard Study of Adult Development, a 75-year cohort study, concluded that the single most important predictor of happiness and longevity was having social connections.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00539",
+    "section_number": "10"
+  },
+  {
+    "question_text": "In the context of the PERMA model, which of the following best describes 'Meaning'?",
+    "options": [
+      "A) Achieving personal goals",
+      "B) Experiencing positive emotions",
+      "C) Connecting one's daily life to a broader narrative",
+      "D) Building strong relationships"
+    ],
+    "correct_answer": "C) Connecting one's daily life to a broader narrative",
+    "page_reference": "Page 332",
+    "rationale": "In the PERMA model, 'Meaning' involves connecting one's daily life to a broader and larger narrative, which can be facilitated through belonging, purpose, story-telling, and transcendent experiences.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00540",
+    "section_number": "10"
+  },
+  {
+    "question_text": "The Health and Retirement Study found that individuals with a strong sense of purpose in life were less likely to experience which of the following?",
+    "options": [
+      "A) Myocardial infarction",
+      "B) Stroke",
+      "C) Alzheimer's disease",
+      "D) All of the above"
+    ],
+    "correct_answer": "D) All of the above",
+    "page_reference": "Page 333",
+    "rationale": "The Health and Retirement Study showed that individuals with higher levels of life purpose were less likely to have strokes and heart attacks (myocardial infarction). It also found that those with a high score for \"life purpose\" were less likely to be diagnosed with Alzheimer's disease.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00541",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the Framingham Heart Study, what phenomenon was observed regarding the spread of happiness in social networks?",
+    "options": [
+      "A) Happiness was contagious up to two degrees of separation",
+      "B) Happiness was contagious up to three degrees of separation",
+      "C) Happiness was only contagious among immediate family members",
+      "D) Happiness was not found to be contagious in social networks"
+    ],
+    "correct_answer": "B) Happiness was contagious up to three degrees of separation",
+    "page_reference": "Page 336",
+    "rationale": "The Framingham Heart Study found that people's emotional states are socially contagious up to three degrees of separation (i.e., to the friends of their friend's friends).",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00542",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following is NOT one of the six broad categories of core virtues in the VIA Character Strengths classification?",
+    "options": [
+      "A) Wisdom and knowledge",
+      "B) Courage",
+      "C) Resilience",
+      "D) Transcendence"
+    ],
+    "correct_answer": "C) Resilience",
+    "page_reference": "Page 332",
+    "rationale": "The six broad categories of core virtues in the VIA Character Strengths classification are: Wisdom and knowledge, Courage, Humanity, Justice, Temperance, and Transcendence. Resilience is not listed as one of these core virtues.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00543",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the PERMA model, which element refers to being fully absorbed in the present moment with a \"blissful immersion\" that stretches intelligence, skill, and emotional capacity?",
+    "options": [
+      "A) Positive emotion",
+      "B) Engagement",
+      "C) Relationships",
+      "D) Accomplishment"
+    ],
+    "correct_answer": "B) Engagement",
+    "page_reference": "Page 332",
+    "rationale": "In the PERMA model, Engagement is described as being fully absorbed in the present moment with a \"blissful immersion\" that stretches intelligence, skill, and emotional capacity. This state is often referred to as \"flow\" in positive psychology.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00544",
+    "section_number": "10"
+  },
+  {
+    "question_text": "The Health and Retirement Study found that individuals with higher levels of life purpose were more likely to:",
+    "options": [
+      "A) Have higher income levels",
+      "B) Participate in preventive labs and screening exams",
+      "C) Retire earlier",
+      "D) Experience more stress in their daily lives"
+    ],
+    "correct_answer": "B) Participate in preventive labs and screening exams",
+    "page_reference": "Page 335",
+    "rationale": "The Health and Retirement Study showed that older individuals with higher levels of life purpose were more likely to participate in preventive labs and screening exams, indicating a proactive approach to health maintenance.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00545",
+    "section_number": "10"
+  },
+  {
+    "question_text": "In the context of the Harvard Study of Adult Development, which of the following statements is true?",
+    "options": [
+      "A) The study followed only Harvard graduates",
+      "B) The study duration was 25 years",
+      "C) The study included both Harvard students and inner-city Boston men",
+      "D) The study focused primarily on physical health outcomes"
+    ],
+    "correct_answer": "C) The study included both Harvard students and inner-city Boston men",
+    "page_reference": "Page 336",
+    "rationale": "The Harvard Study of Adult Development looked at 268 male Harvard students from graduating years 1939-1944 and 456 men from inner-city Boston, making it a diverse cohort study that included participants from different socioeconomic backgrounds.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00546",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A researcher is presenting findings from the Harvard Study of Adult Development. Which of the following best describes the study population?",
+    "options": [
+      "A) Only Harvard graduates",
+      "B) Harvard students and inner-city Boston residents",
+      "C) A random sample of Boston residents",
+      "D) Exclusively inner-city Boston residents"
+    ],
+    "correct_answer": "B) Harvard students and inner-city Boston residents",
+    "page_reference": "Page 336",
+    "rationale": "The Harvard Study of Adult Development looked at 268 male Harvard students from graduating years 1939-1944 and 456 men from inner-city Boston, making it a diverse cohort study that included participants from different socioeconomic backgrounds.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00547",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the Health and Retirement Study, having a strong sense of purpose in life was associated with which of the following health benefits?",
+    "options": [
+      "A) Reduced risk of diabetes",
+      "B) Improved cognitive function",
+      "C) Increased longevity",
+      "D) Higher pain tolerance"
+    ],
+    "correct_answer": "B) Improved cognitive function",
+    "page_reference": "Page 335",
+    "rationale": "The Health and Retirement Study showed that those with a high score for \"life purpose\" had a slower rate of cognitive decline and were less likely to be diagnosed with Alzheimer's disease or mild cognitive impairment.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00548",
+    "section_number": "10"
+  },
+  {
+    "question_text": "The Framingham Heart Study provided insights into the social contagion of emotional states. According to the study, how far can emotional states spread within social networks?",
+    "options": [
+      "A) Only to immediate family members",
+      "B) Up to two degrees of separation",
+      "C) Up to three degrees of separation",
+      "D) Only within the same household"
+    ],
+    "correct_answer": "C) Up to three degrees of separation",
+    "page_reference": "Page 336",
+    "rationale": "The Framingham Heart Study found that people's emotional states are socially contagious up to three degrees of separation (i.e., to the friends of their friend's friends), which may influence health behaviours and outcomes.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00549",
+    "section_number": "10"
+  },
+  {
+    "question_text": "In the PERMA model, which element refers to the pursuit and attainment of goals that produce a sense of efficacy, satisfaction, and fulfilment?",
+    "options": [
+      "A) Positive emotion",
+      "B) Engagement",
+      "C) Relationships",
+      "D) Accomplishment"
+    ],
+    "correct_answer": "D) Accomplishment",
+    "page_reference": "Page 332",
+    "rationale": "In the PERMA model, Accomplishment refers to having ambition and accomplishing realistic goals, which produces a sense of efficacy, satisfaction, pride, and fulfilment.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00550",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the VIA Character Strengths classification, which of the following is NOT one of the core virtues?",
+    "options": [
+      "A) Wisdom and knowledge",
+      "B) Humanity",
+      "C) Resilience",
+      "D) Justice"
+    ],
+    "correct_answer": "C) Resilience",
+    "page_reference": "Page 332-333",
+    "rationale": "The six core virtues in the VIA Character Strengths classification are: Wisdom and knowledge, Courage, Humanity, Justice, Temperance, and Transcendence. Resilience is not listed as one of these core virtues.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00551",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 45-year-old man comes to your office for a routine check-up. He reports feeling unfulfilled in his life despite having a stable job and good physical health. You decide to introduce him to the concept of positive psychology. Which of the following best describes the PERMA model of well-being?",
+    "options": [
+      "A) Physical health, Emotional stability, Resilience, Mindfulness, Adaptation",
+      "B) Purpose, Engagement, Relationships, Meaning, Accomplishment",
+      "C) Positivity, Exercise, Relaxation, Meditation, Altruism",
+      "D) Personal growth, Emotional intelligence, Rational thinking, Motivation, Assertiveness"
+    ],
+    "correct_answer": "B) Purpose, Engagement, Relationships, Meaning, Accomplishment",
+    "page_reference": "Page 332",
+    "rationale": "The PERMA model, developed by positive psychology pioneer Professor Martin Seligman, contains five elements that contribute to and encapsulate the experience of thriving and flourishing: Positive emotion, Engagement, Relationships, Meaning, and Accomplishment. Option A is incorrect as it doesn't reflect the PERMA model components. Option C includes some elements that may contribute to well-being but are not part of the PERMA model. Option D contains psychological concepts but does not accurately represent the PERMA model.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00552",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 60-year-old woman is concerned about her risk of developing Alzheimer's disease as her mother was recently diagnosed. You want to discuss lifestyle factors that may reduce her risk. According to the Health and Retirement Study, which of the following was associated with a reduced incidence of stroke in older adults?",
+    "options": [
+      "A) Regular exercise",
+      "B) Mediterranean diet",
+      "C) Social engagement",
+      "D) Purpose in life"
+    ],
+    "correct_answer": "D) Purpose in life",
+    "page_reference": "Page 333",
+    "rationale": "The Health and Retirement Study showed that purpose in life was associated with reduced incidence of stroke in older adults. While options A, B, and C are generally beneficial for overall health, they were not specifically mentioned in relation to the Health and Retirement Study findings discussed in this section. The study highlighted the importance of having a strong sense of purpose in life for reducing various health risks, including stroke.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00553",
+    "section_number": "10"
+  },
+  {
+    "question_text": "You are counselling a 35-year-old patient on improving their overall well-being. You decide to recommend an assessment tool to help them identify their personal strengths. Which of the following tools would be most appropriate for this purpose?",
+    "options": [
+      "A) Beck Depression Inventory",
+      "B) VIA Character Strengths Inventory",
+      "C) Mini-Mental State Examination",
+      "D) Framingham Risk Score"
+    ],
+    "correct_answer": "B) VIA Character Strengths Inventory",
+    "page_reference": "Page 332",
+    "rationale": "The VIA Character Strengths Inventory is a free online tool that helps individuals identify their character strengths, which fall into six broad categories of core virtues. This inventory is specifically mentioned in the context of positive psychology and can help individuals enhance their experience of engagement and increase positive emotions. The other options are valid assessment tools but are not designed to identify character strengths: the Beck Depression Inventory assesses depression symptoms, the Mini-Mental State Examination screens for cognitive impairment, and the Framingham Risk Score estimates cardiovascular risk.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "Study-Tool Based",
+    "question_id": "00554",
+    "section_number": "10"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 \"C:\\\\Python Projects\\\\cc-qb\\\\data\\\\q_check.py\")",
+      "Bash(python3 -c ' *)",
+      "Bash(py -3 -c ' *)",
+      "Bash(npx create-next-app@latest lm-platform --typescript --tailwind --app --no-eslint --no-src-dir --import-alias \"@/*\")",
+      "Bash(npm install *)",
+      "Bash(npx prisma *)",
+      "Bash(python -c ' *)",
+      "Bash(python *)",
+      "PowerShell(if \\($env:ANTHROPIC_API_KEY\\) { \"Key present\" } else { \"No key\" })",
+      "Skill(context-handover)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git add *)"
+    ]
+  }
+}

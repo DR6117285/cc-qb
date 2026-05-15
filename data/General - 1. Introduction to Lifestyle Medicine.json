@@ -1,0 +1,402 @@
+[
+  {
+    "question_text": "A 45-year-old woman presents with concerns about her risk of developing type 2 diabetes. She has a family history of diabetes and a BMI of 31. Which of the following lifestyle interventions has been shown to be most effective in preventing the onset of type 2 diabetes?",
+    "options": [
+      "A) Taking metformin 500mg twice daily",
+      "B) Following a low-carbohydrate, high-fat diet",
+      "C) Intensive lifestyle changes including diet and physical activity",
+      "D) Supplementing with chromium and cinnamon"
+    ],
+    "correct_answer": "C) Intensive lifestyle changes including diet and physical activity",
+    "page_reference": "Page 14",
+    "rationale": "The correct answer is C) Intensive lifestyle changes including diet and physical activity. This is supported by the information on page 14, which discusses the Diabetes Prevention Program. The study found that lifestyle intervention was almost twice as effective as metformin in preventing the onset of type 2 diabetes.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00001",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A 60-year-old man with a history of myocardial infarction asks about the best dietary pattern to prevent future cardiovascular events. Which of the following dietary patterns has been shown to have the most significant impact on reducing cardiovascular mortality in secondary prevention?",
+    "options": [
+      "A) Low-fat diet",
+      "B) Mediterranean diet",
+      "C) Ketogenic diet",
+      "D) Paleo diet"
+    ],
+    "correct_answer": "B) Mediterranean diet",
+    "page_reference": "Page 13",
+    "rationale": "The correct answer is B) Mediterranean diet. This is supported by the information on page 13, which discusses the Lyon Diet Heart Study. The study demonstrated that a Mediterranean dietary pattern led to significant reductions in cardiovascular mortality in patients with a history of myocardial infarction.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00002",
+    "section_number": "01"
+  },
+  {
+    "question_text": "Which of the following statements best characterizes the role of lifestyle medicine in the treatment of chronic diseases?",
+    "options": [
+      "A) It is an alternative to conventional medical treatments",
+      "B) It should only be used after conventional treatments have failed",
+      "C) It is a foundational part of medical care for chronic diseases",
+      "D) It is only effective for preventing, not treating, chronic diseases"
+    ],
+    "correct_answer": "C) It is a foundational part of medical care for chronic diseases",
+    "page_reference": "Page 13",
+    "rationale": "The correct answer is C) It is a foundational part of medical care for chronic diseases. This is supported by the statement on page 13 that \"Lifestyle medicine is a foundational part of medical care. It offers effective prevention and treatment, provides people with more control over their health, and is essential for disease reversal.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00003",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A 55-year-old woman with type 2 diabetes asks about the potential benefits of regular exercise on her condition. Which of the following statements most accurately reflects the impact of exercise on HbA1c control in diabetes?",
+    "options": [
+      "A) Exercise has no significant impact on HbA1c",
+      "B) Exercise improves HbA1c by an average of 0.8%, comparable to diabetes medications",
+      "C) Exercise is less effective than medications in improving HbA1c",
+      "D) Exercise only improves HbA1c when combined with insulin therapy"
+    ],
+    "correct_answer": "B) Exercise improves HbA1c by an average of 0.8%, comparable to diabetes medications",
+    "page_reference": "Page 14",
+    "rationale": "The correct answer is B) Exercise improves HbA1c by an average of 0.8%, comparable to diabetes medications. This is supported by the information on page 14, which states that \"A meta-analysis of 27 studies found that all types of regular exercise improved HbA1c control by an average of 0.8% comparable to current diabetes medications.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00004",
+    "section_number": "01"
+  },
+  {
+    "question_text": "Which of the following lifestyle interventions has been shown to have the most significant impact on prostate cancer progression in men with early-stage disease?",
+    "options": [
+      "A) High-intensity interval training",
+      "B) Meditation and stress reduction",
+      "C) Intensive therapeutic lifestyle change program including a vegan diet and exercise",
+      "D) High-protein, low-carbohydrate diet"
+    ],
+    "correct_answer": "C) Intensive therapeutic lifestyle change program including a vegan diet and exercise",
+    "page_reference": "Page 15",
+    "rationale": "The correct answer is C) Intensive therapeutic lifestyle change program including a vegan diet and exercise. This is supported by the information on page 15, which describes a study where men with prostate cancer subjected to an ITLC program (including a vegan dietary pattern, exercise, and stress management) saw a decline in prostate-specific antigen, while those in the control group saw an increase.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00005",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A 50-year-old woman with a recent diagnosis of breast cancer asks about lifestyle changes that could improve her prognosis. Based on current evidence, which of the following recommendations would likely have the greatest impact on her survival?",
+    "options": [
+      "A) Following a ketogenic diet",
+      "B) Taking high-dose antioxidant supplements",
+      "C) Engaging in regular physical activity",
+      "D) Practicing daily meditation"
+    ],
+    "correct_answer": "C) Engaging in regular physical activity",
+    "page_reference": "Page 15",
+    "rationale": "The correct answer is C) Engaging in regular physical activity. This is supported by the information on page 15, which cites a meta-analysis showing that physical activity led to a 34% reduction in risk of death caused by breast cancer, a 24% reduction in disease recurrence, and a 41% reduction in the risk of all-cause mortality in women with breast cancer.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00006",
+    "section_number": "01"
+  },
+  {
+    "question_text": "Which of the following statements best describes the relationship between lifestyle factors and cancer risk?",
+    "options": [
+      "A) Lifestyle factors account for about 30% of cancer risk",
+      "B) Genetic factors are the primary determinants of cancer risk",
+      "C) Lifestyle and environmental factors account for 90-95% of cancer risk",
+      "D) Lifestyle factors only influence cancer risk in individuals over 50 years old"
+    ],
+    "correct_answer": "C) Lifestyle and environmental factors account for 90-95% of cancer risk",
+    "page_reference": "Page 15",
+    "rationale": "The correct answer is C) Lifestyle and environmental factors account for 90-95% of cancer risk. This is supported by the statement on page 15 that \"It is estimated that 90-95% of cancers have their roots in the environment and lifestyle.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00007",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A 48-year-old man with hyperlipidaemia is hesitant to start statin therapy due to concerns about side effects. Which lifestyle intervention has been shown to offer equivalent cholesterol control to low-dose statin medication?",
+    "options": [
+      "A) Mediterranean diet",
+      "B) Low-fat diet",
+      "C) Ketogenic diet",
+      "D) Portfolio diet"
+    ],
+    "correct_answer": "D) Portfolio diet",
+    "page_reference": "Page 14",
+    "rationale": "The correct answer is D) Portfolio diet. This is supported by the information on page 14, which states that \"The Jenkin's Portfolio Diet (very low saturated fat, based on whole-wheat cereals and low-fat dairy) offered equivalent cholesterol control without the concerning side-effects that were seen with the use of a low-dose statin medication.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00008",
+    "section_number": "01"
+  },
+  {
+    "question_text": "Which of the following best describes the impact of lifestyle interventions on medication use in patients with type 2 diabetes?",
+    "options": [
+      "A) Lifestyle interventions have no significant impact on medication use",
+      "B) Lifestyle interventions typically increase the need for diabetes medications",
+      "C) Over 90% of patients are able to decrease or discontinue glucose-lowering medications within 7 days of starting a plant-based dietary pattern",
+      "D) Lifestyle interventions only reduce medication use when combined with bariatric surgery"
+    ],
+    "correct_answer": "C) Over 90% of patients are able to decrease or discontinue glucose-lowering medications within 7 days of starting a plant-based dietary pattern",
+    "page_reference": "Page 14",
+    "rationale": "The correct answer is C) Over 90% of patients are able to decrease or discontinue glucose-lowering medications within 7 days of starting a plant-based dietary pattern. This is supported by the information on page 14, which states that \"A study of 232 patients with diabetes treated with a plant-based dietary pattern revealed that > 90% of patients were able to decrease or discontinue their glucose-lowering medications while still maintaining or improving glucose control within 7 days.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00009",
+    "section_number": "01"
+  },
+  {
+    "question_text": "According to the American College of Cardiology/American Heart Association clinical practice recommendations, which of the following dietary patterns is most strongly recommended for decreasing ASCVD risk factors?",
+    "options": [
+      "A) Low-carbohydrate diet",
+      "B) High-protein diet",
+      "C) Plant-based diet emphasizing vegetables, fruits, legumes, nuts, whole grains, and fish",
+      "D) Low-fat diet"
+    ],
+    "correct_answer": "C) Plant-based diet emphasizing vegetables, fruits, legumes, nuts, whole grains, and fish",
+    "page_reference": "Page 16",
+    "rationale": "The correct answer is C) Plant-based diet emphasizing vegetables, fruits, legumes, nuts, whole grains, and fish. This is supported by the information on page 16, which presents the American College of Cardiology/American Heart Association recommendations. The highest level of recommendation (Class I) is given to \"A diet emphasizing intake of vegetables, fruits, legumes, nuts, whole grains, and fish is recommended to decrease ASCVD risk factors.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00010",
+    "section_number": "01"
+  },
+  {
+    "question_text": "Which of the following statements best describes the relationship between lifestyle factors and genetic risk for coronary artery disease?",
+    "options": [
+      "A) Genetic risk always outweighs lifestyle factors in determining coronary artery disease risk",
+      "B) Lifestyle factors have no impact on individuals with high genetic risk for coronary artery disease",
+      "C) A favourable lifestyle is associated with a nearly 50% lower risk of coronary artery disease even in those with the highest genetic risk",
+      "D) Lifestyle factors only influence coronary artery disease risk in individuals with low genetic risk"
+    ],
+    "correct_answer": "C) A favourable lifestyle is associated with a nearly 50% lower risk of coronary artery disease even in those with the highest genetic risk",
+    "page_reference": "Page 14",
+    "rationale": "The correct answer is C) A favourable lifestyle is associated with a nearly 50% lower risk of coronary artery disease even in those with the highest genetic risk. This is supported by the information on page 14, which states that \"for those with the highest genetic risk\u00e2\u20ac\u201ddefined as those in the top quintile of polygenic scores based on evaluation of 50 single nucleotide polymorphisms\u00e2\u20ac\u201da favourable lifestyle was associated with a nearly 50% lower risk of coronary artery disease.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00011",
+    "section_number": "01"
+  },
+  {
+    "question_text": "According to the Adventist Health Study 2, which dietary pattern was associated with the lowest risk for all-cause mortality compared to a non-vegetarian diet?",
+    "options": [
+      "A) Vegan",
+      "B) Lacto-ovo-vegetarian",
+      "C) Pesco-vegetarian",
+      "D) Semi-vegetarian"
+    ],
+    "correct_answer": "C) Pesco-vegetarian",
+    "page_reference": "Page 12",
+    "rationale": "The correct answer is C) Pesco-vegetarian. This is supported by the information on page 12, which presents the results of the Adventist Health Study 2. The study found that compared to non-vegetarians, pesco-vegetarians had the lowest all-cause mortality with a hazard ratio of 0.81 (95% CI: 0.69 to 0.94).",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00012",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A 55-year-old woman with hypertension asks about non-pharmacological approaches to managing her condition. According to the 2020 International Society of Hypertension Global Hypertension Practice Guidelines, which of the following statements best describes the role of lifestyle modifications in hypertension management?",
+    "options": [
+      "A) Lifestyle modifications should only be attempted after pharmacological treatment has failed",
+      "B) Lifestyle modifications are the first line of antihypertensive treatment",
+      "C) Lifestyle modifications are only effective in mild hypertension",
+      "D) Lifestyle modifications are not recommended due to lack of evidence"
+    ],
+    "correct_answer": "B) Lifestyle modifications are the first line of antihypertensive treatment",
+    "page_reference": "Page 16",
+    "rationale": "The correct answer is B) Lifestyle modifications are the first line of antihypertensive treatment. This is supported by the information on page 16, which quotes the 2020 International Society of Hypertension Global Hypertension Practice Guidelines: \"Lifestyle modification is also the first line of antihypertensive treatment.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00013",
+    "section_number": "01"
+  },
+  {
+    "question_text": "According to the American Cancer Society Guideline for Diet and Physical Activity, which of the following factors accounts for the second highest percentage of cancer cases and deaths in the United States, after cigarette smoking?",
+    "options": [
+      "A) Alcohol consumption",
+      "B) Lack of physical activity",
+      "C) Obesity",
+      "D) Combination of body weight, physical activity, diet, and alcohol intake"
+    ],
+    "correct_answer": "D) Combination of body weight, physical activity, diet, and alcohol intake",
+    "page_reference": "Page 17",
+    "rationale": "The correct answer is D) Combination of body weight, physical activity, diet, and alcohol intake. This is supported by the information on page 17, which states that \"the combination of the aforementioned risk factors accounted for at least 18.2% of cancer cases and 15.8% of cancer deaths in the United States in 2014, the second highest percentages for any risk factor (after cigarette smoking) in both men and women.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00014",
+    "section_number": "01"
+  },
+  {
+    "question_text": "Which of the following best describes the American Diabetes Association's stance on lifestyle management in diabetes care?",
+    "options": [
+      "A) Lifestyle management is optional and should only be considered if medication is ineffective",
+      "B) Lifestyle management is a fundamental aspect of diabetes care",
+      "C) Lifestyle management is only important for preventing, not treating, diabetes",
+      "D) Lifestyle management should only be attempted under close medical supervision"
+    ],
+    "correct_answer": "B) Lifestyle management is a fundamental aspect of diabetes care",
+    "page_reference": "Page 17",
+    "rationale": "The correct answer is B) Lifestyle management is a fundamental aspect of diabetes care. This is supported by the direct quote from the American Diabetes Association on page 17: \"Lifestyle management is a fundamental aspect of diabetes care and includes diabetes self-management education and support (DSMES), medical nutrition therapy (MNT), physical activity, smoking cessation counselling, and psychosocial care.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00015",
+    "section_number": "01"
+  },
+  {
+    "question_text": "According to the data presented in the board review material, approximately what percentage of US healthcare spending is directed towards those with chronic and mental health conditions?",
+    "options": [
+      "A) 50%",
+      "B) 70%",
+      "C) 90%",
+      "D) 100%"
+    ],
+    "correct_answer": "C) 90%",
+    "page_reference": "Page 17",
+    "rationale": "The correct answer is C) 90%. This is supported by the statement on page 17 that \"Approximately 90% of the $4.1 trillion is spent on those with chronic and mental health conditions.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00016",
+    "section_number": "01"
+  },
+  {
+    "question_text": "Which of the following lifestyle-related diseases has the highest estimated annual cost burden in the United States, according to the data presented in Table 1.7?",
+    "options": [
+      "A) Hyperlipidaemia",
+      "B) Cardiovascular disease",
+      "C) Diabetes",
+      "D) Hypertension"
+    ],
+    "correct_answer": "C) Diabetes",
+    "page_reference": "Page 18",
+    "rationale": "The correct answer is C) Diabetes. According to Table 1.7 on page 18, diabetes has the highest estimated annual cost burden at $237 billion in direct costs (2017 data), which is higher than the costs listed for the other conditions.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00017",
+    "section_number": "01"
+  },
+  {
+    "question_text": "According to the Planetary Health Alliance, which of the following best defines the concept of planetary health?",
+    "options": [
+      "A) The study of how climate change affects human health",
+      "B) A field focused solely on reducing carbon emissions",
+      "C) A solutions-oriented, transdisciplinary field analysing and addressing the impacts of human disruptions to Earth's natural systems on human health and all life on Earth",
+      "D) The study of how space exploration can benefit human health"
+    ],
+    "correct_answer": "C) A solutions-oriented, transdisciplinary field analysing and addressing the impacts of human disruptions to Earth's natural systems on human health and all life on Earth",
+    "page_reference": "Page 19",
+    "rationale": "The correct answer is C) A solutions-oriented, transdisciplinary field analysing and addressing the impacts of human disruptions to Earth's natural systems on human health and all life on Earth. This is a direct quote from the Planetary Health Alliance definition provided on page 19.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00018",
+    "section_number": "01"
+  },
+  {
+    "question_text": "According to the information provided in the board review material, which of the following modifiable human lifestyle factors contribute most to climate change-causing greenhouse gas emissions?",
+    "options": [
+      "A) Energy use in buildings and transportation",
+      "B) Dietary pattern and mode of transport",
+      "C) Industrial processes and waste management",
+      "D) Deforestation and agriculture"
+    ],
+    "correct_answer": "B) Dietary pattern and mode of transport",
+    "page_reference": "Page 19",
+    "rationale": "The correct answer is B) Dietary pattern and mode of transport. This is supported by the statement on page 19 that \"The modifiable human lifestyle factors that contribute most to climate change-causing greenhouse gas emissions and other types of environmental degradation, exemplified by the planetary boundaries, are dietary pattern and mode of transport.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00019",
+    "section_number": "01"
+  },
+  {
+    "question_text": "Which of the following best describes the relationship between lifestyle medicine interventions and planetary health?",
+    "options": [
+      "A) Lifestyle medicine interventions have no impact on planetary health",
+      "B) Lifestyle medicine interventions that benefit personal health often have negative impacts on planetary health",
+      "C) Lifestyle medicine prescriptions can have positive effects on both personal and planetary health",
+      "D) Lifestyle medicine only focuses on personal health and does not consider planetary impacts"
+    ],
+    "correct_answer": "C) Lifestyle medicine prescriptions can have positive effects on both personal and planetary health",
+    "page_reference": "Page 21",
+    "rationale": "The correct answer is C) Lifestyle medicine prescriptions can have positive effects on both personal and planetary health. This is supported by the information on page 21, which discusses how lifestyle medicine prescriptions",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00020",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A 35-year-old patient with multiple chronic conditions asks about the prevalence of such conditions in younger adults. According to the information provided, which of the following statements is most accurate regarding multiple chronic conditions (MCCs) in non-elderly adults?",
+    "options": [
+      "A) MCCs are rare in non-elderly adults, affecting less than 10% of the population",
+      "B) Non-elderly adults represent less than 30% of all adults with MCCs",
+      "C) Non-elderly adults represent more than 60% of all adults with MCCs",
+      "D) MCCs only become prevalent after the age of 65"
+    ],
+    "correct_answer": "C) Non-elderly adults represent more than 60% of all adults with MCCs",
+    "page_reference": "Page 15",
+    "rationale": "The correct answer is C) Non-elderly adults represent more than 60% of all adults with MCCs. This is supported by the information on page 15, which states that \"A review of 163 studies of adults of all ages found that most people with multiple chronic conditions (MCCs) are working age, with non-elderly adults representing more than 60% of all adults with MCCs.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00021",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A 28-year-old patient is concerned about developing chronic conditions later in life. Which of the following statements best describes the trend in the development of multiple chronic conditions (MCCs) among younger adults?",
+    "options": [
+      "A) The prevalence of MCCs has remained stable in younger adults",
+      "B) There has been a larger relative increase in MCCs among those aged 25-44 years compared to older adults",
+      "C) MCCs are decreasing in younger adults due to improved healthcare",
+      "D) The development of MCCs is exclusively linked to genetic factors in younger adults"
+    ],
+    "correct_answer": "B) There has been a larger relative increase in MCCs among those aged 25-44 years compared to older adults",
+    "page_reference": "Page 15",
+    "rationale": "The correct answer is B) There has been a larger relative increase in MCCs among those aged 25-44 years compared to older adults. This is supported by the information on page 15, which states that \"Between 2002 and 2009, there was a larger relative increase in the development of MCCs among those aged 25-44 years compared with older adults.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00022",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A healthcare policy maker is reviewing data on the impact of multiple chronic conditions (MCCs) across different age groups. According to the information provided, how do younger adults with MCCs compare to older adults with MCCs in terms of reported disability and quality of life?",
+    "options": [
+      "A) Younger adults report less disability and better quality of life",
+      "B) There is no significant difference between age groups",
+      "C) Younger adults are more likely to report disability and poorer quality of life",
+      "D) Only older adults report significant impacts on quality of life"
+    ],
+    "correct_answer": "C) Younger adults are more likely to report disability and poorer quality of life",
+    "page_reference": "Page 15",
+    "rationale": "The correct answer is C) Younger adults are more likely to report disability and poorer quality of life. This is supported by the information on page 15, which states that \"Younger adults with MCCs are more likely to report disability and poorer quality of life than were older adults with the same MCCs.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00023",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A public health researcher is studying the relationship between lifestyle factors and planetary health. According to the information provided, which of the following best describes the impact of human lifestyles on planetary health?",
+    "options": [
+      "A) Human lifestyles have minimal impact on planetary health",
+      "B) Only industrial practices affect planetary health",
+      "C) Dietary patterns and modes of transport are the most significant lifestyle factors affecting planetary health",
+      "D) Planetary health is solely determined by natural climate cycles"
+    ],
+    "correct_answer": "C) Dietary patterns and modes of transport are the most significant lifestyle factors affecting planetary health",
+    "page_reference": "Page 19",
+    "rationale": "The correct answer is C) Dietary patterns and modes of transport are the most significant lifestyle factors affecting planetary health. This is supported by the information on page 19, which states that \"The modifiable human lifestyle factors that contribute most to climate change-causing greenhouse gas emissions and other types of environmental degradation, exemplified by the planetary boundaries, are dietary pattern and mode of transport.\"",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00024",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is developing a comprehensive treatment plan that addresses both personal and planetary health. Which of the following lifestyle medicine prescriptions would NOT be considered beneficial for both personal and planetary health?",
+    "options": [
+      "A) Adopting a whole food plant-based dietary pattern",
+      "B) Increasing physical activity as a mode of transport",
+      "C) Encouraging high consumption of processed and packaged foods",
+      "D) Promoting stress management techniques"
+    ],
+    "correct_answer": "C) Encouraging high consumption of processed and packaged foods",
+    "page_reference": "Page 21",
+    "rationale": "The correct answer is C) Encouraging high consumption of processed and packaged foods. This is not mentioned as a beneficial prescription for personal and planetary health. The information on page 21 lists several lifestyle medicine prescriptions that have positive effects on both personal and planetary health, including a whole food plant-based dietary pattern, increased physical activity as a mode of transport, stress management, social connectedness, restorative sleep, and avoidance of toxic substances. Encouraging high consumption of processed and packaged foods would likely have negative impacts on both personal health and the environment due to increased resource use and waste production.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00025",
+    "section_number": "01"
+  }
+]

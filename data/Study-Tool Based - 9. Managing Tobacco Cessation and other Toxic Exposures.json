@@ -1,0 +1,434 @@
+[
+  {
+    "question_text": "Based on the EAGLES trial, which smoking cessation medication showed the highest efficacy in patients with psychiatric disorders?",
+    "options": [
+      "A) Bupropion",
+      "B) Nicotine patch",
+      "C) Varenicline",
+      "D) Combination NRT"
+    ],
+    "correct_answer": "C) Varenicline",
+    "page_reference": "316",
+    "rationale": "The EAGLES trial found that varenicline had the highest efficacy for smoking cessation in both the general population and in patients with psychiatric disorders. It showed a 6-month quit rate of 18.3% in psychiatric patients, compared to 13.7% for bupropion, 13.0% for nicotine patch, and 8.3% for placebo. This study was significant in demonstrating that varenicline and bupropion did not increase neuropsychiatric adverse events in patients with psychiatric disorders.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00751",
+    "section_number": "09"
+  },
+  {
+    "question_text": "A 45-year-old man with a history of depression wants to quit smoking. Based on the EAGLES trial, which statement is most accurate regarding his treatment options?",
+    "options": [
+      "A) He should avoid varenicline due to increased risk of neuropsychiatric events",
+      "B) Bupropion is the safest option for patients with psychiatric disorders",
+      "C) Nicotine replacement therapy is the only recommended treatment",
+      "D) He can be safely prescribed any FDA-approved smoking cessation medication"
+    ],
+    "correct_answer": "D) He can be safely prescribed any FDA-approved smoking cessation medication",
+    "page_reference": "316",
+    "rationale": "The EAGLES trial demonstrated that varenicline and bupropion did not significantly increase the risk of neuropsychiatric adverse events in patients with or without psychiatric disorders compared to nicotine patch or placebo. This finding contradicted previous concerns about these medications in psychiatric patients. Therefore, all FDA-approved smoking cessation medications can be considered for this patient, with varenicline showing the highest efficacy.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00752",
+    "section_number": "09"
+  },
+  {
+    "question_text": "In the EAGLES trial, what was the approximate difference in 6-month continuous abstinence rates between varenicline and nicotine patch in the general population?",
+    "options": [
+      "A) 2%",
+      "B) 6%",
+      "C) 10%",
+      "D) 14%"
+    ],
+    "correct_answer": "B) 6%",
+    "page_reference": "316",
+    "rationale": "The EAGLES trial found that varenicline had a 6-month continuous abstinence rate of 21.8% in the general population, while the nicotine patch had a rate of 15.7%. The difference between these rates is approximately 6%. This significant difference highlights varenicline's superior efficacy compared to nicotine patch. Bupropion's rate was 16.2%, and placebo was 9.4%.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00753",
+    "section_number": "09"
+  },
+  {
+    "question_text": "According to the Health Professionals Follow-up Study, which of the following best describes the association between olive oil consumption and cardiovascular disease risk in men?",
+    "options": [
+      "A) No significant association",
+      "B) Increased risk with higher consumption",
+      "C) Decreased risk with consumption of at least 1.5 teaspoons per day",
+      "D) Decreased risk only with extra virgin olive oil consumption"
+    ],
+    "correct_answer": "C) Decreased risk with consumption of at least 1.5 teaspoons per day",
+    "page_reference": "158",
+    "rationale": "The Health Professionals Follow-up Study found that men who consumed at least 1.5 teaspoons (7 grams) of olive oil per day had a 14% lower risk of cardiovascular disease compared to those who didn't consume olive oil. This association was observed for total olive oil consumption, not just extra virgin olive oil. The study showed a significant protective effect, contradicting options A and B, while option D is too specific and not supported by the study findings.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00754",
+    "section_number": "09"
+  },
+  {
+    "question_text": "In the Health Professionals Follow-up Study, replacing which of the following with olive oil was associated with the greatest reduction in cardiovascular disease risk?",
+    "options": [
+      "A) Butter",
+      "B) Margarine",
+      "C) Mayonnaise",
+      "D) Other vegetable oils"
+    ],
+    "correct_answer": "A) Butter",
+    "page_reference": "158",
+    "rationale": "The Health Professionals Follow-up Study found that replacing 5 grams/day of margarine, butter, mayonnaise, or dairy fat with an equivalent amount of olive oil was associated with a 5-7% lower risk of cardiovascular disease. Among these, replacing butter with olive oil showed the greatest risk reduction. This highlights the potential benefits of substituting saturated fats with healthier monounsaturated fats found in olive oil.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00755",
+    "section_number": "09"
+  },
+  {
+    "question_text": "Which step of the 5A's model for smoking cessation involves determining the patient's willingness to make a quit attempt?",
+    "options": [
+      "A) Ask",
+      "B) Advise",
+      "C) Assess",
+      "D) Assist"
+    ],
+    "correct_answer": "C) Assess",
+    "page_reference": "322",
+    "rationale": "In the 5A's model (Ask, Advise, Assess, Assist, Arrange), the \"Assess\" step involves evaluating the patient's willingness to make a quit attempt. This step is crucial in determining the next course of action. \"Ask\" involves identifying tobacco use, \"Advise\" is about urging users to quit, \"Assist\" involves aiding the patient in quitting, and \"Arrange\" involves scheduling follow-up contact.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00756",
+    "section_number": "09"
+  },
+  {
+    "question_text": "A patient who smokes is not ready to quit. Which step of the 5A's model would be most appropriate to apply at this point?",
+    "options": [
+      "A) Advise to quit in a clear, strong, and personalized manner",
+      "B) Assess readiness to quit again",
+      "C) Assist by providing a quit plan",
+      "D) Arrange follow-up to reassess in the future"
+    ],
+    "correct_answer": "A) Advise to quit in a clear, strong, and personalized manner",
+    "page_reference": "322",
+    "rationale": "Even when a patient is not ready to quit, it's important to consistently advise quitting in a clear, strong, and personalized manner. This aligns with the \"Advise\" step of the 5A's model. While the patient isn't ready to quit, repeated advice can increase motivation over time. Assessing again immediately or providing a quit plan (Assist) would be premature. Arranging follow-up is important but should be done after advising.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00757",
+    "section_number": "09"
+  },
+  {
+    "question_text": "In the OARS framework for motivational interviewing, which technique is most useful for exploring the patient's ambivalence about change?",
+    "options": [
+      "A) Open-ended questions",
+      "B) Affirmations",
+      "C) Reflections",
+      "D) Summarize"
+    ],
+    "correct_answer": "A) Open-ended questions",
+    "page_reference": "320",
+    "rationale": "Open-ended questions are particularly useful for exploring a patient's ambivalence about change in motivational interviewing. They allow patients to express their thoughts and feelings more fully, revealing their motivations and barriers to change. While all OARS techniques are valuable, open-ended questions are especially effective for initial exploration. Affirmations build confidence, reflections demonstrate understanding, and summarizing recaps the discussion, but these are less suited for initial exploration of ambivalence.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00758",
+    "section_number": "09"
+  },
+  {
+    "question_text": "Which component of the OARS framework is most effective for reinforcing a patient's sense of self-efficacy in behavior change?",
+    "options": [
+      "A) Open-ended questions",
+      "B) Affirmations",
+      "C) Reflections",
+      "D) Summarize"
+    ],
+    "correct_answer": "B) Affirmations",
+    "page_reference": "320",
+    "rationale": "Affirmations are most effective for reinforcing a patient's sense of self-efficacy in behavior change. By recognizing and validating the patient's strengths, efforts, and past successes, affirmations boost confidence in their ability to change. Open-ended questions explore thoughts and feelings, reflections demonstrate understanding, and summarizing recaps the discussion, but these don't directly reinforce self-efficacy like affirmations do.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00759",
+    "section_number": "09"
+  },
+  {
+    "question_text": "A patient expresses conflicting feelings about quitting smoking. Which OARS technique would be most appropriate to use next?",
+    "options": [
+      "A) Open-ended questions",
+      "B) Affirmations",
+      "C) Reflections",
+      "D) Summarize"
+    ],
+    "correct_answer": "C) Reflections",
+    "page_reference": "320",
+    "rationale": "When a patient expresses conflicting feelings, reflections are the most appropriate OARS technique to use next. Reflections allow the clinician to mirror back the patient's statements, helping them hear their own ambivalence and potentially resolve it. This technique shows understanding and can help the patient explore their conflicting feelings further. While open-ended questions could also be useful, reflections are particularly effective for addressing ambivalence expressed in the moment.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00760",
+    "section_number": "09"
+  },
+  {
+    "question_text": "A patient scores 15 on the Alcohol Use Disorders Identification Test (AUDIT). What is the most appropriate next step in management?",
+    "options": [
+      "A) Provide simple advice about reducing alcohol consumption",
+      "B) Offer brief counseling and continued monitoring",
+      "C) Refer for diagnostic evaluation and treatment",
+      "D) No intervention needed, continue routine screening"
+    ],
+    "correct_answer": "B) Offer brief counseling and continued monitoring",
+    "page_reference": "310",
+    "rationale": "An AUDIT score of 15 falls in the range of 8-15, which indicates a medium level of alcohol problems. The most appropriate intervention for this score is to provide brief counseling and continued monitoring. Simple advice (A) is for lower scores (0-7), while referral for diagnostic evaluation (C) is typically for scores of 20 or above. No intervention (D) would be inappropriate given the elevated score.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00761",
+    "section_number": "09"
+  },
+  {
+    "question_text": "Which of the following AUDIT scores would most strongly indicate the need for referral to specialist diagnostic evaluation for alcohol dependence?",
+    "options": [
+      "A) 8",
+      "B) 15",
+      "C) 20",
+      "D) 25"
+    ],
+    "correct_answer": "D) 25",
+    "page_reference": "310",
+    "rationale": "An AUDIT score of 25 or higher strongly indicates alcohol dependence and the need for referral to specialist diagnostic evaluation and treatment. Scores of 8-15 suggest a medium level of alcohol problems, requiring brief counseling. Scores of 16-19 suggest a high level of alcohol problems, requiring brief therapy and continued monitoring. A score of 20 or above suggests possible alcohol dependence, but 25 and above is a clearer indicator for specialist referral.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00762",
+    "section_number": "09"
+  },
+  {
+    "question_text": "Which domain of alcohol use does the AUDIT question \"How often during the last year have you failed to do what was normally expected of you because of drinking?\" primarily assess?",
+    "options": [
+      "A) Hazardous alcohol use",
+      "B) Dependence symptoms",
+      "C) Harmful alcohol use",
+      "D) Quantity of alcohol consumed"
+    ],
+    "correct_answer": "C) Harmful alcohol use",
+    "page_reference": "310",
+    "rationale": "This question from the AUDIT primarily assesses harmful alcohol use. It specifically addresses negative consequences of drinking that affect the individual's ability to meet responsibilities. Questions about hazardous use typically focus on frequency and quantity of drinking. Dependence symptoms are assessed by questions about morning drinking or inability to stop once started. Quantity of alcohol is directly asked in separate questions.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00763",
+    "section_number": "09"
+  },
+  {
+    "question_text": "According to the Fagerstr\u00c3\u00b6m Test for Nicotine Dependence, which of the following most strongly indicates severe nicotine dependence?",
+    "options": [
+      "A) Smoking more than 30 cigarettes per day",
+      "B) Smoking within 5 minutes of waking",
+      "C) Finding it difficult to refrain from smoking in forbidden places",
+      "D) Smoking even when ill in bed most of the day"
+    ],
+    "correct_answer": "B) Smoking within 5 minutes of waking",
+    "page_reference": "307",
+    "rationale": "In the Fagerstr\u00c3\u00b6m Test, smoking within 5 minutes of waking is considered the strongest single indicator of nicotine dependence. This reflects the urgent need for nicotine after nighttime abstinence. While smoking more than 30 cigarettes per day also indicates high dependence, the time to first cigarette is weighted more heavily in the test. Difficulty refraining from smoking in forbidden places and smoking when ill are indicators of dependence but are not as strongly weighted as time to first cigarette.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00764",
+    "section_number": "09"
+  },
+  {
+    "question_text": "A patient reports smoking 15 cigarettes per day and having their first cigarette 31-60 minutes after waking. Based on the Heaviness of Smoking Index (derived from the Fagerstr\u00c3\u00b6m Test), what level of nicotine dependence does this suggest?",
+    "options": [
+      "A) Low dependence",
+      "B) Medium dependence",
+      "C) High dependence",
+      "D) Very high dependence"
+    ],
+    "correct_answer": "B) Medium dependence",
+    "page_reference": "307",
+    "rationale": "The Heaviness of Smoking Index uses two questions from the Fagerstr\u00c3\u00b6m Test: time to first cigarette and number of cigarettes per day. Smoking 11-20 cigarettes per day scores 1 point, and smoking 31-60 minutes after waking scores 1 point. A total score of 2 indicates medium dependence. Low dependence is 0-1, high dependence is 3-4, and very high dependence is 5-6.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00765",
+    "section_number": "09"
+  },
+  {
+    "question_text": "Which component of the TAPS (Tobacco, Alcohol, Prescription medication, and other Substance use) tool is designed to assess frequency of use in the past 3 months?",
+    "options": [
+      "A) TAPS-1",
+      "B) TAPS-2",
+      "C) TAPS-3",
+      "D) TAPS-4"
+    ],
+    "correct_answer": "B) TAPS-2",
+    "page_reference": "311",
+    "rationale": "The TAPS tool consists of a 4-item screening component (TAPS-1) followed by a brief assessment (TAPS-2) for those who screen positive. TAPS-2 assesses the frequency of use in the past 3 months for each substance that screened positive in TAPS-1. TAPS-1 only asks about any use in the past year, while TAPS-3 and TAPS-4 are not part of the standard TAPS tool.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00766",
+    "section_number": "09"
+  },
+  {
+    "question_text": "A patient responds \"yes\" to using prescription medications for non-medical reasons in the past year on the TAPS-1 screening. What should be the next step in assessment?",
+    "options": [
+      "A) Refer immediately for substance use treatment",
+      "B) Administer the full AUDIT questionnaire",
+      "C) Proceed to TAPS-2 for that substance",
+      "D) Conclude the screening as positive for substance misuse"
+    ],
+    "correct_answer": "C) Proceed to TAPS-2 for that substance",
+    "page_reference": "311",
+    "rationale": "If a patient responds positively to any substance use in TAPS-1, including prescription medications for non-medical reasons, the next step is to proceed to TAPS-2 for that specific substance. TAPS-2 provides more detailed information about the frequency and potential problems associated with use. Immediate referral (A) would be premature without further assessment. The AUDIT (B) is specific to alcohol use. Concluding the screening (D) without further assessment would miss important information about the extent of use.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00767",
+    "section_number": "09"
+  },
+  {
+    "question_text": "Which of the following best describes the primary advantage of the TAPS tool over other substance use screening instruments?",
+    "options": [
+      "A) It only screens for illegal drug use",
+      "B) It provides a comprehensive assessment of all substance use including tobacco and alcohol",
+      "C) It focuses exclusively on prescription drug misuse",
+      "D) It is designed only for use in emergency department settings"
+    ],
+    "correct_answer": "B) It provides a comprehensive assessment of all substance use including tobacco and alcohol",
+    "page_reference": "311",
+    "rationale": "The primary advantage of the TAPS tool is its comprehensive approach to screening for multiple substances, including tobacco, alcohol, prescription medications, and illicit drugs. This makes it more efficient than using separate screens for different substances. It does not focus only on illegal drugs (A) or prescription drug misuse (C), nor is it limited to emergency department use (D). Its broad scope makes it suitable for various healthcare settings.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00768",
+    "section_number": "09"
+  },
+  {
+    "question_text": "In the Health Professionals Follow-up Study, replacing which type of fat with olive oil was associated with the greatest reduction in cardiovascular disease risk?",
+    "options": [
+      "A) Polyunsaturated fat",
+      "B) Monounsaturated fat",
+      "C) Animal fat",
+      "D) Trans fat"
+    ],
+    "correct_answer": "C) Animal fat",
+    "page_reference": "158",
+    "rationale": "The Health Professionals Follow-up Study found that replacing animal fats, particularly dairy fat and butter, with olive oil was associated with the greatest reduction in cardiovascular disease risk. This finding underscores the potential benefits of substituting saturated animal fats with the monounsaturated fats found in olive oil. While replacing trans fats with olive oil is generally beneficial, the study specifically highlighted the benefits of replacing animal fats.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00769",
+    "section_number": "09"
+  },
+  {
+    "question_text": "Based on the Health Professionals Follow-up Study, which of the following statements about olive oil consumption and total mortality is correct?",
+    "options": [
+      "A) Olive oil consumption had no significant effect on total mortality",
+      "B) Only extra virgin olive oil consumption was associated with reduced mortality",
+      "C) Higher olive oil consumption was associated with lower total mortality",
+      "D) Olive oil consumption increased mortality from certain causes"
+    ],
+    "correct_answer": "C) Higher olive oil consumption was associated with lower total mortality",
+    "page_reference": "158",
+    "rationale": "The Health Professionals Follow-up Study found that higher olive oil consumption was associated with lower total mortality. Participants consuming the highest amount of olive oil had a 19% lower risk of total mortality compared to those who rarely or never consumed olive oil. This association was observed for total olive oil consumption, not just extra virgin olive oil. The study did",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00770",
+    "section_number": "09"
+  },
+  {
+    "question_text": "According to the EAGLES trial, which statement is true regarding the safety of varenicline and bupropion in patients with psychiatric disorders?",
+    "options": [
+      "A) They significantly increased the risk of neuropsychiatric events",
+      "B) They were safe only in patients with depression",
+      "C) They did not significantly increase the risk of neuropsychiatric events",
+      "D) They were contraindicated in all psychiatric patients"
+    ],
+    "correct_answer": "C) They did not significantly increase the risk of neuropsychiatric events",
+    "page_reference": "316",
+    "rationale": "The EAGLES trial demonstrated that varenicline and bupropion did not significantly increase the risk of neuropsychiatric adverse events in patients with or without psychiatric disorders compared to nicotine patch or placebo. This finding was crucial in establishing the safety of these medications in psychiatric patients, contradicting previous concerns.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00771",
+    "section_number": "09"
+  },
+  {
+    "question_text": "In the Health Professionals Follow-up Study, what was the recommended minimum daily intake of olive oil associated with reduced cardiovascular disease risk?",
+    "options": [
+      "A) 1 teaspoon",
+      "B) 1.5 teaspoons",
+      "C) 1 tablespoon",
+      "D) 2 tablespoons"
+    ],
+    "correct_answer": "B) 1.5 teaspoons",
+    "page_reference": "158",
+    "rationale": "The Health Professionals Follow-up Study found that consuming at least 1.5 teaspoons (approximately 7 grams) of olive oil per day was associated with a 14% lower risk of cardiovascular disease. This amount represents the minimum intake associated with significant benefits, highlighting the importance of regular, moderate olive oil consumption in a heart-healthy diet.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00772",
+    "section_number": "09"
+  },
+  {
+    "question_text": "In applying the 5A's model, a patient is advised to quit smoking but is not ready. What is the most appropriate next step?",
+    "options": [
+      "A) Move to the Assist step and provide a quit plan",
+      "B) Skip to the Arrange step and schedule a follow-up",
+      "C) Repeat the Advise step more forcefully",
+      "D) Move to the Assess step to understand their barriers to quitting"
+    ],
+    "correct_answer": "D) Move to the Assess step to understand their barriers to quitting",
+    "page_reference": "322",
+    "rationale": "When a patient is not ready to quit after being advised, the most appropriate next step is to move to the Assess step. This involves understanding the patient's willingness to quit and exploring their barriers to quitting. This information can guide future interventions. Providing a quit plan (Assist) or scheduling follow-up (Arrange) would be premature at this stage. Repeating the Advise step more forcefully is not recommended and could be counterproductive.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00773",
+    "section_number": "09"
+  },
+  {
+    "question_text": "In motivational interviewing using the OARS framework, a patient expresses doubt about their ability to quit smoking. Which technique would be most appropriate to use next?",
+    "options": [
+      "A) Open-ended questions to explore their doubts",
+      "B) Affirmations to boost their confidence",
+      "C) Reflections to clarify their concerns",
+      "D) Summarize to recap the conversation"
+    ],
+    "correct_answer": "B) Affirmations to boost their confidence",
+    "page_reference": "320",
+    "rationale": "When a patient expresses doubt about their ability to change, affirmations are the most appropriate OARS technique to use. Affirmations can help boost the patient's confidence by recognizing their strengths, past successes, or efforts. This can increase their self-efficacy and motivation to change. While the other techniques are useful in motivational interviewing, affirmations directly address the patient's expressed lack of confidence.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00774",
+    "section_number": "09"
+  },
+  {
+    "question_text": "Which of the following AUDIT questions is most specific for assessing alcohol dependence?",
+    "options": [
+      "A) How often do you have six or more drinks on one occasion?",
+      "B) How often during the last year have you found that you were not able to stop drinking once you had started?",
+      "C) How often do you have a drink containing alcohol?",
+      "D) Have you or someone else been injured because of your drinking?"
+    ],
+    "correct_answer": "B) How often during the last year have you found that you were not able to stop drinking once you had started?",
+    "page_reference": "310",
+    "rationale": "This question specifically assesses a key component of alcohol dependence: loss of control over drinking. The inability to stop drinking once started is a hallmark of dependence. The other questions assess frequency of heavy drinking (A), general frequency of alcohol use (C), and harmful consequences of drinking (D), but are less specific to dependence.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00775",
+    "section_number": "09"
+  },
+  {
+    "question_text": "A patient smokes 10 cigarettes per day and has their first cigarette 30 minutes after waking. According to the Fagerstr\u00c3\u00b6m Test, what level of nicotine dependence does this indicate?",
+    "options": [
+      "A) Very low dependence",
+      "B) Low dependence",
+      "C) Moderate dependence",
+      "D) High dependence"
+    ],
+    "correct_answer": "B) Low dependence",
+    "page_reference": "307",
+    "rationale": "In the Fagerstr\u00c3\u00b6m Test, smoking 10 cigarettes per day scores 0 points, and having the first cigarette 30 minutes after waking scores 1 point. A total score of 1 indicates low dependence. This demonstrates how the test weighs both the amount smoked and the urgency of nicotine need after waking. Moderate dependence typically requires a score of 4-6, and high dependence 7-10.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00776",
+    "section_number": "09"
+  },
+  {
+    "question_text": "A patient screens positive on TAPS-1 for both alcohol and prescription drug misuse. What is the next appropriate step in using this tool?",
+    "options": [
+      "A) Refer the patient immediately to a substance abuse specialist",
+      "B) Administer TAPS-2 for both alcohol and prescription drugs",
+      "C) Only administer TAPS-2 for the substance with higher risk",
+      "D) Conclude the screening and provide general substance use education"
+    ],
+    "correct_answer": "B) Administer TAPS-2 for both alcohol and prescription drugs",
+    "page_reference": "311",
+    "rationale": "When a patient screens positive on TAPS-1 for multiple substances, the appropriate next step is to administer TAPS-2 for each of those substances. This allows for a more detailed assessment of the frequency and potential problems associated with each substance. Referring immediately (A) or concluding the screening (D) would be premature without this additional information. Assessing only one substance (C) would miss important information about the other.",
+    "section": "Managing Tobacco Cessation and other Toxic Exposures",
+    "question_type": "Study-Tool Based",
+    "question_id": "00777",
+    "section_number": "09"
+  }
+]

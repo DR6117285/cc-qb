@@ -1,0 +1,245 @@
+[
+    {
+      "question_id": "1066",
+      "section": "Key Clinical Processes in Lifestyle Medicine",
+      "question_type": "Supplementary",
+      "section_number": "03",
+      "question_text": "A lifestyle medicine clinic implements the AUDIT-C screening tool for all adult patients. After 3 months, the following pattern emerges: 30% of patients who score positive for risky drinking are never given follow-up counseling, while another 35% receive inconsistent intervention approaches. Which combination of interventions would most effectively address this care gap?",
+      "options": [
+        "A) Switch to a different alcohol screening tool",
+        "B) Implement standardized EHR templates, provider training on brief interventions, and regular audit of counseling documentation with feedback",
+        "C) Refer all AUDIT-C positive patients to addiction specialists",
+        "D) Increase the screening frequency to monthly"
+      ],
+      "correct_answer": "B) Implement standardized EHR templates, provider training on brief interventions, and regular audit of counseling documentation with feedback",
+      "page_reference": "62",
+      "rationale": "The AUDIT-C is a validated screening tool, but its effectiveness depends on proper follow-up and intervention. A systematic approach incorporating standardized documentation, provider training, and quality monitoring aligns with evidence-based implementation strategies. Simply changing tools (A) doesn't address the follow-up issue, universal specialist referral (C) is excessive for screening-positive patients, and increased screening (D) doesn't address the core issue of follow-up care."
+    },
+    {
+      "question_id": "1067",
+      "section": "Key Clinical Processes in Lifestyle Medicine",
+      "question_type": "Supplementary",
+      "section_number": "03",
+      "question_text": "A 67-year-old man who recently completed cardiac rehabilitation following CABG surgery wants to continue exercising but is concerned about safety. He has stable angina and is motivated to return to his previous activities including golf and swimming. Which of the following referrals would be most appropriate?",
+      "options": [
+        "A) Personal trainer at a local gym",
+        "B) Physical therapist",
+        "C) Medical exercise specialist",
+        "D) Health coach"
+      ],
+      "correct_answer": "C) Medical exercise specialist",
+      "page_reference": "64, 86",
+      "rationale": "A medical exercise specialist is specifically trained to design exercise programs for people recovering from medical conditions who wish to return to their pre-injury fitness levels. This is the most appropriate choice for someone transitioning from cardiac rehabilitation who needs ongoing medical oversight. While personal trainers (A) and health coaches (D) can provide general guidance, they lack the specific medical training needed for this patient. Physical therapy (B) would be more appropriate for acute rehabilitation rather than long-term exercise programming."
+    },
+    {
+      "question_id": "1068",
+      "section": "Key Clinical Processes in Lifestyle Medicine",
+      "question_type": "Supplementary",
+      "section_number": "03",
+      "question_text": "A lifestyle medicine clinic is evaluating different dietary assessment tools for their practice. Which combination of tools would provide the most comprehensive and valid assessment of patients' dietary patterns?",
+      "options": [
+        "A) 24-hour dietary recall and food frequency questionnaire",
+        "B) Starting the Conversation tool and specific nutrient tracking",
+        "C) Mediterranean Diet Adherence Screener only",
+        "D) Starting the Conversation, ASA24 Dietary Assessment Tool, and photo-based food documentation"
+      ],
+      "correct_answer": "D) Starting the Conversation, ASA24 Dietary Assessment Tool, and photo-based food documentation",
+      "page_reference": "58-59",
+      "rationale": "The most comprehensive dietary assessment combines multiple validated tools that capture different aspects of dietary intake. The Starting the Conversation tool is validated for primary care, ASA24 provides detailed dietary information, and photo-based documentation helps address underreporting. This combination provides both quick screening and detailed assessment capabilities. Options A and B are less comprehensive, and option C focuses only on Mediterranean diet adherence."
+    },
+    {
+      "question_id": "1069",
+      "section": "Key Clinical Processes in Lifestyle Medicine",
+      "question_type": "Supplementary",
+      "section_number": "03",
+      "question_text": "A lifestyle medicine practice is implementing an interdisciplinary team approach. Which of the following team structures would most effectively support comprehensive lifestyle medicine care?",
+      "options": [
+        "A) Physician, nurse, and medical assistant",
+        "B) Physician, exercise physiologist, registered dietitian, and health coach",
+        "C) Physician, registered dietitian, exercise physiologist, stress management specialist, health coach, chef, and group support specialist",
+        "D) Physician and two health coaches"
+      ],
+      "correct_answer": "C) Physician, registered dietitian, exercise physiologist, stress management specialist, health coach, chef, and group support specialist",
+      "page_reference": "85-86",
+      "rationale": "Based on successful models like the Ornish Lifestyle Medicine program, the most effective interdisciplinary team includes multiple specialists addressing all aspects of lifestyle medicine. Option C provides comprehensive coverage including nutrition (dietitian, chef), physical activity (exercise physiologist), stress management, and behavioral support (health coach, group specialist). The other options lack key team members needed for comprehensive lifestyle medicine care."
+    },
+    {
+      "question_id": "1070",
+      "section": "Key Clinical Processes in Lifestyle Medicine",
+      "question_type": "Supplementary",
+      "section_number": "03",
+      "question_text": "A researcher is evaluating the evidence for a lifestyle intervention that combines plant-based diet, exercise, and stress management for reversing coronary artery disease. Using the Hierarchies of Evidence Applied to Lifestyle Medicine (HEALM) framework, which limitation of traditional evidence hierarchies should be considered?",
+      "options": [
+        "A) RCTs provide the only valid evidence for lifestyle interventions",
+        "B) Traditional hierarchies may undervalue the contribution of long-term observational studies in understanding lifetime effects of health behaviors",
+        "C) Meta-analyses are not applicable to lifestyle medicine research",
+        "D) Case studies provide the strongest evidence for lifestyle interventions"
+      ],
+      "correct_answer": "B) Traditional hierarchies may undervalue the contribution of long-term observational studies in understanding lifetime effects of health behaviors",
+      "page_reference": "92-93",
+      "rationale": "The HEALM framework recognizes that while RCTs are valuable, traditional evidence hierarchies may not fully capture the complexity of lifestyle medicine interventions, particularly regarding long-term health behaviors and outcomes. Option B correctly identifies this key limitation. Options A and C incorrectly dismiss valuable forms of evidence, while D overstates the value of case studies."
+    },
+    {
+      "question_id": "1071",
+      "section": "Key Clinical Processes in Lifestyle Medicine",
+      "question_type": "Supplementary",
+      "section_number": "03",
+      "question_text": "A lifestyle medicine practice is developing a comprehensive stress assessment protocol. Which combination of validated tools would provide the most complete assessment of stress and well-being?",
+      "options": [
+        "A) PHQ-2 and GAD-2 only",
+        "B) 4-item Perceived Stress Scale and PHQ-9",
+        "C) PHQ-2, GAD-2, 4-item Perceived Stress Scale, abbreviated SWLS, and Loma Linda Social Relationship questionnaire",
+        "D) Full PHQ-9 only"
+      ],
+      "correct_answer": "C) PHQ-2, GAD-2, 4-item Perceived Stress Scale, abbreviated SWLS, and Loma Linda Social Relationship questionnaire",
+      "page_reference": "61",
+      "rationale": "A comprehensive stress assessment should evaluate multiple domains including depression, anxiety, perceived stress, life satisfaction, and social support. Option C provides the most complete assessment using validated tools for each domain. The other options assess only limited aspects of stress and well-being, missing important components of a comprehensive evaluation."
+    },
+    {
+      "question_id": "1072",
+      "section": "Key Clinical Processes in Lifestyle Medicine",
+      "question_type": "Supplementary",
+      "section_number": "03",
+      "question_text": "A primary care clinic implementing lifestyle medicine services notices that physicians rarely discuss weight management with patients who have BMIs similar to their own. According to research, which intervention would most effectively address this pattern?",
+      "options": [
+        "A) Implement BMI-based automatic referrals to weight management",
+        "B) Provide training in behavioral counseling along with tools and resources for weight-related care",
+        "C) Require all providers to maintain BMIs in the normal range",
+        "D) Assign patients only to providers with lower BMIs"
+      ],
+      "correct_answer": "B) Provide training in behavioral counseling along with tools and resources for weight-related care",
+      "page_reference": "105",
+      "rationale": "Research shows that training primary care physicians in behavioral counseling and providing them with tools and resources helps improve their practice of weight-related care. While provider BMI can influence counseling practices, focusing on provider training and resources (option B) addresses the core issue more effectively and ethically than options C or D, which are inappropriate and potentially discriminatory. Automatic referrals (A) don't address the underlying counseling barrier."
+    },
+    {
+      "question_id": "1073",
+      "section": "Key Clinical Processes in Lifestyle Medicine",
+      "question_type": "Supplementary",
+      "section_number": "03",
+      "question_text": "A lifestyle medicine clinic is evaluating different practice models to optimize care delivery. Based on current evidence, which model would provide the best combination of access, comprehensive care, and sustainable operations?",
+      "options": [
+        "A) Traditional fee-for-service within a large health system",
+        "B) Direct primary care model with membership fees and comprehensive lifestyle services",
+        "C) Concierge practice with both insurance billing and membership fees",
+        "D) Virtual-only practice with pay-per-visit model"
+      ],
+      "correct_answer": "B) Direct primary care model with membership fees and comprehensive lifestyle services",
+      "page_reference": "87",
+      "rationale": "The direct primary care model with membership fees allows for comprehensive lifestyle medicine services while providing better access and longer visits than traditional fee-for-service. This model allows providers to offer additional services like fitness classes and cooking demonstrations without the administrative burden of insurance billing. While other models have advantages, the DPC model best balances access, comprehensive care, and operational sustainability."
+    },
+    {
+      "question_id": "1074",
+      "section": "Key Clinical Processes in Lifestyle Medicine",
+      "question_type": "Supplementary",
+      "section_number": "03",
+      "question_text": "A lifestyle medicine practice is implementing new body composition assessments. When comparing different measurement methods, which combination of factors should be prioritized?",
+      "options": [
+        "A) Cost and ease of use only",
+        "B) Accuracy and patient comfort only",
+        "C) Accuracy, operator dependence, cost, portability, and clinical setting appropriateness",
+        "D) Patient preference and insurance coverage"
+      ],
+      "correct_answer": "C) Accuracy, operator dependence, cost, portability, and clinical setting appropriateness",
+      "page_reference": "65",
+      "rationale": "When selecting body composition assessment methods, multiple factors must be considered including accuracy, operator dependence, cost, portability, and appropriateness for the clinical setting. Different methods (skinfold calipers, bioelectric impedance, air displacement plethysmography) have varying strengths and limitations across these factors. Option C comprehensively addresses all relevant considerations, while other options focus on limited aspects of the decision."
+    },
+    {
+      "question_id": "1075",
+      "section": "Key Clinical Processes in Lifestyle Medicine",
+      "question_type": "Supplementary",
+      "section_number": "03",
+      "question_text": "A lifestyle medicine clinic has implemented regular collection of lifestyle vital signs but struggles with using the data effectively for population health management. Which combination of EHR features would best support both individual and population-level care?",
+      "options": [
+        "A) Basic data entry fields and simple reports",
+        "B) Automated data collection and annual summary reports",
+        "C) Integration with patient portal and mobile apps",
+        "D) Structured data collection, automated risk stratification, population analytics, provider dashboards, and patient-facing tools"
+      ],
+      "correct_answer": "D) Structured data collection, automated risk stratification, population analytics, provider dashboards, and patient-facing tools",
+      "page_reference": "81-82",
+      "rationale": "Effective use of lifestyle medicine data requires comprehensive EHR functionality that supports both individual patient care and population health management. Option D provides the most complete solution, including structured data collection, risk stratification, analytics, provider feedback, and patient engagement tools. The other options lack critical components needed for comprehensive data utilization in lifestyle medicine practice."
+    },
+    
+      {
+        "question_text": "A lifestyle medicine clinic is implementing chronic care management services under CMS guidelines. Which combination of patient characteristics meets the requirements for these services?",
+        "options": [
+          "A) One chronic condition expected to last 6 months",
+          "B) Two chronic conditions with minimal risk of functional decline",
+          "C) Two chronic conditions expected to last 12+ months with significant risk of death/decline, requiring comprehensive care plan",
+          "D) Three acute conditions requiring frequent monitoring"
+        ],
+        "correct_answer": "C) Two chronic conditions expected to last 12+ months with significant risk of death/decline, requiring comprehensive care plan",
+        "page_reference": "87",
+        "rationale": "CMS chronic care management services require patients to have two or more chronic conditions expected to last at least 12 months or until death, that place the patient at significant risk of death, exacerbation, or functional decline. Additionally, a comprehensive care plan must be established, implemented, revised, or monitored. The other options do not meet these specific CMS criteria.",
+        "section": "Key Clinical Processes in Lifestyle Medicine",
+        "question_type": "Supplementary",
+        "question_id": "1194",
+        "section_number": "03"
+      },
+      {
+        "question_text": "A lifestyle medicine clinic is analyzing lipid panels for cardiovascular risk assessment. Which of the following statements about apolipoprotein B (apoB) testing is most accurate?",
+        "options": [
+          "A) ApoB only measures LDL particle number",
+          "B) ApoB is less predictive of cardiovascular risk than LDL-C alone",
+          "C) ApoB is attached to all potentially atherogenic cholesterol particles and is a stronger indicator than LDL-C alone",
+          "D) ApoB measurement is only useful in patients with normal LDL-C levels"
+        ],
+        "correct_answer": "C) ApoB is attached to all potentially atherogenic cholesterol particles and is a stronger indicator than LDL-C alone",
+        "page_reference": "75",
+        "rationale": "ApoB is a protein attached to all potentially atherogenic cholesterol compounds (LDL, IDL, VLDL, Lp(a), and chylomicrons). Rather than measuring LDL concentration, it counts the number of cholesterol particles. ApoB is a stronger indicator of atherogenicity than LDL-C alone. Entrapment of apoB lipoprotein particles within the artery wall drives the atherosclerotic process.",
+        "section": "Key Clinical Processes in Lifestyle Medicine",
+        "question_type": "Supplementary",
+        "question_id": "1195",
+        "section_number": "03"
+      },
+      {
+        "question_text": "According to the American Institute for Cancer Research recommendations, which combination of lifestyle interventions is most appropriate for cancer prevention?",
+        "options": [
+          "A) Regular physical activity and limited red meat consumption only",
+          "B) Dietary supplements and moderate alcohol consumption",
+          "C) Whole grains, vegetables, fruits, beans, limited ultra-processed foods and alcohol, regular physical activity, and healthy weight maintenance",
+          "D) Vitamin supplementation and tobacco cessation only"
+        ],
+        "correct_answer": "C) Whole grains, vegetables, fruits, beans, limited ultra-processed foods and alcohol, regular physical activity, and healthy weight maintenance",
+        "page_reference": "70",
+        "rationale": "The American Institute for Cancer Research recommends maintaining a healthy weight, being physically active, eating a diet rich in whole grains, vegetables, fruits, and beans, limiting ultra-processed foods, red and processed meat, sugar-sweetened beverages, and alcohol. They specifically note that supplements should not be used for cancer prevention. These recommendations form a comprehensive approach to cancer prevention through lifestyle modification.",
+        "section": "Key Clinical Processes in Lifestyle Medicine",
+        "question_type": "Supplementary",
+        "question_id": "1196",
+        "section_number": "03"
+      },
+      {
+        "question_text": "A patient's Patient Activation Measure (PAM) score has decreased from 85 to 55 over three months despite initial improvements in health markers. Which combination of factors should be assessed to address this decline?",
+        "options": [
+          "A) Only medication adherence and vital signs",
+          "B) Only exercise habits and dietary patterns",
+          "C) Self-management abilities, engagement in treatment choices, provider collaboration, system navigation, and maintenance of function",
+          "D) Only attendance at appointments and completion of lab work"
+        ],
+        "correct_answer": "C) Self-management abilities, engagement in treatment choices, provider collaboration, system navigation, and maintenance of function",
+        "page_reference": "93-94",
+        "rationale": "The PAM assesses multiple key abilities including: self-management of illness/problems, engagement in activities maintaining function, involvement in treatment choices, collaboration with providers, selection of providers based on quality, and ability to navigate the healthcare system. A comprehensive assessment of declining PAM scores should evaluate all these domains rather than focusing on limited aspects of care.",
+        "section": "Key Clinical Processes in Lifestyle Medicine",
+        "question_type": "Supplementary",
+        "question_id": "1197",
+        "section_number": "03"
+      },
+      {
+        "question_text": "A lifestyle medicine clinic is evaluating the Lifestyle Heart Trial results for patient education. Which statement most accurately describes the key findings of this 5-year randomized controlled trial?",
+        "options": [
+          "A) Medication management alone was superior to lifestyle changes",
+          "B) Lifestyle changes and medications were equally effective",
+          "C) Intensive lifestyle changes resulted in coronary atherosclerosis regression and reduced cardiac events without lipid-lowering drugs",
+          "D) Results showed no difference between intervention and control groups"
+        ],
+        "correct_answer": "C) Intensive lifestyle changes resulted in coronary atherosclerosis regression and reduced cardiac events without lipid-lowering drugs",
+        "page_reference": "71",
+        "rationale": "The Lifestyle Heart Trial demonstrated that comprehensive lifestyle changes in ambulatory patients with moderate to severe coronary heart disease resulted in significant reductions in LDL cholesterol and anginal episodes after one year and showed even more regression of coronary atherosclerosis after 5 years, without using lipid-lowering medications. In contrast, control group patients showed progression of coronary atherosclerosis and had more than twice as many cardiac events.",
+        "section": "Key Clinical Processes in Lifestyle Medicine",
+        "question_type": "Supplementary",
+        "question_id": "1198",
+        "section_number": "03"
+      }
+    
+  ]
+  

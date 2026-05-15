@@ -1,0 +1,514 @@
+[
+  {
+    "question_text": "A 45-year-old woman with type 2 diabetes and a BMI of 33 kg/m\u00c2\u00b2 has been following a whole food plant-based diet for 3 months. Her fasting blood glucose has improved from 180 mg/dL to 120 mg/dL. She is eager to discontinue her metformin. According to the American College of Lifestyle Medicine's position statement on type 2 diabetes, which of the following is the most appropriate next step?",
+    "options": [
+      "A) Discontinue metformin immediately",
+      "B) Reduce metformin dose by half",
+      "C) Continue current treatment and recheck HbA1c in 3 months",
+      "D) Increase metformin dose to achieve further glucose reduction"
+    ],
+    "correct_answer": "C) Continue current treatment and recheck HbA1c in 3 months",
+    "page_reference": "Page 75",
+    "rationale": "The ACLM recommends that remission (rather than \"management\") should be the clinical goal in type 2 diabetes treatment, using intensive lifestyle intervention as a primary component of medical care. However, medication changes should be based on HbA1c levels, not just fasting glucose. It's important to continue current treatment and recheck HbA1c in 3 months to ensure sustained improvement before making medication changes.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00097",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing a new electronic health record (EHR) system. Which of the following features would be most beneficial for tracking lifestyle medicine interventions and outcomes?",
+    "options": [
+      "A) Automatic prompts for annual physicals",
+      "B) Integration with billing software",
+      "C) Ability to extract data on lifestyle vital signs and interventions",
+      "D) Patient portal for appointment scheduling"
+    ],
+    "correct_answer": "C) Ability to extract data on lifestyle vital signs and interventions",
+    "page_reference": "Page 81-82",
+    "rationale": "While all these features can be useful, the ability to extract data on lifestyle vital signs and interventions is crucial for tracking the effectiveness of lifestyle medicine interventions. This allows for quality improvement, cost-savings analysis, and demonstration of the impact of lifestyle medicine practices.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00098",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 55-year-old man with a history of myocardial infarction 6 months ago has completed cardiac rehabilitation and wants to continue improving his cardiovascular health. His current exercise regimen includes 30 minutes of moderate-intensity walking 5 days a week. Which of the following recommendations would be most appropriate to further reduce his cardiovascular risk?",
+    "options": [
+      "A) Increase walking time to 60 minutes 5 days a week",
+      "B) Add high-intensity interval training 2 days a week",
+      "C) Incorporate resistance training 2-3 days a week",
+      "D) Begin a daily yoga practice"
+    ],
+    "correct_answer": "C) Incorporate resistance training 2-3 days a week",
+    "page_reference": "Page 59",
+    "rationale": "While all options could potentially benefit cardiovascular health, incorporating resistance training 2-3 days a week would be the most appropriate next step. Resistance training can increase resting energy expenditure, increase muscle mass, improve activities of daily living, and reduce the risk for falls. This complements his current aerobic exercise routine and provides additional cardiovascular benefits.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00099",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practice is designing a quality improvement project to increase the rate of lifestyle medicine vital sign collection. Which of the following is the most appropriate first step in the Plan-Do-Study-Act (PDSA) cycle for this project?",
+    "options": [
+      "A) Implement a new EHR template for lifestyle vital signs",
+      "B) Train all staff on the importance of lifestyle vital signs",
+      "C) Develop a specific, measurable goal for vital sign collection",
+      "D) Analyse current rates of lifestyle vital sign collection"
+    ],
+    "correct_answer": "C) Develop a specific, measurable goal for vital sign collection",
+    "page_reference": "Page 89",
+    "rationale": "The first step in the PDSA cycle is to plan. This includes developing a specific, measurable goal. For example, \"We want 90% of charts to contain lifestyle vital sign data.\" This provides a clear target for the improvement effort and allows for meaningful evaluation in the \"Study\" phase of the cycle.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00100",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing group visits for patients with metabolic syndrome. Which of the following outcome measures would be most appropriate to track the effectiveness of this intervention?",
+    "options": [
+      "A) Patient satisfaction scores",
+      "B) Number of patients attending each session",
+      "C) Changes in metabolic parameters (e.g., blood pressure, lipids, HbA1c)",
+      "D) Revenue generated from group visits"
+    ],
+    "correct_answer": "C) Changes in metabolic parameters (e.g., blood pressure, lipids, HbA1c)",
+    "page_reference": "Page 81-82",
+    "rationale": "While all these measures provide valuable information, changes in metabolic parameters directly reflect the health impact of the group visits. This aligns with the goal of lifestyle medicine to improve health outcomes. Patient satisfaction, attendance, and revenue are important secondary measures but don't directly indicate health improvement.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00101",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 62-year-old woman with hypertension and obesity (BMI 34 kg/m\u00c2\u00b2) has been following a Mediterranean diet for 3 months with no significant weight loss. Her blood pressure remains elevated at 145/92 mmHg. Which of the following dietary modifications would be most likely to improve her blood pressure control?",
+    "options": [
+      "A) Further reduce saturated fat intake",
+      "B) Increase protein intake",
+      "C) Adopt a whole food plant-based dietary pattern",
+      "D) Implement intermittent fasting"
+    ],
+    "correct_answer": "C) Adopt a whole food plant-based dietary pattern",
+    "page_reference": "Page 67-68",
+    "rationale": "While the Mediterranean diet has cardiovascular benefits, the ACLM recommends a whole food plant-based dietary pattern for optimal blood pressure control and weight loss. This dietary pattern has been shown to be more effective in reducing blood pressure and promoting weight loss compared to other diets, including the Mediterranean diet.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00102",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing a new program to reverse type 2 diabetes. Which of the following outcome measures would be most appropriate to define \"reversal\" of diabetes?",
+    "options": [
+      "A) HbA1c < 6.5% while on metformin",
+      "B) Fasting glucose < 126 mg/dL for 3 months",
+      "C) HbA1c < 6.5% without diabetes medications for at least 3 months",
+      "D) Patient-reported resolution of diabetes symptoms"
+    ],
+    "correct_answer": "C) HbA1c < 6.5% without diabetes medications for at least 3 months",
+    "page_reference": "Page 75",
+    "rationale": "The ACLM defines diabetes reversal as achieving an HbA1c below the diabetic threshold of 6.5% without the use of diabetes medications. This should be sustained for at least 3 months to be considered true reversal rather than just temporary improvement.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00103",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practice wants to implement a collaborative care model for patients with chronic diseases. Which of the following is NOT a key element of the Chronic Care Model?",
+    "options": [
+      "A) Self-management support",
+      "B) Decision support",
+      "C) Delivery system design",
+      "D) Pharmaceutical intervention"
+    ],
+    "correct_answer": "D) Pharmaceutical intervention",
+    "page_reference": "Page 84-85",
+    "rationale": "The Chronic Care Model includes several key elements: self-management support, decision support, delivery system design, clinical information systems, health systems, and community resources. Pharmaceutical intervention, while often part of chronic disease management, is not a specific element of the Chronic Care Model.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00104",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is designing a program to prevent cardiovascular disease in high-risk patients. According to the INTERHEART study, which of the following combinations of risk factors accounts for approximately 80% of the population-attributable risk for acute myocardial infarction?",
+    "options": [
+      "A) Smoking, hypertension, diabetes, obesity, physical inactivity",
+      "B) Smoking, dyslipidaemia, hypertension, diabetes, abdominal obesity",
+      "C) Smoking, alcohol consumption, physical inactivity, poor diet, psychosocial factors",
+      "D) Smoking, family history, hypertension, diabetes, chronic kidney disease"
+    ],
+    "correct_answer": "B) Smoking, dyslipidaemia, hypertension, diabetes, abdominal obesity",
+    "page_reference": "Page 10",
+    "rationale": "The INTERHEART study identified nine significant worldwide risk factors for acute myocardial infarction (AMI). Five of these factors - smoking, abnormal lipids, hypertension, diabetes, and obesity - accounted for 80% of the population-attributable risk for AMI.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00105",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 58-year-old man with a history of coronary artery disease is interested in adopting a plant-based diet to improve his cardiovascular health. Which of the following dietary patterns has been shown to reverse coronary artery disease in clinical trials?",
+    "options": [
+      "A) Mediterranean diet",
+      "B) DASH diet",
+      "C) Ketogenic diet",
+      "D) Low-fat, whole food plant-based diet"
+    ],
+    "correct_answer": "D) Low-fat, whole food plant-based diet",
+    "page_reference": "Page 68",
+    "rationale": "According to the work of Caldwell Esselstyn, MD, and Dean Ornish, MD, a low-fat, whole food plant-based dietary pattern is the only eating style that has been shown to reverse coronary artery disease. This diet emphasizes leafy greens and minimizes high-fat plant foods, salt, and caffeine.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00106",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing a new program for weight management. According to current guidelines, what is the recommended initial weight loss goal for patients with obesity?",
+    "options": [
+      "A) 5-10% of initial body weight",
+      "B) 10-15% of initial body weight",
+      "C) 15-20% of initial body weight",
+      "D) 20-25% of initial body weight"
+    ],
+    "correct_answer": "A) 5-10% of initial body weight",
+    "page_reference": "Page 74",
+    "rationale": "Current guidelines recommend an initial weight loss goal of 5-10% of initial body weight for patients with obesity. This modest weight loss has been shown to provide significant health benefits, including improvements in cardiovascular risk factors, glycaemic control, and overall mortality risk.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00107",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 50-year-old woman with a BMI of 35.4 kg/m\u00c2\u00b2 and type 2 diabetes is interested in bariatric surgery. According to current guidelines, which of the following criteria would make her eligible for bariatric surgery?",
+    "options": [
+      "A) BMI \u00e2\u2030\u00a5 30 kg/m\u00c2\u00b2 with inadequately controlled type 2 diabetes",
+      "B) BMI \u00e2\u2030\u00a5 35 kg/m\u00c2\u00b2 with at least one obesity-associated comorbid condition",
+      "C) BMI \u00e2\u2030\u00a5 40 kg/m\u00c2\u00b2 regardless of comorbidities",
+      "D) BMI \u00e2\u2030\u00a5 30 kg/m\u00c2\u00b2 with failure to achieve 5% weight loss after 6 months of lifestyle intervention"
+    ],
+    "correct_answer": "B) BMI \u00e2\u2030\u00a5 35 kg/m\u00c2\u00b2 with at least one obesity-associated comorbid condition",
+    "page_reference": "Page 69",
+    "rationale": "Current guidelines recommend bariatric surgery for individuals with a BMI \u00e2\u2030\u00a5 40 kg/m\u00c2\u00b2, or a BMI \u00e2\u2030\u00a5 35 kg/m\u00c2\u00b2 with at least one obesity-associated comorbid condition (such as type 2 diabetes in this case). The patient in this scenario meets these criteria with a BMI of 35.4 kg/m\u00c2\u00b2 and type 2 diabetes.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00108",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing a new program to assess cardiovascular fitness. Which of the following tests would be most appropriate to measure cardiorespiratory fitness in a typical office setting?",
+    "options": [
+      "A) Treadmill stress test",
+      "B) Step test",
+      "C) 6-minute walk test",
+      "D) Cycle ergometer test"
+    ],
+    "correct_answer": "B) Step test",
+    "page_reference": "Page 66",
+    "rationale": "While all of these tests can measure cardiorespiratory fitness, the step test is the most practical and appropriate for a typical office setting. It requires minimal equipment, can be performed in a small space, and provides a good estimate of cardiorespiratory fitness. The other tests typically require more space, time, or specialized equipment.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00109",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 55-year-old man with metabolic syndrome is interested in improving his health through lifestyle changes. According to the Diabetes Prevention Program (DPP) study, which of the following interventions was most effective in reducing the incidence of type 2 diabetes?",
+    "options": [
+      "A) Metformin 850 mg twice daily",
+      "B) Intensive lifestyle intervention",
+      "C) Combination of metformin and lifestyle intervention",
+      "D) Standard lifestyle recommendations plus placebo"
+    ],
+    "correct_answer": "B) Intensive lifestyle intervention",
+    "page_reference": "Page 72",
+    "rationale": "The Diabetes Prevention Program (DPP) study found that intensive lifestyle intervention was more effective than metformin in reducing the incidence of type 2 diabetes. The lifestyle intervention reduced diabetes incidence by 58% compared to placebo, while metformin reduced incidence by 31%.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00110",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing a new program to assess sleep quality. Which of the following validated tools would be most appropriate for a quick assessment of overall sleep quality in a primary care setting?",
+    "options": [
+      "A) Pittsburgh Sleep Quality Index (PSQI)",
+      "B) Epworth Sleepiness Scale (ESS)",
+      "C) Single-Item Sleep Quality Scale",
+      "D) Insomnia Severity Index (ISI)"
+    ],
+    "correct_answer": "C) Single-Item Sleep Quality Scale",
+    "page_reference": "Page 60",
+    "rationale": "While all of these are validated sleep assessment tools, the Single-Item Sleep Quality Scale is the most appropriate for a quick assessment in a primary care setting. It consists of a single question asking patients to rate their overall sleep quality on a scale from 1 to 10, making it efficient and easy to administer during a routine visit.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00111",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 62-year-old woman with a history of breast cancer asks about lifestyle interventions to reduce her risk of recurrence. Based on current evidence, which of the following interventions has been most strongly associated with improved survival in breast cancer patients?",
+    "options": [
+      "A) Adopting a ketogenic diet",
+      "B) Engaging in regular physical activity",
+      "C) Taking high-dose antioxidant supplements",
+      "D) Practicing daily meditation"
+    ],
+    "correct_answer": "B) Engaging in regular physical activity",
+    "page_reference": "Page 15",
+    "rationale": "According to the information provided, a 2011 meta-analysis of more than 12,000 women with breast cancer revealed that physical activity led to a 34% reduction in risk of death caused by breast cancer, a 24% reduction in disease recurrence, and a 41% reduction in the risk of all-cause mortality. While other interventions may have benefits, physical activity has the strongest evidence for improving survival in breast cancer patients.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00112",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing a new program to assess stress levels. Which of the following validated tools would be most appropriate for a brief assessment of perceived stress in a primary care setting?",
+    "options": [
+      "A) Perceived Stress Scale (PSS-10)",
+      "B) Holmes-Rahe Stress Inventory",
+      "C) Perceived Stress Scale (PSS-4)",
+      "D) Depression Anxiety Stress Scale (DASS-21)"
+    ],
+    "correct_answer": "C) Perceived Stress Scale (PSS-4)",
+    "page_reference": "Page 61",
+    "rationale": "While all of these are validated stress assessment tools, the Perceived Stress Scale (PSS-4) is the most appropriate for a brief assessment in a primary care setting. It's a shortened version of the PSS-10, consisting of only 4 items, making it efficient and easy to administer during a routine visit while still providing valid results.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00113",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 48-year-old man with a BMI of 31 kg/m\u00c2\u00b2 is interested in losing weight. He reports eating a \"healthy\" diet but is not losing weight. Which of the following assessment tools would be most appropriate to get a more accurate picture of his dietary intake?",
+    "options": [
+      "A) 24-hour dietary recall",
+      "B) Food frequency questionnaire",
+      "C) 3-day food diary",
+      "D) Photograph-assisted dietary assessment"
+    ],
+    "correct_answer": "D) Photograph-assisted dietary assessment",
+    "page_reference": "Page 58",
+    "rationale": "While all of these methods can provide useful information about dietary intake, photograph-assisted dietary assessment has been shown to be more accurate than self-reported methods. It can help address underreporting of consumed foods, which is common in individuals trying to lose weight. This method involves patients photographing their meals and providing these at the visit, giving a more objective view of their actual intake.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00114",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing a new program to assess physical activity levels. Which of the following tools is considered the only formally validated traditional vital sign for physical activity?",
+    "options": [
+      "A) International Physical Activity Questionnaire (IPAQ)",
+      "B) Physical Activity Vital Sign (PAVS)",
+      "C) Global Physical Activity Questionnaire (GPAQ)",
+      "D) Godin-Shephard Leisure-Time Physical Activity Questionnaire"
+    ],
+    "correct_answer": "B) Physical Activity Vital Sign (PAVS)",
+    "page_reference": "Page 58",
+    "rationale": "The Physical Activity Vital Sign (PAVS) is considered the only formally validated traditional vital sign for physical activity. It consists of two questions about the frequency and duration of moderate to strenuous exercise, providing a quick and validated measure of physical activity levels.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00115",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 57-year-old woman with a history of cardiovascular disease is interested in adopting a plant-based diet. According to the evidence presented, which of the following dietary patterns has been shown to have the most significant impact on reducing cardiovascular mortality in secondary prevention?",
+    "options": [
+      "A) Low-fat vegetarian diet",
+      "B) Mediterranean diet",
+      "C) DASH diet",
+      "D) Whole food plant-based diet"
+    ],
+    "correct_answer": "D) Whole food plant-based diet",
+    "page_reference": "Page 68",
+    "rationale": "According to the information provided, the ACLM recommends the use of a low-fat, whole foods plant-based dietary pattern based on the work of Caldwell Esselstyn, MD, and Dean Ornish, MD. This is the only eating style that has been shown to reverse coronary artery disease. While other diets like the Mediterranean diet or DASH diet may have preventive benefits, they have not been shown to reverse existing plaque buildup in the coronary arteries.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00116",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic has implemented a new protocol for assessing physical activity levels but finds that only 60% of patients are being screened. Which of the following is the most appropriate next step in the PDSA (Plan-Do-Study-Act) cycle?",
+    "options": [
+      "A) Abandon the new protocol and return to the previous method",
+      "B) Immediately implement a new EHR alert system for physical activity screening",
+      "C) Analyse the reasons for incomplete screening and develop a targeted intervention",
+      "D) Expand the protocol to include additional lifestyle factors without addressing current issues"
+    ],
+    "correct_answer": "C) Analyse the reasons for incomplete screening and develop a targeted intervention",
+    "page_reference": "Page 89",
+    "rationale": "In the PDSA cycle, after implementing a change (Do) and studying the results (Study), the next step is to Act based on what was learned. Analysing the reasons for incomplete screening and developing a targeted intervention allows for continuous improvement rather than abandoning the protocol or implementing additional changes without addressing the current issues.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00117",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practice is implementing a new electronic health record (EHR) system. Which of the following features would be most beneficial for tracking the effectiveness of lifestyle interventions over time?",
+    "options": [
+      "A) Automated appointment reminders",
+      "B) Integration with billing software",
+      "C) Ability to generate longitudinal reports on lifestyle vital signs",
+      "D) Patient portal for online appointment scheduling"
+    ],
+    "correct_answer": "C) Ability to generate longitudinal reports on lifestyle vital signs",
+    "page_reference": "Page 81-82",
+    "rationale": "While all features can be useful, the ability to generate longitudinal reports on lifestyle vital signs is crucial for tracking the effectiveness of lifestyle interventions over time. This feature allows practitioners to monitor changes in key health indicators, evaluate the impact of interventions, and adjust treatment plans accordingly.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00118",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is counselling a patient on the importance of physical activity. According to current guidelines, what is the recommended amount of moderate-intensity aerobic activity for adults per week?",
+    "options": [
+      "A) At least 75 minutes",
+      "B) At least 100 minutes",
+      "C) At least 150 minutes",
+      "D) At least 200 minutes"
+    ],
+    "correct_answer": "C) At least 150 minutes",
+    "page_reference": "Page 59",
+    "rationale": "According to the Physical Activity Vital Sign (PAVS) assessment, adults should aim for at least 150 minutes of moderate-intensity aerobic activity per week. This aligns with current physical activity guidelines for adults.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00119",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is considering implementing shared medical appointments (SMAs) for patients with prediabetes. Which of the following is NOT a typical benefit of SMAs for chronic disease management?",
+    "options": [
+      "A) Increased time for patient education",
+      "B) Improved peer support among patients",
+      "C) Reduced need for individual follow-up appointments",
+      "D) Decreased provider time per patient"
+    ],
+    "correct_answer": "C) Reduced need for individual follow-up appointments",
+    "page_reference": "Page 79-80",
+    "rationale": "While SMAs can improve efficiency, they typically do not reduce the need for individual follow-up appointments. Instead, they often complement individual care. SMAs provide benefits such as increased time for patient education, improved peer support, and more efficient use of provider time, but patients still require personalized care and follow-up.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00120",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A 52-year-old woman with type 2 diabetes, hypertension, and obesity is struggling to manage her conditions. Which of the following interdisciplinary team compositions would be most effective in addressing her complex health needs?",
+    "options": [
+      "A) Primary care physician, endocrinologist, and nutritionist",
+      "B) Primary care physician, health coach, and pharmacist",
+      "C) Primary care physician, registered dietitian, exercise physiologist, and health coach",
+      "D) Endocrinologist, cardiologist, and bariatric surgeon"
+    ],
+    "correct_answer": "C) Primary care physician, registered dietitian, exercise physiologist, and health coach",
+    "page_reference": "Page 77",
+    "rationale": "This interdisciplinary team composition addresses the patient's multiple conditions through lifestyle interventions. The primary care physician oversees overall care, the registered dietitian addresses nutrition, the exercise physiologist helps with physical activity, and the health coach supports behaviour change.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00121",
+    "section_number": "03"
+  },
+  {
+    "question_text": "Which of the following best describes the concept of \"patient activation\" in lifestyle medicine?",
+    "options": [
+      "A) The process of scheduling follow-up appointments for patients",
+      "B) A patient's knowledge, skills, and confidence in managing their own health",
+      "C) The act of prescribing medication to a patient",
+      "D) The process of referring a patient to a specialist"
+    ],
+    "correct_answer": "B) A patient's knowledge, skills, and confidence in managing their own health",
+    "page_reference": "Page 93",
+    "rationale": "Patient activation refers to a patient's knowledge, skills, and confidence in managing their own health and health care. It's an important concept in lifestyle medicine as it relates to patients taking an active role in their health improvement.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00122",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner wants to assess a patient's level of engagement in their own health care. Which of the following tools would be most appropriate for this purpose?",
+    "options": [
+      "A) SF-36 Health Survey",
+      "B) Patient Activation Measure (PAM)",
+      "C) EuroQol EQ-5D",
+      "D) Health Literacy Questionnaire (HLQ)"
+    ],
+    "correct_answer": "B) Patient Activation Measure (PAM)",
+    "page_reference": "Page 93",
+    "rationale": "The Patient Activation Measure (PAM) is specifically designed to assess a patient's knowledge, skills, and confidence in managing their own health and health care. It's a validated tool that provides insight into a patient's level of engagement, which is crucial in lifestyle medicine interventions.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00123",
+    "section_number": "03"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is considering implementing shared medical appointments (SMAs) in their practice. Which of the following is NOT a typical benefit of SMAs?",
+    "options": [
+      "A) Improved access to care",
+      "B) Increased patient and provider satisfaction",
+      "C) Reduced costs and increased income",
+      "D) Decreased need for patient education"
+    ],
+    "correct_answer": "D) Decreased need for patient education",
+    "page_reference": "Page 79-80",
+    "rationale": "Shared medical appointments typically increase, rather than decrease, opportunities for patient education. They allow for more time to cover educational content and discuss lifestyle medicine topics. The other options are all recognized benefits of SMAs.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00124",
+    "section_number": "03"
+  },
+  {
+    "question_text": "According to the Chronic Care Model, which of the following is considered a key element in improving outcomes for patients with chronic conditions?",
+    "options": [
+      "A) Increased use of specialist referrals",
+      "B) Focus on acute care management",
+      "C) Self-management support",
+      "D) Prioritization of pharmaceutical interventions"
+    ],
+    "correct_answer": "C) Self-management support",
+    "page_reference": "Page 84-85",
+    "rationale": "Self-management support is a key element of the Chronic Care Model. It involves collaborating with patients and families to help them acquire the skills and confidence to manage their chronic conditions, providing self-management tools, and routinely assessing problems and accomplishments.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00125",
+    "section_number": "03"
+  },
+  {
+    "question_text": "When implementing a new lifestyle medicine intervention using the Plan-Do-Study-Act (PDSA) cycle, what is the primary purpose of the \"Study\" phase?",
+    "options": [
+      "A) Implement the new intervention",
+      "B) Train staff on the importance of the intervention",
+      "C) Analyse the results of the implemented change",
+      "D) Develop a specific goal for the intervention"
+    ],
+    "correct_answer": "C) Analyse the results of the implemented change",
+    "page_reference": "Page 89",
+    "rationale": "In the PDSA cycle, the \"Study\" phase involves analyzing the results of the implemented change. This analysis helps determine if the change led to the desired improvement and informs the next steps in the improvement process.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00126",
+    "section_number": "03"
+  },
+  {
+    "question_text": "Which of the following tools is considered the most appropriate for a brief alcohol use screening in a primary care setting?",
+    "options": [
+      "A) CAGE questionnaire",
+      "B) AUDIT-C",
+      "C) Michigan Alcohol Screening Test (MAST)",
+      "D) Full Alcohol Use Disorders Identification Test (AUDIT)"
+    ],
+    "correct_answer": "B) AUDIT-C",
+    "page_reference": "Page 62",
+    "rationale": "The AUDIT-C is a brief, 3-question screening tool that is considered most appropriate for quick assessment of alcohol use in primary care settings. It is more concise than the full AUDIT and more sensitive than the CAGE questionnaire for identifying risky drinking.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00127",
+    "section_number": "03"
+  },
+  {
+    "question_text": "In the context of shared medical appointments (SMAs) for chronic disease management, which of the following is NOT typically considered a benefit?",
+    "options": [
+      "A) Improved access to care",
+      "B) Increased patient and provider satisfaction",
+      "C) Reduced need for individual follow-up appointments",
+      "D) Decreased opportunity for peer support"
+    ],
+    "correct_answer": "D) Decreased opportunity for peer support",
+    "page_reference": "Page 79-80",
+    "rationale": "Shared medical appointments typically increase, rather than decrease, opportunities for peer support. They allow patients to learn from each other's experiences and questions. The other options are recognized benefits of SMAs.",
+    "section": "Key Clinical Processes in Lifestyle Medicine",
+    "question_type": "General",
+    "question_id": "00128",
+    "section_number": "03"
+  }
+]

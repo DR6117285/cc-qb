@@ -1,0 +1,162 @@
+[
+  {
+    "question_text": "A 42-year-old software engineer presents to your clinic complaining of chronic stress related to his high-pressure job. You decide to administer the Perceived Stress Scale (PSS) to assess his stress levels. Which of the following best describes the time frame that patients should consider when answering questions on the Perceived Stress Scale?",
+    "options": [
+      "A) The past week",
+      "B) The past two weeks",
+      "C) The past month",
+      "D) The past six months"
+    ],
+    "correct_answer": "C) The past month",
+    "page_reference": "Page 251",
+    "rationale": "The Perceived Stress Scale (PSS), developed by Cohen et al. in 1983, asks respondents to consider their feelings and thoughts during the last month. This time frame allows for a comprehensive assessment of recent stressors while avoiding the potential recall bias associated with longer periods. Option A (past week) and B (past two weeks) are too short to capture the full range of stressors, while option D (past six months) is too long and may lead to inaccurate recall. The month-long time frame provides a balance between recent experiences and a broad enough window to capture typical stress patterns.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00720",
+    "section_number": "07"
+  },
+  {
+    "question_text": "A 35-year-old woman has been practicing mindfulness meditation for 8 weeks to manage her anxiety symptoms. She reports feeling calmer and more focused. According to recent neuroimaging studies, which of the following brain changes is most likely to be observed in this patient after her 8-week mindfulness practice?",
+    "options": [
+      "A) Decreased gray matter density in the hippocampus",
+      "B) Increased gray matter density in the amygdala",
+      "C) Decreased thickness of the prefrontal cortex",
+      "D) Increased gray matter density in the hippocampus"
+    ],
+    "correct_answer": "D) Increased gray matter density in the hippocampus",
+    "page_reference": "Page 256",
+    "rationale": "According to the studies by H\u00c3\u00b6lzel et al. (2010, 2011), 8 weeks of mindfulness training can lead to several changes in brain structure. The most significant and relevant change mentioned is an increase in gray matter density in the hippocampus, which is responsible for learning, memory formation, emotional regulation, and self-awareness. Option A is incorrect because mindfulness increases, not decreases, hippocampal gray matter density. Option B is incorrect because mindfulness actually reduces gray matter density in the amygdala, which correlates with reduced stress and anxiety. Option C is incorrect because mindfulness increases, not decreases, the thickness of the prefrontal cortex.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00721",
+    "section_number": "07"
+  },
+  {
+    "question_text": "A 50-year-old man comes to your clinic reporting feelings of worthlessness, difficulty concentrating, and significant unintentional weight loss over the past month. He mentions that these symptoms have been persistent and are affecting his work and personal life. Based on the DSM-5 criteria, which additional symptom would be necessary to confirm a diagnosis of Major Depressive Disorder (MDD) in this patient?",
+    "options": [
+      "A) Recurrent panic attacks",
+      "B) Depressed mood most of the day, nearly every day",
+      "C) Obsessive thoughts about contamination",
+      "D) Manic episodes alternating with depressive symptoms"
+    ],
+    "correct_answer": "B) Depressed mood most of the day, nearly every day",
+    "page_reference": "Page 252",
+    "rationale": "According to the DSM-5 criteria for Major Depressive Disorder (MDD), a diagnosis requires the presence of five or more symptoms that have persisted for at least two weeks and represent a change from previous functioning. The patient already exhibits three symptoms: feelings of worthlessness, difficulty concentrating, and significant weight loss. To meet the full criteria for MDD, one of the symptoms must be either depressed mood or loss of interest/pleasure (anhedonia). In this case, option B (depressed mood most of the day, nearly every day) would fulfill this requirement and confirm the diagnosis of MDD. Option A (recurrent panic attacks) is a symptom of panic disorder, not MDD. Option C (obsessive thoughts about contamination) is associated with obsessive-compulsive disorder. Option D (manic episodes alternating with depressive symptoms) would suggest bipolar disorder rather than MDD.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00722",
+    "section_number": "07"
+  },
+  {
+    "question_text": "You are conducting a mindfulness-based stress reduction (MBSR) program for healthcare professionals. A participant asks about the core principles of mindfulness practice. Which of the following best describes a fundamental element of mindfulness practice, as defined by Jon Kabat-Zinn?",
+    "options": [
+      "A) Analyzing and interpreting the intentions behind each thought",
+      "B) Planning carefully for future stressors",
+      "C) Paying attention on purpose to present thoughts and feelings",
+      "D) Suppressing negative emotions to achieve a calm state"
+    ],
+    "correct_answer": "C) Paying attention on purpose to present thoughts and feelings",
+    "page_reference": "Page 262",
+    "rationale": "According to Jon Kabat-Zinn's work on mindfulness, including his book \"Mindfulness for Beginners,\" a fundamental element of mindfulness practice is paying attention on purpose to what you are thinking and feeling in the present moment. This involves being fully present and aware of one's current experience without judgment. Option A is incorrect because mindfulness does not involve analyzing or interpreting thoughts, but rather observing them without attachment. Option B is incorrect because mindfulness focuses on the present moment rather than planning for the future. Option D is incorrect because mindfulness does not involve suppressing emotions, but rather acknowledging and accepting them without judgment.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00723",
+    "section_number": "07"
+  },
+  {
+    "question_text": "A 45-year-old woman with a history of depression has been stable on antidepressant medication for the past two years. She is interested in complementary approaches to maintain her mental health. Which of the following lifestyle medicine interventions would be most appropriate to recommend as an adjunct to her current pharmacotherapy?",
+    "options": [
+      "A) Initiating a vigorous exercise program alone",
+      "B) Implementing a strict elimination diet",
+      "C) Focusing solely on improving sleep hygiene",
+      "D) Integrating a whole-person approach addressing all pillars of lifestyle medicine"
+    ],
+    "correct_answer": "D) Integrating a whole-person approach addressing all pillars of lifestyle medicine",
+    "page_reference": "Page 257",
+    "rationale": "Lifestyle medicine treatment plans for improving mental health utilize a whole-person approach to overall well-being by focusing on the six pillars of lifestyle medicine: diet, exercise, substance use, psychological well-being/stress, relationships, and sleep. This comprehensive approach is most likely to provide synergistic benefits and address multiple factors that can influence mental health. Option A (vigorous exercise program alone) is too narrow and may not be appropriate for everyone. Option B (strict elimination diet) is overly restrictive and not evidence-based for depression management. Option C (focusing solely on sleep hygiene) neglects other important aspects of lifestyle that can impact mental health. The whole-person approach in option D allows for a balanced and individualized intervention that can complement pharmacotherapy and potentially enhance overall well-being.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00724",
+    "section_number": "07"
+  },
+  {
+    "question_text": "A 52-year-old executive presents with complaints of chronic stress and difficulty managing work-life balance. You decide to implement a Mindfulness-Based Stress Reduction (MBSR) program. Which of the following best describes a key component of MBSR as developed by Jon Kabat-Zinn?",
+    "options": [
+      "A) Analyzing past experiences to identify stress triggers",
+      "B) Practicing intense physical exercises to release tension",
+      "C) Focusing on future goals to motivate stress reduction",
+      "D) Cultivating present-moment awareness without judgment"
+    ],
+    "correct_answer": "D) Cultivating present-moment awareness without judgment",
+    "page_reference": "Page 254",
+    "rationale": "Mindfulness-Based Stress Reduction (MBSR), as developed by Jon Kabat-Zinn, emphasizes cultivating present-moment awareness without judgment. This approach involves paying attention to current thoughts, feelings, and bodily sensations without trying to change or interpret them. Option A is incorrect because MBSR focuses on present experiences rather than analyzing past events. Option B is not a key component of MBSR, which primarily involves mental exercises rather than intense physical activity. Option C contradicts the MBSR principle of focusing on the present moment rather than future goals.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00725",
+    "section_number": "07"
+  },
+  {
+    "question_text": "A 40-year-old man with a history of coronary artery disease is referred to you for lifestyle management. Recent studies have shown a connection between depression and cardiac health. Which of the following best describes the relationship between major depressive disorder (MDD) and cardiac events in patients with coronary artery disease?",
+    "options": [
+      "A) MDD increases cardiac risk by 5-10%",
+      "B) MDD doubles the risk of cardiac events",
+      "C) MDD has no significant impact on cardiac events",
+      "D) MDD reduces the risk of cardiac events by 15-20%"
+    ],
+    "correct_answer": "B) MDD doubles the risk of cardiac events",
+    "page_reference": "Page 258",
+    "rationale": "According to the research cited in the text, major depressive disorder (MDD) doubles cardiac events, even when controlling for factors such as ejection fraction and number of blocked arteries. This significant increase in risk highlights the importance of addressing mental health in patients with coronary artery disease. Option A underestimates the impact of MDD on cardiac risk. Option C is incorrect as there is a clear and significant relationship between MDD and cardiac events. Option D is the opposite of the actual relationship, as MDD increases, not reduces, cardiac risk.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00726",
+    "section_number": "07"
+  },
+  {
+    "question_text": "A 30-year-old woman has been participating in an 8-week Mindfulness-Based Stress Reduction (MBSR) program to manage her chronic anxiety. She asks about the potential benefits of this practice on her brain. Based on recent neuroimaging studies, which of the following changes would you expect to see in her brain after completing the MBSR program?",
+    "options": [
+      "A) Increased gray matter density in the amygdala",
+      "B) Decreased thickness of the prefrontal cortex",
+      "C) Reduced gray matter density in the amygdala",
+      "D) Decreased gray matter density in the hippocampus"
+    ],
+    "correct_answer": "C) Reduced gray matter density in the amygdala",
+    "page_reference": "Page 256",
+    "rationale": "According to studies by H\u00c3\u00b6lzel et al. (2010, 2011), 8 weeks of mindfulness training can lead to reduced gray matter density in the amygdala, which correlates with reduced stress, anxiety, and negative thoughts. This change is consistent with the reported benefits of mindfulness practice in managing anxiety. Option A is incorrect because mindfulness decreases, not increases, amygdala gray matter density. Option B is incorrect as mindfulness actually increases the thickness of the prefrontal cortex. Option D is incorrect because mindfulness increases, not decreases, hippocampal gray matter density.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00727",
+    "section_number": "07"
+  },
+  {
+    "question_text": "A 45-year-old woman with a history of depression is interested in complementary approaches to maintain her mental health alongside her current pharmacotherapy. Which of the following lifestyle medicine interventions would be most appropriate to recommend?",
+    "options": [
+      "A) Focusing solely on a rigorous exercise regimen",
+      "B) Implementing a strict plant-based diet",
+      "C) Emphasizing sleep hygiene improvements only",
+      "D) Integrating a comprehensive approach addressing all pillars of lifestyle medicine"
+    ],
+    "correct_answer": "D) Integrating a comprehensive approach addressing all pillars of lifestyle medicine",
+    "page_reference": "Page 257",
+    "rationale": "Lifestyle medicine treatment plans for improving mental health utilize a whole-person approach to overall well-being by focusing on the six pillars of lifestyle medicine: diet, exercise, substance use, psychological well-being/stress, relationships, and sleep. This comprehensive approach is most likely to provide synergistic benefits and address multiple factors that can influence mental health. Option A is too narrow and neglects other important aspects of lifestyle medicine. Option B, while potentially beneficial, is not comprehensive enough to address all aspects of mental health. Option C, like option A, is too limited in scope. The integrated approach in option D allows for a balanced intervention that can complement pharmacotherapy and potentially enhance overall well-being.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00728",
+    "section_number": "07"
+  },
+  {
+    "question_text": "A 55-year-old man presents with symptoms of persistent sadness, loss of interest in activities, and difficulty concentrating for the past month. You suspect major depressive disorder (MDD). According to the DSM-5 criteria, which additional symptom is necessary to confirm the diagnosis of MDD?",
+    "options": [
+      "A) Panic attacks occurring at least twice a week",
+      "B) Manic episodes alternating with depressive symptoms",
+      "C) Significant weight loss when not dieting or weight gain",
+      "D) Obsessive thoughts about cleanliness and order"
+    ],
+    "correct_answer": "C) Significant weight loss when not dieting or weight gain",
+    "page_reference": "Page 252",
+    "rationale": "According to the DSM-5 criteria for Major Depressive Disorder (MDD), a diagnosis requires the presence of five or more symptoms that have persisted for at least two weeks. The patient already exhibits three symptoms: persistent sadness (depressed mood), loss of interest in activities (anhedonia), and difficulty concentrating. Significant weight loss when not dieting or weight gain is another criterion for MDD and would help confirm the diagnosis. Option A (panic attacks) is a symptom of panic disorder, not MDD. Option B (manic episodes) would suggest bipolar disorder rather than MDD. Option D (obsessive thoughts) is associated with obsessive-compulsive disorder, not MDD.",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "question_type": "Study-Tool Based",
+    "question_id": "00729",
+    "section_number": "07"
+  }
+]

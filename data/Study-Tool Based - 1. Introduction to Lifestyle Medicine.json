@@ -1,0 +1,322 @@
+[
+  {
+    "question_text": "A 55-year-old man with coronary artery disease (CAD) is interested in lifestyle interventions to improve his condition. He has heard about a study showing lifestyle changes can reverse CAD. Which of the following studies provides the strongest evidence for this approach?",
+    "options": [
+      "A) The INTERHEART study",
+      "B) The Nurses' Health Study",
+      "C) The Lifestyle Heart Trial by Ornish et al.",
+      "D) The Diabetes Prevention Program"
+    ],
+    "correct_answer": "C) The Lifestyle Heart Trial by Ornish et al.",
+    "page_reference": "Page 14",
+    "rationale": "The Lifestyle Heart Trial by Ornish et al. (1998) demonstrated that intensive lifestyle changes, including a plant-based diet, stress management, and exercise, can lead to regression of coronary atherosclerosis. This study specifically focused on reversing coronary artery disease through lifestyle interventions. The INTERHEART study (Yusuf et al., 2004) identified risk factors for myocardial infarction but did not focus on reversal. The Nurses' Health Study (Stampfer et al., 2000) examined prevention of coronary heart disease in women through diet and lifestyle. The Diabetes Prevention Program (Knowler et al., 2002) focused on preventing diabetes, not specifically on CAD reversal.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00498",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A 50-year-old woman with multiple risk factors for cardiovascular disease asks her physician about the most important lifestyle changes she can make to reduce her risk. Based on the INTERHEART study, which combination of modifiable risk factors would have the greatest impact on reducing her risk of acute myocardial infarction?",
+    "options": [
+      "A) Smoking cessation and regular exercise",
+      "B) Dietary changes and stress reduction",
+      "C) Weight loss and alcohol moderation",
+      "D) Lipid control and diabetes management"
+    ],
+    "correct_answer": "A) Smoking cessation and regular exercise",
+    "page_reference": "Page 10",
+    "rationale": "The INTERHEART study (Yusuf et al., 2004) identified nine significant worldwide risk factors for acute myocardial infarction (AMI). Among these, smoking was one of the most significant risk factors, accounting for a large portion of the population-attributable risk. Physical inactivity was also identified as a major risk factor. While all the options presented are important for cardiovascular health, the combination of smoking cessation and regular exercise would likely have the greatest impact on reducing AMI risk based on the INTERHEART study findings. Dietary changes, stress reduction, weight management, and other factors are also important but were not found to have as large an impact as smoking and physical activity in this particular study.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00499",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A 45-year-old female nurse participates in a long-term health study. Based on the findings from the Nurses' Health Study, which combination of lifestyle factors would be most strongly associated with a lower risk of coronary heart disease in this participant?",
+    "options": [
+      "A) Low-fat diet and moderate alcohol consumption",
+      "B) Regular exercise and smoking cessation",
+      "C) Vegetarian diet and stress management",
+      "D) Weight maintenance and high fiber intake"
+    ],
+    "correct_answer": "B) Regular exercise and smoking cessation",
+    "page_reference": "Page 11-12",
+    "rationale": "The Nurses' Health Study, as described by Stampfer et al. (2000), identified five key health factors associated with a lower risk of coronary heart disease: absence of smoking, BMI < 25, moderate to vigorous exercise \u00e2\u2030\u00a5 30 minutes per day, moderate alcohol consumption, and a healthy diet score. Among these factors, smoking cessation and regular exercise were consistently strong predictors of reduced coronary heart disease risk. While all the options presented contain beneficial lifestyle factors, the combination of regular exercise and smoking cessation aligns most closely with the strongest findings from the Nurses' Health Study. The other options, while potentially beneficial, were not as strongly associated with reduced coronary heart disease risk in this particular study.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00500",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A healthcare system is implementing a diabetes prevention program based on evidence from large clinical trials. Which of the following interventions should be prioritized based on the results of the Diabetes Prevention Program?",
+    "options": [
+      "A) Metformin prescription for all high-risk individuals",
+      "B) Intensive lifestyle modification program",
+      "C) Annual screening for all adults over 40",
+      "D) Bariatric surgery for obese individuals with prediabetes"
+    ],
+    "correct_answer": "B) Intensive lifestyle modification program",
+    "page_reference": "Page 14",
+    "rationale": "The Diabetes Prevention Program (Knowler et al., 2002) was a landmark study that compared the effectiveness of lifestyle intervention, metformin, and placebo in preventing diabetes in high-risk individuals. The study found that intensive lifestyle intervention was significantly more effective than both metformin and placebo in reducing the incidence of diabetes. Specifically, lifestyle intervention reduced diabetes incidence by 58% compared to placebo, while metformin reduced it by 31%. Therefore, based on this evidence, implementing an intensive lifestyle modification program should be prioritized in a diabetes prevention initiative. While metformin was also effective, it was not as powerful as lifestyle changes. Annual screening and bariatric surgery, while potentially beneficial in certain cases, were not specifically studied or recommended as primary interventions in the Diabetes Prevention Program.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00501",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is evaluating the cardiovascular risk of a 55-year-old patient. Which study's risk factor assessment would be most comprehensive in identifying the patient's modifiable risk factors for acute myocardial infarction?",
+    "options": [
+      "A) Framingham Heart Study",
+      "B) INTERSTROKE Study",
+      "C) INTERHEART Study",
+      "D) Chicago Heart Association Detection Project"
+    ],
+    "correct_answer": "C) INTERHEART Study",
+    "page_reference": "Page 10",
+    "rationale": "The INTERHEART study (Yusuf et al., 2004) identified nine significant worldwide risk factors for acute myocardial infarction (AMI). These factors included smoking, lipids, hypertension, diabetes, obesity, dietary patterns, physical inactivity, alcohol consumption, and psychosocial factors. This study is particularly comprehensive as it accounted for over 90% of the population-attributable risk for AMI in both men and women. The Framingham Heart Study, while groundbreaking, focused on fewer risk factors. The INTERSTROKE study focused on stroke risk factors, not specifically on AMI. The Chicago Heart Association Detection Project, while valuable, did not provide as comprehensive a list of modifiable risk factors as the INTERHEART study.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00502",
+    "section_number": "01"
+  },
+  {
+    "question_text": "In the Adventist Health Study 2, which dietary pattern was associated with the lowest all-cause mortality compared to non-vegetarians?",
+    "options": [
+      "A) Vegan",
+      "B) Lacto-ovo-vegetarian",
+      "C) Pesco-vegetarian",
+      "D) Semi-vegetarian"
+    ],
+    "correct_answer": "C) Pesco-vegetarian",
+    "page_reference": "Page 12",
+    "rationale": "The Adventist Health Study 2 found a reduced risk for all-cause mortality in people consuming various vegetarian diets compared to non-vegetarians. However, among the different vegetarian dietary patterns, pesco-vegetarians (those who include fish in their diet) showed the lowest all-cause mortality with a hazard ratio of 0.81 (95% CI: 0.69 to 0.94) compared to non-vegetarians. Vegans had a hazard ratio of 0.85, lacto-ovo-vegetarians 0.91, and semi-vegetarians 0.92. This study highlights the potential benefits of including fish in a plant-based diet for overall mortality risk reduction.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00503",
+    "section_number": "01"
+  },
+  {
+    "question_text": "A lifestyle medicine physician is explaining the concept of \"planetary health\" to a patient. Which of the following best describes the core focus of planetary health according to the Planetary Health Alliance?",
+    "options": [
+      "A) Reducing individual carbon footprints",
+      "B) Promoting sustainable agriculture practices",
+      "C) Analyzing human impacts on Earth's systems and their health effects",
+      "D) Developing renewable energy sources"
+    ],
+    "correct_answer": "C) Analyzing human impacts on Earth's systems and their health effects",
+    "page_reference": "Page 19",
+    "rationale": "According to the Planetary Health Alliance, planetary health is defined as \"a solutions-oriented, transdisciplinary field and social movement focused on analyzing and addressing the impacts of human disruptions to Earth's natural systems on human health and all life on Earth.\" This definition emphasizes the interconnection between human activities, environmental changes, and health outcomes. While reducing carbon footprints, promoting sustainable agriculture, and developing renewable energy are important aspects of environmental sustainability, they are more specific actions rather than the core focus of planetary health as a field of study and practice.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00504",
+    "section_number": "01"
+  },
+  {
+    "question_text": "In the context of lifestyle medicine, what does the acronym \"ITLC\" stand for, and what is its primary purpose?",
+    "options": [
+      "A) Integrated Team Lifestyle Counseling - to coordinate multidisciplinary care",
+      "B) Intensive Therapeutic Lifestyle Change - to induce dramatic health improvements",
+      "C) Individual Tailored Lifestyle Coaching - to personalize health interventions",
+      "D) Intermittent Time-Limited Conditioning - to optimize exercise routines"
+    ],
+    "correct_answer": "B) Intensive Therapeutic Lifestyle Change - to induce dramatic health improvements",
+    "page_reference": "Page 2",
+    "rationale": "ITLC stands for Intensive Therapeutic Lifestyle Change. These programs are designed to encourage drastic changes in one's daily routine, including sleep habits, eating patterns, physical activity, and stress management. The primary purpose of ITLC programs is to produce an essential induction phase needed for people to make dramatic lifestyle changes necessary for treating severe disease. These programs typically involve a multi-modality team and are administered in a group setting, aiming to transform a patient's concept of what is possible with lifestyle change.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00505",
+    "section_number": "01"
+  },
+  {
+    "question_text": "According to the American College of Lifestyle Medicine, which of the following is NOT considered one of the six pillars of lifestyle medicine?",
+    "options": [
+      "A) Whole food, plant-predominant eating pattern",
+      "B) Regular physical activity",
+      "C) Restorative sleep",
+      "D) Medication management"
+    ],
+    "correct_answer": "D) Medication management",
+    "page_reference": "Page 1",
+    "rationale": "The American College of Lifestyle Medicine defines six pillars of lifestyle medicine: a whole-food and plant-predominant eating pattern, physical activity, restorative sleep, stress management, avoidance of risky substances, and positive social connections. Medication management, while an important aspect of overall medical care, is not specifically listed as one of the core pillars of lifestyle medicine. This approach emphasizes non-pharmacological interventions as primary therapeutic tools for preventing, treating, and often reversing lifestyle-related chronic conditions.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00506",
+    "section_number": "01"
+  },
+  {
+    "question_text": "Which study demonstrated that a Mediterranean diet supplemented with extra-virgin olive oil or nuts significantly reduced the incidence of major cardiovascular events compared to a reduced-fat diet?",
+    "options": [
+      "A) The Lyon Diet Heart Study",
+      "B) The PREDIMED trial",
+      "C) The Lifestyle Heart Trial",
+      "D) The Portfolio Diet Study"
+    ],
+    "correct_answer": "B) The PREDIMED trial",
+    "page_reference": "Page 16",
+    "rationale": "The PREDIMED (Prevenci\u00c3\u00b3n con Dieta Mediterr\u00c3\u00a1nea) trial demonstrated that the incidence of major cardiovascular events was 30% and 28% lower, respectively, among those assigned to a Mediterranean dietary pattern supplemented with extra-virgin olive oil or nuts than among those assigned to a reduced-fat dietary pattern. This landmark study provided strong evidence for the cardiovascular benefits of a Mediterranean diet supplemented with specific fat sources. The Lyon Diet Heart Study also examined Mediterranean diet effects but focused on secondary prevention. The Lifestyle Heart Trial by Ornish et al. focused on a low-fat vegetarian diet, while the Portfolio Diet Study examined a specific combination of cholesterol-lowering foods.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00507",
+    "section_number": "01"
+  },
+  {
+    "question_text": "The Lyon Diet Heart Study demonstrated the protective effects of a Mediterranean diet for secondary prevention of coronary heart disease. According to the study results, how long were these protective effects maintained after a subject's first heart attack?",
+    "options": [
+      "A) 1 year",
+      "B) 2 years",
+      "C) 3 years",
+      "D) 4 years"
+    ],
+    "correct_answer": "D) 4 years",
+    "page_reference": "Page 13",
+    "rationale": "The Lyon Diet Heart Study looked at secondary prevention of coronary heart disease with a Mediterranean diet versus the American Heart Association Step 1 diet. The study found that for those following the Mediterranean dietary pattern, the protective effects were maintained for 4 years following a study subject's first heart attack. This long-term effect highlights the sustained benefits of dietary interventions in cardiovascular disease management.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00508",
+    "section_number": "01"
+  },
+  {
+    "question_text": "In the context of the Nurses' Health Study, what specific dietary components were used to calculate the \"healthy diet score\" for assessing coronary heart disease risk?",
+    "options": [
+      "A) Saturated fat, trans fat, and cholesterol intake",
+      "B) Fiber, antioxidants, and omega-3 fatty acids",
+      "C) Cereal fiber, marine omega-3 fatty acids, and folate",
+      "D) Fruits, vegetables, and whole grains"
+    ],
+    "correct_answer": "C) Cereal fiber, marine omega-3 fatty acids, and folate",
+    "page_reference": "Page 11-12",
+    "rationale": "In the Nurses' Health Study, the healthy diet score was based on the intake of three key items: dietary intake of cereal fiber, marine omega-3 fatty acids, and folate. Diet scores were categorized into quintiles, with those in the upper 40% (top two quintiles) considered to have a healthy diet score. This specific combination of nutrients was found to be particularly associated with lower coronary heart disease risk, demonstrating the importance of these particular dietary components in cardiovascular health.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00509",
+    "section_number": "01"
+  },
+  {
+    "question_text": "According to the Adventist Health Study 2, what was the odds ratio for diabetes in vegans compared to non-vegetarians, and how does this compare to other dietary patterns studied?",
+    "options": [
+      "A) OR = 0.51, the lowest among all dietary patterns",
+      "B) OR = 0.62, higher than pesco-vegetarians but lower than lacto-ovo-vegetarians",
+      "C) OR = 0.78, the same as lacto-ovo-vegetarians",
+      "D) OR = 0.88, higher than all other vegetarian dietary patterns"
+    ],
+    "correct_answer": "A) OR = 0.51, the lowest among all dietary patterns",
+    "page_reference": "Page 13",
+    "rationale": "The Adventist Health Study 2 found a linear relationship between vegan dietary patterns and health outcomes. For diabetes, vegans had an odds ratio of 0.51 (0.40-0.66) compared to non-vegetarians. This was the lowest odds ratio among all dietary patterns studied, indicating that vegans had the lowest risk of diabetes. This finding highlights the potential benefits of a vegan diet in diabetes prevention, though it's important to note that other factors may also contribute to this association.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00510",
+    "section_number": "01"
+  },
+  {
+    "question_text": "In the context of planetary health, which human lifestyle factor contributes most significantly to climate change-causing greenhouse gas emissions?",
+    "options": [
+      "A) Transportation choices",
+      "B) Dietary patterns",
+      "C) Energy consumption in homes",
+      "D) Consumer goods production"
+    ],
+    "correct_answer": "B) Dietary patterns",
+    "page_reference": "Page 19-20",
+    "rationale": "According to the document, the modifiable human lifestyle factors that contribute most to climate change-causing greenhouse gas emissions are dietary patterns and mode of transport. However, the figure provided (Figure 1.3) shows that food, agriculture, and land use (which are directly related to dietary patterns) contribute a larger percentage to global greenhouse gas emissions compared to transport. This highlights the significant impact of our food choices on planetary health and emphasizes the importance of sustainable dietary patterns in addressing climate change.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00511",
+    "section_number": "01"
+  },
+  {
+    "question_text": "The Chicago Heart Association Detection Project demonstrated an association between lower cardiovascular risk in middle age and quality of life in older age. What specific economic impact was observed for men and women at low risk?",
+    "options": [
+      "A) Men had 1/3 lower total charges; women had 1/2 lower total charges",
+      "B) Men had 1/2 lower total charges; women had 1/3 lower total charges",
+      "C) Both men and women had 1/3 lower total charges",
+      "D) Both men and women had 1/2 lower total charges"
+    ],
+    "correct_answer": "A) Men had 1/3 lower total charges; women had 1/2 lower total charges",
+    "page_reference": "Page 10-11",
+    "rationale": "The Chicago Heart Association Detection Project showed that risk of heart disease is determined by the number of cardiac risk factors a person has. It also demonstrated an association between lower risk in middle age and better quality of life at older ages, as well as lower Medicare costs. Specifically, men at low risk had less than 2/3 total charges ($1,615 less than the control population), which is equivalent to 1/3 lower charges. Women at low risk had less than 1/2 total charges ($1,885 less than the control population). This gender difference in economic impact is a nuanced finding that highlights the potentially greater economic benefits of cardiovascular risk reduction for women.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00512",
+    "section_number": "01"
+  },
+  {
+    "question_text": "According to the Jenkin's Portfolio Diet study, how did the cholesterol-lowering effect of this diet compare to that of a low-dose statin medication?",
+    "options": [
+      "A) The diet was half as effective as the statin",
+      "B) The diet was equally effective as the statin",
+      "C) The diet was twice as effective as the statin",
+      "D) The diet was effective only when combined with the statin"
+    ],
+    "correct_answer": "B) The diet was equally effective as the statin",
+    "page_reference": "Page 14",
+    "rationale": "The Jenkin's Portfolio Diet study, which was based on whole-wheat cereals and low-fat dairy, demonstrated cholesterol control equivalent to that achieved with a low-dose statin medication. This finding is significant as it shows that dietary interventions can be as effective as pharmacological treatments in managing cholesterol levels, without the potential side effects associated with statins.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00513",
+    "section_number": "01"
+  },
+  {
+    "question_text": "In the study by Sarathi and colleagues on Asian youth with newly diagnosed type 2 diabetes, what was the timeframe for achieving diabetes reversal or partial remission with intensive lifestyle therapy?",
+    "options": [
+      "A) 1 month",
+      "B) 3 months",
+      "C) 6 months",
+      "D) 12 months"
+    ],
+    "correct_answer": "B) 3 months",
+    "page_reference": "Page 14",
+    "rationale": "Sarathi and colleagues studied Asian youth who were newly diagnosed with type 2 diabetes and found that intensive lifestyle therapy alone, or in combination with metformin if HbA1c was > 9.0%, could achieve reversal or partial remission of diabetes within 3 months. This rapid response to lifestyle intervention in young people with newly diagnosed diabetes highlights the potential for early, aggressive lifestyle management in preventing long-term diabetes complications.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00514",
+    "section_number": "01"
+  },
+  {
+    "question_text": "In the study examining the effects of a plant-based dietary pattern on prostate cancer, what was the difference in prostate-specific antigen (PSA) levels between the intervention and control groups?",
+    "options": [
+      "A) 2% decline vs 4% increase",
+      "B) 4% decline vs 6% increase",
+      "C) 6% decline vs 2% increase",
+      "D) 8% decline vs 4% increase"
+    ],
+    "correct_answer": "B) 4% decline vs 6% increase",
+    "page_reference": "Page 15",
+    "rationale": "Men with prostate cancer subjected to an Intensive Therapeutic Lifestyle Change (ITLC) program, which included a vegan dietary pattern, soy protein, supplemental vitamins E and C, selenium, exercise, and a support group/stress management program, realized a 4% decline in prostate-specific antigen (PSA), while those in the control group saw a 6% increase. This 10% total difference demonstrates the potential impact of comprehensive lifestyle interventions on prostate cancer progression markers.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00515",
+    "section_number": "01"
+  },
+  {
+    "question_text": "According to the meta-analysis of studies on physical activity and breast cancer survival, what was the reduction in risk of death caused by breast cancer for women who engaged in physical activity?",
+    "options": [
+      "A) 24%",
+      "B) 34%",
+      "C) 41%",
+      "D) 50%"
+    ],
+    "correct_answer": "B) 34%",
+    "page_reference": "Page 15",
+    "rationale": "A 2011 meta-analysis of more than 12,000 women with breast cancer revealed that physical activity led to a 34% reduction in risk of death caused by breast cancer. Additionally, it showed a 24% reduction in disease recurrence and a 41% reduction in the risk of all-cause mortality. This question tests the ability to distinguish between different risk reduction percentages for specific outcomes in breast cancer patients engaging in physical activity.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00516",
+    "section_number": "01"
+  },
+  {
+    "question_text": "In the study analyzing the impact of genetic risk and lifestyle factors on coronary artery disease, what was the reduction in risk for individuals with the highest genetic risk who maintained a favorable lifestyle?",
+    "options": [
+      "A) Nearly 25%",
+      "B) Nearly 35%",
+      "C) Nearly 50%",
+      "D) Nearly 75%"
+    ],
+    "correct_answer": "C) Nearly 50%",
+    "page_reference": "Page 14",
+    "rationale": "An analysis involving 55,685 participants revealed that for those with the highest genetic risk\u00e2\u20ac\u201ddefined as those in the top quintile of polygenic scores based on evaluation of 50 single nucleotide polymorphisms\u00e2\u20ac\u201da favorable lifestyle was associated with a nearly 50% lower risk of coronary artery disease. A favorable lifestyle was defined as having at least three of the four healthy lifestyle factors (no current smoking, no obesity, physical activity at least once weekly, and a healthy dietary pattern). This finding underscores the significant impact of lifestyle factors even in individuals with high genetic risk for coronary artery disease.",
+    "section": "Introduction to Lifestyle Medicine",
+    "question_type": "Study-Tool Based",
+    "question_id": "00517",
+    "section_number": "01"
+  }
+]

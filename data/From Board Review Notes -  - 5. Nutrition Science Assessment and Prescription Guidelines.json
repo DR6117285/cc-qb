@@ -1,0 +1,324 @@
+[
+  {
+      "question_id": "1099",
+      "section_number": "05",
+      "question_type": "Supplementary",
+      "section": "Nutrition Science Assessment and Prescription Guidelines",
+      "question_text": "A 62-year-old woman with type 2 diabetes presents for nutrition counseling. Her current diet consists primarily of processed foods and she reports consuming 3-4 sugar-sweetened beverages daily. Her HbA1c is 8.2%. While discussing dietary changes, she expresses concern about advanced glycation end products (AGEs) that she read about online. Which of the following cooking methods would result in the HIGHEST formation of AGEs?",
+      "options": [
+          "A) Steaming vegetables at 100°C for 15 minutes",
+          "B) Boiling legumes in water for 45 minutes",
+          "C) Broiling meat at 225°C for 20 minutes",
+          "D) Stewing vegetables and meat at low heat for 2 hours"
+      ],
+      "correct_answer": "C) Broiling meat at 225°C for 20 minutes",
+      "page_reference": "153-154",
+      "rationale": "Cooking methods with higher temperatures and dry heat lead to increased formation of AGEs. Broiling (225°C/437°F) and frying (177°C/350°F) result in the highest levels of AGEs, followed by roasting and boiling. Moist cooking methods like steaming, stewing, poaching, and boiling significantly reduce AGE formation. Temperature and moisture are key factors - higher temperatures and dry heat accelerate AGE formation while lower temperatures and moist cooking methods minimize it. The production of AGEs is significantly reduced by cooking with moist, lower temperature heat for a shorter amount of time."
+  },
+  {
+      "question_id": "1100",
+      "section_number": "05",
+      "question_type": "Supplementary",
+      "section": "Nutrition Science Assessment and Prescription Guidelines",
+      "question_text": "A lifestyle medicine physician is counseling a 45-year-old patient with obesity (BMI 33 kg/m2) and prediabetes about ultra-processed foods (UPFs). The patient frequently consumes frozen meals, sugary cereals, and packaged snacks. Recent research has shown that increased UPF consumption is associated with which of the following changes in dietary intake?",
+      "options": [
+          "A) Increased fiber and decreased sodium intake",
+          "B) Decreased carbohydrates and increased protein intake",
+          "C) Increased micronutrient intake and decreased calories",
+          "D) Decreased fiber, zinc, potassium, phosphorus, magnesium, calcium, and vitamins A, C, D, and E"
+      ],
+      "correct_answer": "D) Decreased fiber, zinc, potassium, phosphorus, magnesium, calcium, and vitamins A, C, D, and E",
+      "page_reference": "143",
+      "rationale": "According to the source material, higher UPF intake leads to greater consumption of refined carbohydrates, added sugars, saturated fat, and sodium, which are markers of poor diet quality. Additionally, higher UPF intake leads to decreased dietary fiber, zinc, potassium, phosphorus, magnesium, calcium, and vitamins A, C, D, and E. UPFs are associated with overconsumption (about 500 kcal per day excess) and weight gain (about 2 lbs after 2 weeks). The increasing sales of UPFs have been found to be associated with the rise in obesity."
+  },
+  {
+      "question_id": "1101",
+      "section_number": "05",
+      "question_type": "Supplementary",
+      "section": "Nutrition Science Assessment and Prescription Guidelines",
+      "question_text": "A 58-year-old man with hyperlipidemia is interested in following the Portfolio diet. His total cholesterol is 245 mg/dL and LDL is 165 mg/dL. He asks about the effectiveness compared to medication. According to intervention studies, what level of LDL cholesterol reduction can be expected with strict adherence to the Portfolio diet compared to low-dose statin therapy?",
+      "options": [
+          "A) Portfolio diet reduces LDL by 15% compared to 30% with low-dose statins",
+          "B) Portfolio diet reduces LDL by 28.6% compared to 30.9% with low-dose statins",
+          "C) Portfolio diet reduces LDL by 35% compared to 25% with low-dose statins",
+          "D) Portfolio diet reduces LDL by 40% compared to 45% with low-dose statins"
+      ],
+      "correct_answer": "B) Portfolio diet reduces LDL by 28.6% compared to 30.9% with low-dose statins",
+      "page_reference": "145",
+      "rationale": "According to the research presented in the source material, the Portfolio diet, which is a very low saturated fat dietary pattern high in plant sterols, soy protein, viscous fibers, and almonds, resulted in LDL cholesterol reduction of 28.6%. This was comparable to treatment with 20 mg of lovastatin (low-intensity statin treatment), which lowered LDL by 30.9%. The difference was not statistically significant, demonstrating that this dietary approach can achieve similar lipid-lowering effects to low-dose statin therapy."
+  },
+  {
+      "question_id": "1102",
+      "section_number": "05",
+      "question_type": "Supplementary",
+      "section": "Nutrition Science Assessment and Prescription Guidelines",
+      "question_text": "A 49-year-old woman is following up after receiving nutrition education about the glycemic impact of different foods. She is confused about watermelon, which she heard has a high glycemic index but feels unsatisfied with just eating a small portion. Which of the following best explains the glycemic impact of watermelon consumption?",
+      "options": [
+          "A) High GI of 76 and high GL of 76 due to sugar content",
+          "B) Low GI of 25 and low GL of 8 due to water content",
+          "C) High GI of 76 and low GL of 8 due to high fiber and low carbohydrate",
+          "D) Low GI of 45 and high GL of 38 due to fructose content"
+      ],
+      "correct_answer": "C) High GI of 76 and low GL of 8 due to high fiber and low carbohydrate",
+      "page_reference": "174",
+      "rationale": "Watermelon has a high glycemic index (GI) of 76 but a low glycemic load (GL) of 8 because of its high fiber and low carbohydrate content. This example illustrates why focusing on glycemic load over glycemic index alone provides better guidance about a food's actual impact on blood glucose. GL accounts for both the quality (GI) and quantity of carbohydrates in a typical serving. The source material specifically uses watermelon as an example to demonstrate how a food can have a high GI but low GL due to its composition."
+  },
+  {
+      "question_id": "1103",
+      "section_number": "05",
+      "question_type": "Supplementary",
+      "section": "Nutrition Science Assessment and Prescription Guidelines",
+      "question_text": "A lifestyle medicine physician is reviewing findings from the EPIC-Oxford study with a patient interested in plant-based diets. According to the study results, which of the following findings regarding cardiovascular disease (CVD) risk was observed when comparing different dietary patterns?",
+      "options": [
+          "A) Vegetarians had 22% lower rate of ischemic heart disease but 20% higher rate of stroke than meat-eaters",
+          "B) Vegetarians had 15% lower rate of both ischemic heart disease and stroke than meat-eaters",
+          "C) Vegetarians had 30% higher rate of ischemic heart disease but 10% lower rate of stroke than meat-eaters",
+          "D) Vegetarians had equal rates of both ischemic heart disease and stroke compared to meat-eaters"
+      ],
+      "correct_answer": "A) Vegetarians had 22% lower rate of ischemic heart disease but 20% higher rate of stroke than meat-eaters",
+      "page_reference": "159",
+      "rationale": "The EPIC-Oxford study found that vegetarians had a 22% lower rate of ischemic heart disease than meat-eaters. However, somewhat paradoxically and incongruent with the overall lower rates of ischemic heart disease, vegetarians and vegans had a 20% higher rate of stroke than meat-eaters. This finding highlights the importance of comprehensive nutritional planning when following plant-based diets to ensure adequate intake of all necessary nutrients."
+  },
+  {
+      "question_id": "1104",
+      "section_number": "05",
+      "question_type": "Supplementary",
+      "section": "Nutrition Science Assessment and Prescription Guidelines",
+      "question_text": "A researcher is analyzing data on epigenetic modifications related to dietary patterns. Based on current evidence, which combination of dietary factors has been shown to promote beneficial epigenetic changes?",
+      "options": [
+          "A) High consumption of red meat and increased alcohol intake",
+          "B) Higher consumption of legumes, nuts, fruit, seaweed, and dairy products with lower consumption of red meat",
+          "C) Moderate consumption of processed meats and sweetened beverages",
+          "D) Equal consumption of plant and animal proteins with regular alcohol intake"
+      ],
+      "correct_answer": "B) Higher consumption of legumes, nuts, fruit, seaweed, and dairy products with lower consumption of red meat",
+      "page_reference": "170",
+      "rationale": "According to the source material, beneficial epigenetic changes are promoted by higher consumption of legumes, nuts, fruit, seaweed, and dairy products, combined with lower consumption of unhealthy foods (red meat, processed meat, and sweetened carbonated beverages). Harmful epigenetic changes are promoted by red meat, processed meat, sweetened carbonated beverages, alcohol intake, and a sedentary lifestyle. Dietary patterns richer in plant foods and antioxidants, and lower in animal protein, such as vegan, vegetarian, DASH, and Mediterranean diets, promote beneficial epigenetic changes."
+  },
+  {
+      "question_id": "1105",
+      "section_number": "05",
+      "question_type": "Supplementary",
+      "section": "Nutrition Science Assessment and Prescription Guidelines",
+      "question_text": "A 67-year-old woman with chronic kidney disease presents for nutrition counseling. She reports following a strict vegan diet for the past 5 years. Laboratory testing reveals low vitamin D levels. Which of the following statements best describes the relationship between vitamin D status and vegetarian diets based on the Adventist Health Study-2 findings?",
+      "options": [
+          "A) Vegetarian diets are strongly associated with vitamin D deficiency",
+          "B) Vegetarian diets provide adequate vitamin D through plant sources",
+          "C) A vegetarian diet was not associated with lower levels of vitamin D",
+          "D) Vegetarian diets require double the normal vitamin D supplementation"
+      ],
+      "correct_answer": "C) A vegetarian diet was not associated with lower levels of vitamin D",
+      "page_reference": "161",
+      "rationale": "According to the Adventist Health Study-2 findings specifically mentioned in the source material, a vegetarian diet was not associated with lower levels of vitamin D. This is an important finding as it challenges the common assumption that vegetarian diets necessarily lead to vitamin D deficiency. However, it's important to note that vitamin D status is influenced by multiple factors including sun exposure, age, and individual health conditions, and supplementation may still be necessary regardless of dietary pattern."
+  },
+
+    {
+        "question_id": "1106",
+        "section_number": "05",
+        "question_type": "Supplementary",
+        "section": "Nutrition Science Assessment and Prescription Guidelines",
+        "question_text": "A lifestyle medicine physician is analyzing the Mediterranean dietary pattern's impact on cardiometabolic disease risk based on recent research. According to study findings, in which subgroup of participants were the beneficial metabolic effects of the Mediterranean diet particularly strong?",
+        "options": [
+            "A) Participants with normal gut microbiota",
+            "B) Participants with elevated inflammatory markers",
+            "C) Participants depleted of specific beneficial bacteria based on stool samples",
+            "D) Participants with optimal bacterial diversity"
+        ],
+        "correct_answer": "C) Participants depleted of specific beneficial bacteria based on stool samples",
+        "page_reference": "157",
+        "rationale": "According to the Health Professionals Follow-up Study findings, the beneficial metabolic effects of the Mediterranean diet on cardiometabolic disease risk were particularly strong in a subgroup of participants who were depleted of specific beneficial bacteria based on stool samples. This finding suggests an important interaction between dietary patterns and gut microbiota composition in determining health outcomes, and highlights the potential role of the Mediterranean diet in improving cardiometabolic health particularly in those with suboptimal gut bacterial populations."
+    },
+    {
+        "question_id": "1107",
+        "section_number": "05",
+        "question_type": "Supplementary",
+        "section": "Nutrition Science Assessment and Prescription Guidelines",
+        "question_text": "A 55-year-old man with type 2 diabetes is interested in achieving disease remission through dietary changes. Based on studies utilizing very low-calorie diets for diabetes remission, which patient characteristic is associated with a higher likelihood of successful reversal?",
+        "options": [
+            "A) Longer duration of diabetes",
+            "B) Higher initial HbA1c",
+            "C) Larger amount of weight loss achieved",
+            "D) Younger age"
+        ],
+        "correct_answer": "D) Younger age",
+        "page_reference": "142",
+        "rationale": "According to research findings cited in the source material, a study by Steven et al. examining responders versus non-responders to a very low-calorie diet showed that responders were more likely to have a shorter duration of diabetes, to be younger, and to have a lower fasting glucose, HbA1c, and initial total fat mass. Notably, no difference was seen in the amount of weight loss between responders and non-responders. This suggests that age is a key factor in determining the likelihood of achieving diabetes remission through dietary intervention."
+    },
+    {
+        "question_id": "1108",
+        "section_number": "05",
+        "question_type": "Supplementary",
+        "section": "Nutrition Science Assessment and Prescription Guidelines",
+        "question_text": "A research team is analyzing data from the PREDIMED trial regarding plant-based dietary patterns and mortality risk. According to the complementary pro-vegetarian food pattern study within PREDIMED, what was observed among omnivorous subjects at high cardiovascular risk?",
+        "options": [
+            "A) No association between plant-derived foods and mortality risk",
+            "B) Increased mortality risk with higher plant food consumption",
+            "C) Better conformity to plant-derived foods was associated with reduced risk of all-cause mortality",
+            "D) Equal mortality risk regardless of plant food consumption"
+        ],
+        "correct_answer": "C) Better conformity to plant-derived foods was associated with reduced risk of all-cause mortality",
+        "page_reference": "165",
+        "rationale": "According to the PREDIMED pro-vegetarian food pattern study involving 7,216 participants among omnivorous subjects at high cardiovascular risk, better conformity to a diet that emphasized plant-derived foods was associated with a reduced risk of all-cause mortality. This finding supports the beneficial effects of increasing plant-based foods even among those who continue to consume some animal products, particularly in populations at high cardiovascular risk."
+    },
+    {
+        "question_id": "1109",
+        "section_number": "05",
+        "question_type": "Supplementary",
+        "section": "Nutrition Science Assessment and Prescription Guidelines",
+        "question_text": "A research team is analyzing dietary patterns using the Dietary Inflammatory Index (DII) in a large cohort study. They find conflicting results between two participants who both report high vegetable intake. Which of the following combinations would most likely result in the lowest (most anti-inflammatory) DII score?",
+        "options": [
+            "A) Boiled carrots and celery with ranch dressing",
+            "B) Stir-fried broccoli and bell peppers in vegetable oil",
+            "C) Raw spinach and tomatoes with olive oil and balsamic vinegar",
+            "D) Steamed cauliflower and peas with butter"
+        ],
+        "correct_answer": "C) Raw spinach and tomatoes with olive oil and balsamic vinegar",
+        "page_reference": "167",
+        "rationale": "According to the source material, anti-inflammatory dietary patterns are consistently characterized by high intake of fresh fruits and vegetables, particularly those rich in anthocyanins and other beneficial phytochemicals. The combination of raw spinach and tomatoes with olive oil provides multiple anti-inflammatory compounds. The source specifically notes that foods identified to regulate inflammation include dark leafy greens and unprocessed plant foods. Additionally, the use of olive oil rather than processed dressings or butter, and the inclusion of raw vegetables rather than cooked ones, preserves more of the anti-inflammatory compounds."
+    },
+    {
+        "question_id": "1110",
+        "section_number": "05",
+        "question_type": "Supplementary",
+        "section": "Nutrition Science Assessment and Prescription Guidelines",
+        "question_text": "A lifestyle medicine physician is conducting a multi-pass 24-hour dietary recall with a new patient. After the patient mentions having a sandwich for lunch, which of the following would be the most appropriate next question according to the methodology?",
+        "options": [
+            "A) What type of bread did you use?",
+            "B) How many slices of bread did you have?",
+            "C) What did you consume next?",
+            "D) What did you have with your sandwich?"
+        ],
+        "correct_answer": "C) What did you consume next?",
+        "page_reference": "139",
+        "rationale": "According to the source material, in the first pass of the multi-pass 24-hour recall, the focus should be on open-ended questions that allow the respondent to freely recall everything consumed in the previous day, regardless of whether the food or beverage was part of a specific meal. Details regarding portions and specific ingredients are usually not addressed in the first pass. Therefore, asking 'What did you consume next?' is the most appropriate next question as it maintains the open-ended nature of the first pass without delving into specifics about the sandwich."
+    },
+    {
+        "question_id": "1111",
+        "section_number": "05",
+        "question_type": "Supplementary",
+        "section": "Nutrition Science Assessment and Prescription Guidelines",
+        "question_text": "A 72-year-old woman with osteopenia is following a plant-based diet and wants to ensure adequate calcium intake. She typically consumes large portions of spinach, Swiss chard, and beet greens daily. Which of the following best explains the bioavailability of calcium from these vegetables?",
+        "options": [
+            "A) These greens provide the most bioavailable form of calcium among vegetables",
+            "B) Cooking these greens increases calcium absorption by 50%",
+            "C) High oxalate content in these greens significantly limits calcium absorption",
+            "D) These greens provide moderate calcium absorption when consumed with vitamin D"
+        ],
+        "correct_answer": "C) High oxalate content in these greens significantly limits calcium absorption",
+        "page_reference": "173",
+        "rationale": "According to the source material, while spinach, beet greens, and Swiss chard are very high in calcium, they are also high in oxalates, which significantly reduce the absorption of the calcium present in these greens. For optimal calcium intake from greens, the material specifically recommends choosing low-oxalate greens such as collards, kale, turnip greens, mustard greens, and bok choy. The source explicitly states that essentially all greens are good sources of calcium except for beet greens, chard, and spinach because of their high oxalate content."
+    },
+    {
+        "question_id": "1112",
+        "section_number": "05",
+        "question_type": "Supplementary",
+        "section": "Nutrition Science Assessment and Prescription Guidelines",
+        "question_text": "According to the NOVA classification system, a researcher is categorizing foods for a study on ultra-processed food consumption. Which of the following combinations would ALL be classified as ultra-processed foods?",
+        "options": [
+            "A) Canned black beans, fresh bread, and pasteurized milk",
+            "B) Frozen vegetables, dried fruits, and roasted nuts",
+            "C) Carbonated soft drinks, frozen pizza, and packaged snack cakes",
+            "D) Cheese with added salt, canned fruits in syrup, and fresh-made bread"
+        ],
+        "correct_answer": "C) Carbonated soft drinks, frozen pizza, and packaged snack cakes",
+        "page_reference": "152",
+        "rationale": "According to the NOVA classification system described in the source material, ultra-processed foods (UPFs) are those made through industrial methods and techniques that include artificial colors and flavorings, emulsifiers, and preservatives, in addition to added fat, salt, or sweeteners. The source specifically lists sugary beverages, frozen dinners, pastries, cookies, cakes, and pre-prepared meat products as examples of UPFs. The other options contain foods that fall into different NOVA categories: minimally processed foods (frozen vegetables, dried fruits), processed culinary ingredients (roasted nuts), or processed foods (cheese with added salt, canned fruits in syrup)."
+    },
+    
+      {
+          "question_id": "1113",
+          "section_number": "05",
+          "question_type": "Supplementary",
+          "section": "Nutrition Science Assessment and Prescription Guidelines",
+          "question_text": "In analyzing the Lyon Diet Heart Trial outcomes, researchers found that the Mediterranean-style dietary pattern provided sustained cardiovascular protection. What was the duration of the protective effect observed after the first myocardial infarction?",
+          "options": [
+              "A) Up to 2 years after the first MI",
+              "B) Up to 3 years after the first MI",
+              "C) Up to 4 years after the first MI",
+              "D) Up to 5 years after the first MI"
+          ],
+          "correct_answer": "C) Up to 4 years after the first MI",
+          "page_reference": "163",
+          "rationale": "According to the source material, the protective effect of the Mediterranean dietary pattern in the Lyon Heart Trial was maintained up to 4 years after the first myocardial infarction. The study demonstrated that subjects following the Mediterranean-style diet had a 50-70% lower risk of recurrent heart disease, and the protective effect was sustained for this extended period. This finding was significant enough that the study was stopped early due to the marked beneficial effects noted in the original cohort."
+      },
+      {
+          "question_id": "1114",
+          "section_number": "05",
+          "question_type": "Supplementary",
+          "section": "Nutrition Science Assessment and Prescription Guidelines",
+          "question_text": "A medical school curriculum committee is evaluating implementation of the ACLM Culinary Medicine Curriculum (CMC). They are particularly interested in the impact on clinical outcomes. Based on current evidence regarding culinary medicine training for healthcare providers, which of the following statements is most accurate?",
+          "options": [
+              "A) Provider knowledge of nutrition has no impact on use of nutrition prescriptions",
+              "B) Only registered dietitians should provide culinary medicine education",
+              "C) The likelihood of providers using nutrition prescriptions correlates with their knowledge and self-efficacy in using food as medicine",
+              "D) Culinary medicine training is only effective when provided during residency"
+          ],
+          "correct_answer": "C) The likelihood of providers using nutrition prescriptions correlates with their knowledge and self-efficacy in using food as medicine",
+          "page_reference": "154-155",
+          "rationale": "According to the source material, the likelihood that providers will use nutrition prescriptions is directly related to their own knowledge and self-efficacy in using food as medicine. This highlights the importance of comprehensive culinary medicine training for healthcare providers. The source also notes that while only 25% of medical schools have nutrition courses, interest in culinary medicine is growing among medical schools. The CMC is designed to provide medical and health professional students with lessons on healthy dietary practices and to build behavior-change skills so they can counsel patients effectively."
+      },
+      {
+          "question_id": "1115",
+          "section_number": "05",
+          "question_type": "Supplementary",
+          "section": "Nutrition Science Assessment and Prescription Guidelines",
+          "question_text": "A research team is analyzing HDL functionality changes in response to different dietary patterns. According to recent studies, which combination of dietary factors has been shown to produce positive changes in HDL composition and function?",
+          "options": [
+              "A) Low-fat diet with increased refined carbohydrates",
+              "B) High-protein diet with moderate saturated fat intake",
+              "C) Mediterranean dietary pattern with increased antioxidant-rich foods",
+              "D) Ketogenic diet with high amounts of animal protein"
+          ],
+          "correct_answer": "C) Mediterranean dietary pattern with increased antioxidant-rich foods",
+          "page_reference": "168",
+          "rationale": "The source material indicates that HDL composition and function could be modulated by a healthy Mediterranean dietary pattern. Specifically, positive changes in HDL functionality, composition, and size were found using a Mediterranean dietary pattern, including an increase in HDL cholesterol efflux capacity and a decrease in HDL oxidation. Additionally, antioxidant-rich dietary patterns (consumption of monounsaturated and polyunsaturated fatty acids and dietary antioxidants) improved HDL function in both healthy individuals and participants with high cardiovascular risk."
+      },
+      {
+          "question_id": "1116",
+          "section_number": "05",
+          "question_type": "Supplementary",
+          "section": "Nutrition Science Assessment and Prescription Guidelines",
+          "question_text": "Based on findings from the Adventist Health Study-2 regarding BMI differences among dietary patterns, what was the observed difference in BMI between vegans and non-vegetarians at age 55?",
+          "options": [
+              "A) Vegans weighed approximately 15 pounds less than non-vegetarians",
+              "B) Vegans weighed approximately 30 pounds less than non-vegetarians",
+              "C) Vegans weighed approximately 45 pounds less than non-vegetarians",
+              "D) No significant difference in weight was observed between groups"
+          ],
+          "correct_answer": "B) Vegans weighed approximately 30 pounds less than non-vegetarians",
+          "page_reference": "161",
+          "rationale": "According to the Adventist Health Study-2 findings, there were progressive weight increases from a total vegetarian diet toward a non-vegetarian diet. Specifically, 55-year-old male and female vegans weighed approximately 30 pounds less than non-vegetarians of similar height. This finding was part of a broader pattern showing that levels of cholesterol, diabetes, high blood pressure, and metabolic syndrome all followed the same trend, with vegans showing more favorable outcomes compared to non-vegetarians."
+      },
+      {
+          "question_id": "1117",
+          "section_number": "05",
+          "question_type": "Supplementary",
+          "section": "Nutrition Science Assessment and Prescription Guidelines",
+          "question_text": "Analysis of the Women's Health Initiative (WHI) Dietary Modification trial revealed which of the following outcomes regarding breast cancer, colorectal cancer, and cardiovascular disease risk in postmenopausal women?",
+          "options": [
+              "A) Reducing fat to 20% of energy significantly reduced all three disease risks",
+              "B) The intervention group achieved 24% energy from fat but showed no significant risk reductions over 8 years",
+              "C) Only cardiovascular disease risk was significantly reduced in the intervention group",
+              "D) Cancer risk was reduced but cardiovascular risk remained unchanged"
+          ],
+          "correct_answer": "B) The intervention group achieved 24% energy from fat but showed no significant risk reductions over 8 years",
+          "page_reference": "158",
+          "rationale": "According to the source material, while the WHI Dietary Modification trial intervention group was asked to limit fat to 20% of energy, they only achieved 24% energy from fat during the first year, which coincided with a more intensive nutrition education program. The trial indicated that reducing percentage energy from fat per study diet parameters did not offer breast or colorectal cancer or cardiovascular disease risk reductions over 8 years, though the source notes that longer studies may be more definitive."
+      },
+      {
+          "question_id": "1118",
+          "section_number": "05",
+          "question_type": "Supplementary",
+          "section": "Nutrition Science Assessment and Prescription Guidelines",
+          "question_text": "A lifestyle medicine physician is considering when to refer patients to a registered dietitian. According to current guidelines, which combination of patient characteristics would most strongly indicate the need for referral?",
+          "options": [
+              "A) Overweight BMI with well-controlled type 2 diabetes and stable blood pressure",
+              "B) Recent diagnosis of celiac disease, unintentional weight loss, and multiple food allergies",
+              "C) Stable weight with mild hypertension and occasional acid reflux",
+              "D) Pre-diabetes with successful lifestyle modifications and normal renal function"
+          ],
+          "correct_answer": "B) Recent diagnosis of celiac disease, unintentional weight loss, and multiple food allergies",
+          "page_reference": "176",
+          "rationale": "According to the source material, referrals to a dietitian should be made when a patient has one or more complex chronic conditions including but not limited to: celiac disease, malnutrition (including unintentional weight loss), malabsorption, and food allergies. The combination in option B presents multiple complex nutritional challenges that require specialized dietary expertise. The other options represent more stable conditions or conditions that can be initially managed through standard lifestyle medicine interventions."
+      }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "question_id": "1143",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_type": "Supplementary",
+    "question_text": "A 45-year-old executive presents with complaints of chronic fatigue, difficulty sleeping, and frequent headaches. She works 70-hour weeks, has gained 15 pounds in the last 6 months, and reports feeling overwhelmed. Her cortisol levels are elevated, and heart rate variability is decreased. Which combination of physiological changes would most likely be present in this patient based on her chronic stress state?",
+    "options": [
+
+      "A) Increased bone density, decreased inflammation, and improved immune function",
+      "B) Decreased glucose levels, reduced cholesterol, and enhanced wound healing",
+      "C) Increased insulin resistance, elevated inflammation, and impaired immune function",
+      "D) Reduced abdominal fat, improved sleep quality, and decreased blood clotting"
+    ],
+    "correct_answer": "C",
+    "page_reference": "248",
+    "rationale": "The patient shows classic signs of chronic stress. According to the text, chronic stress leads to multiple physiological changes including increased insulin resistance, inflammation, and impaired immune function. Additionally, it causes increased glucose levels, cholesterol elevation, and problems with wound healing. The other options describe improvements or combinations that are opposite to the documented effects of chronic stress."
+  },
+  {
+    "question_id": "1144",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_type": "Supplementary",
+    "question_text": "A lifestyle medicine clinic is implementing a new mindfulness-based stress reduction (MBSR) program. After 8 weeks of consistent practice, which neurological changes would most accurately reflect successful implementation of the program?",
+    "options": [
+
+      "A) Decreased prefrontal cortex thickness and increased amygdala density",
+      "B) Increased hippocampal gray matter density and reduced amygdala density",
+      "C) Reduced hippocampal volume and increased prefrontal cortex activity",
+      "D) Increased amygdala density and decreased hippocampal activity"
+    ],
+    "correct_answer": "B",
+    "page_reference": "255-256",
+    "rationale": "According to research cited in the text, 8 weeks of mindfulness training produces specific neurological changes: increased thickness of the prefrontal cortex, increased gray matter density in the hippocampus (responsible for learning, memory formation, emotional regulation), and reduced gray matter density in the amygdala (correlating with reduced stress and anxiety). Option B correctly pairs increased hippocampal density with reduced amygdala density."
+  },
+  {
+    "question_id": "1145",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_type": "Supplementary",
+    "question_text": "A research study is examining the relationship between dietary patterns and depression. Which finding would most strongly support the current understanding of this relationship according to recent evidence?",
+    "options": [
+
+      "A) Individual nutrient deficiencies show stronger correlation with depression than overall dietary patterns",
+      "B) Trans fat consumption shows inverse correlation with depression rates",
+      "C) Fast food consumption has no significant impact on depression risk",
+      "D) High intake of fruits, vegetables, whole grains, and fish with low intake of animal foods correlates with decreased depression risk"
+    ],
+    "correct_answer": "D",
+    "page_reference": "260",
+    "rationale": "The text explicitly states that dietary patterns, rather than nutrient deficiencies, are more likely to account for depression symptoms. A dietary pattern characterized by high intake of fruit, vegetables, whole grains, fish, olive oil, low-fat dairy, and antioxidants, coupled with low intake of animal foods, was associated with decreased risk of depression. Additionally, the text notes that fast food consumption is associated with increased risk of depression, and higher trans fat intake correlates with increased risk of depression."
+  },
+  {
+    "question_id": "1146",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_type": "Supplementary",
+    "question_text": "A lifestyle medicine physician is treating a patient with major depressive disorder (MDD) and coronary artery disease (CAD). Which combination of pathophysiological changes would best explain the interaction between these conditions?",
+    "options": [
+
+      "A) Decreased platelet adherence and improved endothelial function",
+      "B) Normal heart rate variability and reduced inflammatory markers",
+      "C) Increased platelet adherence, endothelial dysfunction, and lowered heart rate variability",
+      "D) Enhanced vagal tone and reduced sympathetic activation"
+    ],
+    "correct_answer": "C",
+    "page_reference": "250",
+    "rationale": "The text describes specific pathophysiological changes in patients with depression and CAD: increased abnormal platelet adherence, endothelial dysfunction, and lowered heart rate variability. These changes explain why depression is an independent risk factor for cardiac events and doubles cardiac events even when controlling for ejection fraction and number of blocked arteries."
+  },
+  {
+    "question_id": "1147",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_type": "Supplementary",
+    "question_text": "A 55-year-old patient presents with type 2 diabetes and symptoms of depression. Which biochemical mechanism best explains the bidirectional relationship between these conditions?",
+    "options": [
+
+      "A) Decreased insulin sensitivity has no effect on neurotransmitter synthesis",
+      "B) Insulin-mediated mechanisms affect blood levels of tryptophan and tyrosine, influencing brain serotonin and dopamine synthesis",
+      "C) Depression increases insulin sensitivity and glucose utilization",
+      "D) Type 2 diabetes has no impact on neurotransmitter production"
+    ],
+    "correct_answer": "B",
+    "page_reference": "249",
+    "rationale": "The text describes a specific biochemical mechanism linking diabetes and depression: there is an insulin-mediated mechanism for blood levels of both tryptophan and tyrosine that results in brain serotonin, norepinephrine, and dopamine synthesis. This explains the bidirectional relationship between MDD and type 2 diabetes, where each condition can predict the future development of the other."
+  },
+  {
+    "question_id": "1148",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_type": "Supplementary",
+    "question_text": "A clinical trial is comparing cognitive behavioral therapy (CBT) to antidepressant medication in treating depression. Which outcome would most accurately reflect current evidence regarding these treatments?",
+    "options": [
+
+      "A) Antidepressants show significantly better outcomes than CBT",
+      "B) CBT shows higher relapse rates compared to antidepressants",
+      "C) Combined CBT and antidepressants show worse outcomes than antidepressants alone",
+      "D) CBT shows comparable efficacy to antidepressants with lower relapse rates"
+    ],
+    "correct_answer": "D",
+    "page_reference": "256-257",
+    "rationale": "According to the text, CBT is as efficacious in treating depression as psychotropic medications. Furthermore, there is less incidence of depression relapse among patients treated with CBT compared to antidepressant medication. The text also notes that CBT in combined treatment with antidepressant medication appears to be more effective than treatment with only antidepressant medication."
+  },
+  {
+    "question_id": "1149",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_type": "Supplementary",
+    "question_text": "A lifestyle medicine clinic is studying the effects of work-related stress on cardiovascular disease. Which occupational finding would most accurately represent the relationship between work stress and health outcomes?",
+    "options": [
+
+      "A) Short overtime hours show stronger correlation with cardiovascular disease than extended overtime",
+      "B) Corporate downsizing has no significant impact on cardiovascular death rates",
+      "C) 3-4 hours of daily overtime increases heart disease risk at 7.5-year follow-up",
+      "D) Job strain shows no association with diabetes risk"
+    ],
+    "correct_answer": "C",
+    "page_reference": "250",
+    "rationale": "The text cites a specific study of 22,430 Finnish municipal workers showing that long work hours (3-4 hours of overtime a day) increased heart disease risk at 7.5-year follow-up. Additionally, corporate downsizing increases cardiovascular disease death rates, and work stressors increased the incidence of type 2 diabetes in women by two-fold over a 15-year study period."
+  },
+  {
+    "question_id": "1150",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_type": "Supplementary",
+    "question_text": "A researcher is investigating the impact of adverse childhood experiences (ACEs) on adult psychological health. Which combination of factors would most accurately predict increased psychological distress in adulthood?",
+    "options": [
+
+      "A) ACEs alone without consideration of adult life stress",
+      "B) Adult socioeconomic status without consideration of ACEs",
+      "C) ACEs combined with adult life stress and lower socioeconomic status",
+      "D) Adult life stress alone without consideration of childhood experiences"
+    ],
+    "correct_answer": "C",
+    "page_reference": "246",
+    "rationale": "According to the text, ACE plus adult life stress and/or socioeconomic status has been shown to lead to psychological distress. The conceptual framework presented shows that the combination of childhood ACEs, adult stress, and socioeconomic status together influence psychological distress outcomes, rather than any single factor alone."
+  },
+  {
+    "question_id": "1151",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_type": "Supplementary",
+    "question_text": "A patient with anxiety is participating in mindfulness training. Which neurological mechanism best explains the potential benefits of this intervention?",
+    "options": [
+
+      "A) Decreased connectivity between prefrontal cortex and amygdala",
+      "B) Reduced activity in both the extended and momentary self-reference systems",
+      "C) Stronger connections between prefrontal cortex and amygdala for emotional response modulation",
+      "D) Increased amygdala activity without prefrontal cortex involvement"
+    ],
+    "correct_answer": "C",
+    "page_reference": "255-256",
+    "rationale": "The text states that mindfulness meditation promotes stronger connections between the prefrontal cortex and amygdala areas that are involved in problem-solving skills and modulating emotional responses. This neurological mechanism helps explain how mindfulness can improve emotional regulation and reduce anxiety."
+  },
+  {
+    "question_id": "1152",
+    "section": "Emotional and Mental Health Assessment and Interventions",
+    "section_number": "07",
+    "question_type": "Supplementary",
+    "question_text": "A systematic review is examining the relationship between lifestyle factors and mental health outcomes. Which combination of findings would most accurately reflect current evidence regarding prevention and treatment of mental disorders?",
+    "options": [
+
+      "A) Physical activity prevents ADHD but has no effect on treating depression",
+      "B) Sleep patterns affect only treatment outcomes but not prevention",
+      "C) Dietary patterns prevent anxiety but don't affect depression treatment",
+      "D) Physical activity protects against bipolar disorder and is efficacious in treating depression"
+    ],
+    "correct_answer": "D",
+    "page_reference": "257-258",
+    "rationale": "According to the 2019 systematic meta-review cited in the text, physical activity has protective benefits against the risk of developing bipolar disorder and is efficacious in treating anxiety disorders, major depression, and psychotic disorders. The text specifically outlines the role of various lifestyle factors in both prevention and treatment of mental disorders, with physical activity showing strong evidence for both preventive and therapeutic effects."
+  },
+  
+    {
+      "question_text": "A primary care physician is screening patients for mental health conditions. A 45-year-old patient completes the PHQ-4 with the following scores over the last two weeks: feeling nervous/anxious (2), unable to stop worrying (2), feeling down/depressed (2), little interest in activities (3). Which interpretation and next step would be most appropriate?",
+      "options": [
+        "A) Total score of 9 indicates mild symptoms; no further screening needed",
+        "B) Total score of 9 indicates severe symptoms; immediate psychiatric referral required",
+        "C) Total score of 9 indicates severe symptoms; conduct full PHQ-9 and GAD-7 assessments",
+        "D) Total score of 9 indicates moderate symptoms; continue monitoring without further assessment"
+      ],
+      "correct_answer": "C",
+      "page_reference": "253",
+      "rationale": "The PHQ-4 scoring system indicates that a total score of 9-12 represents severe symptoms. The text specifies that any positive score (≥3) should lead to further assessment for depression or anxiety. In this case, with a score of 9 indicating severe symptoms, the appropriate next step would be to conduct full PHQ-9 and GAD-7 assessments to better characterize the type and severity of symptoms.",
+      "section": "Emotional and Mental Health Assessment and Interventions",
+      "question_type": "Supplementary",
+      "question_id": "1153",
+      "section_number": "07"
+    },
+    {
+      "question_text": "A lifestyle medicine practitioner is explaining different types of stress to a patient. Which clinical scenario most accurately demonstrates the distinction between eustress, neustress, and distress?",
+      "options": [
+        "A) Eustress causes negative health outcomes, while distress improves performance",
+        "B) Neustress and eustress both result in sympathetic nervous system activation",
+        "C) Eustress occurs during a job promotion, neustress when reading about distant events, and distress during financial crisis",
+        "D) Distress is always acute, while eustress is always chronic"
+      ],
+      "correct_answer": "C",
+      "page_reference": "246",
+      "rationale": "The text defines three types of stress: eustress (good stress, such as a motivating or inspiring situation), neustress (neutral stress, or any information perceived as inconsequential), and distress (bad stress, which is information perceived as threatening). The correct answer accurately illustrates these distinctions with relevant examples: a job promotion represents motivating eustress, reading about distant events represents inconsequential neustress, and a financial crisis represents threatening distress.",
+      "section": "Emotional and Mental Health Assessment and Interventions",
+      "question_type": "Supplementary",
+      "question_id": "1154",
+      "section_number": "07"
+    },
+    {
+      "question_text": "A patient scores 28 on the Perceived Stress Scale (PSS). The lifestyle medicine physician is developing a comprehensive stress management plan. Based on evidence-based approaches, which combination of nonpharmacologic interventions would be most appropriate?",
+      "options": [
+        "A) Focus exclusively on breathing exercises and meditation",
+        "B) Recommend only physical exercise and dietary changes",
+        "C) Combine lengthened exhale breathing, therapeutic yoga, meditation, nature exposure, and community engagement activities",
+        "D) Limit interventions to light therapy and massage"
+      ],
+      "correct_answer": "C",
+      "page_reference": "248",
+      "rationale": "The text outlines comprehensive nonpharmacologic stress management plans that include multiple evidence-based approaches: breathing tools (including lengthened exhale breath), movement (including therapeutic yoga), meditation, connecting with nature, and community engagement (including volunteering and quality time with family/friends). A score of 28 on the PSS indicates high stress (27-40 range), warranting a comprehensive approach that incorporates multiple evidence-based interventions rather than focusing on a limited set of techniques.",
+      "section": "Emotional and Mental Health Assessment and Interventions",
+      "question_type": "Supplementary",
+      "question_id": "1155",
+      "section_number": "07"
+    }
+  
+]

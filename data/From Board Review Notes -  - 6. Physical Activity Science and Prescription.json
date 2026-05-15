@@ -1,0 +1,244 @@
+[
+  {
+      "question_id": "1118",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A 58-year-old male with type 2 diabetes presents for follow-up. His HbA1c is 8.2%. He reports being physically active, walking briskly for 25 minutes five times per week (approximately 3.3 METs) and doing resistance training twice weekly. Based on the metabolic calculations, which of the following best describes his current weekly physical activity level in MET-hours?",
+      "options": [
+          "A) 6.9 MET-hours per week",
+          "B) 13.8 MET-hours per week",
+          "C) 16.5 MET-hours per week",
+          "D) 20.6 MET-hours per week"
+      ],
+      "correct_answer": "A) 6.9 MET-hours per week",
+      "page_reference": "224-225",
+      "rationale": "To calculate MET-hours per week: First convert minutes to hours (25 minutes = 0.417 hours), then multiply by days per week (0.417 × 5 = 2.083 hours/week), then multiply by METs (2.083 × 3.3 = 6.9 MET-hours/week). The resistance training is not included in MET-hour calculations unless specific MET values are provided for those activities. This patient's current aerobic activity level falls below recommended guidelines, as research shows the most benefit is gained within 10-20 MET hours per week of physical activity."
+  },
+  {
+      "question_id": "1119",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A 45-year-old female executive who sits for 9 hours daily at work presents concerned about her sedentary lifestyle. Her BMI is 27 kg/m2, and she performs 150 minutes of moderate-intensity exercise weekly. Recent studies on sedentary behavior and mortality would suggest which of the following is the most accurate regarding her health risk?",
+      "options": [
+          "A) Her 150 minutes of weekly exercise completely negates the health risks of prolonged sitting",
+          "B) Her mortality risk is equivalent to someone who doesn't exercise but sits less than 4 hours daily",
+          "C) Her sedentary behavior poses no additional risk since she meets physical activity guidelines",
+          "D) Her all-cause mortality hazard ratio is approximately 1.52 compared to those sitting less than 4 hours daily"
+      ],
+      "correct_answer": "D) Her all-cause mortality hazard ratio is approximately 1.52 compared to those sitting less than 4 hours daily",
+      "page_reference": "201",
+      "rationale": "According to the research by Stamatakis et al., sitting time was associated with mortality outcomes in a nearly dose-responsive manner. With prolonged sitting (>8 hours/day), even in individuals meeting physical activity guidelines, the all-cause mortality hazard ratio was 1.52 (CI 1.13-2.03) compared to those sitting less than 4 hours/day. This demonstrates that prolonged sitting time carries independent health risks that are not completely negated by meeting physical activity guidelines."
+  },
+  {
+      "question_id": "1120",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A 72-year-old woman with osteoporosis begins a resistance training program. After 6 weeks, she reports no improvement in strength despite following the program consistently. Which of the following best explains the physiological basis for this observation?",
+      "options": [
+          "A) Muscle quality is less important than muscle mass in maintaining mobility at her age",
+          "B) Strength typically decreases at the same rate as muscle mass loss with aging",
+          "C) Strength is lost at a rate 2-5 times faster than muscle mass with aging",
+          "D) Women over 70 cannot significantly improve muscle strength through resistance training"
+      ],
+      "correct_answer": "C) Strength is lost at a rate 2-5 times faster than muscle mass with aging",
+      "page_reference": "205",
+      "rationale": "According to the content, strength is lost at a much higher rate than muscle mass, decreasing two to five times as quickly as muscle mass. Muscle mass decreases approximately 3.7-4.7% per decade after ages 20-30, with a more precipitous decrease (6.5-7% per decade) after age 75. Loss of strength is a more consistent risk for disability and death than muscle mass. This explains why initial strength gains may be slower and require more consistent training in older adults, though improvements are still possible with appropriate training."
+  },
+  {
+      "question_id": "1121",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A lifestyle medicine physician is counseling patients about exercise. According to research on physical activity and mortality reduction, which of the following patients would experience the greatest relative reduction in mortality risk from adding 60 minutes of moderate-intensity exercise per week?",
+      "options": [
+          "A) Patient A: Currently does 300 minutes/week, adding 60 more minutes",
+          "B) Patient B: Currently does 15 minutes/week, adding 60 more minutes",
+          "C) Patient C: Currently does 150 minutes/week, adding 60 more minutes",
+          "D) Patient D: Currently does 250 minutes/week, adding 60 more minutes"
+      ],
+      "correct_answer": "B) Patient B: Currently does 15 minutes/week, adding 60 more minutes",
+      "page_reference": "201-202",
+      "rationale": "According to the evidence, the greatest benefit in mortality reduction occurs within the first increases of physical activity, with diminishing returns as activity levels increase. The research shows that going from no or very low physical activity to even 15 minutes provides greater health benefits than increasing from 135 to 150 minutes per week. Therefore, Patient B, who is moving from 15 to 75 minutes per week, would experience the greatest relative reduction in mortality risk compared to the other patients who are already more active."
+  },
+  {
+      "question_id": "1122",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A 35-year-old male athlete performing high-intensity interval training (HIIT) wants to understand the molecular mechanisms behind the cardiovascular benefits. Which of the following best explains the primary physiological adaptation that occurs?",
+      "options": [
+          "A) Increased production of inflammatory markers leading to improved cardiac output",
+          "B) Enhanced endothelial function through decreased nitric oxide production",
+          "C) Reduced systemic inflammation through increased baseline inflammatory markers",
+          "D) Improved cardiac efficiency through enhanced calcium handling in the sarcoplasmic reticulum"
+      ],
+      "correct_answer": "D) Improved cardiac efficiency through enhanced calcium handling in the sarcoplasmic reticulum",
+      "page_reference": "203-204",
+      "rationale": "The content explains that rodent models have provided evidence that exercise enhances calcium handling through the sarcoplasmic reticulum calcium transport ATPase and increases in mRNA expression. This molecular mechanism contributes to improved cardiac efficiency. While exercise does affect inflammatory markers, the pattern is acute inflammation during exercise followed by lower baseline levels of inflammatory markers with chronic exercise, not increased baseline levels."
+  },
+  {
+      "question_id": "1123",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A research study is examining the relationship between physical activity and mortality in a population of adults aged 40-60 years. Based on current evidence, what would be the expected increase in life expectancy for participants who increase their activity from 0 MET-hours per week to 22.5+ MET-hours per week?",
+      "options": [
+          "A) 2.5 years",
+          "B) 3.5 years",
+          "C) 4.5 years",
+          "D) 5.5 years"
+      ],
+      "correct_answer": "C) 4.5 years",
+      "page_reference": "202",
+      "rationale": "According to the research on years of life gained by meeting physical activity guidelines compared to sedentary (0 MET hours per week) in individuals age 40 or older, those achieving 22.5+ MET-hours per week gained approximately 4.5 years of life. This represents the highest category of activity studied, showing significant benefits but also demonstrating the principle of diminishing returns with very high levels of activity."
+  },
+  {
+      "question_id": "1124",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A lifestyle medicine clinic is implementing exercise vital sign screening. Which of the following findings would most accurately indicate successful implementation of the screening program?",
+      "options": [
+          "A) Documentation of exercise vital signs in 65% of patient visits",
+          "B) Documentation of exercise vital signs in 75% of patient visits",
+          "C) Documentation of exercise vital signs in 86% of patient visits",
+          "D) Documentation of exercise vital signs in 95% of patient visits"
+      ],
+      "correct_answer": "C) Documentation of exercise vital signs in 86% of patient visits",
+      "page_reference": "215",
+      "rationale": "According to the Kaiser Permanente healthcare system's experience implementing physical activity as a vital sign, they achieved documentation in 86% of visits among 1,793,385 adult patients. This demonstrates that consistent documentation of physical activity vital signs is achievable at scale and provides a benchmark for successful implementation. Lower documentation rates would not represent optimal implementation, while higher rates might be unrealistic given the real-world challenges of clinical practice."
+  },
+  {
+      "question_id": "1125",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A 45-year-old woman with type 2 diabetes is beginning an exercise program. Her blood glucose is 360 mg/dL, and ketones are present. Which of the following represents the most appropriate next step in management?",
+      "options": [
+          "A) Proceed with exercise but monitor glucose every 15 minutes",
+          "B) Give a corrective insulin dose and begin exercise immediately",
+          "C) Postpone exercise and address the hyperglycemia",
+          "D) Proceed with light intensity exercise only"
+      ],
+      "correct_answer": "C) Postpone exercise and address the hyperglycemia",
+      "page_reference": "234-235",
+      "rationale": "According to the guidelines for exercise in patients with diabetes, when blood glucose is >350 mg/dL, exercise should be postponed if ketones are present. The presence of ketones with significant hyperglycemia indicates poor metabolic control that needs to be addressed before beginning exercise. Simply monitoring glucose or reducing intensity would not be appropriate with ketones present, and giving insulin and exercising immediately could be dangerous."
+  },
+
+
+  {
+      "question_id": "1126",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A comparative effectiveness meta-analysis examining exercise versus drug interventions for mortality reduction finds exercise to be equivalent or superior to drugs in several conditions. In which of the following conditions was exercise found to be inferior to pharmacological intervention?",
+      "options": [
+          "A) Secondary prevention of coronary heart disease",
+          "B) Prevention of diabetes",
+          "C) Treatment of heart failure",
+          "D) Rehabilitation after stroke"
+      ],
+      "correct_answer": "C) Treatment of heart failure",
+      "page_reference": "229-230",
+      "rationale": "According to the meta-epidemiological study comparing exercise and drug interventions, exercise was inferior to pharmacologic interventions (specifically diuretics) in treating heart failure, with an odds ratio of 4.11 (CI 1.17-24.76). In contrast, exercise showed equivalent benefits for secondary prevention of coronary heart disease and diabetes prevention, and was actually superior to pharmacological intervention in stroke rehabilitation."
+  },
+  {
+      "question_id": "1127",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A 28-year-old pregnant woman at 20 weeks gestation wants to continue her pre-pregnancy high-intensity resistance training routine. Her pregnancy has been uncomplicated. Which of the following movements would be most likely to require modification?",
+      "options": [
+          "A) Standing shoulder press",
+          "B) Barbell front squat",
+          "C) Machine-assisted pull-ups",
+          "D) Bodyweight lunges"
+      ],
+      "correct_answer": "B) Barbell front squat",
+      "page_reference": "206",
+      "rationale": "Due to anatomical and biomechanical changes that can cause lower back pain during pregnancy, pregnant women may need to avoid activities that cause direct spinal loading, spinal compression, and hip hinging. The content specifically mentions that barbell front squats are among the movements that may be contraindicated. While all exercises may need some modification during pregnancy, the barbell front squat presents the highest risk due to direct spinal loading and compression."
+  },
+  {
+      "question_id": "1138",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A lifestyle medicine clinic is implementing the Talk Test for exercise intensity assessment. A patient reports being able to speak in complete sentences but cannot sing while exercising. Which of the following best describes this patient's exercise intensity and corresponding heart rate range?",
+      "options": [
+          "A) Light intensity, ≤63% of maximal heart rate",
+          "B) Moderate intensity, 64-76% of maximal heart rate",
+          "C) Vigorous intensity, 77-95% of maximal heart rate",
+          "D) Very vigorous intensity, >95% of maximal heart rate"
+      ],
+      "correct_answer": "B) Moderate intensity, 64-76% of maximal heart rate",
+      "page_reference": "216",
+      "rationale": "According to the Talk Test criteria, being able to talk in sentences but not sing corresponds to moderate intensity exercise, which correlates with 64-76% of maximal heart rate. This is distinguished from light intensity (able to sing) and vigorous intensity (unable to speak in complete sentences)."
+  },
+  {
+      "question_id": "1139",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A 35-year-old office worker with a sedentary job wants to increase their Non-Exercise Activity Thermogenesis (NEAT). According to research, what is the maximum additional daily energy expenditure that could potentially be achieved through optimal NEAT strategies?",
+      "options": [
+          "A) 200 kcal per day",
+          "B) 350 kcal per day",
+          "C) 500 kcal per day",
+          "D) 650 kcal per day"
+      ],
+      "correct_answer": "B) 350 kcal per day",
+      "page_reference": "209",
+      "rationale": "According to the content, adding in Non-Exercise Activity Thermogenesis (NEAT) can expend an additional 350 kcal per day. However, care must be taken to maintain pre-hypocaloric diet levels of NEAT, as NEAT tends to decline in a compensatory fashion during weight loss."
+  },
+  {
+      "question_id": "1140",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A 28-year-old man is undergoing pre-participation screening for a new exercise program. Which combination of factors would most strongly indicate the need for medical clearance before beginning vigorous exercise?",
+      "options": [
+          "A) Currently active, asymptomatic, no known disease",
+          "B) Currently inactive, asymptomatic, known cardiovascular disease",
+          "C) Currently active, symptomatic, no known disease",
+          "D) Currently inactive, symptomatic, known cardiovascular disease"
+      ],
+      "correct_answer": "D) Currently inactive, symptomatic, known cardiovascular disease",
+      "page_reference": "220-221",
+      "rationale": "According to the 2015 ACSM guidelines for risk classification and medical clearance, the combination of being currently inactive, having symptoms, and known cardiovascular disease represents the highest risk category and most strongly indicates the need for medical clearance before beginning exercise. The presence of all three risk factors - current inactivity, symptoms, and known disease - creates the highest risk scenario."
+  },
+  {
+      "question_id": "1141",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A physical therapy clinic is conducting sit-and-reach flexibility testing. Which of the following best describes the validity of this test for assessing different aspects of flexibility?",
+      "options": [
+          "A) High accuracy for both hamstring and low back flexibility",
+          "B) Moderate accuracy for hamstring flexibility, high accuracy for low back flexibility",
+          "C) Moderate accuracy for hamstring flexibility, poor accuracy for low back flexibility",
+          "D) Poor accuracy for both hamstring and low back flexibility"
+      ],
+      "correct_answer": "C) Moderate accuracy for hamstring flexibility, poor accuracy for low back flexibility",
+      "page_reference": "219",
+      "rationale": "The standard sit and reach test is moderately accurate for hamstring flexibility (reliability coefficient, r = 0.64) but has poor accuracy for low back flexibility (r = 0.28). While the test is highly consistent (reliability estimates 0.96-0.99), its validity varies significantly between these two aspects of flexibility assessment."
+  },
+  {
+      "question_id": "1142",
+      "section_number": "06",
+      "question_type": "Supplementary",
+      "section": "Physical Activity Science and Prescription",
+      "question_text": "A lifestyle medicine clinic is establishing referral relationships with fitness professionals. According to current standards, which certification represents the highest level and is considered the 'gold standard' in the industry?",
+      "options": [
+          "A) ACSM Certified Personal Trainer (ACSM-CPT)",
+          "B) ACSM Certified Exercise Physiologist (ACSM-EP)",
+          "C) ACSM Certified Group Exercise Instructor (ACSM-GEI)",
+          "D) ACSM/ACS Certified Cancer Exercise Trainer"
+      ],
+      "correct_answer": "B) ACSM Certified Exercise Physiologist (ACSM-EP)",
+      "page_reference": "232",
+      "rationale": "The ACSM-EP (Exercise Physiologist) certification is the highest level, and the only degree-based, general population certification. It is widely regarded as the 'gold standard' certification in the industry, requiring more extensive education and training than other certifications."
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "question_text": "A lifestyle medicine team is developing an intervention for patients with prediabetes. Based on Social Cognitive Theory, which combination of elements would most effectively support sustainable behavior change?",
+    "options": [
+      "A) Providing detailed nutritional information and exercise guidelines",
+      "B) Offering regular group support sessions and progress tracking",
+      "C) Combining mastery experiences, peer modeling, verbal encouragement, and management of physiological feedback",
+      "D) Creating a reward system and accountability structure"
+    ],
+    "correct_answer": "C) Combining mastery experiences, peer modeling, verbal encouragement, and management of physiological feedback",
+    "page_reference": "29, 41",
+    "rationale": "According to Social Cognitive Theory, behavior change is influenced by four key components that build self-efficacy: mastery experiences (direct success), vicarious experiences (peer modeling), verbal/social persuasion (encouragement), and management of emotional/physiological states. This comprehensive approach addresses both the behavioral and environmental factors that influence behavior change, while also considering personal factors.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1056",
+    "section_number": "02"
+  },
+  {
+    "question_text": "A lifestyle medicine physician is consulting with a 45-year-old woman who states, 'I've tried every diet and always gain the weight back. My mother and sister are both overweight, so I probably just have bad genes.' Using the ABCDE method of behavioral change, which sequence of responses would best help the patient reframe this nonproductive thinking?",
+    "options": [
+      "A) Acknowledge her frustration, blame genetics, challenge diet culture, discuss emotional eating, explore new options",
+      "B) Analyze past diets, build confidence, create new goals, develop support system, evaluate progress",
+      "C) Identify the activating event (failed diets), examine beliefs about genetics, explore consequences of this thinking, dispute the genetic determinism, discuss effect of new perspective",
+      "D) Investigate family dynamics, build motivation, create healthy habits, determine barriers, establish new patterns"
+    ],
+    "correct_answer": "C) Identify the activating event (failed diets), examine beliefs about genetics, explore consequences of this thinking, dispute the genetic determinism, discuss effect of new perspective",
+    "page_reference": "39-41",
+    "rationale": "The ABCDE method specifically addresses cognitive restructuring through: A (Action/activating event), B (Beliefs), C (Consequences), D (Disputing negative thinking), and E (Effect of new thinking). The correct response follows this framework systematically, addressing each component in sequence while maintaining focus on the specific cognitive distortion present.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1057",
+    "section_number": "02"
+  },
+
+  {
+    "question_text": "A lifestyle medicine practitioner is working with several patients at different stages of change. One patient states, 'I know I should exercise, but I'm not ready to start yet. Maybe in a few months.' Another says, 'I've been walking daily for two weeks now.' And a third reports, 'I've maintained my plant-based diet for 8 months without any trouble.' According to the Transtheoretical Model, which stage-matched intervention sequence would be most appropriate for these patients, respectively?",
+    "options": [
+      "A) Provide health risk information, develop action plan, celebrate success",
+      "B) Create specific goals, prevent relapse, increase challenge level",
+      "C) Raise awareness of benefits, support current efforts with problem-solving, reinforce behavioral commitment",
+      "D) Set timeline for change, provide accountability, maintain status quo"
+    ],
+    "correct_answer": "C) Raise awareness of benefits, support current efforts with problem-solving, reinforce behavioral commitment",
+    "page_reference": "29-32",
+    "rationale": "This question tests understanding of stage-matched interventions in the Transtheoretical Model. The first patient is in Precontemplation (not ready for change within 6 months), requiring consciousness-raising about benefits. The second is in Action (actively making changes for less than 6 months), needing support and problem-solving. The third is in Maintenance (sustained change for over 6 months), requiring reinforcement and commitment strategies. The correct response sequence appropriately matches interventions to each stage.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1058",
+    "section_number": "02"
+  },
+  {
+    "question_text": "During a group visit focused on stress management, a patient becomes visibly upset and states, 'I've completely failed at meditation. I missed two days this week, so I might as well give up.' According to cognitive behavioral techniques, which combination of interventions would most effectively address this nonproductive thinking pattern?",
+    "options": [
+      "A) Provide reassurance about normal meditation challenges and suggest an easier practice",
+      "B) Recommend taking a break from meditation and trying a different stress management technique",
+      "C) Identify the all-or-nothing thinking, examine evidence for 'complete failure,' explore partial successes, and develop a more balanced view of progress",
+      "D) Focus on building a more consistent meditation schedule with reminders and accountability"
+    ],
+    "correct_answer": "C) Identify the all-or-nothing thinking, examine evidence for 'complete failure,' explore partial successes, and develop a more balanced view of progress",
+    "page_reference": "39-40",
+    "rationale": "The patient demonstrates classic all-or-nothing thinking, viewing any deviation from perfect practice as complete failure. The correct response follows CBT principles by: 1) identifying the specific cognitive distortion, 2) examining evidence that challenges the distorted thought, 3) acknowledging partial successes, and 4) helping develop a more realistic perspective. This comprehensive approach addresses both the cognitive distortion and builds a foundation for more sustainable behavior change.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1059",
+    "section_number": "02"
+  },
+  {
+    "question_text": "A lifestyle medicine program is implementing positive psychology principles through the PERMA model. Which combined intervention strategy would most effectively support lasting behavior change while adhering to positive psychology principles?",
+    "options": [
+      "A) Track positive emotions daily and celebrate small wins",
+      "B) Focus on building willpower and eliminating negative thoughts",
+      "C) Integrate strength-based activities, meaningful goals, supportive relationships, flow experiences, and recognition of accomplishments",
+      "D) Emphasize gratitude journaling and positive affirmations"
+    ],
+    "correct_answer": "C) Integrate strength-based activities, meaningful goals, supportive relationships, flow experiences, and recognition of accomplishments",
+    "page_reference": "41-42",
+    "rationale": "The PERMA model encompasses Positive emotions, Engagement (flow), Relationships, Meaning, and Accomplishment. The correct answer comprehensively addresses all five components: strength-based activities foster engagement and flow, meaningful goals provide purpose, supportive relationships build connection, and recognition of accomplishments builds confidence. This approach aligns with positive psychology's emphasis on building well-being through multiple complementary pathways rather than focusing on single elements.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1060",
+    "section_number": "02"
+  },
+  
+  {
+    "question_text": "A patient with a history of multiple unsuccessful behavior change attempts tells their lifestyle medicine physician, 'I keep trying to lose weight, but I just don't have enough willpower. I always give in when I'm stressed.' Using Self-Determination Theory and motivational interviewing principles, which response sequence would most effectively support the development of autonomous motivation?",
+    "options": [
+      "A) Provide stress management techniques and create a structured eating plan",
+      "B) Suggest tracking triggers and developing specific coping strategies",
+      "C) Explore personal values, examine past successes in other areas, identify meaningful reasons for change, and support autonomy in goal-setting",
+      "D) Focus on building accountability and establishing regular check-ins"
+    ],
+    "correct_answer": "C) Explore personal values, examine past successes in other areas, identify meaningful reasons for change, and support autonomy in goal-setting",
+    "page_reference": "30, 38",
+    "rationale": "Self-Determination Theory emphasizes that autonomous motivation leads to sustained behavior change. The correct response integrates this with MI principles by: exploring personal values (supporting autonomy), examining past successes (building competence), and identifying meaningful reasons for change (fostering relatedness). This approach helps shift from external motivation ('willpower') to internal motivation based on personal values and meaningful goals.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1061",
+    "section_number": "02"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner notices that several patients have experienced lapses in their health behavior changes following major work deadlines. Which comprehensive relapse prevention strategy would most effectively address this pattern?",
+    "options": [
+      "A) Recommend taking time off work during stressful periods",
+      "B) Create a more flexible behavior change schedule",
+      "C) Develop a prevention plan identifying work stress triggers, plan specific coping responses, establish environmental supports, and reframe lapses as learning opportunities",
+      "D) Focus on building stronger habits before stressful periods"
+    ],
+    "correct_answer": "C) Develop a prevention plan identifying work stress triggers, plan specific coping responses, establish environmental supports, and reframe lapses as learning opportunities",
+    "page_reference": "48",
+    "rationale": "Effective relapse prevention requires a comprehensive approach that includes: identifying specific triggers (work deadlines), developing planned responses, creating environmental supports, and maintaining a learning orientation toward lapses. This strategy addresses both the predictable nature of the trigger and the need for systematic preparation, while also supporting psychological resilience through appropriate framing of lapses.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1062",
+    "section_number": "02"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is working to repair trust with patients who have had negative healthcare experiences. Which combination of trust-building elements would most effectively address past healthcare trauma while establishing a therapeutic alliance?",
+    "options": [
+      "A) Set clear boundaries and maintain professional distance",
+      "B) Focus primarily on clinical outcomes and education",
+      "C) Demonstrate benevolence through caring interactions, maintain transparent communication, practice cultural humility, ensure reliability in follow-through, and display clinical competence",
+      "D) Emphasize provider expertise and evidence-based practices"
+    ],
+    "correct_answer": "C) Demonstrate benevolence through caring interactions, maintain transparent communication, practice cultural humility, ensure reliability in follow-through, and display clinical competence",
+    "page_reference": "51",
+    "rationale": "Building trust requires addressing five key elements: benevolence, honesty, openness, reliability, and competence. The correct answer integrates all these elements while specifically addressing the needs of patients with healthcare trauma. This comprehensive approach builds trust through consistent demonstration of care, cultural sensitivity, and professional reliability, rather than focusing solely on clinical or professional aspects.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1063",
+    "section_number": "02"
+  },
+  {
+    "question_text": "A lifestyle medicine team is working with patients from diverse socioeconomic backgrounds on health behavior change. Which strategy would most effectively integrate social determinants of health considerations with behavior change support?",
+    "options": [
+      "A) Provide standard health education materials to all patients",
+      "B) Focus exclusively on individual motivation and goal-setting",
+      "C) Assess environmental barriers, develop contextually appropriate strategies, connect with community resources, and adapt interventions to cultural and social realities",
+      "D) Emphasize personal responsibility for health outcomes"
+    ],
+    "correct_answer": "C) Assess environmental barriers, develop contextually appropriate strategies, connect with community resources, and adapt interventions to cultural and social realities",
+    "page_reference": "31",
+    "rationale": "Effective behavior change support must consider social determinants of health, including economic, environmental, and cultural factors. The correct response integrates assessment of specific barriers, development of appropriate strategies, connection to resources, and cultural adaptation of interventions. This comprehensive approach acknowledges both individual and systemic factors influencing health behaviors.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1064",
+    "section_number": "02"
+  },
+  {
+    "question_text": "During a lifestyle medicine consultation, a patient states, 'I want to exercise but I'm too busy with work and family.' Which sequence of motivational interviewing responses would most effectively demonstrate the integration of OARS skills while evoking change talk?",
+    "options": [
+      "A) Provide advice about time management and exercise options",
+      "B) Share information about health benefits of exercise",
+      "C) Use open questions to explore values, affirm current efforts, reflect ambivalence, summarize motivation, and selectively respond to change talk",
+      "D) Focus on creating a structured exercise schedule"
+    ],
+    "correct_answer": "C) Use open questions to explore values, affirm current efforts, reflect ambivalence, summarize motivation, and selectively respond to change talk",
+    "page_reference": "38",
+    "rationale": "Effective motivational interviewing requires skilled integration of OARS (Open questions, Affirmations, Reflections, Summaries) while strategically evoking and responding to change talk. The correct response demonstrates this comprehensive approach by: using open questions to explore values, affirming efforts, reflecting ambivalence, summarizing motivation, and reinforcing change talk. This approach maintains the spirit of MI while utilizing specific technical skills.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1065",
+    "section_number": "02"
+  },
+
+  {
+    "question_text": "A lifestyle medicine clinic is implementing the Health Belief Model (HBM) to improve medication adherence in patients with hypertension. Which combination of interventions would most effectively address all six key constructs of the HBM?",
+    "options": [
+      "A) Focus on medication benefits and provide reminder systems",
+      "B) Emphasize health risks and simplify medication regimens",
+      "C) Address perceived susceptibility to complications, discuss severity of uncontrolled hypertension, highlight treatment benefits, reduce barriers to adherence, identify cues to action, and build self-efficacy",
+      "D) Create accountability systems and provide education materials"
+    ],
+    "correct_answer": "C) Address perceived susceptibility to complications, discuss severity of uncontrolled hypertension, highlight treatment benefits, reduce barriers to adherence, identify cues to action, and build self-efficacy",
+    "page_reference": "28",
+    "rationale": "The Health Belief Model includes six key constructs: perceived susceptibility, perceived severity, perceived benefits, perceived barriers, cues to action, and self-efficacy. The correct answer systematically addresses all six components, providing a comprehensive framework for behavior change. This approach recognizes that successful behavior change requires addressing both perceptions of health threats and beliefs about the effectiveness of proposed actions.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1086",
+    "section_number": "02"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is helping a patient develop a physical activity goal using SMART criteria. Which of the following goals best demonstrates all components of the SMART framework?",
+    "options": [
+      "A) 'I will try to exercise more regularly this month'",
+      "B) 'I will walk briskly for 30 minutes, Monday through Friday at 5:30 PM, starting tomorrow, tracking progress with my fitness app'",
+      "C) 'I will exercise whenever I have free time'",
+      "D) 'I will do any type of exercise three times per week'"
+    ],
+    "correct_answer": "B) 'I will walk briskly for 30 minutes, Monday through Friday at 5:30 PM, starting tomorrow, tracking progress with my fitness app'",
+    "page_reference": "36",
+    "rationale": "SMART goals must be Specific (walking briskly), Measurable (30 minutes, tracked with app), Achievable (reasonable duration and frequency), Relevant (appropriate exercise choice), and Time-bound (specific days and time, starting tomorrow). The correct answer includes all these elements, while other options lack specificity, measurability, or time boundaries.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1087",
+    "section_number": "02"
+  },
+  {
+    "question_text": "A lifestyle medicine program is implementing group visits for patients with prediabetes. Which combination of elements would most effectively leverage the benefits of shared medical appointments while addressing behavior change principles?",
+    "options": [
+      "A) Focus on providing standardized diabetes education to all participants",
+      "B) Schedule individual follow-up appointments after group sessions",
+      "C) Integrate peer support, shared goal-setting, vicarious learning experiences, group problem-solving, and collective progress monitoring",
+      "D) Deliver lectures on diabetes management and lifestyle changes"
+    ],
+    "correct_answer": "C) Integrate peer support, shared goal-setting, vicarious learning experiences, group problem-solving, and collective progress monitoring",
+    "page_reference": "50",
+    "rationale": "Effective group visits should leverage social learning theory and group dynamics while incorporating behavior change principles. The correct answer integrates key elements that make group visits effective: peer support (enhancing motivation), shared goal-setting (building commitment), vicarious learning (observing others' successes), group problem-solving (developing strategies), and collective monitoring (providing accountability).",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "Supplementary",
+    "question_id": "1088",
+    "section_number": "02"
+  },
+  
+    {
+      "question_text": "A lifestyle medicine clinic is implementing a new plant-based diet program using the Theory of Planned Behavior. Which combination of interventions would most effectively address all main constructs of this theory?",
+      "options": [
+        "A) Focus only on providing nutrition education and meal plans",
+        "B) Address environmental barriers and provide cooking classes",
+        "C) Target attitudes toward plant-based eating, address social norms, build behavioral control through skills training, and strengthen intentions through goal-setting",
+        "D) Emphasize health benefits and offer support groups"
+      ],
+      "correct_answer": "C) Target attitudes toward plant-based eating, address social norms, build behavioral control through skills training, and strengthen intentions through goal-setting",
+      "page_reference": "28-29",
+      "rationale": "The Theory of Planned Behavior includes six main constructs: attitude, behavioral intention, subjective norms, social norms, perceived power, and perceived behavioral control. The correct answer comprehensively addresses these elements by targeting attitudes (positive/negative evaluations), addressing social norms (others' beliefs and customs), building behavioral control (perceived ease/difficulty), and strengthening intentions (motivational factors).",
+      "section": "Fundamentals of Health Behavior Change",
+      "question_type": "Supplementary",
+      "question_id": "1185",
+      "section_number": "02"
+    },
+    {
+      "question_text": "A community health program is implementing a new lifestyle intervention. According to the Diffusion of Innovation theory, which sequence of adoption would be most effective in promoting widespread behavior change?",
+      "options": [
+        "A) Target the majority population first to maximize impact",
+        "B) Focus on resistant individuals to overcome barriers early",
+        "C) Identify and engage innovators first, then early adopters, followed by early majority, late majority, and finally laggards",
+        "D) Implement the program uniformly across all population segments"
+      ],
+      "correct_answer": "C) Identify and engage innovators first, then early adopters, followed by early majority, late majority, and finally laggards",
+      "page_reference": "30",
+      "rationale": "The Diffusion of Innovation theory describes how new ideas or behaviors spread through a population. It identifies five adopter categories: innovators, early adopters, early majority, late majority, and laggards. The correct sequence recognizes that behavior change spreads most effectively when starting with innovators and early adopters, who then influence the broader population.",
+      "section": "Fundamentals of Health Behavior Change",
+      "question_type": "Supplementary",
+      "question_id": "1186",
+      "section_number": "02"
+    },
+    {
+      "question_text": "A patient's health behaviors are being influenced by various social determinants of health. Which combination of factors would most comprehensively represent the institutional, community, and policy influences on behavior change?",
+      "options": [
+        "A) Personal motivation and family support",
+        "B) Healthcare access and individual resources",
+        "C) Workplace policies, community design, social networks, and public health regulations",
+        "D) Educational level and income status"
+      ],
+      "correct_answer": "C) Workplace policies, community design, social networks, and public health regulations",
+      "page_reference": "30-31",
+      "rationale": "The notes identify multiple levels of influence on health behavior: institutional (workplace rules/policies), community factors (social networks, built environments), and public policy (regulations). The correct answer integrates these various levels of influence, recognizing that behavior change is affected by organizational policies, community design, social networks, and broader public health regulations.",
+      "section": "Fundamentals of Health Behavior Change",
+      "question_type": "Supplementary",
+      "question_id": "1187",
+      "section_number": "02"
+    },
+    {
+      "question_text": "A lifestyle medicine program is addressing social determinants of health in behavior change interventions. Which combination of factors would most effectively need to be assessed and addressed to support sustainable behavior change?",
+      "options": [
+        "A) Focus only on individual motivation and goals",
+        "B) Address financial resources and transportation",
+        "C) Consider income, education, occupation, food access, housing, transportation, social support, and environmental conditions",
+        "D) Evaluate personal habits and family history"
+      ],
+      "correct_answer": "C) Consider income, education, occupation, food access, housing, transportation, social support, and environmental conditions",
+      "page_reference": "31",
+      "rationale": "The notes identify specific social determinants of health including income level, educational opportunities, occupation, food security, housing, transportation, social support, and environmental conditions. The correct answer comprehensively addresses these multiple determinants, recognizing that effective behavior change support must consider and address these broader social and environmental factors.",
+      "section": "Fundamentals of Health Behavior Change",
+      "question_type": "Supplementary",
+      "question_id": "1188",
+      "section_number": "02"
+    }
+  ]

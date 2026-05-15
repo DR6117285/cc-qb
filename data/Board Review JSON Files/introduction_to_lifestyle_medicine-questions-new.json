@@ -1,0 +1,162 @@
+[
+  {
+    "question_id": "NEW-001",
+    "section": "Introduction to Lifestyle Medicine",
+    "section_number": "01",
+    "question_text": "A 52-year-old man presents to his cardiologist two weeks after discharge following his first acute myocardial infarction. He is a nonsmoker with well-controlled lipids on a statin, no diabetes, and a BMI of 23. Despite the absence of conventional metabolic risk factors, he reports significant chronic work stress and social isolation following a recent divorce. The cardiologist references data from the INTERHEART study to counsel the patient on modifiable risk. According to the INTERHEART study, what is the population-attributable risk (PAR) of psychosocial factors for acute myocardial infarction?",
+    "options": [
+      "A) 9%",
+      "B) 18%",
+      "C) 33%",
+      "D) 52%"
+    ],
+    "correct_answer": "C) 33%",
+    "rationale": "C) 33% is correct: The INTERHEART study, a standardized case-control study across 52 countries evaluating first AMI, found that psychosocial risk factors carried a population-attributable risk of 33% — comparable to the contribution of hypertension and abdominal obesity. The study specifically noted that psychosocial risk factors are seldom given the priority they deserve. A) 9% is incorrect: This underestimates the psychosocial PAR and does not correspond to any INTERHEART-reported figure; it may be confused with the marginal contribution of a single minor factor. B) 18% is incorrect: 18.1% is the proportion of all premature deaths attributable to tobacco use — a different statistic from a different dataset that candidates may incorrectly apply here. D) 52% is incorrect: This overestimates the psychosocial contribution; candidates may confuse the combined PAR of all nine INTERHEART risk factors with this single factor group.",
+    "page_reference": "Page 10",
+    "tags": ["clinical-evidence", "cardiovascular-disease", "epidemiology-and-burden"]
+  },
+  {
+    "question_id": "NEW-002",
+    "section": "Introduction to Lifestyle Medicine",
+    "section_number": "01",
+    "question_text": "A preventive cardiology fellow reviews the INTERHEART study, which identified nine modifiable risk factors collectively accounting for more than 90% of the population-attributable risk for acute myocardial infarction across 52 countries. She is asked to identify the five factors within the nine that specifically account for 80% of this attributable risk. Which combination correctly identifies those five factors?",
+    "options": [
+      "A) Smoking, lipids, hypertension, diabetes, and physical inactivity",
+      "B) Smoking, lipids, hypertension, diabetes, and obesity",
+      "C) Smoking, dietary pattern, hypertension, diabetes, and obesity",
+      "D) Smoking, lipids, psychosocial factors, diabetes, and obesity"
+    ],
+    "correct_answer": "B) Smoking, lipids, hypertension, diabetes, and obesity",
+    "rationale": "B) Smoking, lipids, hypertension, diabetes, and obesity is correct: The INTERHEART study identified that these five factors — smoking, lipids, hypertension, diabetes, and obesity — accounted for 80% of the population-attributable risk for acute myocardial infarction, with the remaining four factors (dietary pattern, physical inactivity, alcohol consumption, and psychosocial factors) contributing additional risk to reach >90%. A) Smoking, lipids, hypertension, diabetes, and physical inactivity is incorrect: Physical inactivity is one of the nine INTERHEART risk factors but is not among the five accounting for the 80% PAR threshold — substituting it for obesity is a common error. C) Smoking, dietary pattern, hypertension, diabetes, and obesity is incorrect: Dietary pattern is among the nine risk factors but is not in the top five by PAR; lipids are correctly included in the true answer and candidates may transpose these two. D) Smoking, lipids, psychosocial factors, diabetes, and obesity is incorrect: Psychosocial factors carry a notable 33% PAR in INTERHEART but are not among the five factors composing the 80% PAR sub-group — candidates who recall the psychosocial emphasis may incorrectly include them here.",
+    "page_reference": "Page 10",
+    "tags": ["clinical-evidence", "cardiovascular-disease", "definition-and-scope"]
+  },
+  {
+    "question_id": "NEW-003",
+    "section": "Introduction to Lifestyle Medicine",
+    "section_number": "01",
+    "question_text": "A 45-year-old woman presents for a preventive health visit. She is a nonsmoker, maintains a BMI of 22, exercises 35 minutes of moderate-to-vigorous physical activity daily, consumes approximately one standard alcoholic drink per evening, and scores in the top quartile for dietary quality. Her physician notes that her profile aligns closely with the five low-risk factors studied in the Nurses' Health Study. According to that study, by approximately how much was the risk of coronary heart disease reduced when all five low-risk factors were present compared to none?",
+    "options": [
+      "A) 45%",
+      "B) 54%",
+      "C) 64%",
+      "D) 82%"
+    ],
+    "correct_answer": "D) 82%",
+    "rationale": "D) 82% is correct: The Nurses' Health Study, which prospectively followed 84,129 women over 14 years, found an 82% lower relative risk of coronary heart disease (RR 0.17; 95% CI: 0.07–0.41; PAR 82%) when all five low-risk factors were simultaneously present — nonsmoking, BMI <25, moderate-to-vigorous exercise ≥30 minutes/day, moderate alcohol intake (5–30g/day), and a healthy diet score — compared to having none. A) 45% is incorrect: This underestimates the cumulative benefit; it may be confused with the 35–55% risk reduction associated with maintaining ideal body weight or engaging in ≥150 minutes/week of moderate exercise in isolation. B) 54% is incorrect: 54% (PAR) corresponds to the risk reduction seen with three low-risk factors in the Nurses' Health Study, not all five. C) 64% is incorrect: 64% (PAR) corresponds to the risk reduction seen with four low-risk factors — candidates recalling that adding each factor incrementally improves outcomes may select the four-factor result instead of the five-factor result.",
+    "page_reference": "Page 12",
+    "tags": ["clinical-evidence", "cardiovascular-disease", "dietary-patterns", "physical-activity"]
+  },
+  {
+    "question_id": "NEW-004",
+    "section": "Introduction to Lifestyle Medicine",
+    "section_number": "01",
+    "question_text": "A researcher presents findings from the Behavioral Risk Factor Surveillance System at a national preventive medicine conference. She emphasizes that while many Americans achieve one or two healthy behaviors, very few simultaneously achieve all four key behaviors tracked in that system. According to those data, approximately what percentage of Americans demonstrate healthy levels of all four behaviors — not smoking, maintaining a healthy weight (BMI <25), eating five servings of fruits and vegetables daily, and engaging in regular physical activity?",
+    "options": [
+      "A) 3%",
+      "B) 11%",
+      "C) 23%",
+      "D) 28%"
+    ],
+    "correct_answer": "A) 3%",
+    "rationale": "A) 3% is correct: Data from the Behavioral Risk Factor Surveillance System revealed that only 3% of Americans simultaneously demonstrated healthy levels of all four key behaviors, despite the fact that each individual behavior was more common in isolation — nonsmoking (86%), healthy weight BMI <25 (27%), five fruits and vegetables per day (28%), and regular physical activity (23%). This highlights the enormous population-level opportunity for lifestyle medicine. B) 11% is incorrect: 11% is the proportion of patients with diabetes who follow accepted dietary guidelines for saturated fat — a distinct and equally concerning statistic from a different data source. C) 23% is incorrect: 23% is the proportion of Americans who individually meet the physical activity criterion — confusing the single-behavior rate with the all-four-behaviors rate is a classic error. D) 28% is incorrect: 28% is the proportion meeting the five fruits and vegetables daily criterion alone, not the proportion achieving all four behaviors simultaneously.",
+    "page_reference": "Page 9",
+    "tags": ["epidemiology-and-burden", "definition-and-scope", "physical-activity", "dietary-patterns"]
+  },
+  {
+    "question_id": "NEW-005",
+    "section": "Introduction to Lifestyle Medicine",
+    "section_number": "01",
+    "question_text": "A 41-year-old woman with a strong family history of type 2 diabetes and premature cardiovascular disease presents concerned that her genetic predisposition makes comprehensive lifestyle modification futile. Her physician explains the relative contributions of fixed genetic sequence and epigenetic factors to overall variance in health status. According to current evidence, approximately what proportion of variance in health status is explained by epigenetic factors?",
+    "options": [
+      "A) 10%",
+      "B) 25–40%",
+      "C) 50–65%",
+      "D) 70–90%"
+    ],
+    "correct_answer": "D) 70–90%",
+    "rationale": "D) 70–90% is correct: Experts estimate that fixed DNA sequencing (genes) explains approximately 10% of variance in health status, while epigenetics — environmentally and behaviorally influenced gene expression switches — explains 70–90% of that variance. A 2005 monozygotic twin study confirmed that environmental factors, not genetics, were the principal drivers of epigenetic variance over time, strongly supporting the modifiability of health outcomes through lifestyle change. A) 10% is incorrect: 10% represents the contribution of fixed DNA sequence to health variance, not the epigenetic contribution — the two figures are directly contrasted in the evidence and are easily transposed. B) 25–40% is incorrect: This range is not supported by the cited evidence and may represent a candidate's intuitive estimate for gene-environment interaction rather than the specific epigenetic data. C) 50–65% is incorrect: This intermediate range similarly lacks evidentiary basis and serves as a plausible moderate-effect distractor for candidates unfamiliar with the specific epigenetic contribution cited in the handbook.",
+    "page_reference": "Page 9",
+    "tags": ["lifestyle-vs-genetics", "definition-and-scope", "epidemiology-and-burden"]
+  },
+  {
+    "question_id": "NEW-006",
+    "section": "Introduction to Lifestyle Medicine",
+    "section_number": "01",
+    "question_text": "A 58-year-old man with stage 1 hypertension and no other cardiovascular risk factors is interested in using dietary change as his primary blood pressure intervention before starting medication. His physician reviews data from the Adventist Health Study 2, which compared health outcomes across dietary patterns. According to that study, what was the odds ratio for hypertension among those following a vegan dietary pattern compared to a non-vegetarian dietary pattern?",
+    "options": [
+      "A) OR = 0.37",
+      "B) OR = 0.44",
+      "C) OR = 0.51",
+      "D) OR = 0.68"
+    ],
+    "correct_answer": "A) OR = 0.37",
+    "rationale": "A) OR = 0.37 is correct: The Adventist Health Study 2 found that a vegan dietary pattern was associated with an odds ratio of 0.37 (95% CI: 0.19–0.74) for hypertension compared to a non-vegetarian dietary pattern — representing a 63% lower odds of hypertension. This is among the largest dietary pattern effects on blood pressure reported in an observational study. B) OR = 0.44 is incorrect: 0.44 (95% CI: 0.30–0.64) is the Adventist Health Study 2 odds ratio for metabolic syndrome with a vegan dietary pattern — a distinct outcome from the same study table that candidates who partially recall the data may select. C) OR = 0.51 is incorrect: 0.51 (95% CI: 0.40–0.66) is the Adventist Health Study 2 odds ratio for type 2 diabetes with a vegan dietary pattern — again a closely related result from the same data table. D) OR = 0.68 is incorrect: This figure does not correspond to any Adventist Health Study 2 outcome reported in the handbook and serves as a plausible moderate-effect-size distractor.",
+    "page_reference": "Page 13",
+    "tags": ["clinical-evidence", "hypertension", "dietary-patterns"]
+  },
+  {
+    "question_id": "NEW-007",
+    "section": "Introduction to Lifestyle Medicine",
+    "section_number": "01",
+    "question_text": "A 66-year-old man with biopsy-confirmed localized prostate cancer is counseled about an intensive therapeutic lifestyle change (ITLC) program studied by Ornish and colleagues. The program included a vegan dietary pattern, soy protein, supplemental vitamins E and C, selenium, exercise, and a stress management and support group. PSA was monitored in both the intervention and control groups. Which of the following correctly describes the PSA outcomes observed in the two groups?",
+    "options": [
+      "A) 4% PSA decline in the intervention group; 2% PSA decline in the control group",
+      "B) 4% PSA decline in the intervention group; 6% PSA increase in the control group",
+      "C) 6% PSA decline in the intervention group; 4% PSA increase in the control group",
+      "D) 8% PSA decline in the intervention group; 6% PSA increase in the control group"
+    ],
+    "correct_answer": "B) 4% PSA decline in the intervention group; 6% PSA increase in the control group",
+    "rationale": "B) 4% PSA decline in the intervention group; 6% PSA increase in the control group is correct: Men assigned to the ITLC program realized a 4% decline in PSA, while those in the control group saw a 6% increase — a 10-percentage-point difference. In addition, serum from intervention-group men was eight times more effective at inhibiting prostate cancer cell growth in vitro than serum from control-group men, suggesting a biological mechanism beyond PSA change. A) 4% PSA decline in the intervention group; 2% PSA decline in the control group is incorrect: The control group experienced a PSA increase, not a decline — selecting this option conflates beneficial trends in both groups, which was not what the study found. C) 6% PSA decline in the intervention group; 4% PSA increase in the control group is incorrect: This inverts the magnitudes — the 6% figure belongs to the control group increase, and the 4% figure belongs to the intervention group decline. D) 8% PSA decline in the intervention group; 6% PSA increase in the control group is incorrect: The intervention group's decline was 4%, not 8%; this option accurately states the control group result but inflates the intervention effect.",
+    "page_reference": "Page 15",
+    "tags": ["clinical-evidence", "cancer", "dietary-patterns"]
+  },
+  {
+    "question_id": "NEW-008",
+    "section": "Introduction to Lifestyle Medicine",
+    "section_number": "01",
+    "question_text": "A 54-year-old woman newly diagnosed with early-stage breast cancer asks her oncologist whether exercise will affect her prognosis. The oncologist references a 2011 meta-analysis of more than 12,000 women with breast cancer that quantified the impact of physical activity on three outcomes. Which of the following correctly matches the outcome to its associated risk reduction from that meta-analysis?",
+    "options": [
+      "A) 24% reduction in breast cancer mortality, 34% reduction in disease recurrence, 41% reduction in all-cause mortality",
+      "B) 34% reduction in breast cancer mortality, 24% reduction in disease recurrence, 41% reduction in all-cause mortality",
+      "C) 34% reduction in breast cancer mortality, 41% reduction in disease recurrence, 24% reduction in all-cause mortality",
+      "D) 41% reduction in breast cancer mortality, 34% reduction in disease recurrence, 24% reduction in all-cause mortality"
+    ],
+    "correct_answer": "B) 34% reduction in breast cancer mortality, 24% reduction in disease recurrence, 41% reduction in all-cause mortality",
+    "rationale": "B) 34% reduction in breast cancer mortality, 24% reduction in disease recurrence, 41% reduction in all-cause mortality is correct: The 2011 meta-analysis of more than 12,000 women with breast cancer found that physical activity was associated with a 34% reduction in risk of death from breast cancer, a 24% reduction in disease recurrence, and a 41% reduction in all-cause mortality. These figures are a frequent exam target precisely because the three numbers are easily transposed. A) 24% reduction in breast cancer mortality is incorrect: 24% is the reduction in disease recurrence, not disease-specific mortality — this option swaps the first two outcome figures. C) 41% reduction in disease recurrence is incorrect: 41% is the all-cause mortality reduction; this option transposes the recurrence and all-cause mortality figures. D) 41% reduction in breast cancer mortality is incorrect: 41% corresponds to all-cause mortality, not disease-specific mortality; this option places the largest figure in the wrong outcome category.",
+    "page_reference": "Page 15",
+    "tags": ["clinical-evidence", "cancer", "physical-activity"]
+  },
+  {
+    "question_id": "NEW-009",
+    "section": "Introduction to Lifestyle Medicine",
+    "section_number": "01",
+    "question_text": "A public health department is prioritizing interventions to reduce premature mortality at a population level. The department cites data indicating that the majority of preventable premature deaths in the United States are attributable to a small number of modifiable factors. According to the cited evidence, approximately what percentage of all premature deaths are attributable to the combined burden of tobacco use, poor diet and physical inactivity, and alcohol consumption?",
+    "options": [
+      "A) 18%",
+      "B) 27%",
+      "C) 40%",
+      "D) 55%"
+    ],
+    "correct_answer": "C) 40%",
+    "rationale": "C) 40% is correct: The cited data indicate that 40% of all premature deaths are attributable to three modifiable behavioral factors: tobacco use (18.1%), poor diet and physical activity (16.6%), and alcohol consumption (2.5%). This finding establishes the foundation for lifestyle medicine's role in reducing population-level mortality. A) 18% is incorrect: 18.1% is the contribution of tobacco use alone — the largest single contributor — and candidates who anchor on that figure may not add the contributions of diet, physical activity, and alcohol. B) 27% is incorrect: This intermediate value is not supported by the evidence and likely represents an estimate produced by adding tobacco (18.1%) and alcohol (2.5%) while omitting the diet and physical activity contribution (16.6%). D) 55% is incorrect: This overestimates the combined burden and has no basis in the cited data; candidates may generate this figure by conflating premature death statistics with broader estimates of lifestyle-attributable chronic disease burden.",
+    "page_reference": "Page 8",
+    "tags": ["epidemiology-and-burden", "definition-and-scope", "tobacco-cessation"]
+  },
+  {
+    "question_id": "NEW-010",
+    "section": "Introduction to Lifestyle Medicine",
+    "section_number": "01",
+    "question_text": "A 62-year-old man with hypertension, dyslipidemia, and prediabetes asks his cardiologist which specific dietary pattern has the strongest randomized controlled trial evidence for reducing major cardiovascular events. His cardiologist references the PREDIMED trial. Compared to a reduced-fat dietary pattern, what was the approximate reduction in major cardiovascular events in participants assigned to a Mediterranean dietary pattern supplemented with extra-virgin olive oil?",
+    "options": [
+      "A) 15%",
+      "B) 22%",
+      "C) 28%",
+      "D) 30%"
+    ],
+    "correct_answer": "D) 30%",
+    "rationale": "D) 30% is correct: The PREDIMED trial found that the incidence of major cardiovascular events was 30% lower among participants assigned to a Mediterranean dietary pattern supplemented with extra-virgin olive oil, and 28% lower among those assigned to the Mediterranean diet supplemented with nuts, compared to a reduced-fat control dietary pattern. These figures represent the strongest RCT evidence supporting a dietary pattern for primary cardiovascular prevention. A) 15% is incorrect: This underestimates the PREDIMED effect size for the EVOO arm and does not correspond to any outcome reported in the trial — it may represent a candidate's intuitive estimate of a modest dietary effect. B) 22% is incorrect: This figure is not derived from the PREDIMED trial and serves as an intermediate-value distractor for candidates who recall that the effect was substantial but do not know the precise figure. C) 28% is incorrect: 28% is the cardiovascular event reduction in the PREDIMED nuts arm, not the extra-virgin olive oil arm — candidates who recall that both arms outperformed the control but do not distinguish between them will select this.",
+    "page_reference": "Page 16",
+    "tags": ["clinical-evidence", "cardiovascular-disease", "dietary-patterns", "guideline-recommendations"]
+  }
+]

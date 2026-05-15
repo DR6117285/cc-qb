@@ -1,0 +1,722 @@
+[
+  {
+    "question_text": "A 45-year-old woman presents to your lifestyle medicine clinic complaining of persistent low mood and lack of energy. She has no history of clinical depression but reports feeling unfulfilled in her daily life. Which of the following interventions, based on the PERMA model, would be most appropriate to recommend first?",
+    "options": [
+      "A) Encourage her to engage in regular physical exercise",
+      "B) Suggest she starts a gratitude journal",
+      "C) Recommend she identifies and uses her signature strengths daily",
+      "D) Advise her to increase her social interactions"
+    ],
+    "correct_answer": "C) Recommend she identifies and uses her signature strengths daily",
+    "page_reference": "332",
+    "rationale": "Identifying and using signature strengths daily addresses the Engagement component of PERMA, which can increase positive emotion, create a sense of accomplishment, and potentially lead to more meaningful activities. Regular exercise (A) is beneficial but not directly related to PERMA. Gratitude journaling (B) primarily addresses positive emotion but doesn't fully engage the patient. Increasing social interactions (D) addresses the Relationships component but may not be the most effective first step for this patient's specific complaints.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00026",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine physician is developing a community-based intervention program to improve overall well-being. Based on current research, which of the following outcomes is most strongly associated with increased longevity?",
+    "options": [
+      "A) Regular meditation practice",
+      "B) Consistent exercise routine",
+      "C) Strong sense of purpose in life",
+      "D) Balanced nutritional intake"
+    ],
+    "correct_answer": "C) Strong sense of purpose in life",
+    "page_reference": "335",
+    "rationale": "Having a purpose in life is strongly associated with increased longevity, reduced mortality, and lower risk of Alzheimer's disease. While meditation (A), exercise (B), and nutrition (D) are beneficial for health, they are not specifically linked to increased longevity in the provided text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00027",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 55-year-old man with type 2 diabetes and hypertension participates in a positive psychology intervention study. After six months, his inflammatory markers show significant improvement. Based on current research, which of the following aspects of well-being is most likely associated with this positive change in his inflammatory profile?",
+    "options": [
+      "A) Increased hedonic well-being",
+      "B) Enhanced eudaimonic well-being",
+      "C) Improved sleep quality",
+      "D) Reduced stress levels"
+    ],
+    "correct_answer": "B) Enhanced eudaimonic well-being",
+    "page_reference": "335",
+    "rationale": "Eudaimonic well-being is associated with downregulation of pro-inflammatory genes. Hedonic well-being (A) is associated with the opposite pattern. Improved sleep quality (C) and reduced stress levels (D) are not specifically linked to changes in inflammatory markers in the given text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00028",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is designing a positive psychology intervention for patients with chronic conditions. Based on recent research, which of the following outcomes is most strongly associated with lower levels of inflammatory markers interleukin-6 and C-reactive protein in these patients?",
+    "options": [
+      "A) Increased positive affect",
+      "B) Improved sleep patterns",
+      "C) Enhanced social connections",
+      "D) Greater physical activity"
+    ],
+    "correct_answer": "A) Increased positive affect",
+    "page_reference": "335",
+    "rationale": "Increased positive affect is directly linked to lower levels of inflammatory markers in patients with chronic conditions. Improved sleep patterns (B), enhanced social connections (C), and greater physical activity (D) are beneficial but not specifically mentioned in relation to these inflammatory markers in the given text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00029",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 60-year-old woman with a history of mild cognitive impairment is interested in lifestyle interventions to slow cognitive decline. Based on the Health and Retirement Study findings, which of the following interventions is most likely to have a positive impact on her cognitive function and reduce her risk of developing Alzheimer's disease?",
+    "options": [
+      "A) Implementing a Mediterranean diet",
+      "B) Engaging in daily aerobic exercise",
+      "C) Developing a strong sense of life purpose",
+      "D) Practicing mindfulness meditation"
+    ],
+    "correct_answer": "C) Developing a strong sense of life purpose",
+    "page_reference": "335",
+    "rationale": "A strong sense of life purpose is linked to reduced risk of Alzheimer's disease and slower cognitive decline. While a Mediterranean diet (A), aerobic exercise (B), and mindfulness meditation (D) are beneficial, they are not specifically mentioned in relation to the Health and Retirement Study findings in this section.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00030",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine physician is counseling a 50-year-old patient on strategies to improve overall well-being and longevity. Recent neuroimaging research suggests that one aspect of well-being is associated with greater insular cortex grey matter volume. Which of the following should the physician recommend to potentially enhance this neurological benefit?",
+    "options": [
+      "A) Practicing mindfulness meditation",
+      "B) Engaging in regular physical exercise",
+      "C) Pursuing eudaimonic well-being activities",
+      "D) Increasing social interactions"
+    ],
+    "correct_answer": "C) Pursuing eudaimonic well-being activities",
+    "page_reference": "335",
+    "rationale": "Eudaimonic well-being is positively associated with greater insular cortex grey matter volume. Mindfulness meditation (A), physical exercise (B), and social interactions (D) are not specifically mentioned in relation to insular cortex grey matter volume in the given text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00031",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 35-year-old woman with a family history of cardiovascular disease is seeking advice on lifestyle modifications to reduce her risk. Recent research has shown that one psychological trait is associated with up to a 15% increased longevity and continued survival advantage even past the age of 85. Which of the following traits should the lifestyle medicine practitioner focus on cultivating in this patient?",
+    "options": [
+      "A) Resilience",
+      "B) Mindfulness",
+      "C) Optimism",
+      "D) Gratitude"
+    ],
+    "correct_answer": "C) Optimism",
+    "page_reference": "333",
+    "rationale": "Optimism is associated with up to 15% increased longevity and continued survival advantage past age 85. Resilience (A), mindfulness (B), and gratitude (D) are beneficial traits but not specifically linked to the longevity benefits described in the question.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00032",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing a new positive psychology intervention program. The clinic director wants to focus on the intervention that has the strongest evidence for enhancing well-being and alleviating depressive symptoms. Based on meta-analytic findings, which of the following interventions should be prioritized?",
+    "options": [
+      "A) Mindfulness-based stress reduction",
+      "B) Cognitive behavioral therapy",
+      "C) Positive psychology interventions (PPIs)",
+      "D) Physical exercise programs"
+    ],
+    "correct_answer": "C) Positive psychology interventions (PPIs)",
+    "page_reference": "332",
+    "rationale": "PPIs are defined as treatment methods aimed at cultivating positive feelings, behaviors, or cognition, and are supported by meta-analytic findings. While mindfulness-based stress reduction (A), cognitive behavioral therapy (B), and physical exercise programs (D) are beneficial, they are not specifically mentioned in relation to meta-analytic findings for enhancing well-being and alleviating depressive symptoms in this section.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00033",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 40-year-old man presents to a lifestyle medicine clinic reporting feelings of emptiness and lack of fulfillment despite having a successful career and stable family life. The physician wants to recommend an intervention based on Fredrickson's broaden-and-build theory. Which of the following approaches would be most aligned with this theory?",
+    "options": [
+      "A) Encouraging the patient to set and achieve challenging goals",
+      "B) Recommending a mindfulness meditation practice",
+      "C) Advising the patient to engage in activities that elicit positive emotions",
+      "D) Suggesting the patient focus on developing closer relationships"
+    ],
+    "correct_answer": "C) Advising the patient to engage in activities that elicit positive emotions",
+    "page_reference": "333",
+    "rationale": "Fredrickson's broaden-and-build theory emphasizes the role of positive emotions in building personal resources. Setting challenging goals (A), mindfulness meditation (B), and developing closer relationships (D) may be beneficial but are not the primary focus of the broaden-and-build theory.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00034",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine researcher is studying the effects of different well-being interventions on gene expression patterns. Based on current research, which of the following interventions is most likely to result in the downregulation of pro-inflammatory genes and upregulation of antibody synthesis genes?",
+    "options": [
+      "A) Hedonic well-being practices",
+      "B) Eudaimonic well-being practices",
+      "C) Mindfulness meditation",
+      "D) Social connection exercises"
+    ],
+    "correct_answer": "B) Eudaimonic well-being practices",
+    "page_reference": "335",
+    "rationale": "Eudaimonic well-being is associated with downregulation of pro-inflammatory genes and upregulation of antibody synthesis genes. Hedonic well-being (A) is associated with the opposite pattern. Mindfulness meditation (C) and social connection exercises (D) are not specifically mentioned in relation to these gene expression patterns in the given text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00035",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is counseling a patient on improving their overall well-being. According to the Harvard Study of Adult Development, which of the following factors is the single most important predictor of happiness and longevity?",
+    "options": [
+      "A) Regular exercise routine",
+      "B) Balanced diet",
+      "C) Social connections",
+      "D) Financial stability"
+    ],
+    "correct_answer": "C) Social connections",
+    "page_reference": "336",
+    "rationale": "The Harvard Study of Adult Development concluded that social connections were the single most important predictor of happiness and longevity. While exercise (A), diet (B), and financial stability (D) are important for overall health, they were not identified as the most crucial factor in this study.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00036",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A researcher is studying the impact of social networks on emotional states and health behaviors. Based on current research, how far can emotional states be socially contagious within a network?",
+    "options": [
+      "A) One degree of separation",
+      "B) Two degrees of separation",
+      "C) Three degrees of separation",
+      "D) Four degrees of separation"
+    ],
+    "correct_answer": "C) Three degrees of separation",
+    "page_reference": "336",
+    "rationale": "The text states that people's emotional states are socially contagious up to three degrees of separation. One (A), two (B), and four (D) degrees of separation are not supported by the research presented in the text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00037",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine physician is developing an intervention to improve patients' overall well-being and physiological measures such as heart rate. Which of the following should be the primary focus of this intervention?",
+    "options": [
+      "A) Increasing daily step count",
+      "B) Promoting positive resonance and micro-moments of connectivity",
+      "C) Implementing a Mediterranean diet",
+      "D) Encouraging regular meditation practice"
+    ],
+    "correct_answer": "B) Promoting positive resonance and micro-moments of connectivity",
+    "page_reference": "336",
+    "rationale": "The text mentions that longevity, health, and physiologic measures, such as heart rate, are improved with positive resonance and micro-moments of connection. While increasing step count (A), implementing a Mediterranean diet (C), and encouraging meditation (D) can be beneficial, they are not specifically linked to improved physiological measures in this context.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00038",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A 25-year-old patient reports spending significant time on social media and is concerned about its impact on their mental health. Based on recent research, which of the following is most strongly associated with depressive symptoms in young adults who use social media?",
+    "options": [
+      "A) Total time spent on social media",
+      "B) Number of social media platforms used",
+      "C) Frequency of posting updates",
+      "D) Problematic social media use (PSMU)"
+    ],
+    "correct_answer": "D) Problematic social media use (PSMU)",
+    "page_reference": "336",
+    "rationale": "The text states that PSMU is strongly and independently associated with depressive symptoms in young adults. While total time spent (A), number of platforms used (B), and frequency of posting (C) may contribute to PSMU, they are not specifically identified as the strongest association with depressive symptoms in the given text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00039",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A study examining media use, sleep quality, and well-being in adolescents found that poor sleep is most strongly associated with which of the following aspects of social media use?",
+    "options": [
+      "A) Overall frequency of use",
+      "B) Number of social media accounts",
+      "C) Daytime use of social media",
+      "D) Nighttime-specific social media use"
+    ],
+    "correct_answer": "D) Nighttime-specific social media use",
+    "page_reference": "336",
+    "rationale": "The study found that poor sleep is most strongly associated with nighttime-specific social media use. Overall frequency (A), number of accounts (B), and daytime use (C) were not specifically identified as having the strongest association with poor sleep in adolescents.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00040",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the \"displacement theory\" of social media use, which of the following is the primary mechanism by which excessive social media use may negatively impact well-being?",
+    "options": [
+      "A) Increased exposure to negative news and information",
+      "B) Reduced time for practicing healthy behaviors",
+      "C) Heightened social comparison and feelings of inadequacy",
+      "D) Disruption of circadian rhythms due to screen time"
+    ],
+    "correct_answer": "B) Reduced time for practicing healthy behaviors",
+    "page_reference": "337",
+    "rationale": "The displacement theory suggests that spending too much time online may leave less time to practice healthy behaviors. Increased exposure to negative news (A), social comparison (C), and disruption of circadian rhythms (D) are not specifically mentioned as part of the displacement theory in the given text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00041",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is designing a therapeutic lifestyle change (TLC) intervention for patients with mental health concerns. According to current research, which of the following statements about TLC is most accurate?",
+    "options": [
+      "A) TLC is only effective for mild mental health issues",
+      "B) TLC can be as effective as psychotherapy and pharmacotherapy for promoting good mental health",
+      "C) TLC is primarily useful for physical health outcomes, with limited impact on mental health",
+      "D) TLC is only effective when combined with traditional psychotherapy"
+    ],
+    "correct_answer": "B) TLC can be as effective as psychotherapy and pharmacotherapy for promoting good mental health",
+    "page_reference": "337",
+    "rationale": "The text states that TLC can be as effective as psychotherapy and pharmacotherapy for the promotion of good mental health. The other options (A, C, D) are not supported by the information provided in the text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00042",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following lifestyle interventions has shown a small positive effect on the treatment of depression compared to no treatment or control treatment, according to recent research?",
+    "options": [
+      "A) Dietary changes",
+      "B) Sleep hygiene improvements",
+      "C) Exercise",
+      "D) Stress management techniques"
+    ],
+    "correct_answer": "C) Exercise",
+    "page_reference": "337",
+    "rationale": "The text mentions that exercise has shown a small positive effect on treatment of depression compared to no treatment or control treatment. While dietary changes (A), sleep hygiene improvements (B), and stress management techniques (D) may be beneficial, they are not specifically mentioned in this context.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00043",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine physician is counseling an elderly patient with depression. Based on current research, which of the following statements about exercise and depression in the elderly is most accurate?",
+    "options": [
+      "A) Exercise is ineffective for treating depression in the elderly",
+      "B) Exercise may be an effective treatment for depression in the elderly",
+      "C) Exercise is only effective when combined with antidepressants in the elderly",
+      "D) Exercise is contraindicated for elderly patients with depression"
+    ],
+    "correct_answer": "B) Exercise may be an effective treatment for depression in the elderly",
+    "page_reference": "338",
+    "rationale": "The text states that exercise may be an effective treatment for depression in the elderly. The other options (A, C, D) are not supported by the information provided in the text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00044",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A study of approximately 100,000 Japanese young adults examined the relationship between sleep duration and mental health. Which of the following sleep durations was associated with improved mental health in this population?",
+    "options": [
+      "A) Less than 6 hours",
+      "B) 6-7 hours",
+      "C) 7-9 hours",
+      "D) More than 9 hours"
+    ],
+    "correct_answer": "C) 7-9 hours",
+    "page_reference": "338",
+    "rationale": "The study found that those who slept 7-9 hours a night had improved mental health compared to those who slept less than 7 hours or more than 9 hours. Sleep durations of less than 6 hours (A), 6-7 hours (B), and more than 9 hours (D) were not associated with improved mental health in this study.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00045",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is designing a positive psychology intervention program. Which of the following activities has been shown to improve emotional well-being?",
+    "options": [
+      "A) Watching motivational videos daily",
+      "B) Listing personal weaknesses to improve upon",
+      "C) Finding and improving signature strengths",
+      "D) Focusing on past negative experiences to learn from them"
+    ],
+    "correct_answer": "C) Finding and improving signature strengths",
+    "page_reference": "338",
+    "rationale": "Finding and improving signature strengths is explicitly mentioned as a habit for emotional well-being on page 338. This activity aligns with the positive psychology approach of focusing on and developing an individual's strengths rather than addressing perceived weaknesses. By identifying and regularly using their signature strengths, individuals can increase their sense of engagement, accomplishment, and overall well-being. Watching motivational videos (A) is not mentioned as a specific positive psychology intervention in this section. Listing personal weaknesses (B) goes against the strengths-based approach of positive psychology. Focusing on past negative experiences (D) is not aligned with the positive psychology emphasis on cultivating positive emotions and experiences.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00046",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following interventions is recommended to boost emotional well-being by savoring positive experiences?",
+    "options": [
+      "A) Practicing mindfulness meditation for an hour daily",
+      "B) Engaging in high-intensity interval training",
+      "C) Devoting 5 minutes a day to savoring a particular activity",
+      "D) Keeping a detailed journal of daily activities"
+    ],
+    "correct_answer": "C) Devoting 5 minutes a day to savoring a particular activity",
+    "page_reference": "338",
+    "rationale": "The text specifically recommends devoting 5 minutes a day to savoring a particular activity as a way to boost emotional well-being. This practice helps individuals focus on and fully experience positive aspects of their daily lives, enhancing positive emotions and overall well-being. The example given in the text is \"drinking tea in the garden or eating ripe red strawberries.\" Mindfulness meditation (A), while beneficial, is not specifically mentioned in this context. High-intensity interval training (B) is not related to savoring positive experiences. Keeping a detailed journal (D) might be helpful but is not specifically recommended for savoring in this section.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00047",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A patient asks about ways to increase their sense of purpose and meaning in life. Which of the following interventions would be most appropriate to recommend based on the positive psychology activities mentioned in the text?",
+    "options": [
+      "A) Creating a bucket list of exciting activities",
+      "B) Writing down how one wants to be remembered",
+      "C) Analyzing past failures to avoid future mistakes",
+      "D) Increasing time spent on social media"
+    ],
+    "correct_answer": "B) Writing down how one wants to be remembered",
+    "page_reference": "339",
+    "rationale": "Writing down how one wants to be remembered is specifically mentioned as a positive psychology activity to boost emotional well-being and flourishing. This exercise encourages individuals to reflect on their values, goals, and the impact they want to have on others, which can enhance their sense of purpose and meaning in life. The text suggests asking patients to complete the sentence, \"50 years from now, I want people to remember me for...\" or to reflect on how they would like their life story to be told at the end of their life. Creating a bucket list (A), while potentially beneficial, is not mentioned as a specific positive psychology intervention in this section. Analyzing past failures (C) focuses on negative experiences, which is not aligned with the positive psychology approach. Increasing time spent on social media (D) is not recommended as a positive psychology intervention and may even have negative effects on well-being.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00048",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the text, which of the following is a recommended positive psychology activity for boosting emotional well-being?",
+    "options": [
+      "A) Regularly practicing acts of kindness",
+      "B) Competing in challenging sports events",
+      "C) Isolating oneself for deep introspection",
+      "D) Focusing on achieving material success"
+    ],
+    "correct_answer": "A) Regularly practicing acts of kindness",
+    "page_reference": "339",
+    "rationale": "Regularly practicing acts of kindness is explicitly mentioned as a positive psychology activity for boosting emotional well-being. The text recommends encouraging patients to commit an act of kindness either to someone they know or even a stranger, and to note how they feel afterward. This practice can increase positive emotions, strengthen social connections, and contribute to overall well-being.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00049",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following recommendations aligns best with the positive psychology activities mentioned in the text for enhancing emotional well-being?",
+    "options": [
+      "A) Spending most of one's free time on social media",
+      "B) Focusing primarily on correcting personal weaknesses",
+      "C) Connecting and interacting with others regularly in person",
+      "D) Avoiding reflection on past positive experiences"
+    ],
+    "correct_answer": "C) Connecting and interacting with others regularly in person",
+    "page_reference": "339",
+    "rationale": "Connecting and interacting with others regularly in person is specifically mentioned as a positive psychology activity for boosting emotional well-being. The text emphasizes the importance of spending time in social networks that matter, such as family, social groups, sport groups, and spiritual groups. This aligns with the research showing the significant impact of social connections on well-being and longevity. Spending most free time on social media (A) is not recommended and may even have negative effects on well-being. Focusing primarily on correcting personal weaknesses (B) goes against the strengths-based approach of positive psychology. Avoiding reflection on past positive experiences (D) contradicts the recommendation to think of one's happiest days frequently, which is mentioned as a positive psychology activity.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00050",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the text, what is the relationship between mindfulness practices and well-being?",
+    "options": [
+      "A) Mindfulness has no effect on well-being",
+      "B) Mindfulness practices have been associated with increases in hedonic and eudaimonic well-being",
+      "C) Mindfulness only improves physical health, not mental well-being",
+      "D) Mindfulness practices have been proven to cure all mental health disorders"
+    ],
+    "correct_answer": "B) Mindfulness practices have been associated with increases in hedonic and eudaimonic well-being",
+    "page_reference": "339",
+    "rationale": "The text states that \"The positive psychology literature commonly advocates for mindfulness practices, which have been associated with increases in hedonic and eudaimonic well-being.\" This indicates a positive relationship between mindfulness practices and both types of well-being. However, the text also notes that more research and rigorous study design are needed in the field of mindfulness. Option A is incorrect as the text does indicate a positive association. Option C is incorrect as the text specifically mentions mental well-being benefits. Option D is an overstatement not supported by the information provided in the text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00051",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Based on the information provided in the text, what effect does mindfulness practice have on stress levels in people with mental health disorders such as depression or anxiety?",
+    "options": [
+      "A) It has no effect on stress levels",
+      "B) It dramatically increases stress levels",
+      "C) It can mildly lower stress scores",
+      "D) It completely eliminates all stress"
+    ],
+    "correct_answer": "C) It can mildly lower stress scores",
+    "page_reference": "339",
+    "rationale": "The text states, \"Mindfulness can mildly lower stress scores, even in people who have mental health disorders, such as depression or anxiety.\" This indicates a modest but positive effect of mindfulness on stress levels in individuals with mental health conditions. Options A and B are contradicted by the information provided in the text. Option D is an overstatement not supported by the given information, which only mentions a mild lowering of stress scores.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00052",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the study mentioned in the text, what effect did mindfulness practice have on college students' coping skills?",
+    "options": [
+      "A) It had no effect on coping skills",
+      "B) It increased use of avoidance coping strategies",
+      "C) It led to greater use of assertive coping skills",
+      "D) It worsened students' ability to cope with stress"
+    ],
+    "correct_answer": "C) It led to greater use of assertive coping skills",
+    "page_reference": "339",
+    "rationale": "The text mentions that \"College students who practiced mindfulness reported lower stress levels, less use of avoidance, and greater use of assertive coping skills, such as addressing the situation.\" This indicates that mindfulness practice had a positive effect on students' coping abilities, specifically increasing their use of assertive coping strategies. Option A is incorrect as the study did show an effect. Option B is the opposite of what was reported, as the study found less use of avoidance. Option D contradicts the positive effects described in the text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00053",
+    "section_number": "10"
+  },
+  {
+    "question_text": "When promoting emotional well-being activities in a lifestyle medicine practice, which of the following approaches is NOT recommended according to the text?",
+    "options": [
+      "A) Prescribing dosed therapeutic lifestyle change",
+      "B) Celebrating successes with patients",
+      "C) Prioritizing self-care and emotional well-being for the practitioner",
+      "D) Focusing solely on physical health outcomes"
+    ],
+    "correct_answer": "D) Focusing solely on physical health outcomes",
+    "page_reference": "339",
+    "rationale": "The text emphasizes a holistic approach to lifestyle medicine that includes both physical and emotional well-being. It specifically states that practitioners should \"be mindful that all the major elements of a lifestyle medicine approach (involving attention to dietary pattern, exercise, sleep, social support, substance avoidance, and stress management) potentiate emotional well-being and mental health.\" Therefore, focusing solely on physical health outcomes would not be aligned with this comprehensive approach. Options A, B, and C are all explicitly recommended in the text as ways to promote emotional well-being activities in lifestyle medicine practice.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00054",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the text, what is the relationship between practitioner self-care and patient care in lifestyle medicine?",
+    "options": [
+      "A) Practitioner self-care has no impact on patient care",
+      "B) Prioritizing self-care can negatively affect patient outcomes",
+      "C) Practitioner self-care and emotional well-being can influence \"presence\" with patients",
+      "D) Self-care is only important for practitioners with mental health issues"
+    ],
+    "correct_answer": "C) Practitioner self-care and emotional well-being can influence \"presence\" with patients",
+    "page_reference": "339",
+    "rationale": "The text states, \"Prioritize self-care and emotional well-being, as this can influence practitioner 'presence' with patients.\" This indicates that there is a positive relationship between a practitioner's own self-care and emotional well-being and their ability to be present and effective with patients. Options A and B contradict the information provided in the text. Option D is not supported by the text, which suggests self-care is important for all practitioners, not just those with mental health issues.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00055",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following best defines positive psychology?",
+    "options": [
+      "A) The study of mental illness and its treatment",
+      "B) The study of that which allows individuals and communities to flourish and thrive",
+      "C) The practice of positive thinking to eliminate negative emotions",
+      "D) The analysis of personality traits and their development"
+    ],
+    "correct_answer": "B) The study of that which allows individuals and communities to flourish and thrive",
+    "page_reference": "332",
+    "rationale": "This definition is explicitly stated in the text. Option A focuses on traditional psychology. Option C is a common misconception about positive psychology. Option D describes a different area of psychology.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00056",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to Peterson and Seligman's classification, which of the following is NOT one of the six broad categories of core virtues?",
+    "options": [
+      "A) Wisdom and knowledge",
+      "B) Courage",
+      "C) Intelligence",
+      "D) Transcendence"
+    ],
+    "correct_answer": "C) Intelligence",
+    "page_reference": "332-333",
+    "rationale": "The text lists wisdom and knowledge, courage, humanity, justice, temperance, and transcendence as the six core virtues. Intelligence is not listed as a separate core virtue category.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00057",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following is NOT one of Fredrickson's ten most common positive emotions?",
+    "options": [
+      "A) Joy",
+      "B) Gratitude",
+      "C) Confidence",
+      "D) Awe"
+    ],
+    "correct_answer": "C) Confidence",
+    "page_reference": "333",
+    "rationale": "The text lists joy, gratitude, serenity, interest, hope, pride, amusement, inspiration, awe, and love as Fredrickson's ten most common positive emotions. Confidence is not included in this list.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00058",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to research on social media use and mental health, which aspect of social media use is most strongly associated with depressive symptoms in young adults?",
+    "options": [
+      "A) Total time spent on social media",
+      "B) Number of social media platforms used",
+      "C) Frequency of posting updates",
+      "D) Problematic social media use (PSMU)"
+    ],
+    "correct_answer": "D) Problematic social media use (PSMU)",
+    "page_reference": "336",
+    "rationale": "The text specifically states that PSMU is strongly and independently associated with depressive symptoms in young adults.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00059",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following lifestyle pillars is NOT mentioned in the text as potentiating emotional well-being and mental health?",
+    "options": [
+      "A) Dietary pattern",
+      "B) Exercise",
+      "C) Financial management",
+      "D) Substance avoidance"
+    ],
+    "correct_answer": "C) Financial management",
+    "page_reference": "339",
+    "rationale": "The text mentions dietary pattern, exercise, sleep, social support, substance avoidance, and stress management as lifestyle pillars that potentiate emotional well-being and mental health. Financial management is not listed.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00060",
+    "section_number": "10"
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is designing an intervention to improve sleep quality in adolescents. Based on research findings, which aspect of social media use should be the primary target for modification?",
+    "options": [
+      "A) Overall frequency of use",
+      "B) Number of social media accounts",
+      "C) Daytime use of social media",
+      "D) Nighttime-specific social media use"
+    ],
+    "correct_answer": "D) Nighttime-specific social media use",
+    "page_reference": "336",
+    "rationale": "The text states that poor sleep is most strongly associated with nighttime-specific social media use in adolescents.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00061",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the text, which of the following is a potential mechanism by which exercise may benefit individuals with depression?",
+    "options": [
+      "A) It always outperforms antidepressant medications",
+      "B) It shows a small positive effect compared to no treatment",
+      "C) It is only effective for severe depression",
+      "D) It eliminates the need for psychotherapy"
+    ],
+    "correct_answer": "B) It shows a small positive effect compared to no treatment",
+    "page_reference": "337-338",
+    "rationale": "The text mentions that exercise has shown a small positive effect on treatment of depression compared to no treatment or control treatment.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00062",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following statements about the relationship between sleep duration and mental health in young adults is supported by the research mentioned in the text?",
+    "options": [
+      "A) Sleeping less than 6 hours is optimal for mental health",
+      "B) There is no relationship between sleep duration and mental health",
+      "C) Sleeping 7-9 hours a night is associated with improved mental health",
+      "D) Only sleep quality matters, not duration"
+    ],
+    "correct_answer": "C) Sleeping 7-9 hours a night is associated with improved mental health",
+    "page_reference": "338",
+    "rationale": "The text cites a study of Japanese young adults showing that those who slept 7-9 hours a night had improved mental health compared to those who slept less than 7 hours or more than 9 hours.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00063",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following is a recommended positive psychology activity for boosting emotional well-being, according to the text?",
+    "options": [
+      "A) Analyzing past failures in detail",
+      "B) Focusing on correcting personal weaknesses",
+      "C) Regularly practicing acts of kindness",
+      "D) Avoiding reflection on positive experiences"
+    ],
+    "correct_answer": "C) Regularly practicing acts of kindness",
+    "page_reference": "339",
+    "rationale": "The text specifically mentions regularly practicing acts of kindness as a positive psychology activity for boosting emotional well-being.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00064",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to the text, what is the primary benefit of a lifestyle medicine practitioner prioritizing their own self-care and emotional well-being?",
+    "options": [
+      "A) It increases the practitioner's income",
+      "B) It eliminates the need for continuing education",
+      "C) It can influence the practitioner's \"presence\" with patients",
+      "D) It guarantees better patient outcomes"
+    ],
+    "correct_answer": "C) It can influence the practitioner's \"presence\" with patients",
+    "page_reference": "339",
+    "rationale": "The text states that prioritizing self-care and emotional well-being can influence practitioner \"presence\" with patients.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00065",
+    "section_number": "10"
+  },
+  {
+    "question_text": "According to Fredrickson's broaden-and-build theory, what is the primary effect of positive emotions?",
+    "options": [
+      "A) They narrow focus to solve immediate problems",
+      "B) They broaden thoughts and expand personal resources",
+      "C) They increase negative emotions to balance mood",
+      "D) They have no effect on cognitive processes"
+    ],
+    "correct_answer": "B) They broaden thoughts and expand personal resources",
+    "page_reference": "333",
+    "rationale": "This directly reflects the core concept of the broaden-and-build theory as described in the text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00066",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Based on the Health and Retirement Study, having a strong sense of purpose in life was associated with which of the following health outcomes?",
+    "options": [
+      "A) Increased risk of stroke",
+      "B) Higher blood pressure",
+      "C) Reduced incidence of stroke",
+      "D) Increased inflammation markers"
+    ],
+    "correct_answer": "C) Reduced incidence of stroke",
+    "page_reference": "335",
+    "rationale": "The text specifically mentions that the Health and Retirement Study found a reduced incidence of stroke in older adults with a higher sense of purpose in life.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00067",
+    "section_number": "10"
+  },
+  {
+    "question_text": "What does the Harvard Study of Adult Development conclude about social connections?",
+    "options": [
+      "A) They have no impact on longevity",
+      "B) They are the single most important predictor of happiness and longevity",
+      "C) They only affect mental health, not physical health",
+      "D) They are less important than financial success for well-being"
+    ],
+    "correct_answer": "B) They are the single most important predictor of happiness and longevity",
+    "page_reference": "336",
+    "rationale": "This directly reflects the findings of the Harvard Study as described in the text.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00068",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which component of the PERMA model refers to being fully absorbed in the present moment with a \"blissful immersion\"?",
+    "options": [
+      "A) Positive emotion",
+      "B) Engagement",
+      "C) Relationships",
+      "D) Meaning"
+    ],
+    "correct_answer": "B) Engagement",
+    "page_reference": "332",
+    "rationale": "This definition of engagement is provided in the text's description of the PERMA model.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00069",
+    "section_number": "10"
+  },
+  {
+    "question_text": "Which of the following is a key principle of therapeutic lifestyle change (TLC) for mental health, according to the text?",
+    "options": [
+      "A) TLC is only effective for physical health issues",
+      "B) TLC can be as effective as psychotherapy and pharmacotherapy for mental health",
+      "C) TLC should never be used alongside traditional therapies",
+      "D) TLC is only suitable for mild mental health concerns"
+    ],
+    "correct_answer": "B) TLC can be as effective as psychotherapy and pharmacotherapy for mental health",
+    "page_reference": "337",
+    "rationale": "This statement directly reflects the text's description of TLC's effectiveness for mental health.",
+    "section": "The Role of Connectedness and Positive Psychology",
+    "question_type": "General",
+    "question_id": "00070",
+    "section_number": "10"
+  }
+]

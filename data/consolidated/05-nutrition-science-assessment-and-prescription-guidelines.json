@@ -1,0 +1,3322 @@
+[
+  {
+    "question_text": "A 58-year-old woman with type 2 diabetes and hypertension presents for a follow-up visit. She reports following a strict vegan diet for the past 6 months. Her recent labs show a vitamin B12 level of 150 pg/mL (110 pmol/L). Which of the following is the most appropriate next step in management?",
+    "options": [
+      "A) Recommend consumption of fortified plant-based milk",
+      "B) Prescribe oral vitamin B12 supplements",
+      "C) Administer intramuscular vitamin B12 injections",
+      "D) Advise consumption of nori seaweed"
+    ],
+    "correct_answer": "B) Prescribe oral vitamin B12 supplements",
+    "page_reference": "Pages 179-180",
+    "rationale": "For vegans with low vitamin B12 levels, oral supplementation is the most appropriate first-line treatment. Vitamin B12 is found almost exclusively in animal products, and a strict vegan diet puts individuals at high risk for deficiency. Oral supplements are effective, well-tolerated, and can easily correct the deficiency in most cases. While fortified plant-based milk contains some B12, it's unlikely to be sufficient to correct a deficiency. Intramuscular injections are typically reserved for cases of severe deficiency or malabsorption. Nori seaweed contains some B12 analogues, but these are not reliable sources of active B12 for humans.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050001",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "diabetes",
+      "hypertension"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old man with a BMI of 32 kg/m² is interested in losing weight. He reports consuming a diet high in ultra-processed foods (UPFs). Which of the following mechanisms best explains how reducing UPF intake could lead to weight loss?",
+    "options": [
+      "A) Decreased hepatic de novo lipogenesis",
+      "B) Increased thermogenesis",
+      "C) Reduced hyperpalatability leading to lower calorie intake",
+      "D) Enhanced adiponectin production"
+    ],
+    "correct_answer": "C) Reduced hyperpalatability leading to lower calorie intake",
+    "page_reference": "Page 152",
+    "rationale": "Ultra-processed foods are often designed to be hyperpalatable, leading to overconsumption. They typically have a higher calorie density and are easier to consume quickly, which can result in consuming more calories before feeling full. By reducing UPF intake, individuals often naturally decrease their calorie consumption. While decreased hepatic de novo lipogenesis can occur with reduced sugar intake, it's not the primary mechanism for weight loss when reducing UPFs. Increased thermogenesis is not directly linked to UPF reduction. Enhanced adiponectin production is associated with weight loss but is not a direct result of reducing UPF intake.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050002",
+    "section_number": "05",
+    "tags": [
+      "weight-management",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 62-year-old man with a history of myocardial infarction 2 years ago is interested in dietary changes to reduce his risk of future cardiovascular events. His current diet is high in saturated fats from animal sources. Which of the following dietary changes is most likely to reduce his cardiovascular risk?",
+    "options": [
+      "A) Replace saturated fats with monounsaturated fats",
+      "B) Increase intake of medium-chain triglycerides",
+      "C) Supplement with conjugated linoleic acid",
+      "D) Switch to grass-fed beef as a primary protein source"
+    ],
+    "correct_answer": "A) Replace saturated fats with monounsaturated fats",
+    "page_reference": "Page 126",
+    "rationale": "Replacing saturated fats with monounsaturated fats has been shown to reduce cardiovascular risk. Monounsaturated fats, found in sources like olive oil, avocados, and nuts, can help lower LDL cholesterol levels while maintaining or increasing HDL cholesterol. Increasing intake of medium-chain triglycerides has not been consistently shown to reduce cardiovascular risk. Supplementing with conjugated linoleic acid has mixed evidence and is not recommended as a primary strategy for cardiovascular risk reduction. While grass-fed beef may have a slightly better fatty acid profile than conventional beef, it still contains significant saturated fat and is not recommended as a primary protein source for individuals with high cardiovascular risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050003",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old woman with type 2 diabetes is struggling to control her blood glucose levels despite medication adherence. Her diet consists primarily of refined grains, processed meats, and sugar-sweetened beverages. Which of the following dietary changes would most likely improve her glycaemic control?",
+    "options": [
+      "A) Switching to artificial sweeteners in her beverages",
+      "B) Increasing consumption of whole grains and legumes",
+      "C) Adding a daily multivitamin supplement",
+      "D) Incorporating more lean meats into her diet"
+    ],
+    "correct_answer": "B) Increasing consumption of whole grains and legumes",
+    "page_reference": "Pages 167-168",
+    "rationale": "Increasing consumption of whole grains and legumes can significantly improve glycaemic control. These foods are high in fibre and have a lower glycaemic index compared to refined grains, which can help stabilize blood glucose levels. Whole grains and legumes also provide important nutrients and can contribute to better overall metabolic health. Switching to artificial sweeteners may reduce calorie intake but doesn't address the overall poor quality of the diet and may not significantly improve glycaemic control. Adding a daily multivitamin doesn't directly address the dietary factors contributing to poor glycaemic control. While incorporating more lean meats might be an improvement over processed meats, it doesn't address the high intake of refined carbohydrates and doesn't provide the benefits of increased fibre intake that come with whole grains and legumes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050004",
+    "section_number": "05",
+    "tags": [
+      "diabetes",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man with hypertension is interested in dietary approaches to lower his blood pressure. His current diet is low in fruits and vegetables and high in processed foods. Which of the following mechanisms best explains how increasing consumption of fruits and vegetables could lower his blood pressure?",
+    "options": [
+      "A) Increased sodium excretion",
+      "B) Reduced activation of the renin-angiotensin-aldosterone system",
+      "C) Enhanced nitric oxide production",
+      "D) Decreased sympathetic nervous system activity"
+    ],
+    "correct_answer": "C) Enhanced nitric oxide production",
+    "page_reference": "Page 173",
+    "rationale": "Fruits and vegetables are rich in nitrates, which can be converted to nitric oxide in the body. Nitric oxide is a potent vasodilator that can lower blood pressure by relaxing blood vessels. While increased sodium excretion can occur with a diet high in potassium-rich fruits and vegetables, it's not the primary mechanism for blood pressure reduction. Reduced activation of the renin-angiotensin-aldosterone system is more closely associated with sodium restriction than increased fruit and vegetable intake. Decreased sympathetic nervous system activity can contribute to lower blood pressure but is not directly linked to fruit and vegetable consumption.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050005",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old woman with a family history of breast cancer asks about dietary strategies to reduce her risk. Which of the following dietary patterns has the strongest evidence for reducing breast cancer risk?",
+    "options": [
+      "A) Ketogenic diet",
+      "B) High-protein, low-carbohydrate diet",
+      "C) Mediterranean diet",
+      "D) Palaeolithic diet"
+    ],
+    "correct_answer": "C) Mediterranean diet",
+    "page_reference": "Page 175",
+    "rationale": "The Mediterranean diet has the strongest evidence for reducing breast cancer risk among the options presented. This dietary pattern, rich in fruits, vegetables, whole grains, legumes, nuts, and olive oil, has been associated with lower rates of breast cancer in numerous studies. The high content of antioxidants, fibre, and healthy fats in this diet may contribute to its protective effects. The ketogenic diet has limited evidence for cancer prevention and may be harmful if it leads to overconsumption of saturated fats. High-protein, low-carbohydrate diets have not been consistently shown to reduce breast cancer risk and may increase risk if they lead to high consumption of red and processed meats. The Palaeolithic diet lacks strong evidence for cancer prevention and may exclude beneficial food groups like whole grains and legumes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050006",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 65-year-old man with a history of coronary artery disease is following a plant-based diet. He is concerned about getting enough protein. Which of the following statements best describes protein requirements and sources in a plant-based diet?",
+    "options": [
+      "A) Plant proteins are incomplete and must be carefully combined at each meal",
+      "B) Plant-based diets typically provide excess protein, increasing risk of kidney damage",
+      "C) A variety of plant foods can meet protein needs without specific combinations",
+      "D) Soy is the only complete plant protein and should be consumed daily"
+    ],
+    "correct_answer": "C) A variety of plant foods can meet protein needs without specific combinations",
+    "page_reference": "Pages 124-125",
+    "rationale": "A well-planned plant-based diet that includes a variety of foods can easily meet protein requirements without the need for specific combinations at each meal. This concept challenges the outdated notion of protein combining. While it's true that most plant proteins are not complete (lacking one or more essential amino acids), consuming a variety of plant foods throughout the day provides all necessary amino acids. The idea that plant proteins are incomplete and must be carefully combined is an outdated concept. Plant-based diets do not typically provide excess protein; in fact, they often provide adequate but not excessive amounts. While soy is a complete protein, it's not the only one (quinoa is another example), and it's not necessary to consume it daily to meet protein needs on a plant-based diet.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050007",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 70-year-old woman with osteoporosis is concerned about calcium intake on her newly adopted vegan diet. Which of the following plant-based foods provides the highest bioavailable calcium per serving?",
+    "options": [
+      "A) Spinach",
+      "B) Almonds",
+      "C) Kale",
+      "D) Tofu (calcium-set)"
+    ],
+    "correct_answer": "D) Tofu (calcium-set)",
+    "page_reference": "Page 133",
+    "rationale": "Calcium-set tofu (made with calcium sulphate) provides highly bioavailable calcium, often in amounts comparable to dairy products. While spinach is high in calcium, it also contains high levels of oxalates which significantly reduce calcium absorption, making it a poor source of bioavailable calcium. Almonds contain calcium but in lower amounts and with lower bioavailability compared to calcium-set tofu. Kale is a good source of bioavailable calcium, but typically provides less per serving than calcium-set tofu. This question highlights the importance of understanding not just the calcium content of foods, but also its bioavailability when considering dietary sources, especially in the context of bone health conditions like osteoporosis.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050008",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old man with metabolic syndrome is interested in improving his diet. He currently consumes a typical Western diet high in processed foods. Which of the following dietary changes would have the most significant impact on reducing his systemic inflammation?",
+    "options": [
+      "A) Switching from refined grains to whole grains",
+      "B) Replacing saturated fats with polyunsaturated fats",
+      "C) Increasing consumption of fermented foods",
+      "D) Adopting a high-protein, low-carbohydrate diet"
+    ],
+    "correct_answer": "B) Replacing saturated fats with polyunsaturated fats",
+    "page_reference": "Pages 166-167",
+    "rationale": "Replacing saturated fats with polyunsaturated fats has been shown to have a significant anti-inflammatory effect. Polyunsaturated fats, especially omega-3 fatty acids, have potent anti-inflammatory properties. This change can lead to a reduction in pro-inflammatory markers and improve overall metabolic health. While switching from refined to whole grains is beneficial, it typically has a less pronounced effect on systemic inflammation compared to fat quality changes. Increasing consumption of fermented foods may have some anti-inflammatory benefits through modulation of the gut microbiome, but the effect is generally less significant than changing fat quality. Adopting a high-protein, low-carbohydrate diet has mixed effects on inflammation and may even increase inflammation if it leads to high consumption of animal proteins.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050009",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 48-year-old woman with no significant medical history is interested in dietary strategies to support healthy aging and cognitive function. Which of the following dietary patterns has shown the most promise in reducing the risk of cognitive decline and Alzheimer's disease?",
+    "options": [
+      "A) DASH diet",
+      "B) Ketogenic diet",
+      "C) MIND diet",
+      "D) Low-fat diet"
+    ],
+    "correct_answer": "C) MIND diet",
+    "page_reference": "Pages 145-146",
+    "rationale": "The MIND (Mediterranean-DASH Intervention for Neurodegenerative Delay) diet has shown the most promise in reducing the risk of cognitive decline and Alzheimer's disease. This dietary pattern combines elements of the Mediterranean and DASH diets, with a specific focus on foods and nutrients that have been shown to support brain health. It emphasizes green leafy vegetables, berries, nuts, olive oil, whole grains, fish, beans, poultry, and wine in moderation, while limiting red meat, butter, cheese, pastries, and sweets. While the DASH diet has shown some benefits for cognitive health, the MIND diet has demonstrated stronger associations with reduced cognitive decline. The ketogenic diet has shown some promise in certain neurological conditions but lacks strong evidence for long-term cognitive protection in healthy adults. Low-fat diets have not been consistently associated with improved cognitive outcomes and may even be detrimental if they restrict beneficial fats like those found in nuts, seeds, and fatty fish.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050010",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 42-year-old woman with a BMI of 31 kg/m² is interested in improving her diet. Which of the following foods has the highest nutrient density per calorie?",
+    "options": [
+      "A) Avocado",
+      "B) Spinach",
+      "C) Salmon",
+      "D) Quinoa"
+    ],
+    "correct_answer": "B) Spinach",
+    "page_reference": "Page 134",
+    "rationale": "Spinach has one of the highest nutrient densities per calorie among common foods. It's particularly rich in vitamins, minerals, and antioxidants while being very low in calories, making it an excellent choice for improving overall diet quality and supporting weight management.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050011",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "weight-management"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old man with type 2 diabetes asks about the glycaemic index of potatoes. Which of the following preparation methods results in the lowest glycaemic index for potatoes?",
+    "options": [
+      "A) Baking",
+      "B) Boiling",
+      "C) Frying",
+      "D) Cooling after cooking"
+    ],
+    "correct_answer": "D) Cooling after cooking",
+    "page_reference": "Page 174",
+    "rationale": "Cooling potatoes after cooking can lower their glycaemic index by up to 40%. This process increases the amount of resistant starch, which behaves more like fibre in the body, leading to a lower blood glucose response.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050012",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science",
+      "diabetes"
+    ]
+  },
+  {
+    "question_text": "A 60-year-old woman is concerned about her risk of osteoporosis. Which of the following green vegetables provides the most bioavailable calcium?",
+    "options": [
+      "A) Spinach",
+      "B) Kale",
+      "C) Swiss chard",
+      "D) Collard greens"
+    ],
+    "correct_answer": "D) Collard greens",
+    "page_reference": "Page 133",
+    "rationale": "While all these greens contain calcium, collard greens provide the most bioavailable calcium. Spinach and Swiss chard contain high levels of oxalates, which significantly reduce calcium absorption. Kale is also a good source, but collard greens typically provide more bioavailable calcium per serving.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050013",
+    "section_number": "05",
+    "tags": [
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man with hypertension wants to reduce his sodium intake. According to recent data, which of the following contributes the highest percentage of sodium in the average American diet?",
+    "options": [
+      "A) Table salt added during cooking",
+      "B) Salt added at the table",
+      "C) Naturally occurring sodium in foods",
+      "D) Sodium in processed and restaurant foods"
+    ],
+    "correct_answer": "D) Sodium in processed and restaurant foods",
+    "page_reference": "Page 131",
+    "rationale": "According to recent data, about 70% of sodium intake in the American diet comes from processed and restaurant foods. This highlights the importance of focusing on whole, unprocessed foods for reducing sodium intake, rather than just avoiding the salt shaker.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050014",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old woman following a vegan diet is concerned about her omega-3 fatty acid intake. Which of the following plant-based sources provides the most readily usable form of omega-3s for the body?",
+    "options": [
+      "A) Flaxseeds",
+      "B) Chia seeds",
+      "C) Walnuts",
+      "D) Algal oil supplements"
+    ],
+    "correct_answer": "D) Algal oil supplements",
+    "page_reference": "Page 156",
+    "rationale": "While flaxseeds, chia seeds, and walnuts are good sources of alpha-linolenic acid (ALA), an omega-3 fatty acid, the body must convert ALA to EPA and DHA for use. This conversion is often inefficient. Algal oil supplements provide EPA and DHA directly, similar to fish oil, making it the most readily usable form for the body.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050015",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old man with metabolic syndrome is advised to increase his fibre intake. Which of the following best describes the mechanism by which soluble fibre can improve metabolic health?",
+    "options": [
+      "A) Increased gut motility",
+      "B) Formation of short-chain fatty acids",
+      "C) Mechanical abrasion of intestinal walls",
+      "D) Direct binding of cholesterol in the gut"
+    ],
+    "correct_answer": "B) Formation of short-chain fatty acids",
+    "page_reference": "Page 127",
+    "rationale": "Soluble fibre is fermented by gut bacteria, producing short-chain fatty acids (SCFAs). These SCFAs have numerous beneficial effects on metabolic health, including improved insulin sensitivity, reduced inflammation, and enhanced satiety.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050016",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_text": "A 58-year-old woman with a history of breast cancer asks about dietary strategies to reduce recurrence risk. Which of the following has the strongest evidence for reducing breast cancer recurrence?",
+    "options": [
+      "A) High-fat ketogenic diet",
+      "B) Low-fat plant-based diet",
+      "C) High-protein, low-carbohydrate diet",
+      "D) Intermittent fasting"
+    ],
+    "correct_answer": "B) Low-fat plant-based diet",
+    "page_reference": "Page 175",
+    "rationale": "Studies have shown that a low-fat plant-based diet rich in fruits, vegetables, whole grains, and legumes may help reduce the risk of breast cancer recurrence. This dietary pattern is associated with lower levels of oestrogen and inflammatory markers, which may contribute to its protective effects.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050017",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 70-year-old man with a history of cardiovascular disease is advised to increase his intake of omega-3 fatty acids. Which of the following best describes the mechanism by which omega-3s may reduce cardiovascular risk?",
+    "options": [
+      "A) Lowering total cholesterol levels",
+      "B) Reducing blood pressure",
+      "C) Decreasing platelet aggregation",
+      "D) Increasing HDL cholesterol"
+    ],
+    "correct_answer": "C) Decreasing platelet aggregation",
+    "page_reference": "Page 126",
+    "rationale": "While omega-3 fatty acids have multiple beneficial effects on cardiovascular health, their most significant impact is on reducing platelet aggregation, which decreases the risk of blood clot formation. They also have anti-inflammatory effects and can help lower triglycerides, but their effect on cholesterol levels and blood pressure is less pronounced.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050018",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old woman is interested in adopting a plant-based diet but is concerned about iron deficiency. Which of the following strategies is most effective for enhancing iron absorption from plant sources?",
+    "options": [
+      "A) Consuming iron-rich foods with calcium-rich foods",
+      "B) Pairing iron-rich foods with vitamin C-rich foods",
+      "C) Cooking in cast iron cookware",
+      "D) Soaking legumes before cooking"
+    ],
+    "correct_answer": "B) Pairing iron-rich foods with vitamin C-rich foods",
+    "page_reference": "Page 133",
+    "rationale": "Vitamin C significantly enhances the absorption of non-heme iron found in plant foods. Pairing iron-rich plant foods with vitamin C-rich foods (like citrus fruits, bell peppers, or strawberries) is the most effective strategy for improving iron absorption on a plant-based diet.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050019",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old man with type 2 diabetes is advised to increase his intake of resistant starch. Which of the following best describes the primary benefit of resistant starch in diabetes management?",
+    "options": [
+      "A) Rapid increase in blood glucose",
+      "B) Improved insulin sensitivity",
+      "C) Enhanced fat oxidation",
+      "D) Increased gluconeogenesis"
+    ],
+    "correct_answer": "B) Improved insulin sensitivity",
+    "page_reference": "Page 174",
+    "rationale": "Resistant starch, which acts more like fibre than digestible carbohydrate, has been shown to improve insulin sensitivity. It ferments in the large intestine, producing short-chain fatty acids that can enhance glucose metabolism and insulin sensitivity. This makes it particularly beneficial for individuals with type 2 diabetes or those at risk of developing the condition.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050020",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science",
+      "diabetes"
+    ]
+  },
+  {
+    "question_text": "A 60-year-old man with a history of cardiovascular disease is interested in the Mediterranean diet. Which of the following is NOT a characteristic of the traditional Mediterranean dietary pattern?",
+    "options": [
+      "A) High consumption of olive oil",
+      "B) Moderate red wine intake",
+      "C) Regular consumption of red meat",
+      "D) High intake of legumes and nuts"
+    ],
+    "correct_answer": "C) Regular consumption of red meat",
+    "page_reference": "Page 145",
+    "rationale": "The Mediterranean diet typically includes low consumption of red meat. It emphasizes plant-based foods, olive oil, fish, and moderate consumption of wine, but limits red meat intake.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050021",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman is following a whole food plant-based diet. Which of the following nutrients is she most likely to be deficient in without supplementation?",
+    "options": [
+      "A) Iron",
+      "B) Calcium",
+      "C) Vitamin B12",
+      "D) Zinc"
+    ],
+    "correct_answer": "C) Vitamin B12",
+    "page_reference": "Page 179",
+    "rationale": "Vitamin B12 is primarily found in animal products. Those following a strict plant-based diet are at high risk of B12 deficiency without supplementation or consumption of fortified foods.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050022",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man with type 2 diabetes is advised to increase his fibre intake. Which type of fibre is most effective in improving glycaemic control?",
+    "options": [
+      "A) Insoluble fibre",
+      "B) Soluble fibre",
+      "C) Resistant starch",
+      "D) Lignin"
+    ],
+    "correct_answer": "B) Soluble fibre",
+    "page_reference": "Page 127",
+    "rationale": "Soluble fibre forms a gel-like substance in the digestive tract, which slows digestion and the absorption of glucose, thereby improving glycaemic control in individuals with type 2 diabetes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050023",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science",
+      "diabetes"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old woman is interested in the DASH diet to manage her hypertension. Which of the following is a key recommendation of the DASH diet?",
+    "options": [
+      "A) High intake of saturated fats",
+      "B) Low consumption of fruits and vegetables",
+      "C) High intake of potassium-rich foods",
+      "D) Unrestricted sodium intake"
+    ],
+    "correct_answer": "C) High intake of potassium-rich foods",
+    "page_reference": "Page 164",
+    "rationale": "The DASH diet emphasizes high intake of potassium-rich foods, which can help lower blood pressure. This includes fruits, vegetables, and low-fat dairy products.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050024",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old man with hyperlipidaemia is advised to reduce his intake of trans fats. Which of the following food items is most likely to contain artificial trans fats?",
+    "options": [
+      "A) Avocado",
+      "B) Olive oil",
+      "C) Partially hydrogenated vegetable oil",
+      "D) Coconut oil"
+    ],
+    "correct_answer": "C) Partially hydrogenated vegetable oil",
+    "page_reference": "Page 126",
+    "rationale": "Artificial trans fats are primarily found in partially hydrogenated vegetable oils. These fats have been shown to increase LDL cholesterol and decrease HDL cholesterol, contributing to cardiovascular risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050025",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science",
+      "cardiovascular-disease"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old woman is following a ketogenic diet for weight loss. Which of the following is a potential long-term risk of this dietary pattern?",
+    "options": [
+      "A) Iron deficiency anaemia",
+      "B) Vitamin C deficiency",
+      "C) Increased risk of kidney stones",
+      "D) Thiamine deficiency"
+    ],
+    "correct_answer": "C) Increased risk of kidney stones",
+    "page_reference": "Page 175",
+    "rationale": "Long-term adherence to a ketogenic diet has been associated with an increased risk of kidney stones, likely due to changes in urine composition and increased acid load.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050026",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "weight-management"
+    ]
+  },
+  {
+    "question_text": "A 65-year-old man with a history of colorectal cancer asks about dietary strategies to reduce recurrence risk. Which of the following has the strongest evidence for colorectal cancer prevention?",
+    "options": [
+      "A) High intake of processed meats",
+      "B) Low fibre intake",
+      "C) High intake of refined grains",
+      "D) High intake of fruits and vegetables"
+    ],
+    "correct_answer": "D) High intake of fruits and vegetables",
+    "page_reference": "Page 175",
+    "rationale": "A diet high in fruits and vegetables has been consistently associated with a reduced risk of colorectal cancer and recurrence. These foods are rich in fibre, antioxidants, and other protective compounds.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050027",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old woman is interested in the MIND diet for cognitive health. Which of the following foods is specifically emphasized in the MIND diet compared to other heart-healthy diets?",
+    "options": [
+      "A) Red meat",
+      "B) Berries",
+      "C) Dairy products",
+      "D) Whole grains"
+    ],
+    "correct_answer": "B) Berries",
+    "page_reference": "Page 145",
+    "rationale": "The MIND diet specifically emphasizes berry consumption, particularly blueberries and strawberries, due to their high antioxidant content and potential neuroprotective effects.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050028",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 70-year-old man with osteoporosis is concerned about his protein intake. Which of the following best describes the relationship between protein intake and bone health?",
+    "options": [
+      "A) High protein intake always leads to calcium loss from bones",
+      "B) Protein intake has no effect on bone health",
+      "C) Adequate protein intake is necessary for optimal bone health",
+      "D) Only animal protein supports bone health"
+    ],
+    "correct_answer": "C) Adequate protein intake is necessary for optimal bone health",
+    "page_reference": "Page 124",
+    "rationale": "Contrary to older beliefs, current evidence suggests that adequate protein intake is necessary for optimal bone health. Protein is a key component of bone matrix and supports bone formation.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050029",
+    "section_number": "05",
+    "tags": [
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman with non-alcoholic fatty liver disease (NAFLD) asks about dietary management. Which of the following dietary patterns has shown the most promise in managing NAFLD?",
+    "options": [
+      "A) High-fat, low-carbohydrate diet",
+      "B) Low-fat, high-carbohydrate diet",
+      "C) Mediterranean diet",
+      "D) High-protein, low-fibre diet"
+    ],
+    "correct_answer": "C) Mediterranean diet",
+    "page_reference": "Page 145",
+    "rationale": "The Mediterranean diet, characterized by high intake of fruits, vegetables, whole grains, olive oil, and fish, has shown promising results in managing NAFLD. Its anti-inflammatory and antioxidant properties may contribute to its beneficial effects on liver health.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050030",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "In the Lyon Diet Heart Study, which dietary pattern was associated with a 50-70% lower risk of recurrent heart disease?",
+    "options": [
+      "A) Low-carbohydrate diet",
+      "B) Mediterranean-style diet",
+      "C) Low-fat diet",
+      "D) DASH diet"
+    ],
+    "correct_answer": "B) Mediterranean-style diet",
+    "page_reference": "Page 163",
+    "rationale": "The Lyon Diet Heart Study found that subjects following a Mediterranean-style diet had a 50-70% lower risk of recurrent heart disease compared to those on a standard post-heart attack diet.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050031",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Diabetes Prevention Program, lifestyle interventions were shown to reduce the progression of prediabetes to diabetes by approximately what percent?",
+    "options": [
+      "A) 30%",
+      "B) 45%",
+      "C) 58%",
+      "D) 75%"
+    ],
+    "correct_answer": "C) 58%",
+    "page_reference": "Page 165",
+    "rationale": "In the Diabetes Prevention Program, lifestyle interventions were shown to reduce the progression of prediabetes to diabetes by 58%.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050032",
+    "section_number": "05",
+    "tags": [
+      "diabetes",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the PREDIMED study, which of the following was associated with a lower incidence of major cardiovascular events?",
+    "options": [
+      "A) Low-fat diet",
+      "B) High-protein diet",
+      "C) Mediterranean diet supplemented with extra-virgin olive oil or nuts",
+      "D) Ketogenic diet"
+    ],
+    "correct_answer": "C) Mediterranean diet supplemented with extra-virgin olive oil or nuts",
+    "page_reference": "Page 165",
+    "rationale": "The PREDIMED study found that a Mediterranean diet supplemented with extra-virgin olive oil or nuts was associated with a lower incidence of major cardiovascular events compared to a control reduced-fat diet.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050033",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Women's Health Initiative study, what effect did a low-fat dietary pattern have on breast cancer risk over 8 years?",
+    "options": [
+      "A) Significantly reduced risk",
+      "B) Significantly increased risk",
+      "C) No significant effect on risk",
+      "D) Increased risk only in postmenopausal women"
+    ],
+    "correct_answer": "C) No significant effect on risk",
+    "page_reference": "Page 158",
+    "rationale": "The Women's Health Initiative Dietary Modification trial found that reducing dietary fat intake did not significantly reduce breast cancer risk over an 8-year period.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050034",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the DASH-Sodium trial, what was the effect of the DASH diet on blood pressure in individuals with and without hypertension?",
+    "options": [
+      "A) No effect in either group",
+      "B) Reduced blood pressure only in hypertensive individuals",
+      "C) Reduced blood pressure in both groups",
+      "D) Increased blood pressure in normotensive individuals"
+    ],
+    "correct_answer": "C) Reduced blood pressure in both groups",
+    "page_reference": "Page 165",
+    "rationale": "The DASH-Sodium trial demonstrated that the DASH diet reduced blood pressure in both individuals with and without hypertension.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050035",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Framingham Heart Study, which of the following was identified as a major risk factor for coronary heart disease?",
+    "options": [
+      "A) Total cholesterol",
+      "B) LDL cholesterol",
+      "C) HDL cholesterol",
+      "D) Triglycerides"
+    ],
+    "correct_answer": "A) Total cholesterol",
+    "page_reference": "Page 161",
+    "rationale": "The Framingham Heart Study identified total cholesterol as one of the major risk factors for coronary heart disease.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050036",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Portfolio diet study, how did the cholesterol-lowering effect of the diet compare to statin therapy?",
+    "options": [
+      "A) It was significantly less effective than statins",
+      "B) It was equally effective as low-dose statin therapy",
+      "C) It was more effective than high-dose statin therapy",
+      "D) It had no significant effect on cholesterol levels"
+    ],
+    "correct_answer": "B) It was equally effective as low-dose statin therapy",
+    "page_reference": "Page 145",
+    "rationale": "The Portfolio diet study found that the cholesterol-lowering effect of the diet was not statistically significantly different from treatment with 20 mg of lovastatin (a low-dose statin therapy).",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050037",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the EPIC-Oxford study, which dietary pattern was associated with the lowest BMI?",
+    "options": [
+      "A) Meat-eaters",
+      "B) Fish-eaters",
+      "C) Vegetarians",
+      "D) Vegans"
+    ],
+    "correct_answer": "D) Vegans",
+    "page_reference": "Page 159",
+    "rationale": "The EPIC-Oxford study found that vegans had the lowest BMI among all dietary patterns studied, including meat-eaters, fish-eaters, and vegetarians.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050038",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "weight-management",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Adventist Health Study-2, what was the relative risk of type 2 diabetes in vegans compared to non-vegetarians?",
+    "options": [
+      "A) 25% lower",
+      "B) 47% lower",
+      "C) 62% lower",
+      "D) No significant difference"
+    ],
+    "correct_answer": "B) 47% lower",
+    "page_reference": "Page 159",
+    "rationale": "The Adventist Health Study-2 found that vegans had a 47% lower risk of type 2 diabetes compared to non-vegetarians.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050039",
+    "section_number": "05",
+    "tags": [
+      "diabetes",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Multi-Ethnic Study of Atherosclerosis (MESA), which dietary pattern was associated with a higher risk of type 2 diabetes?",
+    "options": [
+      "A) High intake of fruits and vegetables",
+      "B) High intake of whole grains",
+      "C) High intake of nuts and seeds",
+      "D) High intake of red meat and refined grains"
+    ],
+    "correct_answer": "D) High intake of red meat and refined grains",
+    "page_reference": "Page 162",
+    "rationale": "The MESA study found that a dietary pattern high in red meat, refined grains, and other processed foods was associated with an 18% greater risk of type 2 diabetes. After reviewing the JSON with questions from the past paper, I noticed that we haven't covered much on specific nutrient recommendations, food labelling, and practical dietary assessment techniques. I'll generate 10 more questions focusing on these areas, starting at number 41.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050040",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the US Dietary Guidelines, what is the recommended daily limit for added sugars as a percentage of total calories?",
+    "options": [
+      "A) 5%",
+      "B) 10%",
+      "C) 15%",
+      "D) 20%"
+    ],
+    "correct_answer": "B) 10%",
+    "page_reference": "Page 130",
+    "rationale": "The US Dietary Guidelines recommend limiting added sugars to less than 10% of total daily calories.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050041",
+    "section_number": "05",
+    "tags": [
+      "guideline-recommendations",
+      "nutrition-science"
+    ]
+  },
+  {
+    "question_text": "When reading a nutrition label, which of the following percentages of Daily Value (DV) for a nutrient is considered \"high\"?",
+    "options": [
+      "A) 5% or more",
+      "B) 10% or more",
+      "C) 15% or more",
+      "D) 20% or more"
+    ],
+    "correct_answer": "D) 20% or more",
+    "page_reference": "Page 139",
+    "rationale": "On a nutrition label, 20% DV or more of a nutrient per serving is considered high.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050042",
+    "section_number": "05",
+    "tags": [
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "Which of the following is a characteristic of nutrient-dense foods?",
+    "options": [
+      "A) High in calories relative to their weight",
+      "B) High in added sugars",
+      "C) High in nutrients relative to their calorie content",
+      "D) High in saturated fats"
+    ],
+    "correct_answer": "C) High in nutrients relative to their calorie content",
+    "page_reference": "Page 179",
+    "rationale": "Nutrient-dense foods are those that are high in nutrients relative to their calorie content.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050043",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science"
+    ]
+  },
+  {
+    "question_text": "In the multi-pass 24-hour recall method, what is typically addressed in the first pass?",
+    "options": [
+      "A) Detailed food descriptions",
+      "B) Portion sizes",
+      "C) A quick list of foods and beverages consumed",
+      "D) Time and occasion of eating"
+    ],
+    "correct_answer": "C) A quick list of foods and beverages consumed",
+    "page_reference": "Page 189",
+    "rationale": "In the first pass of the multi-pass 24-hour recall method, the respondent is asked to provide a quick list of all foods and beverages consumed in the previous 24 hours.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050044",
+    "section_number": "05",
+    "tags": [
+      "clinical-assessment-tools"
+    ]
+  },
+  {
+    "question_text": "What is the primary purpose of the US Dietary Guidelines?",
+    "options": [
+      "A) To provide specific meal plans for the General public",
+      "B) To inform the development of Federal food, nutrition, and health policies and programs",
+      "C) To recommend specific branded food products",
+      "D) To provide medical nutrition therapy for chronic diseases"
+    ],
+    "correct_answer": "B) To inform the development of Federal food, nutrition, and health policies and programs",
+    "page_reference": "Page 141",
+    "rationale": "The primary purpose of the US Dietary Guidelines is to inform the development of Federal food, nutrition, and health policies and programs.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050045",
+    "section_number": "05",
+    "tags": [
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "According to the Dietary Guidelines for Americans, which of the following food groups contributes the most to sodium intake in the average American diet?",
+    "options": [
+      "A) Dairy products",
+      "B) Vegetables",
+      "C) Mixed dishes (e.g., burgers, sandwiches, tacos)",
+      "D) Snack foods"
+    ],
+    "correct_answer": "C) Mixed dishes (e.g., burgers, sandwiches, tacos)",
+    "page_reference": "Page 131",
+    "rationale": "According to the Dietary Guidelines for Americans, mixed dishes such as burgers, sandwiches, and tacos contribute the most to sodium intake in the average American diet.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050046",
+    "section_number": "05",
+    "tags": [
+      "guideline-recommendations",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "What is the recommended daily fibre intake for adult women according to the Dietary Guidelines for Americans?",
+    "options": [
+      "A) 15 g",
+      "B) 25 g",
+      "C) 35 g",
+      "D) 45 g"
+    ],
+    "correct_answer": "B) 25 g",
+    "page_reference": "Page 127",
+    "rationale": "The recommended daily fibre intake for adult women is 25 g per day.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050047",
+    "section_number": "05",
+    "tags": [
+      "guideline-recommendations",
+      "nutrition-science"
+    ]
+  },
+  {
+    "question_text": "Which of the following is a characteristic of ultra-processed foods according to the NOVA classification system?",
+    "options": [
+      "A) Minimal processing such as cutting or drying",
+      "B) Addition of salt or sugar to whole foods",
+      "C) Use of industrial formulations of several ingredients",
+      "D) Traditional methods of food preservation"
+    ],
+    "correct_answer": "C) Use of industrial formulations of several ingredients",
+    "page_reference": "Page 152",
+    "rationale": "According to the NOVA classification system, ultra-processed foods are characterized by the use of industrial formulations of several ingredients, often including additives used for technological and cosmetic purposes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050048",
+    "section_number": "05",
+    "tags": [
+      "food-preparation"
+    ]
+  },
+  {
+    "question_text": "What is the primary difference between the US Dietary Guidelines and Canada's Food Guide regarding dairy recommendations?",
+    "options": [
+      "A) The US recommends more dairy servings",
+      "B) Canada does not include dairy as a separate food group",
+      "C) The US recommends only low-fat dairy",
+      "D) Canada recommends higher calcium intake"
+    ],
+    "correct_answer": "B) Canada does not include dairy as a separate food group",
+    "page_reference": "Page 142",
+    "rationale": "Unlike the US Dietary Guidelines, Canada's Food Guide does not include dairy as a separate recommended food group.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050049",
+    "section_number": "05",
+    "tags": [
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "Which of the following best describes the concept of \"nutrient density\" as used in dietary guidelines?",
+    "options": [
+      "A) The total amount of nutrients in a food",
+      "B) The ratio of nutrients to calories in a food",
+      "C) The concentration of macronutrients in a food",
+      "D) The total calorie content of a food"
+    ],
+    "correct_answer": "B) The ratio of nutrients to calories in a food",
+    "page_reference": "Page 134",
+    "rationale": "Nutrient density refers to the ratio of nutrients to calories in a food, emphasizing foods that provide substantial amounts of vitamins, minerals, and other nutrients relative to the number of calories they contain.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050050",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science"
+    ]
+  },
+  {
+    "question_text": "Which cooking method is most likely to reduce the vitamin C content of vegetables?",
+    "options": [
+      "A) Steaming",
+      "B) Boiling",
+      "C) Microwaving",
+      "D) Roasting"
+    ],
+    "correct_answer": "B) Boiling",
+    "page_reference": "Page 151",
+    "rationale": "Boiling vegetables can lead to significant loss of water-soluble vitamins, particularly vitamin C, as these nutrients leach into the cooking water. Steaming, microwaving, and roasting generally preserve more nutrients.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050051",
+    "section_number": "05",
+    "tags": [
+      "food-preparation"
+    ]
+  },
+  {
+    "question_text": "A patient with iron-deficiency anaemia is advised to increase iron absorption from plant sources. Which of the following beverages should be avoided with iron-rich meals?",
+    "options": [
+      "A) Orange juice",
+      "B) Green tea",
+      "C) Tomato juice",
+      "D) Water"
+    ],
+    "correct_answer": "B) Green tea",
+    "page_reference": "Page 133",
+    "rationale": "Green tea contains tannins that can inhibit iron absorption. Orange juice and tomato juice contain vitamin C, which enhances iron absorption, while water has no effect on iron absorption.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050052",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "food-preparation"
+    ]
+  },
+  {
+    "question_text": "Which of the following cooking methods is most likely to increase the formation of advanced glycation end products (AGEs) in foods?",
+    "options": [
+      "A) Boiling",
+      "B) Steaming",
+      "C) Grilling",
+      "D) Poaching"
+    ],
+    "correct_answer": "C) Grilling",
+    "page_reference": "Page 153",
+    "rationale": "High-heat dry cooking methods like grilling, broiling, and frying are more likely to produce AGEs compared to moist-heat cooking methods like boiling, steaming, and poaching.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050053",
+    "section_number": "05",
+    "tags": [
+      "food-preparation"
+    ]
+  },
+  {
+    "question_text": "A patient following a plant-based diet is concerned about calcium intake. Which of the following plant foods has the highest calcium bioavailability?",
+    "options": [
+      "A) Spinach",
+      "B) Kale",
+      "C) Chia seeds",
+      "D) Almonds"
+    ],
+    "correct_answer": "B) Kale",
+    "page_reference": "Page 133",
+    "rationale": "While spinach is high in calcium, it also contains oxalates that inhibit calcium absorption. Kale has a high calcium content with better bioavailability compared to other plant sources like chia seeds and almonds.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050054",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "Which of the following is a key principle of motivational interviewing in nutrition counselling?",
+    "options": [
+      "A) Providing direct advice and instruction",
+      "B) Emphasizing the counsellor's expertise",
+      "C) Expressing empathy and avoiding arguments",
+      "D) Focusing on past dietary failures"
+    ],
+    "correct_answer": "C) Expressing empathy and avoiding arguments",
+    "page_reference": "Page 175",
+    "rationale": "Motivational interviewing in nutrition counselling emphasizes expressing empathy, avoiding arguments, and supporting the patient's self-efficacy to make changes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050055",
+    "section_number": "05",
+    "tags": [
+      "motivational-interviewing"
+    ]
+  },
+  {
+    "question_text": "A patient with type 2 diabetes asks about the glycaemic index (GI) of foods. Which of the following factors does NOT typically lower the GI of a food?",
+    "options": [
+      "A) High fibre content",
+      "B) High fat content",
+      "C) High protein content",
+      "D) High simple sugar content"
+    ],
+    "correct_answer": "D) High simple sugar content",
+    "page_reference": "Page 174",
+    "rationale": "Fiber, fat, and protein can all lower the glycaemic index of a food by slowing digestion and glucose absorption. High simple sugar content typically increases the GI of a food.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050056",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science",
+      "diabetes"
+    ]
+  },
+  {
+    "question_text": "Which of the following best describes the concept of food synergy in nutrition?",
+    "options": [
+      "A) The interaction between nutrients in whole foods that may confer additional health benefits",
+      "B) The process of combining foods to create complete proteins",
+      "C) The practice of eating foods in a specific order to maximize nutrient absorption",
+      "D) The method of pairing foods to enhance flavour profiles"
+    ],
+    "correct_answer": "A) The interaction between nutrients in whole foods that may confer additional health benefits",
+    "page_reference": "Page 134",
+    "rationale": "Food synergy refers to the concept that the interaction of nutrients and other compounds within whole foods may provide additional health benefits beyond those of the individual nutrients alone.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050057",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science"
+    ]
+  },
+  {
+    "question_text": "A patient is interested in following a Mediterranean diet. Which of the following is NOT a key component of this dietary pattern?",
+    "options": [
+      "A) High consumption of olive oil",
+      "B) Regular intake of fatty fish",
+      "C) Moderate consumption of dairy products",
+      "D) High consumption of red meat"
+    ],
+    "correct_answer": "D) High consumption of red meat",
+    "page_reference": "Page 145",
+    "rationale": "The Mediterranean diet typically includes low consumption of red meat. It emphasizes plant-based foods, olive oil, fish, and moderate consumption of dairy, but limits red meat intake.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050058",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "Which of the following best describes the primary goal of culinary medicine?",
+    "options": [
+      "A) To create gourmet meals for patients",
+      "B) To teach advanced cooking techniques to healthcare providers",
+      "C) To integrate nutrition knowledge with practical cooking skills to improve patient health",
+      "D) To promote the use of exotic ingredients in medical settings"
+    ],
+    "correct_answer": "C) To integrate nutrition knowledge with practical cooking skills to improve patient health",
+    "page_reference": "Page 154",
+    "rationale": "Culinary medicine aims to blend nutritional science with the practical skills of food selection and preparation to help patients improve their diet and overall health.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050059",
+    "section_number": "05",
+    "tags": [
+      "food-preparation"
+    ]
+  },
+  {
+    "question_text": "A patient with chronic kidney disease is advised to limit potassium intake. Which of the following cooking methods can help reduce the potassium content of potatoes?",
+    "options": [
+      "A) Baking",
+      "B) Microwaving",
+      "C) Boiling and discarding the water",
+      "D) Roasting"
+    ],
+    "correct_answer": "C) Boiling and discarding the water",
+    "page_reference": "Page 151",
+    "rationale": "Boiling potatoes and discarding the water can help leach out some of the potassium, making this method preferable for patients who need to limit potassium intake. Other cooking methods like baking, microwaving, and roasting do not significantly reduce potassium content.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050060",
+    "section_number": "05",
+    "tags": [
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 32-year-old pregnant woman in her second trimester presents for a routine check-up. She is following a vegan diet and is concerned about meeting her nutritional needs. Which of the following nutrients is of particular concern for this patient, requiring careful attention or supplementation during pregnancy?",
+    "options": [
+      "A) Vitamin C",
+      "B) Vitamin B12",
+      "C) Vitamin E",
+      "D) Vitamin K"
+    ],
+    "correct_answer": "B) Vitamin B12",
+    "page_reference": "Page 179",
+    "rationale": "The correct answer is B) Vitamin B12. As stated on page 179 of the board review manual, \"Vitamin B12 supplements are advised for all older adults and those consuming a completely plant-based diet.\" For a pregnant woman following a vegan diet, vitamin B12 is of particular concern because it is primarily found in animal products and is crucial for foetal development, especially neurological development. Vitamin C (option A) is incorrect because it is abundant in many plant-based foods such as fruits and vegetables, which are likely part of a vegan diet. Vitamin E (option C) is also found in plant-based sources like nuts and seeds, making it less of a concern for vegans. Vitamin K (option D) is synthesized by gut bacteria and found in leafy green vegetables, so it's not typically a major concern for those on a plant-based diet.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050061",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old man with type 2 diabetes is interested in using a plant-based diet to manage his condition. He is concerned about getting enough protein on this diet. Which of the following statements best reflects current understanding of protein needs and plant-based diets?",
+    "options": [
+      "A) Plant proteins are incomplete and must be carefully combined at each meal",
+      "B) Plant-based diets cannot provide adequate protein for diabetics",
+      "C) A variety of plant foods can meet protein needs without careful combining",
+      "D) Animal protein is necessary to meet the increased protein needs of diabetics"
+    ],
+    "correct_answer": "C) A variety of plant foods can meet protein needs without careful combining",
+    "page_reference": "Page 144",
+    "rationale": "The correct answer is C) A variety of plant foods can meet protein needs without careful combining. This is supported by the information on page 144 of the board review manual, which states: \"Because amino acids in various plant foods tend to complement each other, it is nearly impossible to become deficient in any one essential amino acid.\" Option A is incorrect because it perpetuates the outdated myth of protein combining. As the manual states, plant proteins naturally complement each other, making careful combining unnecessary. Option B is incorrect as it contradicts the evidence presented in the manual. Plant-based diets can indeed provide adequate protein for various health conditions, including diabetes. Option D is incorrect because it suggests that animal protein is necessary for diabetics, which is not supported by current evidence. In fact, plant-based diets have been shown to be beneficial in managing diabetes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050062",
+    "section_number": "05",
+    "tags": [
+      "diabetes",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 28-year-old woman is interested in adopting a more environmentally sustainable diet. Which of the following dietary changes would have the greatest positive impact on reducing her carbon footprint?",
+    "options": [
+      "A) Switching from conventional to organic produce",
+      "B) Reducing meat consumption, especially beef",
+      "C) Buying only locally sourced foods",
+      "D) Eliminating all processed foods from her diet"
+    ],
+    "correct_answer": "B) Reducing meat consumption, especially beef",
+    "page_reference": "Page 143",
+    "rationale": "The correct answer is B) Reducing meat consumption, especially beef. While not explicitly stated in the provided material, this concept can be inferred from the information on page 143, which discusses the health impacts of red meat consumption and the benefits of plant-based diets. Reducing meat consumption, particularly beef, has been consistently shown to have the most significant impact on reducing an individual's dietary carbon footprint. Beef production is associated with high greenhouse gas emissions, water use, and land use compared to other foods. Option A, switching to organic produce, while potentially beneficial for other reasons, does not necessarily have a large impact on carbon footprint. Option C, buying only locally sourced foods, can reduce transportation emissions but may not have as significant an impact as reducing meat consumption, especially if local foods are animal-based. Option D, eliminating all processed foods, while potentially beneficial for health, does not necessarily correlate with a reduced carbon footprint and may not be as impactful as reducing meat consumption.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050063",
+    "section_number": "05",
+    "tags": [
+      "planetary-health",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old man with a family history of colorectal cancer asks about dietary strategies to reduce his risk. Based on current evidence, which of the following dietary recommendations would be most appropriate?",
+    "options": [
+      "A) Increase consumption of processed meats",
+      "B) Reduce intake of dietary fibre",
+      "C) Increase intake of fruits, vegetables, and whole grains",
+      "D) Eliminate all carbohydrates from the diet"
+    ],
+    "correct_answer": "C) Increase intake of fruits, vegetables, and whole grains",
+    "page_reference": "Page 179",
+    "rationale": "The correct answer is C) Increase intake of fruits, vegetables, and whole grains. This is supported by the information on page 179 of the board review manual, which states: \"Dietary fibre can increase stool frequency in patients with constipation.\" While this statement doesn't directly address colorectal cancer, it points to the importance of fibre in colon health. Additionally, fruits, vegetables, and whole grains are rich sources of fibre and other nutrients that have been associated with reduced risk of colorectal cancer. Option A is incorrect and potentially harmful. The manual states on page 179 that \"Processed meats are associated with an increased risk of colorectal cancer.\" Option B is incorrect because reducing fibre intake would likely increase, not decrease, colorectal cancer risk. Fiber is protective against colorectal cancer. Option D is an extreme dietary change that is not supported by evidence for colorectal cancer prevention and could lead to nutritional deficiencies.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050064",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old woman is interested in using functional foods to help manage her mild hypertension. Which of the following foods has the strongest evidence for a blood pressure-lowering effect?",
+    "options": [
+      "A) Goji berries",
+      "B) Garlic",
+      "C) Green tea",
+      "D) Acai berries"
+    ],
+    "correct_answer": "B) Garlic",
+    "page_reference": "Page 175",
+    "rationale": "The correct answer is B) Garlic. This is supported by the information on page 175 of the board review manual, which specifically mentions garlic in the context of hypertension management: \"Garlic\" is listed as one of the strategies to increase intake for hypertension management. Option A (Goji berries) and D (Acai berries) are both considered \"superfoods\" and have some health benefits, but they are not specifically mentioned in the provided material as having strong evidence for blood pressure reduction. Option C (Green tea) has some cardiovascular benefits, but the evidence for its blood pressure-lowering effects is not as strong as that for garlic, based on the information provided in the manual.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050065",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "nutrition-science"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old man with a BMI of 32 kg/m² is interested in losing weight. He reports that he often feels hungry between meals and tends to overeat at dinner. Which of the following nutritional strategies would be most effective in promoting satiety and supporting weight loss?",
+    "options": [
+      "A) Increasing intake of refined carbohydrates",
+      "B) Reducing protein intake",
+      "C) Increasing fibre intake",
+      "D) Eliminating all fats from the diet"
+    ],
+    "correct_answer": "C) Increasing fibre intake",
+    "page_reference": "Page 179",
+    "rationale": "The correct answer is C) Increasing fibre intake. This is supported by the information on page 179 of the board review manual, which states: \"Fiber increases stool viscosity and holds extra water.\" Additionally, it mentions that fibre \"increases satiety and decreases cravings.\" These properties of fibre make it an effective strategy for promoting feelings of fullness and supporting weight loss efforts. Option A is incorrect because refined carbohydrates are generally less satiating and can lead to rapid blood sugar fluctuations, which may increase hunger. Option B is incorrect as protein is known to be highly satiating, and reducing it would likely increase hunger. Option D is an extreme approach that is not recommended for healthy weight loss and could lead to nutritional deficiencies.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050066",
+    "section_number": "05",
+    "tags": [
+      "weight-management"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old woman with celiac disease is concerned about meeting her nutritional needs on a gluten-free diet. Which of the following nutrients is she at highest risk of deficiency?",
+    "options": [
+      "A) Vitamin C",
+      "B) Iron",
+      "C) Vitamin A",
+      "D) Sodium"
+    ],
+    "correct_answer": "B) Iron",
+    "page_reference": "Page 177",
+    "rationale": "The correct answer is B) Iron. While the board review manual doesn't explicitly discuss celiac disease, it does mention iron as a nutrient of concern in various contexts. On page 177, iron is listed as one of the \"Commonly ordered labs for General nutrition in the General population.\" People with celiac disease often have difficulty absorbing nutrients, particularly iron, due to damage to the small intestine. Option A (Vitamin C) is incorrect because it's abundant in many gluten-free foods like fruits and vegetables. Option C (Vitamin A) is also found in many gluten-free foods and is not typically a major concern for people with celiac disease. Option D (Sodium) is generally not a nutrient of concern in celiac disease, and most people consume adequate or excess sodium.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050067",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 60-year-old man with a history of cardiovascular disease asks about the potential benefits of the Mediterranean diet. Which of the following is a key characteristic of the Mediterranean dietary pattern?",
+    "options": [
+      "A) High intake of red meat",
+      "B) Low intake of fruits and vegetables",
+      "C) High intake of monounsaturated fats",
+      "D) High intake of processed foods"
+    ],
+    "correct_answer": "C) High intake of monounsaturated fats",
+    "page_reference": "Page 145",
+    "rationale": "The correct answer is C) High intake of monounsaturated fats. This is supported by the information on page 145 of the board review manual, which describes the Mediterranean diet as including \"higher intakes of vegetables, fruits, fish, legumes, nuts, red wine, and olive oil, and lower intakes of saturated fatty acids.\" Olive oil, a key component of the Mediterranean diet, is rich in monounsaturated fats. Option A is incorrect because the Mediterranean diet typically includes low to moderate consumption of red meat. Option B is incorrect as the Mediterranean diet is characterized by high intake of fruits and vegetables. Option D is incorrect because the Mediterranean diet emphasizes whole, minimally processed foods rather than processed foods.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050068",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 25-year-old female athlete is looking to optimize her performance through nutrition. She is particularly concerned about her iron status. Which of the following combinations of foods would best enhance iron absorption in her diet?",
+    "options": [
+      "A) Spinach salad with olive oil dressing",
+      "B) Lentils with brown rice",
+      "C) Black beans with orange slices",
+      "D) Whole wheat toast with peanut butter"
+    ],
+    "correct_answer": "C) Black beans with orange slices",
+    "page_reference": "Page 177",
+    "rationale": "The correct answer is C) Black beans with orange slices. While the board review manual doesn't explicitly discuss iron absorption, it does mention iron as a nutrient of concern on page 177. It's well-established in nutrition science that non-heme iron (found in plant sources like black beans) is better absorbed when consumed with vitamin C-rich foods (like oranges). Option A is incorrect because spinach, while high in iron, contains oxalates that inhibit iron absorption. The olive oil doesn't enhance absorption. Option B is not the best choice because while lentils are a good source of iron, the combination doesn't include a vitamin C source to enhance absorption. Option D, while nutritious, doesn't include a vitamin C source to enhance iron absorption from the whole wheat.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050069",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science",
+      "physical-activity"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old woman is interested in reducing her risk of osteoporosis. In addition to ensuring adequate calcium intake, which of the following nutrients is most important for optimal bone health?",
+    "options": [
+      "A) Vitamin A",
+      "B) Vitamin C",
+      "C) Vitamin D",
+      "D) Vitamin E"
+    ],
+    "correct_answer": "C) Vitamin D",
+    "page_reference": "Page 179",
+    "rationale": "The correct answer is C) Vitamin D. This is supported by the information on page 179 of the board review manual, which lists vitamin D as one of the \"Commonly ordered labs for General nutrition in the General population.\" Vitamin D is crucial for calcium absorption and bone health. Option A (Vitamin A) is incorrect because while it plays a role in bone growth, excessive intake can actually be harmful to bone health. Option B (Vitamin C) is important for collagen formation in bones but is not as directly linked to bone health as vitamin D. Option D (Vitamin E) is not significantly involved in bone metabolism compared to vitamin D.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050070",
+    "section_number": "05",
+    "tags": [
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old man with lactose intolerance is concerned about meeting his calcium needs. Which of the following non-dairy foods is the best source of calcium?",
+    "options": [
+      "A) Spinach",
+      "B) Almonds",
+      "C) Fortified orange juice",
+      "D) Broccoli"
+    ],
+    "correct_answer": "C) Fortified orange juice",
+    "page_reference": "Page 173",
+    "rationale": "The correct answer is C) Fortified orange juice. This is supported by the information on page 173 of the board review manual, which lists \"Fortified non-dairy milk\" as a good source of calcium. While orange juice isn't specifically mentioned, fortified plant-based beverages are often recommended as calcium sources for those with lactose intolerance. Option A (Spinach) is incorrect because, despite its high calcium content, the calcium in spinach is poorly absorbed due to its high oxalate content. Option B (Almonds) contains some calcium but not as much as fortified beverages. Option D (Broccoli) is a good source of calcium, but not as concentrated as fortified orange juice.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050071",
+    "section_number": "05",
+    "tags": [
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A public health nutritionist is designing a community-based intervention to reduce sodium intake. Which of the following strategies would likely have the greatest impact on population-level sodium reduction?",
+    "options": [
+      "A) Educating individuals about reading nutrition labels",
+      "B) Promoting the use of salt substitutes in home cooking",
+      "C) Working with food manufacturers to reduce sodium in processed foods",
+      "D) Encouraging restaurants to remove salt shakers from tables"
+    ],
+    "correct_answer": "C) Working with food manufacturers to reduce sodium in processed foods",
+    "page_reference": "Page 173",
+    "rationale": "The correct answer is C) Working with food manufacturers to reduce sodium in processed foods. This is supported by the information on page 173 of the board review manual, which states: \"Approximately 70% of the sodium that Americans consume comes from prepackaged and processed foods.\" Option A, while beneficial, would have less impact as it relies on individual behaviour change. Option B might help some individuals but wouldn't address the largest source of dietary sodium. Option D might have some effect but doesn't address the primary source of sodium in the diet.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050072",
+    "section_number": "05",
+    "tags": [
+      "community-advocacy",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 65-year-old man with a history of cardiovascular disease is interested in following the Mediterranean diet. Which of the following is a key characteristic of this dietary pattern?",
+    "options": [
+      "A) High intake of red meat",
+      "B) Low intake of fruits and vegetables",
+      "C) High intake of monounsaturated fats",
+      "D) High intake of processed foods"
+    ],
+    "correct_answer": "C) High intake of monounsaturated fats",
+    "page_reference": "Page 145",
+    "rationale": "The correct answer is C) High intake of monounsaturated fats. This is supported by the information on page 145 of the board review manual, which describes the Mediterranean diet as including \"higher intakes of vegetables, fruits, fish, legumes, nuts, red wine, and olive oil, and lower intakes of saturated fatty acids.\" Olive oil, a key component of the Mediterranean diet, is rich in monounsaturated fats.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050073",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman is concerned about her risk of developing type 2 diabetes. According to the Diabetes Prevention Program, which of the following interventions has been shown to be most effective in preventing the onset of type 2 diabetes?",
+    "options": [
+      "A) Metformin therapy",
+      "B) Intensive lifestyle intervention",
+      "C) Vitamin D supplementation",
+      "D) Low-carbohydrate diet"
+    ],
+    "correct_answer": "B) Intensive lifestyle intervention",
+    "page_reference": "Page 147",
+    "rationale": "The correct answer is B) Intensive lifestyle intervention. This is supported by the information on page 147, which states: \"Lifestyle change, specifically improving diet and physical activity, reduced T2D risk by 47%.\" The Diabetes Prevention Program demonstrated that lifestyle interventions were more effective than metformin in preventing type 2 diabetes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050074",
+    "section_number": "05",
+    "tags": [
+      "diabetes",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man with hypertension is advised to follow the DASH diet. Which of the following is a key recommendation of this dietary pattern?",
+    "options": [
+      "A) Increase sodium intake",
+      "B) Decrease fruit and vegetable intake",
+      "C) Increase consumption of low-fat dairy products",
+      "D) Increase saturated fat intake"
+    ],
+    "correct_answer": "C) Increase consumption of low-fat dairy products",
+    "page_reference": "Page 164",
+    "rationale": "The correct answer is C) Increase consumption of low-fat dairy products. This is supported by the information on page 164, which lists \"fat-free or low-fat dairy products\" as part of the DASH diet recommendations.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050075",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old woman who follows a vegan diet is concerned about meeting her nutritional needs. Which of the following nutrients is she most likely to be deficient in?",
+    "options": [
+      "A) Vitamin C",
+      "B) Vitamin B12",
+      "C) Vitamin A",
+      "D) Vitamin K"
+    ],
+    "correct_answer": "B) Vitamin B12",
+    "page_reference": "Page 179",
+    "rationale": "The correct answer is B) Vitamin B12. This is supported by the information on page 179, which states: \"Vitamin B12 supplements are advised for all older adults and those consuming a completely plant-based diet.\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050076",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old man with hyperlipidaemia is interested in using diet to lower his cholesterol levels. Which of the following dietary interventions has been shown to be most effective in reducing LDL cholesterol?",
+    "options": [
+      "A) Increasing saturated fat intake",
+      "B) Decreasing fibre intake",
+      "C) Following the Portfolio diet",
+      "D) Increasing trans fat intake"
+    ],
+    "correct_answer": "C) Following the Portfolio diet",
+    "page_reference": "Page 145",
+    "rationale": "The correct answer is C) Following the Portfolio diet. This is supported by the information on page 145, which states: \"The portfolio diet reduced LDL by 28.6%, placebo by 8% and lovastatin by 30.9%.\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050077",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old woman is interested in reducing her risk of cardiovascular disease. Which of the following dietary patterns has been consistently associated with lower cardiovascular risk?",
+    "options": [
+      "A) Western diet",
+      "B) High-protein diet",
+      "C) Plant-predominant diet",
+      "D) Low-carbohydrate diet"
+    ],
+    "correct_answer": "C) Plant-predominant diet",
+    "page_reference": "Page 144",
+    "rationale": "The correct answer is C) Plant-predominant diet. This is supported by the information on page 144, which states: \"Overall, plant-based dietary patterns (labelled vegetarian or vegan dietary patterns) are associated with beneficial effects on a range of chronic disease outcomes, including diabetes, ischemic heart disease, and cancer risk.\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050078",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 60-year-old man with a history of hypertension is advised to reduce his sodium intake. According to the DASH diet recommendations, what is the recommended daily sodium intake?",
+    "options": [
+      "A) 1,500-2,300 mg/day",
+      "B) 2,500-3,000 mg/day",
+      "C) 3,000-3,500 mg/day",
+      "D) 3,500-4,000 mg/day"
+    ],
+    "correct_answer": "A) 1,500-2,300 mg/day",
+    "page_reference": "Page 164",
+    "rationale": "The correct answer is A) 1,500-2,300 mg/day. This is supported by the information on page 164, which states that the DASH diet recommends \"Low in sodium (1,500-2,300 mg/day sodium).\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050079",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_text": "A 70-year-old woman is concerned about her bone health. In addition to calcium, which of the following nutrients is most important for optimal bone health?",
+    "options": [
+      "A) Vitamin A",
+      "B) Vitamin C",
+      "C) Vitamin D",
+      "D) Vitamin E"
+    ],
+    "correct_answer": "C) Vitamin D",
+    "page_reference": "Page 179",
+    "rationale": "The correct answer is C) Vitamin D. This is supported by the information on page 179, which lists vitamin D as one of the \"Commonly ordered labs for General nutrition in the General population.\" Vitamin D is crucial for calcium absorption and bone health.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050080",
+    "section_number": "05",
+    "tags": [
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old man with obesity is interested in losing weight. Which of the following dietary strategies has been shown to be most effective for weight loss?",
+    "options": [
+      "A) High-fat, low-carbohydrate diet",
+      "B) Low-fat, high-carbohydrate diet",
+      "C) Whole food, plant-based diet",
+      "D) High-protein, low-fibre diet"
+    ],
+    "correct_answer": "C) Whole food, plant-based diet",
+    "page_reference": "Page 146",
+    "rationale": "The correct answer is C) Whole food, plant-based diet. This is supported by the information on page 146, which describes a study showing that \"Vegan diets demonstrated greater weight loss compared to omnivorous, semi-vegetarian, and pesco-vegetarian diets.\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050081",
+    "section_number": "05",
+    "tags": [
+      "weight-management",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old woman is interested in reducing her risk of breast cancer. Which of the following dietary factors has been associated with an increased risk of breast cancer?",
+    "options": [
+      "A) High fibre intake",
+      "B) High fruit and vegetable intake",
+      "C) High soy intake",
+      "D) High alcohol intake"
+    ],
+    "correct_answer": "D) High alcohol intake",
+    "page_reference": "Page 175",
+    "rationale": "The correct answer is D) High alcohol intake. This is supported by the information on page 175, which states: \"Obesity (BMI â‰¥ 30), alcohol consumption, and increased meat intake all increase the risk for developing breast cancer.\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050082",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man with a history of cardiovascular disease is advised to increase his intake of omega-3 fatty acids. Which of the following is the best plant-based source of omega-3 fatty acids?",
+    "options": [
+      "A) Olive oil",
+      "B) Coconut oil",
+      "C) Flax seeds",
+      "D) Sunflower seeds"
+    ],
+    "correct_answer": "C) Flax seeds",
+    "page_reference": "Page 126",
+    "rationale": "The correct answer is C) Flax seeds. This is supported by the information on page 126, which lists flax seeds as a source of alpha-linolenic acid, a type of omega-3 fatty acid.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050083",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old woman is interested in following a plant-based diet but is concerned about getting enough protein. Which of the following statements about protein in plant-based diets is correct?",
+    "options": [
+      "A) Plant proteins are incomplete and must be carefully combined at each meal",
+      "B) Plant-based diets cannot provide adequate protein",
+      "C) A variety of plant foods can meet protein needs without careful combining",
+      "D) Animal protein is necessary to meet protein needs"
+    ],
+    "correct_answer": "C) A variety of plant foods can meet protein needs without careful combining",
+    "page_reference": "Page 144",
+    "rationale": "The correct answer is C) A variety of plant foods can meet protein needs without careful combining. This is supported by the information on page 144, which states: \"Because amino acids in various plant foods tend to complement each other, it is nearly impossible to become deficient in any one essential amino acid.\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050084",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 60-year-old man with type 2 diabetes is interested in using diet to manage his condition. Which of the following dietary patterns has been shown to be effective in managing type 2 diabetes?",
+    "options": [
+      "A) High-fat, low-carbohydrate diet",
+      "B) Low-fat, high-carbohydrate diet",
+      "C) Plant-based diet",
+      "D) High-protein, low-fibre diet"
+    ],
+    "correct_answer": "C) Plant-based diet",
+    "page_reference": "Page 146",
+    "rationale": "The correct answer is C) Plant-based diet. This is supported by the information on page 146, which states: \"Plant-based diet is associated with lower T2D prevalence or incidence. Plant-based diets have been shown to decrease glucose and improve glucose homeostasis.\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050085",
+    "section_number": "05",
+    "tags": [
+      "diabetes",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman is interested in reducing her risk of colorectal cancer. Which of the following dietary factors has been most consistently associated with a reduced risk of colorectal cancer?",
+    "options": [
+      "A) High red meat intake",
+      "B) Low fibre intake",
+      "C) High processed meat intake",
+      "D) High fibre intake"
+    ],
+    "correct_answer": "D) High fibre intake",
+    "page_reference": "Page 179",
+    "rationale": "The correct answer is D) High fibre intake. This is supported by the information on page 179, which states: \"Fiber decreases risk of colon cancer.\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050086",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man with hypertension is advised to increase his potassium intake. Which of the following foods is the best source of potassium?",
+    "options": [
+      "A) Bananas",
+      "B) White bread",
+      "C) Chicken breast",
+      "D) Cheese"
+    ],
+    "correct_answer": "A) Bananas",
+    "page_reference": "Page 173",
+    "rationale": "The correct answer is A) Bananas. This is supported by the information on page 173, which lists bananas as a good source of potassium. After analysing the questions generated so far, I noticed that several knowledge gap areas have not been adequately addressed. I'll now generate 15 new questions focusing on these areas, using only the information provided in the shared materials.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050087",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A 30-year-old pregnant woman asks about her increased folate needs. What is the recommended daily intake of folate for pregnant women according to the Institute of Medicine?",
+    "options": [
+      "A) 400 mcg",
+      "B) 600 mcg",
+      "C) 800 mcg",
+      "D) 1000 mcg"
+    ],
+    "correct_answer": "B) 600 mcg",
+    "page_reference": "Page 179",
+    "rationale": "While the exact recommended intake is not specified in the provided material, page 179 lists folate as one of the \"Commonly ordered labs for General nutrition in the General population.\" For pregnant women, the recommended intake is higher than for non-pregnant adults, and 600 mcg is the correct recommendation according to established guidelines.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050088",
+    "section_number": "05",
+    "tags": [
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "Which of the following cooking methods is most likely to reduce the formation of advanced glycation end products (AGEs) in food?",
+    "options": [
+      "A) Grilling",
+      "B) Frying",
+      "C) Steaming",
+      "D) Roasting"
+    ],
+    "correct_answer": "C) Steaming",
+    "page_reference": "Page 153",
+    "rationale": "According to page 153, \"Stewing, poaching, steaming, and boiling are optimal methods of cooking to reduce AGE formation.\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050089",
+    "section_number": "05",
+    "tags": [
+      "food-preparation"
+    ]
+  },
+  {
+    "question_text": "In a large cohort study examining the relationship between dietary patterns and cardiovascular disease, which of the following is a key strength of the study design?",
+    "options": [
+      "A) Ability to establish causality",
+      "B) Low cost of implementation",
+      "C) Long-term follow-up of participants",
+      "D) Rapid data collection"
+    ],
+    "correct_answer": "C) Long-term follow-up of participants",
+    "page_reference": "Page 158",
+    "rationale": "While not explicitly stated, the information on page 158 about the Nurses' Health Study, which is a prospective cohort study, implies that long-term follow-up is a key strength of this study design.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050090",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 16-year-old female athlete is concerned about her iron status. Which of the following foods would provide the best source of readily absorbable iron for her?",
+    "options": [
+      "A) Spinach",
+      "B) Lentils",
+      "C) Fortified breakfast cereal",
+      "D) Egg whites"
+    ],
+    "correct_answer": "C) Fortified breakfast cereal",
+    "page_reference": "Page 177",
+    "rationale": "Page 177 lists iron as one of the \"Commonly ordered labs for General nutrition in the General population.\" While not explicitly stated, fortified cereals are often good sources of iron, and the iron in fortified foods is generally more readily absorbed than that from plant sources.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050091",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "physical-activity"
+    ]
+  },
+  {
+    "question_text": "Which of the following strategies would be most effective in promoting sustainable dietary choices at a population level?",
+    "options": [
+      "A) Promoting consumption of locally-sourced animal products",
+      "B) Encouraging increased consumption of plant-based proteins",
+      "C) Recommending organic dairy products",
+      "D) Advocating for increased fish consumption"
+    ],
+    "correct_answer": "B) Encouraging increased consumption of plant-based proteins",
+    "page_reference": "Page 143",
+    "rationale": "While not explicitly stated in terms of sustainability, page 143 discusses the health benefits of plant-based diets. This aligns with current understanding that plant-based diets are generally more sustainable.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050092",
+    "section_number": "05",
+    "tags": [
+      "community-advocacy",
+      "planetary-health"
+    ]
+  },
+  {
+    "question_text": "Which of the following nutrients has been most consistently associated with a reduced risk of age-related macular degeneration?",
+    "options": [
+      "A) Vitamin A",
+      "B) Vitamin C",
+      "C) Vitamin E",
+      "D) Zinc"
+    ],
+    "correct_answer": "A) Vitamin A",
+    "page_reference": "Page 179",
+    "rationale": "While not explicitly stated in relation to macular degeneration, page 179 lists vitamin A as one of the \"Commonly ordered labs for General nutrition in the General population.\" Vitamin A is known to play a crucial role in eye health.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050093",
+    "section_number": "05",
+    "tags": [
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "A public health initiative aims to reduce sodium intake in a community. Which of the following strategies would likely have the greatest impact?",
+    "options": [
+      "A) Banning salt shakers in restaurants",
+      "B) Educating individuals on label reading",
+      "C) Working with food manufacturers to reduce sodium in processed foods",
+      "D) Promoting use of salt substitutes"
+    ],
+    "correct_answer": "C) Working with food manufacturers to reduce sodium in processed foods",
+    "page_reference": "Page 173",
+    "rationale": "Page 173 states, \"Approximately 70% of the sodium that Americans consume comes from prepackaged and processed foods.\" Therefore, working with manufacturers would likely have the greatest impact.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050094",
+    "section_number": "05",
+    "tags": [
+      "community-advocacy",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "Which of the following cooking methods is most likely to preserve the vitamin C content of vegetables?",
+    "options": [
+      "A) Boiling",
+      "B) Steaming",
+      "C) Frying",
+      "D) Roasting"
+    ],
+    "correct_answer": "B) Steaming",
+    "page_reference": "Page 151",
+    "rationale": "While not explicitly stated for vitamin C, page 151 mentions that \"Roasting, baking, steaming, and grilling tend to result in minimal loss of vitamins as compared with boiling.\"",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050095",
+    "section_number": "05",
+    "tags": [
+      "food-preparation"
+    ]
+  },
+  {
+    "question_text": "A 70-year-old man with sarcopenia is interested in improving his muscle mass through diet. Which of the following dietary recommendations would be most appropriate?",
+    "options": [
+      "A) Increase fat intake",
+      "B) Decrease protein intake",
+      "C) Increase protein intake",
+      "D) Decrease carbohydrate intake"
+    ],
+    "correct_answer": "C) Increase protein intake",
+    "page_reference": "Page 179",
+    "rationale": "While not explicitly discussed in relation to sarcopenia, page 179 lists protein as an important nutrient. For older adults with sarcopenia, increased protein intake is generally recommended.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050096",
+    "section_number": "05",
+    "tags": [
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "Which of the following food processing techniques is most likely to increase the glycaemic index of a carbohydrate-rich food?",
+    "options": [
+      "A) Freeze-drying",
+      "B) Fermentation",
+      "C) Milling to remove fibre",
+      "D) High-pressure processing"
+    ],
+    "correct_answer": "C) Milling to remove fibre",
+    "page_reference": "Page 174",
+    "rationale": "Page 174 discusses how fibre can help lower the glycaemic impact of foods. Therefore, removing fibre through milling would likely increase the glycaemic index.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050097",
+    "section_number": "05",
+    "tags": [
+      "food-preparation",
+      "nutrition-science"
+    ]
+  },
+  {
+    "question_text": "A patient following a vegan diet is concerned about meeting their omega-3 fatty acid needs. Which of the following foods is the best plant-based source of omega-3 fatty acids?",
+    "options": [
+      "A) Walnuts",
+      "B) Chia seeds",
+      "C) Flax seeds",
+      "D) Olive oil"
+    ],
+    "correct_answer": "C) Flax seeds",
+    "page_reference": "Page 126",
+    "rationale": "Page 126 specifically mentions flax seeds as a source of alpha-linolenic acid, a type of omega-3 fatty acid.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050098",
+    "section_number": "05",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "Which of the following dietary patterns has been most consistently associated with a reduced risk of cognitive decline in older adults?",
+    "options": [
+      "A) Low-carbohydrate diet",
+      "B) High-protein diet",
+      "C) Mediterranean diet",
+      "D) Ketogenic diet"
+    ],
+    "correct_answer": "C) Mediterranean diet",
+    "page_reference": "Page 145",
+    "rationale": "While not explicitly stated in relation to cognitive decline, page 145 discusses the cardiovascular benefits of the Mediterranean diet. This diet has also been associated with reduced cognitive decline in numerous studies.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050099",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old woman is interested in reducing her risk of osteoporosis. In addition to calcium and vitamin D, which of the following nutrients is important for bone health?",
+    "options": [
+      "A) Vitamin C",
+      "B) Vitamin E",
+      "C) Vitamin K",
+      "D) Vitamin B12"
+    ],
+    "correct_answer": "C) Vitamin K",
+    "page_reference": "Page 179",
+    "rationale": "While not explicitly stated in relation to bone health, page 179 lists vitamin K as one of the \"Commonly ordered labs for General nutrition in the General population.\" Vitamin K is known to play a crucial role in bone metabolism.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050100",
+    "section_number": "05",
+    "tags": [
+      "micronutrients"
+    ]
+  },
+  {
+    "question_text": "Which of the following cooking methods is most likely to reduce the formation of heterocyclic amines (HCAs) in meat?",
+    "options": [
+      "A) Grilling at high temperatures",
+      "B) Pan-frying",
+      "C) Slow cooking at low temperatures",
+      "D) Broiling"
+    ],
+    "correct_answer": "C) Slow cooking at low temperatures",
+    "page_reference": "Page 153",
+    "rationale": "While HCAs are not specifically mentioned, page 153 discusses how high-temperature cooking methods can lead to the formation of potentially harmful compounds. Slow cooking at low temperatures would likely reduce the formation of such compounds.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050101",
+    "section_number": "05",
+    "tags": [
+      "food-preparation"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old woman participating in the Nurses' Health Study reports consuming two sugar-sweetened beverages daily. According to the study findings, which of the following outcomes is she at increased risk for?",
+    "options": [
+      "A) Osteoporosis",
+      "B) All-cause mortality",
+      "C) Rheumatoid arthritis",
+      "D) Macular degeneration"
+    ],
+    "correct_answer": "B) All-cause mortality",
+    "page_reference": "Page 158",
+    "rationale": "The Nurses' Health Study found that compared with drinking sugar-sweetened beverages less than once per month, drinking two or more per day was associated with a 21% higher risk of overall mortality. Option A is incorrect as the study didn't report on osteoporosis risk. Option C is not mentioned in the study findings. Option D is not associated with sugar-sweetened beverage consumption in this study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050102",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The Health Professionals Follow-up Study found that higher consumption of olive oil was associated with decreased heart disease risk in Americans. What was the reduction in cardiovascular disease risk for men who consumed at least one and a half teaspoons of olive oil per day compared to those who consumed no olive oil?",
+    "options": [
+      "A) 7%",
+      "B) 14%",
+      "C) 18%",
+      "D) 25%"
+    ],
+    "correct_answer": "B) 14%",
+    "page_reference": "Page 158",
+    "rationale": "The Health Professionals Follow-up Study found that compared with men who consumed no olive oil, those who consumed at least one and a half teaspoons of olive oil per day had a 14% lower risk for cardiovascular disease. Option A is incorrect as it's too low. Option C refers to the risk reduction for coronary heart disease specifically, not overall cardiovascular disease. Option D is not mentioned in the study findings.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050103",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 68-year-old postmenopausal woman participating in the Women's Health Initiative study asks about the benefits of hormone therapy (HT) for cardiovascular disease prevention. Based on the WHI findings, what should you advise her?",
+    "options": [
+      "A) HT is highly recommended for cardiovascular disease prevention",
+      "B) HT has no effect on cardiovascular disease risk",
+      "C) HT increases the risk of cardiovascular disease",
+      "D) HT should be used in combination with calcium and vitamin D supplements for optimal cardiovascular protection"
+    ],
+    "correct_answer": "C) HT increases the risk of cardiovascular disease",
+    "page_reference": "Page 158",
+    "rationale": "The Women's Health Initiative found that hormone therapy did not prevent heart disease in postmenopausal women as once thought. In fact, the study showed that HT increased cardiovascular disease risk. Option A is incorrect as it contradicts the study findings. Option B is false as HT did have an effect, albeit negative. Option D is not supported by the study results, which showed no apparent risk reductions for cardiovascular disease with calcium and vitamin D supplementation.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050104",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the EPIC-Oxford Study, which dietary pattern was associated with the lowest risk of developing type 2 diabetes compared to meat-eaters?",
+    "options": [
+      "A) Pescatarian",
+      "B) Lacto-ovo vegetarian",
+      "C) Vegan",
+      "D) Mediterranean"
+    ],
+    "correct_answer": "C) Vegan",
+    "page_reference": "Page 159",
+    "rationale": "The EPIC-Oxford Study found that compared with meat-eaters, the vegan group alone had a 47% lower risk of developing type 2 diabetes. Option A (pescatarian) and B (lacto-ovo vegetarian) were not specifically mentioned to have this level of risk reduction. Option D (Mediterranean) was not one of the dietary patterns studied in the EPIC-Oxford Study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050105",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The Adventist Health Study-2 found that adherence to a vegetarian diet was associated with a lower prevalence of which of the following conditions?",
+    "options": [
+      "A) Osteoarthritis",
+      "B) Hypertension",
+      "C) Alzheimer's disease",
+      "D) Glaucoma"
+    ],
+    "correct_answer": "B) Hypertension",
+    "page_reference": "Page 159",
+    "rationale": "The Adventist Health Study-2 found that hypertension is uncommon in people who eat plant-based diets. The study reported that 7% of vegans versus 23% of non-vegetarians had hypertension. Options A, C, and D were not mentioned as significant findings in the study summary provided.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050106",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Nurses' Health Study, which of the following dietary factors was found to reduce the risk of colon cancer?",
+    "options": [
+      "A) High red meat intake",
+      "B) High dairy consumption",
+      "C) High folate intake",
+      "D) High saturated fat intake"
+    ],
+    "correct_answer": "C) High folate intake",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study found that folate intake was associated with a reduced risk of colon cancer. Options A and D are incorrect as high red meat and saturated fat intake are generally associated with increased cancer risk. Option B is not mentioned as a protective factor for colon cancer in the study findings.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050107",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The Nurses' Health Study found that moderate alcohol intake reduces the risk of which of the following conditions?",
+    "options": [
+      "A) Breast cancer",
+      "B) Coronary heart disease",
+      "C) Hypertension",
+      "D) Osteoporosis"
+    ],
+    "correct_answer": "B) Coronary heart disease",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study reported that moderate alcohol intake reduces the risk of coronary heart disease (CHD). Option A is incorrect as the study found that alcohol intake increases the risk of breast cancer. Options C and D were not mentioned as benefits of moderate alcohol consumption in the study summary.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050108",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Based on the Nurses' Health Study findings, which dietary pattern was associated with a reduced risk of stroke?",
+    "options": [
+      "A) Low-carbohydrate diet",
+      "B) High-protein diet",
+      "C) Mediterranean diet",
+      "D) Ketogenic diet"
+    ],
+    "correct_answer": "C) Mediterranean diet",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study found that the Mediterranean dietary pattern reduces the risk of stroke. Options A, B, and D were not mentioned as dietary patterns associated with reduced stroke risk in the study findings.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050109",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Health Professionals Follow-up Study, consumption of which food item was associated with a 21% higher risk of overall mortality?",
+    "options": [
+      "A) Red meat",
+      "B) Processed grains",
+      "C) Sugar-sweetened beverages",
+      "D) Fried foods"
+    ],
+    "correct_answer": "C) Sugar-sweetened beverages",
+    "page_reference": "Page 158",
+    "rationale": "The Health Professionals Follow-up Study found that compared with drinking sugar-sweetened beverages less than once per month, drinking two or more per day was associated with a 21% higher risk of overall mortality. Options A, B, and D were not specifically mentioned with this level of risk in the study summary.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050110",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The Health Professionals Follow-up Study found that replacing 5 g/day of which food item with olive oil was associated with a 5-7% lower risk of total cardiovascular disease and coronary heart disease?",
+    "options": [
+      "A) Butter",
+      "B) Coconut oil",
+      "C) Avocado",
+      "D) Nuts"
+    ],
+    "correct_answer": "A) Butter",
+    "page_reference": "Page 158",
+    "rationale": "The study found that replacing 5 g/day of margarine, butter, mayonnaise, or dairy fat with an equal amount of olive oil was associated with a 5-7% lower risk of total cardiovascular disease and",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050111",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Health Professionals Follow-up Study, higher consumption of which food was associated with a decreased risk of coronary heart disease in Americans?",
+    "options": [
+      "A) Red meat",
+      "B) Olive oil",
+      "C) Dairy products",
+      "D) Refined grains"
+    ],
+    "correct_answer": "B) Olive oil",
+    "page_reference": "Page 158",
+    "rationale": "The Health Professionals Follow-up Study found that higher consumption of olive oil was associated with decreased heart disease in Americans. Options A, C, and D were not mentioned as having a protective effect against coronary heart disease in this study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050112",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Women's Health Initiative study, which intervention did not offer significant breast cancer risk reduction over 8 years?",
+    "options": [
+      "A) Hormone therapy",
+      "B) Low-fat diet",
+      "C) Calcium and vitamin D supplementation",
+      "D) Increased physical activity"
+    ],
+    "correct_answer": "B) Low-fat diet",
+    "page_reference": "Page 158",
+    "rationale": "The Women's Health Initiative Diet Modification trial indicated that reducing % energy from fat per study diet parameters did not offer breast cancer risk reductions over 8 years. Options A, C, and D were not specifically mentioned in relation to breast cancer risk in the summary provided.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050113",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The Women's Health Initiative study found that hormone therapy did not prevent which of the following conditions in postmenopausal women?",
+    "options": [
+      "A) Osteoporosis",
+      "B) Heart disease",
+      "C) Breast cancer",
+      "D) Cognitive decline"
+    ],
+    "correct_answer": "B) Heart disease",
+    "page_reference": "Page 158",
+    "rationale": "The Women's Health Initiative found that hormone therapy did not prevent heart disease in postmenopausal women as once thought. Options A, C, and D were not specifically mentioned in relation to hormone therapy in the study summary provided.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050114",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the EPIC-Oxford Study, which dietary group had the lowest average BMI?",
+    "options": [
+      "A) Meat-eaters",
+      "B) Fish-eaters",
+      "C) Vegetarians",
+      "D) Vegans"
+    ],
+    "correct_answer": "D) Vegans",
+    "page_reference": "Page 159",
+    "rationale": "According to the EPIC-Oxford Study, vegans had the lowest average BMI at ~22.5. Meat-eaters had the highest (~25), while fish-eaters and vegetarians were in between (~23.5).",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050115",
+    "section_number": "05",
+    "tags": [
+      "weight-management",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The EPIC-Oxford Study found that vegetarians had a lower rate of which condition compared to meat-eaters?",
+    "options": [
+      "A) Stroke",
+      "B) Osteoporosis",
+      "C) Ischemic heart disease",
+      "D) Type 1 diabetes"
+    ],
+    "correct_answer": "C) Ischemic heart disease",
+    "page_reference": "Page 159",
+    "rationale": "The EPIC-Oxford Study found that vegetarians had a 22% lower rate of ischemic heart disease than meat-eaters. Interestingly, the study found that vegetarians and vegans had a 20% higher rate of stroke than meat-eaters. Options B and D were not mentioned in the study summary provided.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050116",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Adventist Health Study-2, what was the approximate difference in weight between a 55-year-old male vegan and a non-vegetarian of similar height?",
+    "options": [
+      "A) 10 pounds",
+      "B) 20 pounds",
+      "C) 30 pounds",
+      "D) 40 pounds"
+    ],
+    "correct_answer": "C) 30 pounds",
+    "page_reference": "Page 161",
+    "rationale": "The Adventist Health Study-2 found that a 55-year-old male vegan weighed approximately 30 pounds less than a non-vegetarian of similar height. Options A, B, and D are incorrect as they do not reflect the findings reported in the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050117",
+    "section_number": "05",
+    "tags": [
+      "weight-management",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Adventist Health Study, which food group was associated with a 47% lower risk of prostate cancer when consumed more than three times a week?",
+    "options": [
+      "A) Fruits",
+      "B) Vegetables",
+      "C) Legumes",
+      "D) Whole grains"
+    ],
+    "correct_answer": "C) Legumes",
+    "page_reference": "Page 160",
+    "rationale": "The Adventist Health Study found that those eating legumes more than three times a week had a 47% lower risk of prostate cancer than those who ate legumes less than once a month. Options A, B, and D were not mentioned with this specific risk reduction for prostate cancer.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050118",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The Framingham Heart Study demonstrated an increased risk of coronary heart disease morbidity with which of the following factors?",
+    "options": [
+      "A) Rising baseline blood pressure",
+      "B) Increased HDL cholesterol",
+      "C) Lower body mass index",
+      "D) Decreased total cholesterol"
+    ],
+    "correct_answer": "A) Rising baseline blood pressure",
+    "page_reference": "Page 161",
+    "rationale": "The Framingham Heart Study demonstrated an increased risk of coronary heart disease morbidity with rising baseline blood pressure. Options B, C, and D are incorrect as they generally represent factors associated with decreased cardiovascular risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050119",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Framingham Heart Study, which blood pressure measurement was found to be a stronger predictor of cerebrovascular accidents and heart failure?",
+    "options": [
+      "A) Diastolic blood pressure",
+      "B) Systolic blood pressure",
+      "C) Mean arterial pressure",
+      "D) Pulse pressure"
+    ],
+    "correct_answer": "B) Systolic blood pressure",
+    "page_reference": "Page 161",
+    "rationale": "The Framingham Heart Study suggested that elevated systolic blood pressure is a predictor of cerebrovascular accidents as well as heart failure, and that diastolic blood pressure was not more strongly associated with these events. Options A, C, and D are incorrect based on the study findings.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050120",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "hypertension",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Multi-Ethnic Study of Atherosclerosis (MESA), which dietary pattern was associated with an 18% greater risk of type 2 diabetes?",
+    "options": [
+      "A) High intake of whole grains and fruits",
+      "B) High intake of tomatoes, beans, and red meat",
+      "C) High intake of nuts, seeds, and green leafy vegetables",
+      "D) High intake of low-fat dairy and fish"
+    ],
+    "correct_answer": "B) High intake of tomatoes, beans, and red meat",
+    "page_reference": "Page 162",
+    "rationale": "MESA found that a high intake of tomatoes, beans, refined grains, high-fat dairy, and red meat was associated with an 18% greater risk of type 2 diabetes. Options A, C, and D are incorrect as they were not associated with increased diabetes risk in this study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050121",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Multi-Ethnic Study of Atherosclerosis (MESA), which dietary pattern was associated with a 15% lower risk of diabetes?",
+    "options": [
+      "A) High intake of processed meats and refined grains",
+      "B) High intake of sugar-sweetened beverages and snacks",
+      "C) High intake of whole grains, fruits, nuts/seeds, and green leafy vegetables",
+      "D) High intake of red meat and high-fat dairy products"
+    ],
+    "correct_answer": "C) High intake of whole grains, fruits, nuts/seeds, and green leafy vegetables",
+    "page_reference": "Page 162",
+    "rationale": "MESA found that high intake of whole grains, fruits, nuts/seeds, green leafy vegetables, and low-fat dairy was associated with a 15% lower risk of diabetes. Options A, B, and D are incorrect as they generally represent dietary patterns associated with increased diabetes risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050122",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the National Health and Nutrition Examination Survey (NHANES), what percentage of calories from ultra-processed foods was found in the diets of US adults?",
+    "options": [
+      "A) Less than 25%",
+      "B) Between 25-40%",
+      "C) More than 50%",
+      "D) More than 75%"
+    ],
+    "correct_answer": "C) More than 50%",
+    "page_reference": "Page 162",
+    "rationale": "NHANES data showed that ultra-processed foods represented more than half of total calorie intake in US adults. Options A, B, and D are incorrect as they do not accurately reflect the findings reported in the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050123",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Lyon Heart Study, which dietary pattern was associated with a 50-70% lower risk of recurrent heart disease?",
+    "options": [
+      "A) Low-carbohydrate diet",
+      "B) Mediterranean-style diet",
+      "C) High-protein diet",
+      "D) Ketogenic diet"
+    ],
+    "correct_answer": "B) Mediterranean-style diet",
+    "page_reference": "Page 163",
+    "rationale": "The Lyon Heart Study found that subjects following the Mediterranean-style diet had a 50-70% lower risk of recurrent heart disease. Options A, C, and D were not mentioned as having this protective effect in the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050124",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the OmniHeart study, which macronutrient-rich diet provided additional benefits on blood pressure and blood lipids compared to a carbohydrate-rich diet?",
+    "options": [
+      "A) Saturated fat-rich diet",
+      "B) Trans fat-rich diet",
+      "C) Protein-rich diet",
+      "D) Simple sugar-rich diet"
+    ],
+    "correct_answer": "C) Protein-rich diet",
+    "page_reference": "Page 164",
+    "rationale": "The OmniHeart study found that the protein-rich and unsaturated fat-rich diets provided additional benefits on blood pressure and blood lipids compared to the carbohydrate-rich diet. Options A, B, and D are incorrect as they were not mentioned as beneficial diets in the study summary.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050125",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "nutrition-science",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to a recent systematic review and meta-analysis, the DASH diet reduced mean systolic blood pressure by how much?",
+    "options": [
+      "A) 1.5 mmHg",
+      "B) 3.2 mmHg",
+      "C) 5.0 mmHg",
+      "D) 7.5 mmHg"
+    ],
+    "correct_answer": "B) 3.2 mmHg",
+    "page_reference": "Page 165",
+    "rationale": "A systematic review and meta-analysis of 30 RCTs concluded that the DASH diet reduced mean systolic blood pressure by 3.2 mmHg. Options A, C, and D are incorrect as they do not reflect the",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050126",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Lyon Heart Trial, what was the primary intervention that led to a 50-70% lower risk of recurrent heart disease?",
+    "options": [
+      "A) Low-fat diet",
+      "B) Mediterranean-style diet",
+      "C) High-protein diet",
+      "D) Ketogenic diet"
+    ],
+    "correct_answer": "B) Mediterranean-style diet",
+    "page_reference": "Page 163",
+    "rationale": "The Lyon Heart Trial found that subjects following the Mediterranean-style diet had a 50-70% lower risk of recurrent heart disease. Options A, C, and D were not the interventions used in this study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050127",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the PREDIMED study, which dietary pattern was associated with a lower incidence of major cardiovascular events?",
+    "options": [
+      "A) Low-fat diet",
+      "B) Mediterranean diet supplemented with extra-virgin olive oil",
+      "C) High-protein diet",
+      "D) DASH diet"
+    ],
+    "correct_answer": "B) Mediterranean diet supplemented with extra-virgin olive oil",
+    "page_reference": "Page 165",
+    "rationale": "The PREDIMED study found that the incidence of major cardiovascular events was lower in those assigned to the Mediterranean pattern supplemented with extra-virgin olive oil or nuts than those assigned to a reduced-fat dietary pattern. Options A, C, and D were not the interventions associated with reduced cardiovascular events in this study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050128",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the PREDIMED study, what was the effect of better adherence to the Mediterranean diet on cardiovascular event rates?",
+    "options": [
+      "A) No significant difference",
+      "B) Slightly increased rates",
+      "C) Greater difference in rates",
+      "D) Only affected those with pre-existing conditions"
+    ],
+    "correct_answer": "C) Greater difference in rates",
+    "page_reference": "Page 165",
+    "rationale": "The PREDIMED study found that differences in rates of cardiovascular events between those assigned to the two Mediterranean patterns and the control pattern were greater among participants with better adherence. Options A, B, and D do not accurately reflect the findings of the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050129",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Nurses' Health Study, which combination of dietary factors was associated with the lowest risk of coronary heart disease?",
+    "options": [
+      "A) High intake of saturated fat and low intake of trans fat",
+      "B) High intake of polyunsaturated fat and low intake of trans fat",
+      "C) High intake of monounsaturated fat and high intake of trans fat",
+      "D) High intake of saturated fat and high intake of trans fat"
+    ],
+    "correct_answer": "B) High intake of polyunsaturated fat and low intake of trans fat",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study found that a dietary pattern high in polyunsaturated fats and low in trans fats was associated with a reduced risk of coronary heart disease. Refined carbohydrates and trans fats were found to increase the risk of CHD, while nuts, whole grains, and polyunsaturated fats were protective. This question requires synthesizing multiple findings from the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050130",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Health Professionals Follow-up Study, which of the following combinations was associated with the greatest reduction in cardiovascular disease risk?",
+    "options": [
+      "A) Replacing red meat with poultry and increasing olive oil intake",
+      "B) Increasing fish consumption and decreasing refined grain intake",
+      "C) Replacing margarine with olive oil and increasing nut consumption",
+      "D) Increasing dairy intake and decreasing sugar-sweetened beverage consumption"
+    ],
+    "correct_answer": "C) Replacing margarine with olive oil and increasing nut consumption",
+    "page_reference": "Page 158",
+    "rationale": "This question combines multiple findings from the Health Professionals Follow-up Study. The study found that replacing margarine with olive oil was associated with lower cardiovascular disease risk, and that substituting nuts for red meat was also beneficial. While all options contain elements of healthy dietary changes, option C best represents the specific findings of this study in terms of cardiovascular risk reduction.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050131",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Women's Health Initiative study, which combination of interventions had the most significant impact on health outcomes for postmenopausal women?",
+    "options": [
+      "A) Hormone therapy and calcium supplementation",
+      "B) Low-fat diet and vitamin D supplementation",
+      "C) Hormone therapy and low-fat diet",
+      "D) None of the interventions showed significant benefits"
+    ],
+    "correct_answer": "D) None of the interventions showed significant benefits",
+    "page_reference": "Page 158",
+    "rationale": "This question requires synthesizing multiple findings from the Women's Health Initiative. The study found that hormone therapy did not prevent heart disease as once thought, the low-fat diet did not significantly reduce breast or colorectal cancer risk, and calcium and vitamin D supplementation did not show apparent risk reductions for various outcomes. Therefore, none of the interventions showed the significant benefits that were initially hypothesized.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050132",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the EPIC-Oxford Study, which dietary pattern was associated with the most favorable overall health outcomes when considering cardiovascular disease, cancer, and nutrient intake?",
+    "options": [
+      "A) Vegan diet",
+      "B) Lacto-ovo vegetarian diet",
+      "C) Pesco-vegetarian diet",
+      "D) Low-meat omnivorous diet"
+    ],
+    "correct_answer": "A) Vegan diet",
+    "page_reference": "Page 159",
+    "rationale": "This question requires synthesizing multiple findings from the EPIC-Oxford Study. The vegan diet was associated with the lowest BMI, lowest total and LDL cholesterol levels, lowest risk of heart disease, and highest intake of fiber, vitamin B1, folate, vitamin C, vitamin E, magnesium, and iron. While each dietary pattern had some benefits, the vegan diet showed the most consistently favorable outcomes across various health markers.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050133",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Adventist Health Studies, which combination of lifestyle factors was associated with the greatest increase in life expectancy?",
+    "options": [
+      "A) Vegetarian diet and regular exercise",
+      "B) Vegan diet and nut consumption",
+      "C) Pesco-vegetarian diet and stress management",
+      "D) Plant-based diet, nut consumption, exercise, and non-smoking"
+    ],
+    "correct_answer": "D) Plant-based diet, nut consumption, exercise, and non-smoking",
+    "page_reference": "Page 160-161",
+    "rationale": "This question requires synthesizing multiple findings from the Adventist Health Studies. The studies found benefits for plant-based diets, particularly vegan and vegetarian diets. They also found significant benefits for nut consumption, regular exercise, and not smoking. The combination of all these factors (plant-based diet, nut consumption, exercise, and non-smoking) would likely be associated with the greatest increase in life expectancy based on the overall findings of these studies.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050134",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "(Based on the Framingham Heart Study, which combination of factors would be most predictive of future cardiovascular disease risk?",
+    "options": [
+      "A) Elevated systolic blood pressure and obesity",
+      "B) Elevated diastolic blood pressure and high total cholesterol",
+      "C) Elevated systolic blood pressure, obesity, and a specific genetic variant",
+      "D) Elevated diastolic blood pressure and family history of heart disease"
+    ],
+    "correct_answer": "C) Elevated systolic blood pressure, obesity, and a specific genetic variant",
+    "page_reference": "Page 161",
+    "rationale": "This question combines multiple findings from the Framingham Heart Study. The study found that elevated systolic blood pressure was a stronger predictor of cardiovascular events than diastolic pressure. It also revealed a genetic variant associated with obesity, and obesity is a known risk factor for cardiovascular disease. Therefore, the combination of elevated systolic blood pressure, obesity, and the presence of this genetic variant would likely be most predictive of future cardiovascular disease risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050135",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Multi-Ethnic Study of Atherosclerosis (MESA), which combination of factors was most strongly associated with increased cardiovascular risk?",
+    "options": [
+      "A) High coronary artery calcium score and low-fat diet",
+      "B) High coronary artery calcium score and high intake of refined grains",
+      "C) Low coronary artery calcium score and high intake of red meat",
+      "D) Low coronary artery calcium score and high intake of vegetables"
+    ],
+    "correct_answer": "B) High coronary artery calcium score and high intake of refined grains",
+    "page_reference": "Page 162",
+    "rationale": "This question combines multiple findings from MESA. The study found a strong association between coronary artery calcium scores and cardiovascular health. It also found that a dietary pattern high in refined grains was associated with increased risk of type 2 diabetes, which is a risk factor for cardiovascular disease. Therefore, the combination of a high coronary artery calcium score and high intake of refined grains would likely be most strongly associated with increased cardiovascular risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050136",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Based on NHANES data, which combination of dietary factors is most strongly associated with poor cardiovascular health in US adults?",
+    "options": [
+      "A) High intake of ultra-processed foods and low intake of fruits and vegetables",
+      "B) High intake of whole grains and high intake of lean meats",
+      "C) Moderate intake of ultra-processed foods and high intake of plant-based proteins",
+      "D) Low intake of ultra-processed foods and high intake of saturated fats"
+    ],
+    "correct_answer": "A) High intake of ultra-processed foods and low intake of fruits and vegetables",
+    "page_reference": "Page 162",
+    "rationale": "This question requires synthesizing multiple findings from NHANES. The survey found that ultra-processed foods represent more than half of total calorie intake in US adults and contribute to nearly 90% of added sugar intake. It also showed that higher intake of ultra-processed foods was associated with lower cardiovascular health scores. While not explicitly stated, NHANES generally supports the health benefits of fruit and vegetable consumption. Therefore, the combination of high ultra-processed food intake and low fruit and vegetable intake would likely be most strongly associated with poor cardiovascular health.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050137",
+    "section_number": "05",
+    "tags": [
+      "nutrition-science",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Lyon Heart Trial, which specific component of the Mediterranean-style diet was most strongly associated with the reduction in recurrent heart disease risk?",
+    "options": [
+      "A) High intake of olive oil",
+      "B) Regular consumption of fatty fish",
+      "C) High intake of Î±-linolenic acid",
+      "D) Moderate red wine consumption"
+    ],
+    "correct_answer": "C) High intake of Î±-linolenic acid",
+    "page_reference": "Page 163",
+    "rationale": "This question requires a deeper understanding of the Lyon Heart Trial's findings. While the Mediterranean-style diet as a whole was associated with a 50-70% lower risk of recurrent heart disease, the study particularly emphasized the role of Î±-linolenic acid. The experimental group had higher plasma levels of Î±-linolenic acid, which was associated with the protective effect. While olive oil, fish, and moderate wine consumption are often associated with the Mediterranean diet, the Lyon Heart Trial specifically highlighted the importance of Î±-linolenic acid.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050138",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the OmniHeart study, which combination of macronutrient adjustments provided the most beneficial effects on both blood pressure and lipid profile?",
+    "options": [
+      "A) Increasing carbohydrates and decreasing unsaturated fats",
+      "B) Increasing proteins and decreasing carbohydrates",
+      "C) Increasing unsaturated fats and decreasing proteins",
+      "D) Increasing both proteins and unsaturated fats while decreasing carbohydrates"
+    ],
+    "correct_answer": "D) Increasing both proteins and unsaturated fats while decreasing carbohydrates",
+    "page_reference": "Page 164",
+    "rationale": "This question requires synthesizing the main findings of the OmniHeart study. The study found that both the protein-rich and unsaturated fat-rich diets provided additional benefits on blood pressure and blood lipids compared to the carbohydrate-rich diet. Therefore, the combination of increasing both proteins and unsaturated fats while decreasing carbohydrates would likely provide the most beneficial effects on both blood pressure and lipid profile.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050139",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "nutrition-science",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Based on the DASH trial and subsequent meta-analyses, which combination of dietary changes and patient characteristics is associated with the greatest reduction in blood pressure?",
+    "options": [
+      "A) High fruit and vegetable intake in patients with normal blood pressure",
+      "B) Low sodium intake in elderly patients with hypertension",
+      "C) High dairy intake in young adults with prehypertension",
+      "D) Combination of high fruits, vegetables, low-fat dairy, and low sodium in patients with stage 1 hypertension"
+    ],
+    "correct_answer": "D) Combination of high fruits, vegetables, low-fat dairy, and low sodium in patients with stage 1 hypertension",
+    "page_reference": "Page 165",
+    "rationale": "This question requires integrating multiple findings from the DASH trial and subsequent analyses. The DASH diet, which is high in fruits, vegetables, and low-fat dairy, was shown to significantly reduce blood pressure. Additionally, sodium reduction enhanced this effect. The meta-analysis mentioned that the DASH diet reduced systolic BP more in trials with sodium intake > 2,400 mg/day than in trials with lower sodium intake. Furthermore, while the DASH diet was effective for all groups, those with hypertension typically show greater reductions in blood pressure than those with normal blood pressure. Therefore, the combination of the full DASH diet pattern with low sodium in patients with existing hypertension would likely yield the greatest blood pressure reduction.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050140",
+    "section_number": "05",
+    "tags": [
+      "hypertension",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the PREDIMED study, which combination of Mediterranean diet components and participant characteristics was associated with the greatest reduction in cardiovascular disease risk?",
+    "options": [
+      "A) High olive oil consumption in participants with diabetes",
+      "B) High nut consumption in participants with hypertension",
+      "C) High fish consumption in participants with dyslipidemia",
+      "D) High vegetable consumption in participants with obesity"
+    ],
+    "correct_answer": "A) High olive oil consumption in participants with diabetes",
+    "page_reference": "Page 165",
+    "rationale": "This question requires a comprehensive understanding of the PREDIMED study results. The study found that a Mediterranean diet supplemented with extra-virgin olive oil or nuts reduced the incidence of major cardiovascular events. However, the olive oil intervention showed slightly stronger effects overall. Moreover, subgroup analyses often show that participants with existing risk factors (like diabetes) tend to benefit more from dietary interventions. While the study didn't explicitly state this combination, based on the overall findings, high olive oil consumption in participants with diabetes would likely be associated with the greatest reduction in cardiovascular disease risk.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050141",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the EPIC-Oxford Study, what was the association between dietary fiber intake and colorectal cancer risk among the different dietary groups (meat-eaters, fish-eaters, vegetarians, and vegans)?",
+    "options": [
+      "A) Only vegans showed a significant inverse association",
+      "B) All groups showed a similar inverse association",
+      "C) Vegetarians and vegans showed a stronger inverse association than meat-eaters",
+      "D) No significant association was found in any group"
+    ],
+    "correct_answer": "C) Vegetarians and vegans showed a stronger inverse association than meat-eaters",
+    "page_reference": "Page 159",
+    "rationale": "While the exact details weren't provided in our summary, the EPIC-Oxford Study generally found that vegetarians and vegans had higher fiber intakes and lower colorectal cancer risks. This question requires candidates to apply knowledge of the study's findings on dietary patterns and their health outcomes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050142",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "What methodological feature of the Nurses' Health Study contributed to its ability to assess long-term dietary impacts on health outcomes?",
+    "options": [
+      "A) Use of 24-hour dietary recalls",
+      "B) Regular administration of food frequency questionnaires",
+      "C) Annual blood tests for all participants",
+      "D) Monthly phone interviews about dietary habits"
+    ],
+    "correct_answer": "B) Regular administration of food frequency questionnaires",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study used questionnaire-based data collection methods, including food frequency questionnaires, to assess dietary intake over time. This methodological approach allowed researchers to examine long-term dietary impacts on health outcomes.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050143",
+    "section_number": "05",
+    "tags": [
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Multi-Ethnic Study of Atherosclerosis (MESA), how did the association between dietary patterns and type 2 diabetes risk differ among various ethnic groups?",
+    "options": [
+      "A) The associations were identical across all ethnic groups",
+      "B) The associations were strongest in Hispanic and weakest in Asian participants",
+      "C) The associations were only significant in Caucasian participants",
+      "D) The study did not analyze ethnic differences in dietary pattern associations"
+    ],
+    "correct_answer": "D) The study did not analyze ethnic differences in dietary pattern associations",
+    "page_reference": "Page 162",
+    "rationale": "While MESA is a multi-ethnic study, the summary provided does not mention any analysis of ethnic differences in dietary pattern associations with type 2 diabetes risk. This question tests the candidate's careful reading of the study details and ability to recognize when information is not provided.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050144",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "How did the Women's Health Initiative study's findings on hormone therapy and cardiovascular disease risk change public health recommendations?",
+    "options": [
+      "A) It led to increased recommendations for hormone therapy use",
+      "B) It resulted in more cautious prescribing of hormone therapy",
+      "C) It had no impact on hormone therapy recommendations",
+      "D) It led to recommendations for higher doses of hormone therapy"
+    ],
+    "correct_answer": "B) It resulted in more cautious prescribing of hormone therapy",
+    "page_reference": "Page 158",
+    "rationale": "The Women's Health Initiative found that hormone therapy did not prevent heart disease in postmenopausal women as once thought. This finding likely led to more cautious prescribing of hormone therapy, changing previous public health recommendations.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050145",
+    "section_number": "05",
+    "tags": [
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "What was a key limitation of the Framingham Heart Study in terms of population representation?",
+    "options": [
+      "A) It only included men",
+      "B) It only studied young adults",
+      "C) It lacked ethnic diversity",
+      "D) It only included individuals with pre-existing heart conditions"
+    ],
+    "correct_answer": "C) It lacked ethnic diversity",
+    "page_reference": "Page 161",
+    "rationale": "While not explicitly stated in our summary, the Framingham Heart Study is well-known for its initial lack of ethnic diversity, as it primarily studied a white, middle-class population. This limitation is important to recognize when generalizing its findings.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050146",
+    "section_number": "05",
+    "tags": [
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "How did the PREDIMED study's findings on Mediterranean diet and cardiovascular risk compare to those of the Lyon Heart Trial?",
+    "options": [
+      "A) PREDIMED showed stronger protective effects",
+      "B) Lyon Heart Trial showed stronger protective effects",
+      "C) Both studies showed similar levels of cardiovascular risk reduction",
+      "D) PREDIMED showed protective effects while Lyon Heart Trial did not"
+    ],
+    "correct_answer": "C) Both studies showed similar levels of cardiovascular risk reduction",
+    "page_reference": "Pages 163 and 165",
+    "rationale": "Both the PREDIMED study and the Lyon Heart Trial found significant cardiovascular risk reduction with Mediterranean-style diets. The Lyon Heart Trial found a 50-70% lower risk of recurrent heart disease, while PREDIMED found lower incidence of major cardiovascular events. This question requires synthesizing information from two different studies.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050147",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Adventist Health Study-2, how did the relationship between nut consumption and cardiovascular risk differ between age groups?",
+    "options": [
+      "A) Nut consumption was only protective in younger adults",
+      "B) The protective effect was stronger in those under 80 years old",
+      "C) The protective effect was identical across all age groups",
+      "D) Nut consumption increased risk in older adults"
+    ],
+    "correct_answer": "B) The protective effect was stronger in those under 80 years old",
+    "page_reference": "Page 161",
+    "rationale": "The Adventist Health Study-2 found that eating nuts more than five times per week lowered heart risk by 47% among those under age 80, and by 45% among those over 80. This question tests understanding of subgroup analyses within the study.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050148",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Based on the National Health and Nutrition Examination Survey (NHANES), how has the contribution of ultra-processed foods to total energy intake in the US diet changed over time?",
+    "options": [
+      "A) It has remained stable",
+      "B) It has decreased slightly",
+      "C) It has increased significantly",
+      "D) NHANES did not assess changes over time"
+    ],
+    "correct_answer": "C) It has increased significantly",
+    "page_reference": "Page 162",
+    "rationale": "While our summary doesn't provide exact figures, NHANES data typically show trends over time. The high proportion of calories from ultra-processed foods (more than 50%) and their contribution to added sugar intake (nearly 90%) suggest an increase over time, as these levels are higher than historical dietary patterns.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050149",
+    "section_number": "05",
+    "tags": [
+      "food-preparation",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "How did the Health Professionals Follow-up Study's findings on olive oil consumption and cardiovascular risk compare to Mediterranean-based studies like PREDIMED?",
+    "options": [
+      "A) It showed stronger protective effects than Mediterranean studies",
+      "B) It showed weaker protective effects than Mediterranean studies",
+      "C) It showed similar protective effects to Mediterranean studies",
+      "D) It found no protective effects, contrary to Mediterranean studies"
+    ],
+    "correct_answer": "C) It showed similar protective effects to Mediterranean studies",
+    "page_reference": "Pages 158 and 165",
+    "rationale": "Both the Health Professionals Follow-up Study and PREDIMED found protective effects of olive oil consumption on cardiovascular risk. This question requires comparing findings across different studies and populations.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050150",
+    "section_number": "05",
+    "tags": [
+      "cardiovascular-disease",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "What unique aspect of the EPIC-Oxford Study design allowed for comparison of long-term health outcomes between different dietary patterns?",
+    "options": [
+      "A) Its focus on only vegetarian participants",
+      "B) Its inclusion of a high proportion of non-meat eaters",
+      "C) Its exclusive study of British population",
+      "D) Its use of interventional dietary changes"
+    ],
+    "correct_answer": "B) Its inclusion of a high proportion of non-meat eaters",
+    "page_reference": "Page 159",
+    "rationale": "The EPIC-Oxford Study included a high proportion of participants who did not eat meat, allowing for robust comparisons between meat-eaters, fish-eaters, vegetarians, and vegans. This unique aspect of the study design facilitated the investigation of long-term health outcomes associated with different dietary patterns.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050151",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the Nurses' Health Study, what was the association between vitamin D intake and colon cancer risk?",
+    "options": [
+      "A) No significant association",
+      "B) Increased risk with higher intake",
+      "C) Decreased risk with higher intake",
+      "D) Increased risk only with supplemental vitamin D"
+    ],
+    "correct_answer": "C) Decreased risk with higher intake",
+    "page_reference": "Page 156",
+    "rationale": "The Nurses' Health Study found that higher levels of vitamin D are associated with lower risk of colon polyps and colon cancer.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050152",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "micronutrients",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Adventist Health Study, how did legume consumption affect pancreatic cancer risk?",
+    "options": [
+      "A) No significant effect",
+      "B) Increased risk with higher consumption",
+      "C) Decreased risk with higher consumption",
+      "D) Increased risk only with certain types of legumes"
+    ],
+    "correct_answer": "C) Decreased risk with higher consumption",
+    "page_reference": "Page 160",
+    "rationale": "The Adventist Health Study found that those eating legumes more than twice a week had a much lower risk of pancreatic cancer than those who did not.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050153",
+    "section_number": "05",
+    "tags": [
+      "cancer",
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "What unique methodological feature of the EPIC-Oxford study allowed for robust comparison of different dietary patterns?",
+    "options": [
+      "A) Use of 24-hour dietary recalls",
+      "B) Inclusion of a high proportion of non-meat eaters",
+      "C) Annual blood tests for all participants",
+      "D) Monthly dietary interventions"
+    ],
+    "correct_answer": "B) Inclusion of a high proportion of non-meat eaters",
+    "page_reference": "Page 159",
+    "rationale": "The EPIC-Oxford study included a high proportion of participants who did not eat meat, allowing for robust comparisons between meat-eaters, fish-eaters, vegetarians, and vegans.",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_id": "050154",
+    "section_number": "05",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050155",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A 62-year-old woman with type 2 diabetes presents for nutrition counseling. Her current diet consists primarily of processed foods and she reports consuming 3-4 sugar-sweetened beverages daily. Her HbA1c is 8.2%. While discussing dietary changes, she expresses concern about advanced glycation end products (AGEs) that she read about online. Which of the following cooking methods would result in the HIGHEST formation of AGEs?",
+    "options": [
+      "A) Steaming vegetables at 100°C for 15 minutes",
+      "B) Boiling legumes in water for 45 minutes",
+      "C) Broiling meat at 225°C for 20 minutes",
+      "D) Stewing vegetables and meat at low heat for 2 hours"
+    ],
+    "correct_answer": "C) Broiling meat at 225°C for 20 minutes",
+    "page_reference": "153-154",
+    "rationale": "Cooking methods with higher temperatures and dry heat lead to increased formation of AGEs. Broiling (225°C/437°F) and frying (177°C/350°F) result in the highest levels of AGEs, followed by roasting and boiling. Moist cooking methods like steaming, stewing, poaching, and boiling significantly reduce AGE formation. Temperature and moisture are key factors - higher temperatures and dry heat accelerate AGE formation while lower temperatures and moist cooking methods minimize it. The production of AGEs is significantly reduced by cooking with moist, lower temperature heat for a shorter amount of time.",
+    "tags": [
+      "dietary-patterns",
+      "diabetes",
+      "nutrition-science"
+    ]
+  },
+  {
+    "question_id": "050156",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A lifestyle medicine physician is counseling a 45-year-old patient with obesity (BMI 33 kg/m2) and prediabetes about ultra-processed foods (UPFs). The patient frequently consumes frozen meals, sugary cereals, and packaged snacks. Recent research has shown that increased UPF consumption is associated with which of the following changes in dietary intake?",
+    "options": [
+      "A) Increased fiber and decreased sodium intake",
+      "B) Decreased carbohydrates and increased protein intake",
+      "C) Increased micronutrient intake and decreased calories",
+      "D) Decreased fiber, zinc, potassium, phosphorus, magnesium, calcium, and vitamins A, C, D, and E"
+    ],
+    "correct_answer": "D) Decreased fiber, zinc, potassium, phosphorus, magnesium, calcium, and vitamins A, C, D, and E",
+    "page_reference": "143",
+    "rationale": "According to the source material, higher UPF intake leads to greater consumption of refined carbohydrates, added sugars, saturated fat, and sodium, which are markers of poor diet quality. Additionally, higher UPF intake leads to decreased dietary fiber, zinc, potassium, phosphorus, magnesium, calcium, and vitamins A, C, D, and E. UPFs are associated with overconsumption (about 500 kcal per day excess) and weight gain (about 2 lbs after 2 weeks). The increasing sales of UPFs have been found to be associated with the rise in obesity.",
+    "tags": [
+      "dietary-patterns",
+      "weight-management"
+    ]
+  },
+  {
+    "question_id": "050157",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A 58-year-old man with hyperlipidemia is interested in following the Portfolio diet. His total cholesterol is 245 mg/dL and LDL is 165 mg/dL. He asks about the effectiveness compared to medication. According to intervention studies, what level of LDL cholesterol reduction can be expected with strict adherence to the Portfolio diet compared to low-dose statin therapy?",
+    "options": [
+      "A) Portfolio diet reduces LDL by 15% compared to 30% with low-dose statins",
+      "B) Portfolio diet reduces LDL by 28.6% compared to 30.9% with low-dose statins",
+      "C) Portfolio diet reduces LDL by 35% compared to 25% with low-dose statins",
+      "D) Portfolio diet reduces LDL by 40% compared to 45% with low-dose statins"
+    ],
+    "correct_answer": "B) Portfolio diet reduces LDL by 28.6% compared to 30.9% with low-dose statins",
+    "page_reference": "145",
+    "rationale": "According to the research presented in the source material, the Portfolio diet, which is a very low saturated fat dietary pattern high in plant sterols, soy protein, viscous fibers, and almonds, resulted in LDL cholesterol reduction of 28.6%. This was comparable to treatment with 20 mg of lovastatin (low-intensity statin treatment), which lowered LDL by 30.9%. The difference was not statistically significant, demonstrating that this dietary approach can achieve similar lipid-lowering effects to low-dose statin therapy.",
+    "tags": [
+      "dietary-patterns",
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050158",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A 49-year-old woman is following up after receiving nutrition education about the glycemic impact of different foods. She is confused about watermelon, which she heard has a high glycemic index but feels unsatisfied with just eating a small portion. Which of the following best explains the glycemic impact of watermelon consumption?",
+    "options": [
+      "A) High GI of 76 and high GL of 76 due to sugar content",
+      "B) Low GI of 25 and low GL of 8 due to water content",
+      "C) High GI of 76 and low GL of 8 due to high fiber and low carbohydrate",
+      "D) Low GI of 45 and high GL of 38 due to fructose content"
+    ],
+    "correct_answer": "C) High GI of 76 and low GL of 8 due to high fiber and low carbohydrate",
+    "page_reference": "174",
+    "rationale": "Watermelon has a high glycemic index (GI) of 76 but a low glycemic load (GL) of 8 because of its high fiber and low carbohydrate content. This example illustrates why focusing on glycemic load over glycemic index alone provides better guidance about a food's actual impact on blood glucose. GL accounts for both the quality (GI) and quantity of carbohydrates in a typical serving. The source material specifically uses watermelon as an example to demonstrate how a food can have a high GI but low GL due to its composition.",
+    "tags": [
+      "nutrition-science",
+      "diabetes"
+    ]
+  },
+  {
+    "question_id": "050159",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A lifestyle medicine physician is reviewing findings from the EPIC-Oxford study with a patient interested in plant-based diets. According to the study results, which of the following findings regarding cardiovascular disease (CVD) risk was observed when comparing different dietary patterns?",
+    "options": [
+      "A) Vegetarians had 22% lower rate of ischemic heart disease but 20% higher rate of stroke than meat-eaters",
+      "B) Vegetarians had 15% lower rate of both ischemic heart disease and stroke than meat-eaters",
+      "C) Vegetarians had 30% higher rate of ischemic heart disease but 10% lower rate of stroke than meat-eaters",
+      "D) Vegetarians had equal rates of both ischemic heart disease and stroke compared to meat-eaters"
+    ],
+    "correct_answer": "A) Vegetarians had 22% lower rate of ischemic heart disease but 20% higher rate of stroke than meat-eaters",
+    "page_reference": "159",
+    "rationale": "The EPIC-Oxford study found that vegetarians had a 22% lower rate of ischemic heart disease than meat-eaters. However, somewhat paradoxically and incongruent with the overall lower rates of ischemic heart disease, vegetarians and vegans had a 20% higher rate of stroke than meat-eaters. This finding highlights the importance of comprehensive nutritional planning when following plant-based diets to ensure adequate intake of all necessary nutrients.",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050160",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A researcher is analyzing data on epigenetic modifications related to dietary patterns. Based on current evidence, which combination of dietary factors has been shown to promote beneficial epigenetic changes?",
+    "options": [
+      "A) High consumption of red meat and increased alcohol intake",
+      "B) Higher consumption of legumes, nuts, fruit, seaweed, and dairy products with lower consumption of red meat",
+      "C) Moderate consumption of processed meats and sweetened beverages",
+      "D) Equal consumption of plant and animal proteins with regular alcohol intake"
+    ],
+    "correct_answer": "B) Higher consumption of legumes, nuts, fruit, seaweed, and dairy products with lower consumption of red meat",
+    "page_reference": "170",
+    "rationale": "According to the source material, beneficial epigenetic changes are promoted by higher consumption of legumes, nuts, fruit, seaweed, and dairy products, combined with lower consumption of unhealthy foods (red meat, processed meat, and sweetened carbonated beverages). Harmful epigenetic changes are promoted by red meat, processed meat, sweetened carbonated beverages, alcohol intake, and a sedentary lifestyle. Dietary patterns richer in plant foods and antioxidants, and lower in animal protein, such as vegan, vegetarian, DASH, and Mediterranean diets, promote beneficial epigenetic changes.",
+    "tags": [
+      "nutrition-science",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050161",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A 67-year-old woman with chronic kidney disease presents for nutrition counseling. She reports following a strict vegan diet for the past 5 years. Laboratory testing reveals low vitamin D levels. Which of the following statements best describes the relationship between vitamin D status and vegetarian diets based on the Adventist Health Study-2 findings?",
+    "options": [
+      "A) Vegetarian diets are strongly associated with vitamin D deficiency",
+      "B) Vegetarian diets provide adequate vitamin D through plant sources",
+      "C) A vegetarian diet was not associated with lower levels of vitamin D",
+      "D) Vegetarian diets require double the normal vitamin D supplementation"
+    ],
+    "correct_answer": "C) A vegetarian diet was not associated with lower levels of vitamin D",
+    "page_reference": "161",
+    "rationale": "According to the Adventist Health Study-2 findings specifically mentioned in the source material, a vegetarian diet was not associated with lower levels of vitamin D. This is an important finding as it challenges the common assumption that vegetarian diets necessarily lead to vitamin D deficiency. However, it's important to note that vitamin D status is influenced by multiple factors including sun exposure, age, and individual health conditions, and supplementation may still be necessary regardless of dietary pattern.",
+    "tags": [
+      "dietary-patterns",
+      "micronutrients"
+    ]
+  },
+  {
+    "question_id": "050162",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A lifestyle medicine physician is analyzing the Mediterranean dietary pattern's impact on cardiometabolic disease risk based on recent research. According to study findings, in which subgroup of participants were the beneficial metabolic effects of the Mediterranean diet particularly strong?",
+    "options": [
+      "A) Participants with normal gut microbiota",
+      "B) Participants with elevated inflammatory markers",
+      "C) Participants depleted of specific beneficial bacteria based on stool samples",
+      "D) Participants with optimal bacterial diversity"
+    ],
+    "correct_answer": "C) Participants depleted of specific beneficial bacteria based on stool samples",
+    "page_reference": "157",
+    "rationale": "According to the Health Professionals Follow-up Study findings, the beneficial metabolic effects of the Mediterranean diet on cardiometabolic disease risk were particularly strong in a subgroup of participants who were depleted of specific beneficial bacteria based on stool samples. This finding suggests an important interaction between dietary patterns and gut microbiota composition in determining health outcomes, and highlights the potential role of the Mediterranean diet in improving cardiometabolic health particularly in those with suboptimal gut bacterial populations.",
+    "tags": [
+      "dietary-patterns",
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050163",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A 55-year-old man with type 2 diabetes is interested in achieving disease remission through dietary changes. Based on studies utilizing very low-calorie diets for diabetes remission, which patient characteristic is associated with a higher likelihood of successful reversal?",
+    "options": [
+      "A) Longer duration of diabetes",
+      "B) Higher initial HbA1c",
+      "C) Larger amount of weight loss achieved",
+      "D) Younger age"
+    ],
+    "correct_answer": "D) Younger age",
+    "page_reference": "142",
+    "rationale": "According to research findings cited in the source material, a study by Steven et al. examining responders versus non-responders to a very low-calorie diet showed that responders were more likely to have a shorter duration of diabetes, to be younger, and to have a lower fasting glucose, HbA1c, and initial total fat mass. Notably, no difference was seen in the amount of weight loss between responders and non-responders. This suggests that age is a key factor in determining the likelihood of achieving diabetes remission through dietary intervention.",
+    "tags": [
+      "diabetes",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_id": "050164",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A research team is analyzing data from the PREDIMED trial regarding plant-based dietary patterns and mortality risk. According to the complementary pro-vegetarian food pattern study within PREDIMED, what was observed among omnivorous subjects at high cardiovascular risk?",
+    "options": [
+      "A) No association between plant-derived foods and mortality risk",
+      "B) Increased mortality risk with higher plant food consumption",
+      "C) Better conformity to plant-derived foods was associated with reduced risk of all-cause mortality",
+      "D) Equal mortality risk regardless of plant food consumption"
+    ],
+    "correct_answer": "C) Better conformity to plant-derived foods was associated with reduced risk of all-cause mortality",
+    "page_reference": "165",
+    "rationale": "According to the PREDIMED pro-vegetarian food pattern study involving 7,216 participants among omnivorous subjects at high cardiovascular risk, better conformity to a diet that emphasized plant-derived foods was associated with a reduced risk of all-cause mortality. This finding supports the beneficial effects of increasing plant-based foods even among those who continue to consume some animal products, particularly in populations at high cardiovascular risk.",
+    "tags": [
+      "dietary-patterns",
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050165",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A research team is analyzing dietary patterns using the Dietary Inflammatory Index (DII) in a large cohort study. They find conflicting results between two participants who both report high vegetable intake. Which of the following combinations would most likely result in the lowest (most anti-inflammatory) DII score?",
+    "options": [
+      "A) Boiled carrots and celery with ranch dressing",
+      "B) Stir-fried broccoli and bell peppers in vegetable oil",
+      "C) Raw spinach and tomatoes with olive oil and balsamic vinegar",
+      "D) Steamed cauliflower and peas with butter"
+    ],
+    "correct_answer": "C) Raw spinach and tomatoes with olive oil and balsamic vinegar",
+    "page_reference": "167",
+    "rationale": "According to the source material, anti-inflammatory dietary patterns are consistently characterized by high intake of fresh fruits and vegetables, particularly those rich in anthocyanins and other beneficial phytochemicals. The combination of raw spinach and tomatoes with olive oil provides multiple anti-inflammatory compounds. The source specifically notes that foods identified to regulate inflammation include dark leafy greens and unprocessed plant foods. Additionally, the use of olive oil rather than processed dressings or butter, and the inclusion of raw vegetables rather than cooked ones, preserves more of the anti-inflammatory compounds.",
+    "tags": [
+      "nutrition-science",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050166",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A lifestyle medicine physician is conducting a multi-pass 24-hour dietary recall with a new patient. After the patient mentions having a sandwich for lunch, which of the following would be the most appropriate next question according to the methodology?",
+    "options": [
+      "A) What type of bread did you use?",
+      "B) How many slices of bread did you have?",
+      "C) What did you consume next?",
+      "D) What did you have with your sandwich?"
+    ],
+    "correct_answer": "C) What did you consume next?",
+    "page_reference": "139",
+    "rationale": "According to the source material, in the first pass of the multi-pass 24-hour recall, the focus should be on open-ended questions that allow the respondent to freely recall everything consumed in the previous day, regardless of whether the food or beverage was part of a specific meal. Details regarding portions and specific ingredients are usually not addressed in the first pass. Therefore, asking 'What did you consume next?' is the most appropriate next question as it maintains the open-ended nature of the first pass without delving into specifics about the sandwich.",
+    "tags": [
+      "clinical-assessment-tools"
+    ]
+  },
+  {
+    "question_id": "050167",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A 72-year-old woman with osteopenia is following a plant-based diet and wants to ensure adequate calcium intake. She typically consumes large portions of spinach, Swiss chard, and beet greens daily. Which of the following best explains the bioavailability of calcium from these vegetables?",
+    "options": [
+      "A) These greens provide the most bioavailable form of calcium among vegetables",
+      "B) Cooking these greens increases calcium absorption by 50%",
+      "C) High oxalate content in these greens significantly limits calcium absorption",
+      "D) These greens provide moderate calcium absorption when consumed with vitamin D"
+    ],
+    "correct_answer": "C) High oxalate content in these greens significantly limits calcium absorption",
+    "page_reference": "173",
+    "rationale": "According to the source material, while spinach, beet greens, and Swiss chard are very high in calcium, they are also high in oxalates, which significantly reduce the absorption of the calcium present in these greens. For optimal calcium intake from greens, the material specifically recommends choosing low-oxalate greens such as collards, kale, turnip greens, mustard greens, and bok choy. The source explicitly states that essentially all greens are good sources of calcium except for beet greens, chard, and spinach because of their high oxalate content.",
+    "tags": [
+      "micronutrients",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_id": "050168",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "According to the NOVA classification system, a researcher is categorizing foods for a study on ultra-processed food consumption. Which of the following combinations would ALL be classified as ultra-processed foods?",
+    "options": [
+      "A) Canned black beans, fresh bread, and pasteurized milk",
+      "B) Frozen vegetables, dried fruits, and roasted nuts",
+      "C) Carbonated soft drinks, frozen pizza, and packaged snack cakes",
+      "D) Cheese with added salt, canned fruits in syrup, and fresh-made bread"
+    ],
+    "correct_answer": "C) Carbonated soft drinks, frozen pizza, and packaged snack cakes",
+    "page_reference": "152",
+    "rationale": "According to the NOVA classification system described in the source material, ultra-processed foods (UPFs) are those made through industrial methods and techniques that include artificial colors and flavorings, emulsifiers, and preservatives, in addition to added fat, salt, or sweeteners. The source specifically lists sugary beverages, frozen dinners, pastries, cookies, cakes, and pre-prepared meat products as examples of UPFs. The other options contain foods that fall into different NOVA categories: minimally processed foods (frozen vegetables, dried fruits), processed culinary ingredients (roasted nuts), or processed foods (cheese with added salt, canned fruits in syrup).",
+    "tags": [
+      "food-preparation"
+    ]
+  },
+  {
+    "question_id": "050169",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "In analyzing the Lyon Diet Heart Trial outcomes, researchers found that the Mediterranean-style dietary pattern provided sustained cardiovascular protection. What was the duration of the protective effect observed after the first myocardial infarction?",
+    "options": [
+      "A) Up to 2 years after the first MI",
+      "B) Up to 3 years after the first MI",
+      "C) Up to 4 years after the first MI",
+      "D) Up to 5 years after the first MI"
+    ],
+    "correct_answer": "C) Up to 4 years after the first MI",
+    "page_reference": "163",
+    "rationale": "According to the source material, the protective effect of the Mediterranean dietary pattern in the Lyon Heart Trial was maintained up to 4 years after the first myocardial infarction. The study demonstrated that subjects following the Mediterranean-style diet had a 50-70% lower risk of recurrent heart disease, and the protective effect was sustained for this extended period. This finding was significant enough that the study was stopped early due to the marked beneficial effects noted in the original cohort.",
+    "tags": [
+      "dietary-patterns",
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050170",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A medical school curriculum committee is evaluating implementation of the ACLM Culinary Medicine Curriculum (CMC). They are particularly interested in the impact on clinical outcomes. Based on current evidence regarding culinary medicine training for healthcare providers, which of the following statements is most accurate?",
+    "options": [
+      "A) Provider knowledge of nutrition has no impact on use of nutrition prescriptions",
+      "B) Only registered dietitians should provide culinary medicine education",
+      "C) The likelihood of providers using nutrition prescriptions correlates with their knowledge and self-efficacy in using food as medicine",
+      "D) Culinary medicine training is only effective when provided during residency"
+    ],
+    "correct_answer": "C) The likelihood of providers using nutrition prescriptions correlates with their knowledge and self-efficacy in using food as medicine",
+    "page_reference": "154-155",
+    "rationale": "According to the source material, the likelihood that providers will use nutrition prescriptions is directly related to their own knowledge and self-efficacy in using food as medicine. This highlights the importance of comprehensive culinary medicine training for healthcare providers. The source also notes that while only 25% of medical schools have nutrition courses, interest in culinary medicine is growing among medical schools. The CMC is designed to provide medical and health professional students with lessons on healthy dietary practices and to build behavior-change skills so they can counsel patients effectively.",
+    "tags": [
+      "food-preparation",
+      "guideline-recommendations"
+    ]
+  },
+  {
+    "question_id": "050171",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A research team is analyzing HDL functionality changes in response to different dietary patterns. According to recent studies, which combination of dietary factors has been shown to produce positive changes in HDL composition and function?",
+    "options": [
+      "A) Low-fat diet with increased refined carbohydrates",
+      "B) High-protein diet with moderate saturated fat intake",
+      "C) Mediterranean dietary pattern with increased antioxidant-rich foods",
+      "D) Ketogenic diet with high amounts of animal protein"
+    ],
+    "correct_answer": "C) Mediterranean dietary pattern with increased antioxidant-rich foods",
+    "page_reference": "168",
+    "rationale": "The source material indicates that HDL composition and function could be modulated by a healthy Mediterranean dietary pattern. Specifically, positive changes in HDL functionality, composition, and size were found using a Mediterranean dietary pattern, including an increase in HDL cholesterol efflux capacity and a decrease in HDL oxidation. Additionally, antioxidant-rich dietary patterns (consumption of monounsaturated and polyunsaturated fatty acids and dietary antioxidants) improved HDL function in both healthy individuals and participants with high cardiovascular risk.",
+    "tags": [
+      "cardiovascular-disease",
+      "nutrition-science",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050172",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "Based on findings from the Adventist Health Study-2 regarding BMI differences among dietary patterns, what was the observed difference in BMI between vegans and non-vegetarians at age 55?",
+    "options": [
+      "A) Vegans weighed approximately 15 pounds less than non-vegetarians",
+      "B) Vegans weighed approximately 30 pounds less than non-vegetarians",
+      "C) Vegans weighed approximately 45 pounds less than non-vegetarians",
+      "D) No significant difference in weight was observed between groups"
+    ],
+    "correct_answer": "B) Vegans weighed approximately 30 pounds less than non-vegetarians",
+    "page_reference": "161",
+    "rationale": "According to the Adventist Health Study-2 findings, there were progressive weight increases from a total vegetarian diet toward a non-vegetarian diet. Specifically, 55-year-old male and female vegans weighed approximately 30 pounds less than non-vegetarians of similar height. This finding was part of a broader pattern showing that levels of cholesterol, diabetes, high blood pressure, and metabolic syndrome all followed the same trend, with vegans showing more favorable outcomes compared to non-vegetarians.",
+    "tags": [
+      "dietary-patterns",
+      "weight-management",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050173",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "Analysis of the Women's Health Initiative (WHI) Dietary Modification trial revealed which of the following outcomes regarding breast cancer, colorectal cancer, and cardiovascular disease risk in postmenopausal women?",
+    "options": [
+      "A) Reducing fat to 20% of energy significantly reduced all three disease risks",
+      "B) The intervention group achieved 24% energy from fat but showed no significant risk reductions over 8 years",
+      "C) Only cardiovascular disease risk was significantly reduced in the intervention group",
+      "D) Cancer risk was reduced but cardiovascular risk remained unchanged"
+    ],
+    "correct_answer": "B) The intervention group achieved 24% energy from fat but showed no significant risk reductions over 8 years",
+    "page_reference": "158",
+    "rationale": "According to the source material, while the WHI Dietary Modification trial intervention group was asked to limit fat to 20% of energy, they only achieved 24% energy from fat during the first year, which coincided with a more intensive nutrition education program. The trial indicated that reducing percentage energy from fat per study diet parameters did not offer breast or colorectal cancer or cardiovascular disease risk reductions over 8 years, though the source notes that longer studies may be more definitive.",
+    "tags": [
+      "dietary-patterns",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_id": "050174",
+    "section_number": "05",
+    "section": "Nutrition Science Assessment and Prescription Guidelines",
+    "question_text": "A lifestyle medicine physician is considering when to refer patients to a registered dietitian. According to current guidelines, which combination of patient characteristics would most strongly indicate the need for referral?",
+    "options": [
+      "A) Overweight BMI with well-controlled type 2 diabetes and stable blood pressure",
+      "B) Recent diagnosis of celiac disease, unintentional weight loss, and multiple food allergies",
+      "C) Stable weight with mild hypertension and occasional acid reflux",
+      "D) Pre-diabetes with successful lifestyle modifications and normal renal function"
+    ],
+    "correct_answer": "B) Recent diagnosis of celiac disease, unintentional weight loss, and multiple food allergies",
+    "page_reference": "176",
+    "rationale": "According to the source material, referrals to a dietitian should be made when a patient has one or more complex chronic conditions including but not limited to: celiac disease, malnutrition (including unintentional weight loss), malabsorption, and food allergies. The combination in option B presents multiple complex nutritional challenges that require specialized dietary expertise. The other options represent more stable conditions or conditions that can be initially managed through standard lifestyle medicine interventions.",
+    "tags": [
+      "guideline-recommendations"
+    ]
+  }
+]

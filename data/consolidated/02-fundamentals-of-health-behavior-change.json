@@ -1,0 +1,1169 @@
+[
+  {
+    "question_text": "Which of the following best describes the Health Belief Model's approach to understanding health behaviour?",
+    "options": [
+      "A) It focuses on the stages of change an individual goes through",
+      "B) It emphasizes the role of social learning in behaviour change",
+      "C) It proposes that personal beliefs or perceptions mostly influence health behaviour",
+      "D) It highlights the importance of self-efficacy in behaviour change"
+    ],
+    "correct_answer": "C) It proposes that personal beliefs or perceptions mostly influence health behaviour",
+    "page_reference": "Page 28",
+    "rationale": "C is correct: The Health Belief Model, developed in the 1950s, proposes that personal beliefs and perceptions — including perceived susceptibility, severity, benefits, barriers, cues to action, and self-efficacy — are the primary drivers of whether a person adopts a health behaviour. A is incorrect: Focusing on stages of change describes the Transtheoretical Model (TTM), not the Health Belief Model; the HBM is not stage-based. B is incorrect: The role of social learning is central to Social Cognitive Theory (Bandura), not the Health Belief Model, which focuses on individual belief structures rather than observational learning. D is incorrect: While self-efficacy is one of the six HBM constructs, it is not the defining feature that distinguishes the model; the model's unique emphasis is on the totality of personal beliefs and perceptions shaping health decisions.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020001",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models"
+    ]
+  },
+  {
+    "question_text": "According to the Transtheoretical Model (TTM), how long must a person maintain a new health behaviour before entering the Maintenance stage?",
+    "options": [
+      "A) 1 month",
+      "B) 3 months",
+      "C) 6 months",
+      "D) 12 months"
+    ],
+    "correct_answer": "C) 6 months",
+    "page_reference": "Page 30",
+    "rationale": "C is correct: In the Transtheoretical Model, the Maintenance stage begins after a person has sustained a behaviour change for at least 6 months without relapse, at which point the risk of returning to the old behaviour has substantially decreased. A is incorrect: 1 month of sustained behaviour corresponds to the Action stage, not Maintenance; Action is defined as actively making changes but for less than 6 months. B is incorrect: 3 months falls within the Action stage; the TTM specifically requires 6 months of continuous behaviour change before the Maintenance stage is reached. D is incorrect: 12 months is beyond the minimum threshold for Maintenance; while some frameworks extend Maintenance indefinitely, the TTM defines entry into the Maintenance stage at 6 months, not 12.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020002",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT one of the four core skills of Motivational Interviewing (MI)?",
+    "options": [
+      "A) Open-ended questions",
+      "B) Affirmations",
+      "C) Reflections",
+      "D) Prescriptions"
+    ],
+    "correct_answer": "D) Prescriptions",
+    "page_reference": "Page 38",
+    "rationale": "D is correct: The four core MI skills are captured by the OARS acronym — Open-ended questions, Affirmations, Reflections, and Summaries. Prescriptions are not part of MI; prescribing specific treatments is characteristic of the expert/directive approach that MI deliberately avoids in favour of collaborative, patient-led change. A is incorrect: Open-ended questions are the 'O' in OARS and are a foundational MI skill used to elicit the patient's perspectives and evoke change talk. B is incorrect: Affirmations are the 'A' in OARS; they reinforce a patient's strengths, efforts, and values to build their confidence and motivation for change. C is incorrect: Reflections are the 'R' in OARS; they are a core MI skill used to help patients create connections, tap into emotions, and develop awareness of what they have expressed.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020003",
+    "section_number": "02",
+    "tags": [
+      "motivational-interviewing"
+    ]
+  },
+  {
+    "question_text": "Which of the following is a key principle of Social Cognitive Theory?",
+    "options": [
+      "A) Stages of change",
+      "B) Reciprocal determinism",
+      "C) Health belief model",
+      "D) Decisional balance"
+    ],
+    "correct_answer": "B) Reciprocal determinism",
+    "page_reference": "Page 29",
+    "rationale": "B is correct: Reciprocal determinism is the defining principle of Bandura's Social Cognitive Theory, stating that the person (personal factors), the behaviour, and the environment all mutually and dynamically influence each other — none is the sole determinant of behaviour. A is incorrect: Stages of change is the central organising concept of the Transtheoretical Model (Prochaska and DiClemente), not Social Cognitive Theory. C is incorrect: The Health Belief Model is a separate theoretical framework focused on individual beliefs about health threats and benefits; it is not a principle of Social Cognitive Theory. D is incorrect: Decisional balance — weighing the pros and cons of change — is a construct used in the Transtheoretical Model and motivational interviewing, not a defining principle of Social Cognitive Theory.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020004",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models",
+      "self-efficacy"
+    ]
+  },
+  {
+    "question_text": "In the context of Cognitive Behavioural Therapy (CBT), what is the ABCDE method used for?",
+    "options": [
+      "A) Assessing readiness to change",
+      "B) Developing action plans",
+      "C) Identifying and reframing nonproductive thinking",
+      "D) Measuring self-efficacy"
+    ],
+    "correct_answer": "C) Identifying and reframing nonproductive thinking",
+    "page_reference": "Page 41",
+    "rationale": "C is correct: The ABCDE method, developed by Albert Ellis as part of Rational Emotive Behaviour Therapy and applied in CBT, is specifically designed to help patients identify and challenge nonproductive thinking — A (Activating event), B (Beliefs), C (Consequences), D (Dispute), E (Effect) — ultimately replacing distorted thoughts with more balanced perspectives. A is incorrect: Assessing readiness to change is the purpose of tools such as readiness rulers or stage-of-change assessments from the TTM; the ABCDE method is a cognitive restructuring technique, not a readiness assessment tool. B is incorrect: Developing action plans is the purpose of goal-setting frameworks such as SMART goals or action planning tools; ABCDE is specifically a cognitive restructuring method. D is incorrect: Measuring self-efficacy uses tools such as confidence scales or self-efficacy questionnaires; the ABCDE method addresses cognitive distortions in thinking, not the measurement of confidence.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020005",
+    "section_number": "02",
+    "tags": [
+      "cognitive-behavioral-therapy"
+    ]
+  },
+  {
+    "question_text": "Which of the following best describes the concept of self-efficacy in the context of health behaviour change?",
+    "options": [
+      "A) The ability to set realistic goals",
+      "B) The confidence in one's ability to perform a behaviour successfully",
+      "C) The willingness to change a behaviour",
+      "D) The knowledge of health risks associated with a behaviour"
+    ],
+    "correct_answer": "B) The confidence in one's ability to perform a behaviour successfully",
+    "page_reference": "Page 29",
+    "rationale": "B is correct: Self-efficacy, as defined by Bandura, is the level of confidence an individual has in their ability to successfully perform a specific behaviour; it is influenced by behavioural capability, mastery experiences, vicarious learning, verbal persuasion, and physiological states. A is incorrect: The ability to set realistic goals is goal-setting skill, which is related to but distinct from self-efficacy; self-efficacy refers specifically to confidence in performance ability, not the skill of goal construction. C is incorrect: Willingness to change relates to motivation and ambivalence — the domain of motivational interviewing and TTM — rather than the specific confidence construct of self-efficacy. D is incorrect: Knowledge of health risks is a cognitive construct relevant to the Health Belief Model (perceived susceptibility and severity); it describes awareness, not the performance-confidence component that defines self-efficacy.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020006",
+    "section_number": "02",
+    "tags": [
+      "self-efficacy"
+    ]
+  },
+  {
+    "question_text": "What is the primary focus of positive psychology in relation to health behaviour change?",
+    "options": [
+      "A) Analysing past failures to avoid future mistakes",
+      "B) Identifying and treating psychological disorders",
+      "C) Emphasizing positive emotions, engagement, relationships, meaning, and accomplishment",
+      "D) Encouraging patients to ignore negative emotions"
+    ],
+    "correct_answer": "C) Emphasizing positive emotions, engagement, relationships, meaning, and accomplishment",
+    "page_reference": "Page 41",
+    "rationale": "C is correct: Positive psychology, as articulated through Seligman's PERMA model, focuses on building well-being by cultivating Positive emotions, Engagement, Relationships, Meaning, and Accomplishment — fostering flourishing rather than merely treating pathology. A is incorrect: Analysing past failures is a more pathology-focused approach characteristic of traditional problem-focused therapy; positive psychology shifts attention toward strengths, growth, and what is working rather than dwelling on past failures. B is incorrect: Identifying and treating psychological disorders is the domain of clinical psychology and psychiatry; positive psychology deliberately focuses on building optimal functioning in individuals across the spectrum of mental health, not just those with diagnosable conditions. D is incorrect: Positive psychology does not advocate ignoring negative emotions; it involves cultivating positive states alongside acknowledging difficulties, not suppressing or dismissing negative emotional experiences.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020007",
+    "section_number": "02",
+    "tags": [
+      "positive-psychology"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT a characteristic of a SMART goal?",
+    "options": [
+      "A) Specific",
+      "B) Measurable",
+      "C) Achievable",
+      "D) Rapid"
+    ],
+    "correct_answer": "D) Rapid",
+    "page_reference": "Page 36",
+    "rationale": "D is correct: SMART stands for Specific, Measurable, Achievable, Relevant, and Time-bound; 'Rapid' is not part of this framework and does not appear in any version of the SMART acronym used in lifestyle medicine or behaviour change. A is incorrect: Specific is the 'S' in SMART and is a defining criterion of well-formed goals; a specific goal clearly describes what will be done, by whom, where, and how. B is incorrect: Measurable is the 'M' in SMART; measurability allows the patient to track progress and know when the goal has been achieved. C is incorrect: Achievable (also stated as Attainable) is the 'A' in SMART and ensures the goal is realistic and within the patient's current capacity, balancing ambition with feasibility.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020008",
+    "section_number": "02",
+    "tags": [
+      "smart-goals"
+    ]
+  },
+  {
+    "question_text": "What is the primary purpose of using reflections in motivational interviewing?",
+    "options": [
+      "A) To provide expert advice to the patient",
+      "B) To help the patient create connections and bring awareness to what has been vocalized",
+      "C) To challenge the patient's beliefs about their behaviour",
+      "D) To diagnose underlying psychological issues"
+    ],
+    "correct_answer": "B) To help the patient create connections and bring awareness to what has been vocalized",
+    "page_reference": "Page 44",
+    "rationale": "B is correct: Reflections are used in MI to mirror back to the patient what they have said — creating connections between thoughts, tapping into emotions, and bringing awareness to expressed ambivalence or change talk without the practitioner offering direction or judgment. A is incorrect: Providing expert advice is the opposite of the MI spirit; MI deliberately avoids the 'righting reflex' (the impulse to correct and advise), instead using reflections to help patients explore their own thinking. C is incorrect: Challenging the patient's beliefs is characteristic of confrontational or didactic approaches; MI reflections are non-confrontational and designed to affirm and amplify what the patient has already said, not to dispute it. D is incorrect: Diagnosing psychological issues is the role of clinical assessment, not MI reflections; reflections are a communication tool that deepens understanding and facilitates self-exploration, not a diagnostic instrument.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020009",
+    "section_number": "02",
+    "tags": [
+      "motivational-interviewing"
+    ]
+  },
+  {
+    "question_text": "According to the Transtheoretical Model, in which stage of change is a person when they are considering making a change within the next 6 months?",
+    "options": [
+      "A) Precontemplation",
+      "B) Contemplation",
+      "C) Preparation",
+      "D) Action"
+    ],
+    "correct_answer": "B) Contemplation",
+    "page_reference": "Page 31",
+    "rationale": "B is correct: In the Contemplation stage, the individual is aware of the need to change and is considering making a change within the next 6 months, but has not yet committed to taking action — often characterised by ambivalence about the pros and cons of changing. A is incorrect: In Precontemplation, the person is not even considering change; they may be unaware of the problem or resistant to acknowledging it, and are not thinking about change within the next 6 months. C is incorrect: In the Preparation stage, the person intends to take action within the next 30 days and may be taking small preliminary steps; this is more advanced than Contemplation where planning has not yet begun. D is incorrect: The Action stage means the person has already made observable lifestyle changes and has been doing so for less than 6 months; Contemplation precedes any actual behavioural change.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020010",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT one of the six key constructs of the Health Belief Model?",
+    "options": [
+      "A) Perceived susceptibility",
+      "B) Perceived severity",
+      "C) Perceived benefits",
+      "D) Perceived control"
+    ],
+    "correct_answer": "D) Perceived control",
+    "page_reference": "Page 28",
+    "rationale": "D is correct: The six constructs of the Health Belief Model are perceived susceptibility, perceived severity, perceived benefits, perceived barriers, cues to action, and self-efficacy; 'perceived control' is not one of the six — this term is associated with Locus of Control theory and the Theory of Planned Behaviour, not the HBM. A is incorrect: Perceived susceptibility is the first and foundational HBM construct, representing a person's belief about their personal risk of developing a condition — it is definitively part of the model. B is incorrect: Perceived severity is the second HBM construct, addressing the person's belief about the seriousness of a condition or its consequences — it is a core element of the model. C is incorrect: Perceived benefits is the third HBM construct, reflecting the person's belief in the effectiveness of an action to reduce their risk or severity — it is a genuine component of the model.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020011",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models"
+    ]
+  },
+  {
+    "question_text": "What is the primary goal of using the \"coach approach\" in lifestyle medicine?",
+    "options": [
+      "A) To provide expert medical advice",
+      "B) To prescribe specific treatments",
+      "C) To empower patients and foster collaborative relationships",
+      "D) To diagnose underlying health conditions"
+    ],
+    "correct_answer": "C) To empower patients and foster collaborative relationships",
+    "page_reference": "Page 33",
+    "rationale": "C is correct: The coach approach in lifestyle medicine uses a collaborative communication style that positions patients as the leaders in their own care; the practitioner acts as a facilitator rather than an authority, empowering patients to identify their own goals, strengths, and solutions. A is incorrect: Providing expert medical advice is the hallmark of the traditional 'expert approach', which the coach approach explicitly moves away from; the coach approach prioritises the patient's agenda over the clinician's expert directives. B is incorrect: Prescribing specific treatments reflects the directive, clinician-centred model; the coach approach fosters patient autonomy in choosing and committing to their own behaviour change strategies. D is incorrect: Diagnosing health conditions is a clinical assessment function, not the purpose of the coaching relationship; the coach approach is a communication style applied after diagnosis to support behaviour change, not a diagnostic process.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020012",
+    "section_number": "02",
+    "tags": [
+      "health-coaching"
+    ]
+  },
+  {
+    "question_text": "Which of the following is an example of a \"mastery experience\" that can increase self-efficacy?",
+    "options": [
+      "A) Watching a video of someone successfully completing a task",
+      "B) Receiving verbal encouragement from a healthcare provider",
+      "C) Successfully completing a challenging task related to the health behaviour",
+      "D) Learning about the health benefits of a behaviour"
+    ],
+    "correct_answer": "C) Successfully completing a challenging task related to the health behaviour",
+    "page_reference": "Page 35",
+    "rationale": "C is correct: Mastery experiences are the most powerful source of self-efficacy according to Bandura; when a person successfully performs a challenging behaviour themselves, it provides direct evidence of their capability, creating a strong and durable increase in confidence. A is incorrect: Watching a video of someone successfully completing a task is a vicarious experience (observational learning), the second most powerful source of self-efficacy — but distinctly different from and less potent than a mastery experience which involves direct personal performance. B is incorrect: Receiving verbal encouragement is verbal persuasion, the third source of self-efficacy; it can temporarily boost confidence but is less powerful than actual performance success because it does not provide the person's own direct evidence of capability. D is incorrect: Learning about health benefits increases knowledge and may affect attitudes, but is a cognitive informational input rather than a performance-based experience; it does not directly build self-efficacy in the way that successful personal action does.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020013",
+    "section_number": "02",
+    "tags": [
+      "self-efficacy"
+    ]
+  },
+  {
+    "question_text": "What is the primary purpose of a relapse prevention plan?",
+    "options": [
+      "A) To prevent any lapses in behaviour change",
+      "B) To identify potential triggers and develop strategies to manage them",
+      "C) To punish individuals who relapse",
+      "D) To discourage individuals from attempting behaviour change"
+    ],
+    "correct_answer": "B) To identify potential triggers and develop strategies to manage them",
+    "page_reference": "Page 48",
+    "rationale": "B is correct: A relapse prevention plan aims to proactively identify high-risk situations and triggers for lapses, and to develop specific coping strategies and plans to manage these situations — thereby preventing a short-term lapse from becoming a full relapse. A is incorrect: Preventing all lapses is unrealistic; relapse prevention planning acknowledges that lapses will likely occur and focuses on managing their impact and duration, not on preventing them entirely. C is incorrect: Punishing relapse is contrary to therapeutic principles; effective relapse prevention frames lapses as expected learning opportunities and data points, not as failures warranting punishment. D is incorrect: Discouraging behaviour change is the opposite of the purpose; relapse prevention planning is specifically designed to support sustained behaviour change by helping patients prepare for challenges in advance.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020014",
+    "section_number": "02",
+    "tags": [
+      "relapse-prevention"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT a component of the PERMA model in positive psychology?",
+    "options": [
+      "A) Positive emotions",
+      "B) Engagement",
+      "C) Relationships",
+      "D) Ambition"
+    ],
+    "correct_answer": "D) Ambition",
+    "page_reference": "Page 41-42",
+    "rationale": "D is correct: The PERMA model consists of Positive emotions, Engagement, Relationships, Meaning, and Accomplishment; 'Ambition' is not one of the five elements — it conflates achievement orientation with the 'Accomplishment' element but is not the term used and does not capture the broader meaning of that component. A is incorrect: Positive emotions is the 'P' in PERMA, representing the cultivation of pleasant feelings and emotional experiences that contribute to wellbeing and flourishing. B is incorrect: Engagement is the 'E' in PERMA, referring to the experience of 'flow' — deep absorption and involvement in activities that utilise one's strengths. C is incorrect: Relationships is the 'R' in PERMA, acknowledging the importance of positive social connections and belonging as a fundamental pillar of human wellbeing.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020015",
+    "section_number": "02",
+    "tags": [
+      "positive-psychology"
+    ]
+  },
+  {
+    "question_text": "What is the primary difference between a \"lapse\" and a \"relapse\" in behaviour change?",
+    "options": [
+      "A) A lapse is intentional while a relapse is unintentional",
+      "B) A lapse is a short-term deviation while a relapse is a sustained return to previous behaviour",
+      "C) A lapse occurs in the action stage while a relapse occurs in the maintenance stage",
+      "D) A lapse is less serious than a relapse"
+    ],
+    "correct_answer": "B) A lapse is a short-term deviation while a relapse is a sustained return to previous behaviour",
+    "page_reference": "Page 48",
+    "rationale": "B is correct: A lapse is defined as a short-term period when the action plan is not followed (e.g., missing a few days of exercise), while a relapse is a sustained period of returning to the previous behaviour pattern — the key distinguishing feature is duration and extent of return to old behaviours. A is incorrect: Neither lapses nor relapses are necessarily intentional; both typically occur in response to triggers, stress, or high-risk situations — the distinction is temporal duration, not intent. C is incorrect: Lapses and relapses can occur in either the Action or Maintenance stage; the defining difference between them is how long the deviation lasts, not which TTM stage the person is in when it occurs. D is incorrect: While a lapse is shorter in duration than a relapse, classifying one as simply 'less serious' is clinically misleading; an unmanaged lapse can progress to relapse, making early intervention during a lapse critically important.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020016",
+    "section_number": "02",
+    "tags": [
+      "relapse-prevention"
+    ]
+  },
+  {
+    "question_text": "Which of the following is an example of a double-sided reflection in motivational interviewing?",
+    "options": [
+      "A) \"You want to exercise more, but you're worried about finding the time.\"",
+      "B) \"It sounds like you're feeling frustrated with your progress.\"",
+      "C) \"Can you tell me more about why exercise is important to you?\"",
+      "D) \"I understand that exercise can be challenging to fit into a busy schedule.\""
+    ],
+    "correct_answer": "A) \"You want to exercise more, but you're worried about finding the time.\"",
+    "page_reference": "Page 44",
+    "rationale": "A is correct: A double-sided reflection captures and reflects both sides of the patient's ambivalence simultaneously — in this case, the desire to exercise (change talk) alongside the barrier of time constraints (sustain talk) — helping the patient hear their own conflicting motivations without the practitioner taking sides. B is incorrect: 'It sounds like you're feeling frustrated with your progress' is a simple emotional reflection that mirrors one feeling back to the patient; it does not present two contrasting perspectives and is therefore not a double-sided reflection. C is incorrect: 'Can you tell me more about why exercise is important to you?' is an open-ended question (the 'O' in OARS), not a reflection of any kind; it invites elaboration rather than mirroring expressed content. D is incorrect: 'I understand that exercise can be challenging to fit into a busy schedule' is an empathic acknowledgement or simple reflection of one barrier; it does not capture the dual-sided nature of ambivalence that characterises a double-sided reflection.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020017",
+    "section_number": "02",
+    "tags": [
+      "motivational-interviewing"
+    ]
+  },
+  {
+    "question_text": "According to the Transtheoretical Model, what is the primary focus of interventions in the Precontemplation stage?",
+    "options": [
+      "A) Developing specific action plans",
+      "B) Building self-efficacy for change",
+      "C) Raising awareness of the need for change",
+      "D) Preventing relapse"
+    ],
+    "correct_answer": "C) Raising awareness of the need for change",
+    "page_reference": "Page 31",
+    "rationale": "C is correct: In Precontemplation, individuals are not yet thinking about change; the appropriate intervention is consciousness-raising — providing information, personalising risk, and gently increasing awareness that a problem exists and that change might be beneficial, without pushing for immediate action. A is incorrect: Developing specific action plans is appropriate for the Preparation stage, when the person is ready to take concrete steps; pushing action plans on someone in Precontemplation is ineffective and may increase resistance. B is incorrect: Building self-efficacy for change is most relevant in the Contemplation and Preparation stages, when the person is already considering change; self-efficacy work before the person sees the need to change is premature. D is incorrect: Preventing relapse is the focus of the Maintenance stage, when behaviour change has already been sustained for over 6 months; relapse prevention is not relevant for someone who has not yet considered changing.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020018",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models"
+    ]
+  },
+  {
+    "question_text": "Which of the following is an example of a social determinant of health?",
+    "options": [
+      "A) Genetic predisposition to heart disease",
+      "B) Personal choice to smoke cigarettes",
+      "C) Access to affordable, nutritious food",
+      "D) Individual exercise habits"
+    ],
+    "correct_answer": "C) Access to affordable, nutritious food",
+    "page_reference": "Page 31",
+    "rationale": "C is correct: Social determinants of health are the conditions in which people are born, grow, live, work, and age; access to affordable, nutritious food (food security) is a classic social determinant because it is shaped by income, geography, and systemic factors rather than individual choice. A is incorrect: Genetic predisposition to heart disease is a biological determinant of health — determined by DNA rather than social, economic, or environmental conditions; social determinants refer to upstream structural factors, not inherited biological traits. B is incorrect: Personal choice to smoke is an individual behaviour, though it is itself influenced by social determinants (e.g., stress, socioeconomic status, social norms); the choice itself is not a social determinant — the conditions that shape that choice are. D is incorrect: Individual exercise habits are a behavioural factor, not a social determinant per se; however, access to safe spaces for exercise, time availability, and neighbourhood design are social determinants that influence exercise behaviour.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020019",
+    "section_number": "02",
+    "tags": [
+      "social-determinants"
+    ]
+  },
+  {
+    "question_text": "What is the primary purpose of using people-first language in healthcare?",
+    "options": [
+      "A) To simplify medical terminology",
+      "B) To respect and honour patients instead of defining them by a disease or condition",
+      "C) To improve medical documentation",
+      "D) To comply with legal requirements"
+    ],
+    "correct_answer": "B) To respect and honour patients instead of defining them by a disease or condition",
+    "page_reference": "Page 34",
+    "rationale": "B is correct: People-first language (e.g., 'person with diabetes' rather than 'diabetic') is used to acknowledge the whole person rather than reducing them to their diagnosis — this preserves dignity, reduces stigma, and creates a safer clinical environment in which patients are more willing to engage in honest discussion about health behaviours. A is incorrect: Simplifying medical terminology is the goal of plain language communication; people-first language is specifically about word order and framing to centre personhood, not about reducing jargon or technical complexity. C is incorrect: Improving medical documentation is a health informatics and administrative goal; people-first language is a clinical communication and interpersonal care principle focused on the therapeutic relationship. D is incorrect: While some healthcare settings may have policies about language use, the primary purpose of people-first language is ethical and therapeutic — to reduce stigma and support dignity — not regulatory compliance.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020020",
+    "section_number": "02",
+    "tags": [
+      "therapeutic-alliance"
+    ]
+  },
+  {
+    "question_text": "A 38-year-old man with type 2 diabetes has had unstable and high haemoglobin A1c (HbA1c) over several years. He recently moved to a new city and is seeing a new primary care provider. Over the past 12 weeks, his HbA1c has decreased from 7.9% to 6.7%. Which of the following physician attributes would most likely explain this improvement?",
+    "options": [
+      "A) Insightful reflections of adaptive patient behaviours",
+      "B) Highly developed capacity for empathy",
+      "C) Autonomy-supportive informational approach",
+      "D) Curious open inquiry about the reasons behind fluctuations"
+    ],
+    "correct_answer": "B) Highly developed capacity for empathy",
+    "page_reference": "Page 43",
+    "rationale": "B is correct: Research by Hojat et al. found that providers with high empathy scores from their patients were significantly more likely to achieve good HbA1c control (56% vs 40%); empathy fosters trust, adherence, and open communication — translating into better metabolic outcomes. A is incorrect: Insightful reflections are a valuable MI skill, but the strongest and most directly evidence-supported attribute for improved HbA1c control in the literature cited is physician empathy — not specifically the use of reflections. C is incorrect: An autonomy-supportive informational approach is beneficial and aligned with MI principles, but it is not the attribute most strongly linked in the specific Hojat study to HbA1c improvement in this clinical scenario. D is incorrect: Curious open inquiry supports good clinical assessment, but curiosity about fluctuations alone does not account for the specific evidence-based association between physician empathy scores and glycaemic outcomes documented in the referenced research.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020021",
+    "section_number": "02",
+    "tags": [
+      "diabetes",
+      "behavior-change-models"
+    ]
+  },
+  {
+    "question_text": "Which of the following best describes the concept of \"mastery experiences\" in relation to building self-efficacy for health behaviour change?",
+    "options": [
+      "A) Observing others successfully perform a behaviour",
+      "B) Receiving verbal encouragement from a healthcare provider",
+      "C) Successfully completing a challenging task related to the health behaviour",
+      "D) Learning about the health benefits of a behaviour"
+    ],
+    "correct_answer": "C) Successfully completing a challenging task related to the health behaviour",
+    "page_reference": "Page 35",
+    "rationale": "C is correct: Mastery experiences are the most powerful of Bandura's four sources of self-efficacy; when a person successfully performs the target behaviour themselves — especially when the task is challenging — it provides direct, experiential evidence of their capability, producing the strongest and most lasting boost to self-efficacy. A is incorrect: Observing others successfully perform a behaviour describes vicarious experience (the second source of self-efficacy); it is effective but less powerful than personal performance because it provides indirect rather than direct evidence of one's own capability. B is incorrect: Receiving verbal encouragement from a healthcare provider is verbal persuasion (the third source); it can temporarily enhance confidence but is insufficient on its own because it does not generate the personal performance evidence that mastery experiences provide. D is incorrect: Learning about health benefits is an educational intervention that may affect motivation and knowledge but does not directly build self-efficacy; self-efficacy is about confidence in performing the behaviour, not knowledge of its benefits.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020022",
+    "section_number": "02",
+    "tags": [
+      "self-efficacy"
+    ]
+  },
+  {
+    "question_text": "In the context of motivational interviewing, what is the primary purpose of using double-sided reflections?",
+    "options": [
+      "A) To challenge the patient's beliefs about their behaviour",
+      "B) To provide expert advice to the patient",
+      "C) To acknowledge both the patient's readiness to change and their resistance",
+      "D) To diagnose underlying psychological issues"
+    ],
+    "correct_answer": "C) To acknowledge both the patient's readiness to change and their resistance",
+    "page_reference": "Page 44",
+    "rationale": "C is correct: Double-sided reflections present both sides of a patient's ambivalence simultaneously — reflecting both their change talk (desire, reasons, or commitment to change) and their sustain talk (reasons to stay the same) — helping the patient hold and explore both perspectives without the clinician arguing for either side. A is incorrect: Challenging the patient's beliefs is a confrontational technique inconsistent with the MI spirit; double-sided reflections are non-confrontational and work by amplifying the patient's own expressed ambivalence, not by the clinician challenging their views. B is incorrect: Providing expert advice is the opposite of the MI approach; double-sided reflections are a listener-centred technique that communicates back what the patient has already said, rather than introducing the clinician's own advice or information. D is incorrect: Diagnosing psychological issues requires clinical assessment tools and professional judgement; double-sided reflections are a communication technique for exploring ambivalence within the MI framework, not a diagnostic tool.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020023",
+    "section_number": "02",
+    "tags": [
+      "motivational-interviewing"
+    ]
+  },
+  {
+    "question_text": "When using the ABCDE method of behavioural change, what does the \"D\" stand for?",
+    "options": [
+      "A) Determination",
+      "B) Demonstration",
+      "C) Dispute",
+      "D) Development"
+    ],
+    "correct_answer": "C) Dispute",
+    "page_reference": "Page 41",
+    "rationale": "C is correct: In Ellis's ABCDE method, 'D' stands for Dispute — the step in which the patient learns to actively challenge and dispute the irrational or distorted beliefs identified in step B, questioning their validity and replacing them with more rational and constructive alternatives. A is incorrect: 'Determination' is not a step in the ABCDE framework; while determination is a quality that supports behaviour change, it is not a defined component of the cognitive restructuring method developed by Albert Ellis. B is incorrect: 'Demonstration' is not part of the ABCDE method; demonstration is a teaching technique used elsewhere in health education, but it has no role in the sequence of cognitive restructuring steps: Action, Beliefs, Consequences, Dispute, Effect. D is incorrect: 'Development' is not one of the ABCDE steps; while developing new thinking patterns is the goal of the E (Effect) step, 'Development' itself is not the name of the D component — that is specifically 'Dispute.'",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020024",
+    "section_number": "02",
+    "tags": [
+      "cognitive-behavioral-therapy"
+    ]
+  },
+  {
+    "question_text": "When a patient expresses frustration about not being able to stick to their exercise plan due to a busy work schedule, which of the following responses best demonstrates the use of cognitive behavioural techniques?",
+    "options": [
+      "A) \"You should try to wake up earlier to fit in your exercise.\"",
+      "B) \"How about we explore some ways you might see this situation differently?\"",
+      "C) \"Many people struggle with finding time to exercise. It's normal to feel frustrated.\"",
+      "D) \"Perhaps you should consider changing jobs to one with a more flexible schedule.\""
+    ],
+    "correct_answer": "B) \"How about we explore some ways you might see this situation differently?\"",
+    "page_reference": "Page 40",
+    "rationale": "B is correct: This response invites cognitive reframing — the core CBT technique of examining and restructuring how a situation is perceived — by collaboratively exploring alternative perspectives on the time constraint, without imposing a solution or dismissing the frustration. A is incorrect: 'You should try to wake up earlier' is prescriptive and directive — it offers a specific solution rather than engaging with the patient's thinking pattern; CBT focuses on identifying and modifying the cognitions driving the problem, not simply giving advice. C is incorrect: Normalising the frustration ('many people struggle') is an empathic response that provides validation, but it does not engage with the patient's thought patterns or invite cognitive reframing — it lacks the cognitive restructuring element that defines a CBT response. D is incorrect: Suggesting a job change is an extreme and impractical solution that ignores the psychological dimension of the problem entirely; CBT addresses the patient's thoughts and appraisals about their situation, not external circumstances that are typically outside the therapeutic scope.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020025",
+    "section_number": "02",
+    "tags": [
+      "motivational-interviewing",
+      "physical-activity"
+    ]
+  },
+  {
+    "question_text": "In the context of health behaviour change, what is the primary purpose of using the \"coach approach\" instead of the \"expert approach\"?",
+    "options": [
+      "A) To provide expert medical advice",
+      "B) To prescribe specific treatments",
+      "C) To empower patients and foster collaborative relationships",
+      "D) To diagnose underlying health conditions"
+    ],
+    "correct_answer": "C) To empower patients and foster collaborative relationships",
+    "page_reference": "Page 33",
+    "rationale": "C is correct: The coach approach uses a collaborative communication style that positions the patient as the leader and primary decision-maker in their care; the clinician facilitates the patient's own discovery of goals, strengths, and strategies rather than prescribing what to do — fostering autonomy and sustainable change. A is incorrect: Providing expert medical advice is the defining characteristic of the traditional expert approach that the coach approach moves away from; shifting to the coach approach means sharing less unsolicited advice and more space for patient-generated solutions. B is incorrect: Prescribing specific treatments is again the expert/directive model; the coach approach specifically avoids this by supporting patient agency in choosing their own behaviour change strategies. D is incorrect: Diagnosing health conditions is a clinical responsibility that precedes the coaching relationship; the coach approach is a communication and relational style applied to support behaviour change, not a diagnostic method.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020026",
+    "section_number": "02",
+    "tags": [
+      "health-coaching"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman with type 2 diabetes has been struggling to adhere to her medication regimen and make lifestyle changes. Her physician decides to use motivational interviewing techniques. Which of the following statements best reflects the core principle of motivational interviewing in this scenario?",
+    "options": [
+      "A) \"You need to take your medication regularly to avoid serious complications.\"",
+      "B) \"Let's explore your reasons for wanting to improve your health and what might be holding you back.\"",
+      "C) \"If you don't make these changes, your diabetes will likely worsen.\"",
+      "D) \"I'll create a strict plan for you to follow, which should solve these issues.\""
+    ],
+    "correct_answer": "B",
+    "page_reference": "Pages 38-39",
+    "rationale": "B is correct: This response embodies the core MI principle of collaboration and evoking the patient's own motivation; by exploring the patient's personal reasons for change and barriers, the clinician elicits 'change talk' and supports intrinsic motivation — the foundation of MI. A is incorrect: 'You need to take your medication regularly' is a direct directive that triggers the righting reflex; MI research shows that unsolicited advice and warnings about complications increase patient resistance (sustain talk) rather than motivation. C is incorrect: 'If you don't make these changes, your diabetes will likely worsen' is a fear-based warning that pressures the patient; this confrontational approach is associated with reduced motivation and increased defensiveness in MI-consistent research. D is incorrect: 'I'll create a strict plan for you to follow' is the expert approach — prescriptive and clinician-centred; MI explicitly counters this by ensuring the patient generates their own goals and plans, which are more likely to result in sustained adherence.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020027",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to Bandura's self-efficacy theory, which of the following experiences would most effectively increase a patient's self-efficacy for maintaining a regular exercise routine?",
+    "options": [
+      "A) Watching a video of people successfully exercising",
+      "B) Receiving verbal encouragement from their healthcare provider",
+      "C) Successfully completing a 30-minute walk three times a week for a month",
+      "D) Learning about the health benefits of regular exercise"
+    ],
+    "correct_answer": "C",
+    "page_reference": "Page 34",
+    "rationale": "C is correct: Successfully completing a sustained 30-minute walk three times weekly for a month is a mastery experience — Bandura's most powerful source of self-efficacy — because it provides direct, repeated personal evidence of the patient's capability to perform the behaviour, creating durable confidence. A is incorrect: Watching a video of others exercising is a vicarious experience (the second source of self-efficacy); it can inspire and provide modelling but is substantially less powerful than personal performance because it does not generate the patient's own evidence of capability. B is incorrect: Verbal encouragement from a healthcare provider is verbal persuasion (the third source); it can offer a temporary confidence boost but is the least durable source, and insufficient on its own without being supported by actual performance success. D is incorrect: Learning about health benefits of exercise is educational and may increase motivation or intention, but does not constitute a source of self-efficacy in Bandura's framework; self-efficacy is about confidence in performance ability, not knowledge about outcomes.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020028",
+    "section_number": "02",
+    "tags": [
+      "self-efficacy",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man expresses interest in losing weight but states, \"I've tried dieting before, and it never works. I always gain the weight back.\" Based on the Transtheoretical Model of behaviour change, which stage is this patient most likely in?",
+    "options": [
+      "A) Precontemplation",
+      "B) Contemplation",
+      "C) Preparation",
+      "D) Action"
+    ],
+    "correct_answer": "B",
+    "page_reference": "Pages 31-32",
+    "rationale": "B is correct: The patient is in Contemplation — he is aware of the need to change ('interest in losing weight'), considering change within the next 6 months, but is ambivalent due to past failure experiences ('it never works'); this co-existing awareness and doubt is the hallmark of Contemplation. A is incorrect: Precontemplation is characterised by no awareness of or interest in change; this patient clearly recognises the need to lose weight, ruling out Precontemplation — in Precontemplation the person would not be discussing weight loss goals at all. C is incorrect: Preparation indicates the person is planning to take action within the next 30 days and has begun preliminary steps; this patient has not yet moved past ambivalence to form a concrete near-term commitment to change. D is incorrect: Action means the person is already actively making changes (less than 6 months); this patient is still considering and expressing doubt about change rather than actively implementing a plan.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020029",
+    "section_number": "02",
+    "tags": [
+      "motivational-interviewing",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A study by Hojat et al. (2011) found that physicians with high empathy scores were more likely to have patients with good HbA1c control. Which of the following best explains why physician empathy might lead to better clinical outcomes?",
+    "options": [
+      "A) Empathetic physicians are more likely to prescribe the latest medications",
+      "B) Patients of empathetic physicians are more likely to adhere to treatment plans",
+      "C) Empathetic physicians spend more time with their patients",
+      "D) Patients of empathetic physicians have less severe diabetes"
+    ],
+    "correct_answer": "B",
+    "page_reference": "Page 43",
+    "rationale": "B is correct: The Hojat study's findings are best explained by the mechanism of improved adherence; when patients feel understood and supported by an empathetic clinician, they develop trust, engage more openly, and are more likely to follow through with lifestyle recommendations and medication regimens — directly improving glycaemic outcomes. A is incorrect: There is no evidence that empathetic physicians prescribe newer or different medications; the mechanism of benefit is relational and communicative, not pharmacological. C is incorrect: While empathetic physicians may appear to spend more time with patients, the relationship between consultation length and HbA1c control is not the established mechanistic link; it is the quality of the therapeutic relationship — not consultation duration — that drives adherence and outcomes. D is incorrect: Patient disease severity is an independent variable not determined by physician empathy; patients of high-empathy physicians do not have less severe diabetes at baseline, but rather better management outcomes for equivalent disease severity.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020030",
+    "section_number": "02",
+    "tags": [
+      "therapeutic-alliance",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Health Belief Model, which of the following interventions would be most effective in promoting behaviour change for a patient who doesn't believe they are at risk for developing cardiovascular disease?",
+    "options": [
+      "A) Providing detailed information about the effectiveness of statins",
+      "B) Offering a free gym membership",
+      "C) Personalizing the patient's risk factors and explaining their individual susceptibility",
+      "D) Demonstrating how to prepare heart-healthy meals"
+    ],
+    "correct_answer": "C",
+    "page_reference": "Page 28",
+    "rationale": "C is correct: According to the HBM, a patient who does not believe they are at risk has low 'perceived susceptibility' — the primary barrier to action; the most appropriate intervention is to personalise their risk by reviewing individual cardiovascular risk factors and making the data personally relevant, thereby increasing perceived susceptibility and motivating action. A is incorrect: Information about statin effectiveness addresses perceived benefits of treatment, but this is premature and less relevant if the patient doesn't first believe they are at risk; the foundational barrier (perceived susceptibility) must be addressed before intervention benefits become meaningful. B is incorrect: A free gym membership reduces perceived barriers (cost, access) but is not the most effective first step if the patient doesn't perceive themselves at risk; addressing the wrong HBM construct will not motivate behaviour change. D is incorrect: Demonstrating meal preparation is a skills-building and environmental support strategy; like offering a gym membership, it addresses downstream barriers without first establishing the foundational motivation of perceived susceptibility to cardiovascular disease.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020031",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the study by Pollak et al. (2010) on physician communication techniques and weight loss, which of the following was found to be most effective in promoting patient weight loss?",
+    "options": [
+      "A) Providing detailed nutritional information",
+      "B) Prescribing specific exercise regimens",
+      "C) Using motivational interviewing techniques",
+      "D) Emphasizing the health risks of obesity"
+    ],
+    "correct_answer": "C",
+    "page_reference": "Page 40",
+    "rationale": "C is correct: The Pollak et al. study found that patients whose physicians used motivational interviewing techniques lost more weight than patients of physicians who did not use MI — demonstrating that the quality and style of communication is more impactful on weight outcomes than the content of the advice given. A is incorrect: Providing detailed nutritional information is a knowledge-based approach; while nutrition knowledge is necessary, the Pollak study demonstrated that communication style (MI) — not information delivery — was the differentiating factor in weight loss outcomes. B is incorrect: Prescribing specific exercise regimens is the prescriptive expert approach; the evidence supports that patient-centred, motivational approaches like MI produce better adherence and outcomes than directive prescriptions. D is incorrect: Emphasizing health risks is a fear-appeal approach that may increase awareness of perceived severity, but the Pollak study evidence specifically supports MI — not risk emphasis — as the superior strategy for promoting weight loss.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020032",
+    "section_number": "02",
+    "tags": [
+      "therapeutic-alliance",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the research by Wing and Jeffery (1999) on social support and weight loss, which of the following strategies is most likely to improve weight loss outcomes?",
+    "options": [
+      "A) Encouraging patients to keep their weight loss goals private",
+      "B) Recruiting participants with friends for weight loss programs",
+      "C) Focusing solely on individual counselling sessions",
+      "D) Emphasizing competition between participants"
+    ],
+    "correct_answer": "B",
+    "page_reference": "Page 50",
+    "rationale": "B is correct: Wing and Jeffery found that recruiting participants alongside their friends — and actively building social support into the program — led to significantly better weight loss and maintenance outcomes; the social accountability and mutual encouragement of friends was a powerful driver of sustained behaviour change. A is incorrect: Keeping goals private removes the social accountability and support mechanisms that Wing and Jeffery's research identified as key to success; making goals known to a supportive social network is associated with better outcomes, not worse. C is incorrect: Focusing solely on individual counselling misses the powerful lever of social support; the Wing and Jeffery study specifically demonstrates that social connection and shared participation enhance outcomes beyond what individual sessions alone achieve. D is incorrect: Emphasizing competition between participants may create social pressure but does not build the collaborative, supportive social environment that the Wing and Jeffery research found to be most effective; competition can also undermine group cohesion and increase drop-out.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020033",
+    "section_number": "02",
+    "tags": [
+      "social-support",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Based on the Transtheoretical Model described by Prochaska and Velicer (1997), which of the following interventions would be most appropriate for a patient in the Preparation stage of change?",
+    "options": [
+      "A) Providing information about the health risks of their current behaviour",
+      "B) Helping them create a specific action plan with clear goals",
+      "C) Encouraging them to consider the possibility of change in the future",
+      "D) Focusing on strategies to prevent relapse"
+    ],
+    "correct_answer": "B",
+    "page_reference": "Pages 31-32",
+    "rationale": "B is correct: In the Preparation stage, the patient has decided to change and plans to take action within the next 30 days; the most appropriate intervention is to help them develop a specific, achievable action plan with clear goals (e.g., SMART goals) to translate their intention into concrete behaviour. A is incorrect: Providing health risk information is the intervention for the Precontemplation and early Contemplation stages, when the person needs consciousness-raising about the need for change; a person in Preparation has already decided to change and does not need further persuasion about risks. C is incorrect: Encouraging consideration of change in the future is appropriate for Precontemplation or Contemplation; a person in Preparation has moved past considering and has committed to action — encouraging future consideration is stage-mismatched. D is incorrect: Relapse prevention strategies are the focus of the Maintenance stage, after 6 months of sustained change; addressing relapse prevention in Preparation, before the person has even taken action, is premature and inefficient.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020034",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The systematic review by Sforzo et al. (2020) on health and wellness coaching found consistent effects in which two areas of behaviour change?",
+    "options": [
+      "A) Sleep and stress management",
+      "B) Exercise and nutrition",
+      "C) Smoking cessation and alcohol reduction",
+      "D) Medication adherence and chronic disease management"
+    ],
+    "correct_answer": "B",
+    "page_reference": "Page 42",
+    "rationale": "B is correct: The Sforzo et al. systematic review found the most consistent and robust effects of health and wellness coaching in the domains of exercise behaviour and nutrition — aligning with the two lifestyle medicine pillars most amenable to coaching-based behaviour change support. A is incorrect: Sleep and stress management showed improvement in some coaching studies but were not identified as the two areas of most consistent effect in the Sforzo systematic review; exercise and nutrition had the strongest and most replicable evidence base. C is incorrect: While some coaching programs include smoking cessation and alcohol reduction, these were not the two areas of most consistent coaching effectiveness identified in the Sforzo review, which focused on exercise and nutrition as the core findings. D is incorrect: Medication adherence and chronic disease management may be secondary outcomes of coaching programs, but the Sforzo review specifically highlighted exercise and nutrition behaviour change as the primary domains of consistent coaching effectiveness.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020035",
+    "section_number": "02",
+    "tags": [
+      "health-coaching",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to Bandura's self-efficacy theory (1977), which of the following sources of self-efficacy is considered the most powerful in influencing behaviour change?",
+    "options": [
+      "A) Vicarious experiences",
+      "B) Verbal persuasion",
+      "C) Emotional arousal",
+      "D) Mastery experiences"
+    ],
+    "correct_answer": "D",
+    "page_reference": "Page 34",
+    "rationale": "D is correct: Mastery experiences are the most powerful of Bandura's four sources of self-efficacy because they provide direct, personal, first-hand evidence that the individual can successfully perform the behaviour — creating the strongest and most enduring confidence. A is incorrect: Vicarious experiences (watching others succeed) are the second most powerful source; they build confidence through observational learning but are less compelling than personal performance because they provide indirect rather than direct evidence. B is incorrect: Verbal persuasion (encouragement, coaching) is the third source and has the least enduring impact on its own; without accompanying performance success, its effects are temporary and easily undermined by failure. C is incorrect: Emotional and physiological states (the fourth source) affect self-efficacy through the interpretation of physical arousal — anxiety may reduce self-efficacy while calm may increase it; this is the least direct and weakest source, though still relevant in shaping confidence.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020036",
+    "section_number": "02",
+    "tags": [
+      "self-efficacy",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The 2013 AHA/ACC/TOS guidelines for the management of overweight and obesity in adults (Jensen et al., 2014) recommend which of the following as a key component of weight loss interventions?",
+    "options": [
+      "A) Focusing primarily on increasing physical activity",
+      "B) Emphasizing rapid weight loss in the first month",
+      "C) Providing a comprehensive lifestyle intervention",
+      "D) Prioritizing pharmacological treatments over behavioural changes"
+    ],
+    "correct_answer": "C",
+    "page_reference": "Page 34",
+    "rationale": "C is correct: The 2013 AHA/ACC/TOS guidelines recommend a comprehensive lifestyle intervention as the foundation of obesity management, encompassing reduced calorie intake, increased physical activity, and behavioural strategies — recognising that multimodal, integrated approaches produce better and more durable outcomes than single-component strategies. A is incorrect: While physical activity is an important component, focusing primarily on exercise alone without dietary and behavioural change is insufficient; the guidelines recommend a comprehensive approach, not a single-domain intervention. B is incorrect: Rapid weight loss in the first month is not a guideline recommendation; the guidelines emphasise gradual, sustained behaviour change and realistic weight loss goals (typically 0.5–1 kg per week) rather than rapid initial loss, which is associated with high relapse rates. D is incorrect: The guidelines prioritise lifestyle and behavioural interventions as the foundation of obesity management; pharmacological treatment is considered for patients who do not achieve sufficient weight loss with lifestyle intervention alone, not as the priority over behavioural change.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020037",
+    "section_number": "02",
+    "tags": [
+      "guideline-recommendations",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Based on the findings of Hojat et al. (2011) regarding physician empathy and clinical outcomes for diabetic patients, which of the following statements is most accurate?",
+    "options": [
+      "A) Physician empathy had no significant impact on patient outcomes",
+      "B) Patients of physicians with high empathy scores were more likely to have good HbA1c control",
+      "C) Physician empathy was only effective for patients with type 1 diabetes",
+      "D) High physician empathy was associated with worse clinical outcomes"
+    ],
+    "correct_answer": "B",
+    "page_reference": "Page 43",
+    "rationale": "B is correct: The Hojat et al. study found that patients of physicians with high empathy scores were more likely to have good HbA1c control (56% vs 40% for low-empathy physicians), demonstrating a meaningful and statistically significant relationship between physician empathy and glycaemic management. A is incorrect: The data directly contradicts this; Hojat found a statistically significant difference in HbA1c control rates between patients of high- and low-empathy physicians — a 16-percentage-point difference is clinically and statistically meaningful. C is incorrect: The study examined type 2 diabetes patients specifically; there is no basis in the Hojat research for limiting the empathy effect to type 1 diabetes, and the relational mechanisms of empathy (trust, adherence, open communication) apply across diabetes types. D is incorrect: The data shows the opposite — high empathy was associated with better HbA1c control, not worse; this distractor reverses the study finding and represents the opposite conclusion from the actual research.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020038",
+    "section_number": "02",
+    "tags": [
+      "therapeutic-alliance",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Theory of Planned Behaviour, which of the following factors is considered the most important in predicting behaviour?",
+    "options": [
+      "A) Attitude towards the behaviour",
+      "B) Subjective norms",
+      "C) Perceived behavioural control",
+      "D) Behavioural intention"
+    ],
+    "correct_answer": "D",
+    "page_reference": "Page 28",
+    "rationale": "D is correct: In the Theory of Planned Behaviour (Ajzen), behavioural intention is the most proximal predictor of actual behaviour — it represents the motivational factor that captures how hard a person is willing to try and how much effort they plan to exert; it integrates attitude, subjective norms, and perceived behavioural control into a single behavioural commitment. A is incorrect: Attitude (positive or negative evaluation of the behaviour) is one of three determinants of behavioural intention, not a direct predictor of behaviour itself; attitude influences intention, which then predicts behaviour. B is incorrect: Subjective norms (perceived social pressure to perform or not perform the behaviour) also influence intention but are not the strongest or most direct predictor of behaviour; social norms affect intention formation, and intention drives behaviour. C is incorrect: Perceived behavioural control (similar to self-efficacy) is the third determinant of intention and can also directly influence behaviour independently, but the theory identifies behavioural intention as the most important single predictor of behaviour.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020039",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the context of positive psychology and its application to health behaviour change, which of the following best describes the concept of \"flourishing\"?",
+    "options": [
+      "A) The absence of mental illness",
+      "B) Experiencing positive emotions frequently",
+      "C) Having a high level of life satisfaction",
+      "D) Feeling good, functioning well, and contributing to society"
+    ],
+    "correct_answer": "D",
+    "page_reference": "Page 41",
+    "rationale": "D is correct: In positive psychology, flourishing is defined as a multidimensional state encompassing feeling good (hedonic wellbeing), functioning well in life (psychological and social functioning), and contributing to society — a richer concept than simply the absence of disease or the presence of happiness. A is incorrect: The absence of mental illness describes a neutral or baseline psychological state, not flourishing; positive psychology explicitly moves beyond the disease model to promote optimal human functioning above the neutral point. B is incorrect: Experiencing positive emotions frequently is hedonic wellbeing — an important component of flourishing but only one dimension; flourishing also requires engagement, meaning, positive relationships, and accomplishment (the full PERMA model). C is incorrect: High life satisfaction is a component of subjective wellbeing but represents only one facet of flourishing; the full concept requires functional and social contributions beyond personal satisfaction.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020040",
+    "section_number": "02",
+    "tags": [
+      "positive-psychology",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT one of the core skills of Motivational Interviewing as described by the OARS acronym?",
+    "options": [
+      "A) Open-ended questions",
+      "B) Affirmations",
+      "C) Reflections",
+      "D) Suggestions"
+    ],
+    "correct_answer": "D",
+    "page_reference": "Page 38",
+    "rationale": "D is correct: OARS stands for Open-ended questions, Affirmations, Reflections, and Summaries; 'Suggestions' is not part of the OARS skill set — in MI, providing unsolicited suggestions represents the righting reflex and is discouraged; when information or options are offered, it follows an ask-offer-ask sequence with patient permission. A is incorrect: Open-ended questions are the 'O' in OARS and are essential for eliciting the patient's own perspectives, values, and change talk without steering the conversation with yes/no responses. B is incorrect: Affirmations are the 'A' in OARS; they reflect genuine recognition of the patient's strengths, efforts, and past successes, which builds the therapeutic relationship and supports motivation. C is incorrect: Reflections are the 'R' in OARS and are arguably the most sophisticated MI skill, used to reflect content and emotion back to the patient, deepen exploration, and amplify change talk.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020041",
+    "section_number": "02",
+    "tags": [
+      "motivational-interviewing",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Social Cognitive Theory, which of the following best describes the concept of \"reciprocal determinism\"?",
+    "options": [
+      "A) The influence of past experiences on future behaviour",
+      "B) The mutual influence of personal factors, environment, and behaviour on each other",
+      "C) The impact of social norms on individual decision-making",
+      "D) The role of reinforcement in shaping behaviour"
+    ],
+    "correct_answer": "B",
+    "page_reference": "Page 29",
+    "rationale": "B is correct: Reciprocal determinism, the central principle of Bandura's Social Cognitive Theory, holds that the person (cognitive, emotional, and biological factors), their environment, and their behaviour all continuously and mutually influence each other — no single factor is the unidirectional cause of behaviour. A is incorrect: The influence of past experiences on future behaviour describes learning theory broadly and the concept of behavioural conditioning; reciprocal determinism is specifically about the dynamic, bidirectional interaction among all three factors simultaneously, not a linear past-to-future causal chain. C is incorrect: The impact of social norms is central to the Theory of Planned Behaviour (subjective norms) and the Social Ecological Model; while Social Cognitive Theory considers social influences, reciprocal determinism is specifically about person-behaviour-environment interactions, not norms alone. D is incorrect: The role of reinforcement in shaping behaviour is the foundation of Skinner's operant conditioning and behaviourism; Social Cognitive Theory extends beyond reinforcement to include cognitive processes, observational learning, and the three-way dynamic interaction of reciprocal determinism.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020042",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models",
+      "self-efficacy",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "When using the ABCD method of behavioural change to help a patient reframe nonproductive thinking, what does the \"D\" stand for?",
+    "options": [
+      "A) Determine",
+      "B) Develop",
+      "C) Dispute",
+      "D) Decide"
+    ],
+    "correct_answer": "C",
+    "page_reference": "Page 41",
+    "rationale": "C is correct: In Ellis's ABCDE cognitive restructuring method, 'D' stands for Dispute — the active process of challenging, questioning, and arguing against the irrational or distorted beliefs identified in step B, helping the patient build a more rational and realistic perspective on their situation. A is incorrect: 'Determine' is not a step in the ABCDE framework; while the practitioner helps the patient determine which beliefs are unhelpful, the specific term for the D step in Ellis's method is 'Dispute' — the action of actively challenging the beliefs. B is incorrect: 'Develop' does not represent the D step; development of new thinking patterns occurs as a result of the Dispute step and is reflected in the E (Effect) step, but 'Develop' is not the name of any ABCDE component. D is incorrect: 'Decide' is not a step in the ABCDE framework; while decision-making may follow from cognitive restructuring, the formal D step is specifically about disputing and challenging distorted beliefs, not making decisions.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020043",
+    "section_number": "02",
+    "tags": [
+      "cognitive-behavioral-therapy",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the content on health coaching and behaviour change techniques, which of the following outcomes has been most consistently associated with health and wellness coaching interventions?",
+    "options": [
+      "A) Improved sleep quality",
+      "B) Reduced stress levels",
+      "C) Positive changes in exercise and nutrition behaviour",
+      "D) Enhanced medication adherence"
+    ],
+    "correct_answer": "C",
+    "page_reference": "Page 42",
+    "rationale": "C is correct: The Sforzo et al. systematic review of health and wellness coaching found the most consistent evidence of effect in exercise and nutrition behaviour change — the two domains with the most replicable and robust coaching impact across the reviewed studies. A is incorrect: Sleep quality improvement has been reported in some coaching studies but was not identified as one of the two areas of most consistent effect in the Sforzo systematic review; the evidence base for coaching's sleep benefits is less consistent than for exercise and nutrition. B is incorrect: Stress reduction is a common secondary outcome of coaching interventions but was not highlighted as one of the two most consistent areas of coaching effectiveness in the Sforzo review. D is incorrect: Medication adherence improvement through coaching has been studied, but the Sforzo review specifically identified exercise and nutrition as the domains with the most consistent coaching-associated effects — not medication adherence.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020044",
+    "section_number": "02",
+    "tags": [
+      "health-coaching",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the context of building therapeutic alliances with patients, which of the following is NOT mentioned as one of the five key components of trust?",
+    "options": [
+      "A) Benevolence",
+      "B) Honesty",
+      "C) Openness",
+      "D) Efficiency"
+    ],
+    "correct_answer": "D",
+    "page_reference": "Page 51",
+    "rationale": "D is correct: The five key components of trust in a therapeutic alliance are benevolence, honesty, openness, reliability, and competence; 'efficiency' — while valued in healthcare delivery — is not one of the five trust components and is not a relational quality that specifically builds the patient-provider trust necessary for a therapeutic alliance. A is incorrect: Benevolence is the first trust component, reflecting the provider's genuine concern for the patient's wellbeing and acting in their best interest — foundational to a trusting therapeutic relationship. B is incorrect: Honesty is the second trust component, encompassing truthfulness and transparency in communication; patients who perceive their provider as honest are more likely to engage openly and adhere to recommendations. C is incorrect: Openness is the third trust component, reflecting the provider's willingness to share information, consider the patient's perspective, and communicate in a transparent, non-defensive manner.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020045",
+    "section_number": "02",
+    "tags": [
+      "therapeutic-alliance",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "When considering the social determinants of health in lifestyle medicine practice, which of the following is an example of a factor that the American Medical Association and United Healthcare have established an ICD-10 code to capture?",
+    "options": [
+      "A) Personal exercise habits",
+      "B) Dietary preferences",
+      "C) Food insecurity",
+      "D) Genetic predisposition to disease"
+    ],
+    "correct_answer": "C",
+    "page_reference": "Page 31",
+    "rationale": "C is correct: Food insecurity has been assigned an ICD-10 code (Z59.4) by the AMA and United Healthcare to capture this social determinant of health in clinical documentation — recognising that clinicians need to systematically identify and address food access as a driver of health outcomes. A is incorrect: Personal exercise habits are individual behavioural factors; while physical inactivity has ICD-10 codes, personal exercise habits as a general category are not the specific social determinant codified in the context of the AMA/United Healthcare initiative described in the board review. B is incorrect: Dietary preferences are individual behavioural choices; while poor nutrition has associated codes, dietary preferences as a social determinant concept differ from food insecurity which represents a structural access issue warranting specific coding. D is incorrect: Genetic predisposition is a biological, not social, determinant; it does not relate to the social and environmental conditions captured by the ICD-10 social determinant codes developed by the AMA and United Healthcare.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020046",
+    "section_number": "02",
+    "tags": [
+      "social-determinants",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine team is developing an intervention for patients with prediabetes. Based on Social Cognitive Theory, which combination of elements would most effectively support sustainable behavior change?",
+    "options": [
+      "A) Providing detailed nutritional information and exercise guidelines",
+      "B) Offering regular group support sessions and progress tracking",
+      "C) Combining mastery experiences, peer modeling, verbal encouragement, and management of physiological feedback",
+      "D) Creating a reward system and accountability structure"
+    ],
+    "correct_answer": "C) Combining mastery experiences, peer modeling, verbal encouragement, and management of physiological feedback",
+    "page_reference": "29, 41",
+    "rationale": "C is correct: Social Cognitive Theory identifies four sources of self-efficacy — mastery experiences (direct success), vicarious experiences (peer modelling), verbal/social persuasion (encouragement), and physiological/emotional states — and all four must be addressed to build robust, lasting self-efficacy for behaviour change; targeting all four sources comprehensively is the most evidence-based SCT approach. A is incorrect: Providing nutritional information and exercise guidelines addresses knowledge and barriers but does not systematically engage the four self-efficacy sources of SCT; information transfer alone is insufficient to produce sustainable behaviour change. B is incorrect: Group support sessions and progress tracking address social support and vicarious experience but do not systematically address all four SCT self-efficacy sources, particularly mastery experiences and physiological state management. D is incorrect: Reward systems and accountability structures relate to operant conditioning and external motivation; SCT focuses on building internal self-efficacy through the four specific sources rather than external reinforcement contingencies.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020047",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models",
+      "self-efficacy",
+      "diabetes"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine physician is consulting with a 45-year-old woman who states, 'I've tried every diet and always gain the weight back. My mother and sister are both overweight, so I probably just have bad genes.' Using the ABCDE method of behavioral change, which sequence of responses would best help the patient reframe this nonproductive thinking?",
+    "options": [
+      "A) Acknowledge her frustration, blame genetics, challenge diet culture, discuss emotional eating, explore new options",
+      "B) Analyze past diets, build confidence, create new goals, develop support system, evaluate progress",
+      "C) Identify the activating event (failed diets), examine beliefs about genetics, explore consequences of this thinking, dispute the genetic determinism, discuss effect of new perspective",
+      "D) Investigate family dynamics, build motivation, create healthy habits, determine barriers, establish new patterns"
+    ],
+    "correct_answer": "C) Identify the activating event (failed diets), examine beliefs about genetics, explore consequences of this thinking, dispute the genetic determinism, discuss effect of new perspective",
+    "page_reference": "39-41",
+    "rationale": "C is correct: This response precisely maps to the ABCDE steps — A (Activating event: failed diets), B (Beliefs: genetic determinism), C (Consequences: helplessness, inaction), D (Dispute: challenging the belief that genetics alone determine weight), E (Effect: new balanced perspective on agency) — maintaining fidelity to the cognitive restructuring method. A is incorrect: This option does not follow the ABCDE sequence systematically; 'blaming genetics' (step 2) contradicts the goal of cognitive restructuring and 'challenging diet culture' is not a step in the ABCDE framework. B is incorrect: The words beginning with A-B-C-D-E are superficially structured but do not correspond to the actual ABCDE steps (Analyze/Assess, Build, Create etc. are not the Ellis model steps); this distractor uses similar-sounding terminology without clinical accuracy. D is incorrect: Like option B, this uses words beginning with the appropriate letters but does not follow the Ellis ABCDE framework; 'Investigate family dynamics' and 'Determine barriers' are not components of the ABCDE cognitive restructuring method.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020048",
+    "section_number": "02",
+    "tags": [
+      "motivational-interviewing",
+      "relapse-prevention"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is working with several patients at different stages of change. One patient states, 'I know I should exercise, but I'm not ready to start yet. Maybe in a few months.' Another says, 'I've been walking daily for two weeks now.' And a third reports, 'I've maintained my plant-based diet for 8 months without any trouble.' According to the Transtheoretical Model, which stage-matched intervention sequence would be most appropriate for these patients, respectively?",
+    "options": [
+      "A) Provide health risk information, develop action plan, celebrate success",
+      "B) Create specific goals, prevent relapse, increase challenge level",
+      "C) Raise awareness of benefits, support current efforts with problem-solving, reinforce behavioral commitment",
+      "D) Set timeline for change, provide accountability, maintain status quo"
+    ],
+    "correct_answer": "C) Raise awareness of benefits, support current efforts with problem-solving, reinforce behavioral commitment",
+    "page_reference": "29-32",
+    "rationale": "C is correct: Patient 1 is in Contemplation (aware but not ready, intending change in a few months) — the appropriate intervention is raising awareness of benefits and resolving ambivalence; Patient 2 is in Action (2 weeks of behaviour change) — support and problem-solving for barriers is stage-appropriate; Patient 3 is in Maintenance (8 months sustained) — reinforcing commitment and relapse prevention strategies are needed. A is incorrect: Providing health risk information (consciousness-raising) is appropriate for Precontemplation, not for a patient in Contemplation who is already aware of the issue; developing an action plan suits Preparation; celebrating success alone is insufficient for Maintenance without relapse prevention. B is incorrect: Creating specific goals is appropriate for Preparation (not Contemplation); preventing relapse is appropriate for Maintenance (not Action); increasing challenge level is not a standard TTM stage-matched intervention. D is incorrect: Setting a timeline for change is relevant for Contemplation/Preparation transitions; providing accountability suits Action; 'maintaining status quo' is the opposite of what is needed in any stage — TTM interventions always aim to facilitate progression.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020049",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models"
+    ]
+  },
+  {
+    "question_text": "During a group visit focused on stress management, a patient becomes visibly upset and states, 'I've completely failed at meditation. I missed two days this week, so I might as well give up.' According to cognitive behavioral techniques, which combination of interventions would most effectively address this nonproductive thinking pattern?",
+    "options": [
+      "A) Provide reassurance about normal meditation challenges and suggest an easier practice",
+      "B) Recommend taking a break from meditation and trying a different stress management technique",
+      "C) Identify the all-or-nothing thinking, examine evidence for 'complete failure,' explore partial successes, and develop a more balanced view of progress",
+      "D) Focus on building a more consistent meditation schedule with reminders and accountability"
+    ],
+    "correct_answer": "C) Identify the all-or-nothing thinking, examine evidence for 'complete failure,' explore partial successes, and develop a more balanced view of progress",
+    "page_reference": "39-40",
+    "rationale": "C is correct: The patient demonstrates classic all-or-nothing (dichotomous) thinking — viewing missing two days as 'complete failure'; the CBT approach systematically identifies this distortion, examines the evidence against the 'complete failure' belief, recognises partial success (five days of meditation), and builds a more realistic and balanced cognitive perspective — following the cognitive restructuring sequence. A is incorrect: Providing reassurance and suggesting an easier practice is supportive but bypasses the cognitive distortion driving the patient's distress; addressing the all-or-nothing thinking pattern is more effective than simply offering reassurance or alternatives. B is incorrect: Recommending abandoning meditation avoids the cognitive work needed to address the distorted thinking pattern and may reinforce avoidance behaviour; the therapeutic goal is to reframe the thinking, not to sidestep the challenge. D is incorrect: Creating a more consistent schedule with reminders addresses the behavioural component (frequency) but ignores the underlying cognitive distortion that 'any deviation equals complete failure'; without addressing the cognition, scheduling alone is unlikely to prevent future all-or-nothing thinking from derailing the patient.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020050",
+    "section_number": "02",
+    "tags": [
+      "therapeutic-alliance",
+      "motivational-interviewing"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine program is implementing positive psychology principles through the PERMA model. Which combined intervention strategy would most effectively support lasting behavior change while adhering to positive psychology principles?",
+    "options": [
+      "A) Track positive emotions daily and celebrate small wins",
+      "B) Focus on building willpower and eliminating negative thoughts",
+      "C) Integrate strength-based activities, meaningful goals, supportive relationships, flow experiences, and recognition of accomplishments",
+      "D) Emphasize gratitude journaling and positive affirmations"
+    ],
+    "correct_answer": "C) Integrate strength-based activities, meaningful goals, supportive relationships, flow experiences, and recognition of accomplishments",
+    "page_reference": "41-42",
+    "rationale": "C is correct: This option comprehensively addresses all five PERMA elements — Positive emotions (strength-based activities), Engagement/flow (flow experiences), Relationships (supportive relationships), Meaning (meaningful goals), and Accomplishment (recognition of accomplishments) — making it the most complete application of the PERMA model to support sustained behaviour change. A is incorrect: Tracking positive emotions and celebrating wins addresses the 'P' (Positive emotions) and 'A' (Accomplishment) components but neglects Engagement, Relationships, and Meaning — an incomplete application of the PERMA model. B is incorrect: Focusing on willpower and eliminating negative thoughts is contrary to positive psychology principles; positive psychology does not promote suppression of negativity but rather actively building strengths and positive states alongside acknowledging difficulties. D is incorrect: Gratitude journaling and positive affirmations touch on positive emotions but represent a narrow application of positive psychology that does not engage all five PERMA elements needed for comprehensive wellbeing support.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020051",
+    "section_number": "02",
+    "tags": [
+      "positive-psychology"
+    ]
+  },
+  {
+    "question_text": "A patient with a history of multiple unsuccessful behavior change attempts tells their lifestyle medicine physician, 'I keep trying to lose weight, but I just don't have enough willpower. I always give in when I'm stressed.' Using Self-Determination Theory and motivational interviewing principles, which response sequence would most effectively support the development of autonomous motivation?",
+    "options": [
+      "A) Provide stress management techniques and create a structured eating plan",
+      "B) Suggest tracking triggers and developing specific coping strategies",
+      "C) Explore personal values, examine past successes in other areas, identify meaningful reasons for change, and support autonomy in goal-setting",
+      "D) Focus on building accountability and establishing regular check-ins"
+    ],
+    "correct_answer": "C) Explore personal values, examine past successes in other areas, identify meaningful reasons for change, and support autonomy in goal-setting",
+    "page_reference": "30, 38",
+    "rationale": "C is correct: Self-Determination Theory identifies autonomy, competence, and relatedness as the three basic psychological needs driving sustainable motivation; this response addresses all three — exploring values (autonomy), examining past successes (competence), identifying meaningful reasons (intrinsic motivation), and patient-led goal-setting (autonomy) — aligning with MI's goal of fostering intrinsic rather than externalised motivation. A is incorrect: Providing stress management techniques and a structured eating plan is directive and externally imposed; while helpful, it does not engage the patient's own values and autonomous motivation, which SDT identifies as essential for sustained behaviour change. B is incorrect: Tracking triggers and coping strategies is a CBT-based behavioural approach that is useful but does not specifically address the SDT components of autonomy and intrinsic motivation — it remains a clinician-generated strategy rather than patient-generated autonomous motivation. D is incorrect: Building accountability and regular check-ins creates external accountability, which SDT distinguishes from autonomous motivation; external pressure may produce short-term compliance but not the self-sustaining intrinsic motivation that SDT shows is necessary for lasting change.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020052",
+    "section_number": "02",
+    "tags": [
+      "relapse-prevention",
+      "self-efficacy"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner notices that several patients have experienced lapses in their health behavior changes following major work deadlines. Which comprehensive relapse prevention strategy would most effectively address this pattern?",
+    "options": [
+      "A) Recommend taking time off work during stressful periods",
+      "B) Create a more flexible behavior change schedule",
+      "C) Develop a prevention plan identifying work stress triggers, plan specific coping responses, establish environmental supports, and reframe lapses as learning opportunities",
+      "D) Focus on building stronger habits before stressful periods"
+    ],
+    "correct_answer": "C) Develop a prevention plan identifying work stress triggers, plan specific coping responses, establish environmental supports, and reframe lapses as learning opportunities",
+    "page_reference": "48",
+    "rationale": "C is correct: Effective relapse prevention requires a proactive, comprehensive approach — identifying specific high-risk situations (work deadlines), planning coping responses in advance, establishing environmental supports to reduce barriers during stress, and maintaining a learning orientation toward lapses rather than a shame-based response that can trigger abstinence violation effect. A is incorrect: Recommending time off work is neither practical nor a genuine relapse prevention strategy; the goal is to equip patients to maintain behaviours during real-world stressors, not to remove the stressors themselves. B is incorrect: Creating a more flexible schedule may reduce rigidity but does not address the root issue of trigger identification and coping response planning; flexibility without a specific plan for high-risk situations leaves patients unprepared when stress occurs. D is incorrect: Building stronger habits before stressful periods is partially helpful but is insufficient as a comprehensive relapse prevention strategy without the accompanying components of trigger identification, pre-planned coping responses, and cognitive reframing of lapses.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020053",
+    "section_number": "02",
+    "tags": [
+      "relapse-prevention"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is working to repair trust with patients who have had negative healthcare experiences. Which combination of trust-building elements would most effectively address past healthcare trauma while establishing a therapeutic alliance?",
+    "options": [
+      "A) Set clear boundaries and maintain professional distance",
+      "B) Focus primarily on clinical outcomes and education",
+      "C) Demonstrate benevolence through caring interactions, maintain transparent communication, practice cultural humility, ensure reliability in follow-through, and display clinical competence",
+      "D) Emphasize provider expertise and evidence-based practices"
+    ],
+    "correct_answer": "C) Demonstrate benevolence through caring interactions, maintain transparent communication, practice cultural humility, ensure reliability in follow-through, and display clinical competence",
+    "page_reference": "51",
+    "rationale": "C is correct: All five trust components (benevolence, honesty/transparency, openness/cultural humility, reliability, and competence) are addressed in this response — each counteracting a common source of healthcare-related mistrust and trauma through both relational and clinical dimensions. A is incorrect: Setting clear boundaries and maintaining professional distance may be appropriate in some contexts but actively works against trust-building with patients who have experienced healthcare trauma; warmth and approachability (benevolence) are needed, not distance. B is incorrect: Focusing on clinical outcomes and education addresses the competence dimension of trust but neglects the relational dimensions (benevolence, openness, reliability) that are particularly important when repairing trust after negative healthcare experiences. D is incorrect: Emphasising provider expertise may reinforce the power imbalance that often contributes to healthcare trauma; trust repair requires humility and partnership alongside competence, not an authority-dominant stance.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020054",
+    "section_number": "02",
+    "tags": [
+      "therapeutic-alliance"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine team is working with patients from diverse socioeconomic backgrounds on health behavior change. Which strategy would most effectively integrate social determinants of health considerations with behavior change support?",
+    "options": [
+      "A) Provide standard health education materials to all patients",
+      "B) Focus exclusively on individual motivation and goal-setting",
+      "C) Assess environmental barriers, develop contextually appropriate strategies, connect with community resources, and adapt interventions to cultural and social realities",
+      "D) Emphasize personal responsibility for health outcomes"
+    ],
+    "correct_answer": "C) Assess environmental barriers, develop contextually appropriate strategies, connect with community resources, and adapt interventions to cultural and social realities",
+    "page_reference": "31",
+    "rationale": "C is correct: Effectively integrating social determinants of health requires assessing each patient's specific structural barriers (income, food access, transport, housing), co-developing strategies that are feasible within their context, connecting them to community resources, and culturally adapting interventions — recognising that behaviour change occurs within, not independent of, social and environmental conditions. A is incorrect: Standard materials assume uniform literacy, cultural backgrounds, and resources; patients from diverse socioeconomic backgrounds have different barriers and needs that standardised one-size-fits-all materials cannot address. B is incorrect: Focusing exclusively on individual motivation ignores the structural determinants that shape the conditions under which people live, eat, and exercise; blaming insufficient individual motivation for behaviour change failure perpetuates health inequity. D is incorrect: Emphasising personal responsibility without addressing social determinants shifts blame to individuals for circumstances often outside their control, and is both ineffective and ethically problematic when working with patients experiencing social disadvantage.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020055",
+    "section_number": "02",
+    "tags": [
+      "social-determinants"
+    ]
+  },
+  {
+    "question_text": "During a lifestyle medicine consultation, a patient states, 'I want to exercise but I'm too busy with work and family.' Which sequence of motivational interviewing responses would most effectively demonstrate the integration of OARS skills while evoking change talk?",
+    "options": [
+      "A) Provide advice about time management and exercise options",
+      "B) Share information about health benefits of exercise",
+      "C) Use open questions to explore values, affirm current efforts, reflect ambivalence, summarize motivation, and selectively respond to change talk",
+      "D) Focus on creating a structured exercise schedule"
+    ],
+    "correct_answer": "C) Use open questions to explore values, affirm current efforts, reflect ambivalence, summarize motivation, and selectively respond to change talk",
+    "page_reference": "38",
+    "rationale": "C is correct: This response integrates all four OARS components in an MI-consistent sequence — Open questions (explore values), Affirmations (current efforts), Reflections (ambivalence), Summaries (motivation) — and adds the strategic MI technique of selectively reinforcing change talk to tip the motivational balance toward action. A is incorrect: Providing advice about time management and exercise options triggers the righting reflex and delivers the clinician's agenda; MI explicitly avoids unsolicited advice in favour of eliciting the patient's own solutions and motivations. B is incorrect: Sharing information about health benefits is educational rather than motivational; the patient already wants to exercise and is not lacking in knowledge of benefits — the barrier is ambivalence about time, which MI addresses through OARS, not information delivery. D is incorrect: Creating a structured exercise schedule is premature action-planning that jumps ahead of the motivational work needed; the patient is expressing ambivalence, not requesting a plan — building intrinsic motivation through OARS must precede action planning.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020056",
+    "section_number": "02",
+    "tags": [
+      "motivational-interviewing",
+      "physical-activity"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing the Health Belief Model (HBM) to improve medication adherence in patients with hypertension. Which combination of interventions would most effectively address all six key constructs of the HBM?",
+    "options": [
+      "A) Focus on medication benefits and provide reminder systems",
+      "B) Emphasize health risks and simplify medication regimens",
+      "C) Address perceived susceptibility to complications, discuss severity of uncontrolled hypertension, highlight treatment benefits, reduce barriers to adherence, identify cues to action, and build self-efficacy",
+      "D) Create accountability systems and provide education materials"
+    ],
+    "correct_answer": "C) Address perceived susceptibility to complications, discuss severity of uncontrolled hypertension, highlight treatment benefits, reduce barriers to adherence, identify cues to action, and build self-efficacy",
+    "page_reference": "28",
+    "rationale": "C is correct: This is the only option that explicitly and systematically addresses all six HBM constructs — perceived susceptibility (risk of complications), perceived severity (consequences of uncontrolled hypertension), perceived benefits (medication effectiveness), perceived barriers (adherence obstacles), cues to action (reminders and triggers), and self-efficacy (confidence to take medication consistently). A is incorrect: Focusing on medication benefits and reminder systems addresses perceived benefits and cues to action — only two of the six HBM constructs; perceived susceptibility, severity, barriers, and self-efficacy are not addressed. B is incorrect: Emphasising health risks and simplifying regimens addresses perceived severity and perceived barriers — only two constructs; perceived susceptibility, benefits, cues to action, and self-efficacy are not systematically targeted. D is incorrect: Accountability systems and education materials may touch on cues to action and perceived benefits but do not comprehensively address all six HBM constructs; this option lacks the specificity needed to engage the full model.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020057",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine practitioner is helping a patient develop a physical activity goal using SMART criteria. Which of the following goals best demonstrates all components of the SMART framework?",
+    "options": [
+      "A) 'I will try to exercise more regularly this month'",
+      "B) 'I will walk briskly for 30 minutes, Monday through Friday at 5:30 PM, starting tomorrow, tracking progress with my fitness app'",
+      "C) 'I will exercise whenever I have free time'",
+      "D) 'I will do any type of exercise three times per week'"
+    ],
+    "correct_answer": "B) 'I will walk briskly for 30 minutes, Monday through Friday at 5:30 PM, starting tomorrow, tracking progress with my fitness app'",
+    "page_reference": "36",
+    "rationale": "B is correct: This goal meets all SMART criteria — Specific (brisk walking, 30 minutes), Measurable (tracked with fitness app, defined frequency), Achievable (reasonable duration/frequency for most adults), Relevant (physical activity prescription), and Time-bound (Monday–Friday at 5:30 PM, starting tomorrow) — making it a complete and clinically useful SMART goal. A is incorrect: 'Try to exercise more regularly' is vague and unmeasurable — it specifies neither the type, frequency, duration, nor timing of exercise; 'more regularly' is not a measurable or specific target. C is incorrect: 'Whenever I have free time' is not specific or time-bound — it lacks any scheduled time, frequency, or measurable commitment; relying on incidental free time is associated with poor adherence to exercise goals. D is incorrect: 'Any type of exercise three times per week' provides some frequency specificity but lacks specificity in activity type, duration, scheduled time, and measurability; it does not fully meet the Specific, Measurable, or Time-bound criteria.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020058",
+    "section_number": "02",
+    "tags": [
+      "smart-goals",
+      "physical-activity"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine program is implementing group visits for patients with prediabetes. Which combination of elements would most effectively leverage the benefits of shared medical appointments while addressing behavior change principles?",
+    "options": [
+      "A) Focus on providing standardized diabetes education to all participants",
+      "B) Schedule individual follow-up appointments after group sessions",
+      "C) Integrate peer support, shared goal-setting, vicarious learning experiences, group problem-solving, and collective progress monitoring",
+      "D) Deliver lectures on diabetes management and lifestyle changes"
+    ],
+    "correct_answer": "C) Integrate peer support, shared goal-setting, vicarious learning experiences, group problem-solving, and collective progress monitoring",
+    "page_reference": "50",
+    "rationale": "C is correct: This combination leverages the unique advantages of group visits by harnessing peer support (social connection and accountability), shared goal-setting (collective commitment), vicarious learning (observing peers' successes, a source of self-efficacy), group problem-solving (collective intelligence for barrier navigation), and collective monitoring (shared accountability) — all of which are difficult to replicate in individual visits. A is incorrect: Standardised diabetes education delivers information but misses the relational and social learning benefits that make group visits distinctively effective; lecturing to a group is not the same as facilitating group-based behaviour change. B is incorrect: Scheduling individual follow-up after group sessions adds clinical contact time but does not utilise the specific group dynamics and peer learning mechanisms that differentiate group visits from individual care. D is incorrect: Delivering lectures converts the group visit into a passive educational experience, eliminating the peer interaction, shared goal-setting, and social learning that constitute the evidence base for group visit effectiveness.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020059",
+    "section_number": "02",
+    "tags": [
+      "social-support",
+      "diabetes"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine clinic is implementing a new plant-based diet program using the Theory of Planned Behavior. Which combination of interventions would most effectively address all main constructs of this theory?",
+    "options": [
+      "A) Focus only on providing nutrition education and meal plans",
+      "B) Address environmental barriers and provide cooking classes",
+      "C) Target attitudes toward plant-based eating, address social norms, build behavioral control through skills training, and strengthen intentions through goal-setting",
+      "D) Emphasize health benefits and offer support groups"
+    ],
+    "correct_answer": "C) Target attitudes toward plant-based eating, address social norms, build behavioral control through skills training, and strengthen intentions through goal-setting",
+    "page_reference": "28-29",
+    "rationale": "C is correct: The Theory of Planned Behaviour has three determinants of intention (attitude, subjective norms, perceived behavioural control) and intention as the direct predictor of behaviour; this option addresses all constructs — attitudes (positive/negative appraisal of plant-based eating), social norms (family/peer acceptance), perceived behavioural control (cooking skills, knowledge), and intention (goal-setting commitment). A is incorrect: Nutrition education and meal plans address knowledge and perceived behavioural control but ignore attitudes (ambivalence about taste, cultural identity) and subjective norms (social pressure from family and peers) — incomplete coverage of the TPB constructs. B is incorrect: Environmental barriers and cooking classes address perceived behavioural control only; attitudes and subjective norms — which are equally important TPB determinants — are not engaged. D is incorrect: Health benefits address the attitude component and support groups may help with social norms, but this option does not systematically address perceived behavioural control and the strengthening of behavioural intention through structured goal-setting.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020060",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models",
+      "dietary-patterns"
+    ]
+  },
+  {
+    "question_text": "A community health program is implementing a new lifestyle intervention. According to the Diffusion of Innovation theory, which sequence of adoption would be most effective in promoting widespread behavior change?",
+    "options": [
+      "A) Target the majority population first to maximize impact",
+      "B) Focus on resistant individuals to overcome barriers early",
+      "C) Identify and engage innovators first, then early adopters, followed by early majority, late majority, and finally laggards",
+      "D) Implement the program uniformly across all population segments"
+    ],
+    "correct_answer": "C) Identify and engage innovators first, then early adopters, followed by early majority, late majority, and finally laggards",
+    "page_reference": "30",
+    "rationale": "C is correct: Rogers' Diffusion of Innovation theory describes a predictable sequence of adoption across five categories — Innovators, Early Adopters, Early Majority, Late Majority, and Laggards; successful dissemination begins with innovators and early adopters who influence the broader population through social networks and credibility, creating the critical mass needed for widespread adoption. A is incorrect: Targeting the majority first ignores the influence mechanism of the Diffusion model; the majority adopts innovations after being influenced by earlier adopters, not independently; beginning with the majority without the credibility established by early adopters is inefficient. B is incorrect: Focusing on resistant individuals (laggards) first is counter to the Diffusion theory and poor programme strategy; laggards are the hardest to engage and trying to convert them early diverts resources from the adopters who can create social momentum. D is incorrect: Uniform implementation across all segments ignores the differential readiness, needs, and social influence roles of each adopter category; the Diffusion model specifically indicates that a sequenced approach — from innovators outward — is more effective than simultaneous population-wide implementation.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020061",
+    "section_number": "02",
+    "tags": [
+      "behavior-change-models"
+    ]
+  },
+  {
+    "question_text": "A patient's health behaviors are being influenced by various social determinants of health. Which combination of factors would most comprehensively represent the institutional, community, and policy influences on behavior change?",
+    "options": [
+      "A) Personal motivation and family support",
+      "B) Healthcare access and individual resources",
+      "C) Workplace policies, community design, social networks, and public health regulations",
+      "D) Educational level and income status"
+    ],
+    "correct_answer": "C) Workplace policies, community design, social networks, and public health regulations",
+    "page_reference": "30-31",
+    "rationale": "C is correct: Workplace policies (institutional level), community design and built environments (community level), social networks (interpersonal level), and public health regulations (policy level) together represent the multi-level ecological influences on health behaviour — spanning institutional, community, and policy domains as required by the question. A is incorrect: Personal motivation and family support are individual and interpersonal factors — they do not represent institutional, community, or policy-level influences on behaviour; these are important but represent only the most proximal levels of influence. B is incorrect: Healthcare access and individual resources are individual and systemic access factors that represent only one slice of the broader social determinant landscape; they do not capture workplace, community design, or public policy dimensions. D is incorrect: Educational level and income status are socioeconomic determinants that shape access to resources and health literacy; while critically important, they do not represent the institutional, community, and policy-level structural influences specified in the question.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020062",
+    "section_number": "02",
+    "tags": [
+      "social-determinants"
+    ]
+  },
+  {
+    "question_text": "A lifestyle medicine program is addressing social determinants of health in behavior change interventions. Which combination of factors would most effectively need to be assessed and addressed to support sustainable behavior change?",
+    "options": [
+      "A) Focus only on individual motivation and goals",
+      "B) Address financial resources and transportation",
+      "C) Consider income, education, occupation, food access, housing, transportation, social support, and environmental conditions",
+      "D) Evaluate personal habits and family history"
+    ],
+    "correct_answer": "C) Consider income, education, occupation, food access, housing, transportation, social support, and environmental conditions",
+    "page_reference": "31",
+    "rationale": "C is correct: Sustainable behaviour change requires comprehensive assessment of the full range of social determinants — income, educational opportunities, occupation, food security, housing stability, transportation access, social support networks, and environmental conditions — because all of these structural factors shape the conditions under which individuals can realistically adopt and maintain lifestyle changes. A is incorrect: Individual motivation and goals, while necessary, are insufficient on their own; without addressing the structural conditions that enable or constrain behaviour, motivation-based interventions alone produce limited and inequitable results. B is incorrect: Financial resources and transportation are two important social determinants but represent only a subset; comprehensive assessment must also include housing, food access, education, social support, and environmental factors that the board review specifically identifies. D is incorrect: Personal habits and family history are individual-level factors — habits are the behavioural outcome being targeted, and family history is a biological determinant; neither represents the upstream structural social determinants that the question asks about.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_id": "020063",
+    "section_number": "02",
+    "tags": [
+      "social-determinants"
+    ]
+  }
+]

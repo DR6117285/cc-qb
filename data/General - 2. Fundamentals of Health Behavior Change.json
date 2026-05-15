@@ -1,0 +1,419 @@
+[
+  {
+    "question_text": "Which of the following best describes the Health Belief Model's approach to understanding health behaviour?",
+    "options": [
+      "A) It focuses on the stages of change an individual goes through",
+      "B) It emphasizes the role of social learning in behaviour change",
+      "C) It proposes that personal beliefs or perceptions mostly influence health behaviour",
+      "D) It highlights the importance of self-efficacy in behaviour change"
+    ],
+    "correct_answer": "C) It proposes that personal beliefs or perceptions mostly influence health behaviour",
+    "page_reference": "Page 28",
+    "rationale": "The Health Belief Model proposes that personal beliefs or perceptions mostly influence health behaviour. This model has been used since the 1950s to explain and predict behaviour in adopting disease prevention strategies or complying with early disease detection screening.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00071",
+    "section_number": "02"
+  },
+  {
+    "question_text": "According to the Transtheoretical Model (TTM), how long must a person maintain a new health behaviour before entering the Maintenance stage?",
+    "options": [
+      "A) 1 month",
+      "B) 3 months",
+      "C) 6 months",
+      "D) 12 months"
+    ],
+    "correct_answer": "C) 6 months",
+    "page_reference": "Page 30",
+    "rationale": "According to the Transtheoretical Model (TTM), the Maintenance stage is reached when a patient has sustained the health behaviour change for at least 6 months without a relapse.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00072",
+    "section_number": "02"
+  },
+  {
+    "question_text": "Which of the following is NOT one of the four core skills of Motivational Interviewing (MI)?",
+    "options": [
+      "A) Open-ended questions",
+      "B) Affirmations",
+      "C) Reflections",
+      "D) Prescriptions"
+    ],
+    "correct_answer": "D) Prescriptions",
+    "page_reference": "Page 38",
+    "rationale": "The four core skills of Motivational Interviewing (MI), also known as OARS, are: Open-ended questions, Affirmations, Reflections, and Summaries. Prescriptions are not part of the core MI skills.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00073",
+    "section_number": "02"
+  },
+  {
+    "question_text": "Which of the following is a key principle of Social Cognitive Theory?",
+    "options": [
+      "A) Stages of change",
+      "B) Reciprocal determinism",
+      "C) Health belief model",
+      "D) Decisional balance"
+    ],
+    "correct_answer": "B) Reciprocal determinism",
+    "page_reference": "Page 29",
+    "rationale": "Reciprocal determinism is a key principle of Social Cognitive Theory. It states that the person, the behaviour, and the environment all influence each other in a dynamic and reciprocal fashion.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00074",
+    "section_number": "02"
+  },
+  {
+    "question_text": "In the context of Cognitive Behavioural Therapy (CBT), what is the ABCDE method used for?",
+    "options": [
+      "A) Assessing readiness to change",
+      "B) Developing action plans",
+      "C) Identifying and reframing nonproductive thinking",
+      "D) Measuring self-efficacy"
+    ],
+    "correct_answer": "C) Identifying and reframing nonproductive thinking",
+    "page_reference": "Page 41",
+    "rationale": "The ABCDE method, developed by Dr. Albert Ellis, is used in Cognitive Behavioural Therapy to help patients identify and reframe nonproductive thinking. It stands for Action, Beliefs, Consequences, Dispute, and Effect.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00075",
+    "section_number": "02"
+  },
+  {
+    "question_text": "Which of the following best describes the concept of self-efficacy in the context of health behaviour change?",
+    "options": [
+      "A) The ability to set realistic goals",
+      "B) The confidence in one's ability to perform a behaviour successfully",
+      "C) The willingness to change a behaviour",
+      "D) The knowledge of health risks associated with a behaviour"
+    ],
+    "correct_answer": "B) The confidence in one's ability to perform a behaviour successfully",
+    "page_reference": "Page 29",
+    "rationale": "Self-efficacy is defined as the level of confidence to successfully perform a behaviour, which is influenced by one's behavioural capability and environmental facilitators or inhibitors.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00076",
+    "section_number": "02"
+  },
+  {
+    "question_text": "What is the primary focus of positive psychology in relation to health behaviour change?",
+    "options": [
+      "A) Analysing past failures to avoid future mistakes",
+      "B) Identifying and treating psychological disorders",
+      "C) Emphasizing positive emotions, engagement, relationships, meaning, and accomplishment",
+      "D) Encouraging patients to ignore negative emotions"
+    ],
+    "correct_answer": "C) Emphasizing positive emotions, engagement, relationships, meaning, and accomplishment",
+    "page_reference": "Page 41",
+    "rationale": "Positive psychology focuses on increasing well-being by emphasizing positive emotions, engagement, positive relationships, meaning, and accomplishment, also known as PERMA.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00077",
+    "section_number": "02"
+  },
+  {
+    "question_text": "Which of the following is NOT a characteristic of a SMART goal?",
+    "options": [
+      "A) Specific",
+      "B) Measurable",
+      "C) Achievable",
+      "D) Rapid"
+    ],
+    "correct_answer": "D) Rapid",
+    "page_reference": "Page 36",
+    "rationale": "The SMART goal acronym stands for goals that are Specific, Measurable, Achievable, Relevant, and Timebound. \"Rapid\" is not part of the SMART criteria.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00078",
+    "section_number": "02"
+  },
+  {
+    "question_text": "What is the primary purpose of using reflections in motivational interviewing?",
+    "options": [
+      "A) To provide expert advice to the patient",
+      "B) To help the patient create connections and bring awareness to what has been vocalized",
+      "C) To challenge the patient's beliefs about their behaviour",
+      "D) To diagnose underlying psychological issues"
+    ],
+    "correct_answer": "B) To help the patient create connections and bring awareness to what has been vocalized",
+    "page_reference": "Page 44",
+    "rationale": "Reflections are used in motivational interviewing to help the patient create connections, tap into emotions, and bring awareness to what has been vocalized.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00079",
+    "section_number": "02"
+  },
+  {
+    "question_text": "According to the Transtheoretical Model, in which stage of change is a person when they are considering making a change within the next 6 months?",
+    "options": [
+      "A) Precontemplation",
+      "B) Contemplation",
+      "C) Preparation",
+      "D) Action"
+    ],
+    "correct_answer": "B) Contemplation",
+    "page_reference": "Page 31",
+    "rationale": "In the Contemplation stage of the Transtheoretical Model, a person is considering making a change within the next 6 months.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00080",
+    "section_number": "02"
+  },
+  {
+    "question_text": "Which of the following is NOT one of the six key constructs of the Health Belief Model?",
+    "options": [
+      "A) Perceived susceptibility",
+      "B) Perceived severity",
+      "C) Perceived benefits",
+      "D) Perceived control"
+    ],
+    "correct_answer": "D) Perceived control",
+    "page_reference": "Page 28",
+    "rationale": "The six key constructs of the Health Belief Model are: Perceived susceptibility, Perceived severity, Perceived benefits, Perceived barriers, Cues to action, and Self-efficacy. Perceived control is not one of these constructs.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00081",
+    "section_number": "02"
+  },
+  {
+    "question_text": "What is the primary goal of using the \"coach approach\" in lifestyle medicine?",
+    "options": [
+      "A) To provide expert medical advice",
+      "B) To prescribe specific treatments",
+      "C) To empower patients and foster collaborative relationships",
+      "D) To diagnose underlying health conditions"
+    ],
+    "correct_answer": "C) To empower patients and foster collaborative relationships",
+    "page_reference": "Page 33",
+    "rationale": "The \"coach approach\" in lifestyle medicine aims to use a collaborative communication style that positions patients as leaders and collaborators in the direction of their own care, empowering them and fostering collaborative relationships.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00082",
+    "section_number": "02"
+  },
+  {
+    "question_text": "Which of the following is an example of a \"mastery experience\" that can increase self-efficacy?",
+    "options": [
+      "A) Watching a video of someone successfully completing a task",
+      "B) Receiving verbal encouragement from a healthcare provider",
+      "C) Successfully completing a challenging task related to the health behaviour",
+      "D) Learning about the health benefits of a behaviour"
+    ],
+    "correct_answer": "C) Successfully completing a challenging task related to the health behaviour",
+    "page_reference": "Page 35",
+    "rationale": "Mastery experiences, which are the most effective way to build self-efficacy, occur when a person successfully completes a challenging task related to the health behaviour they are trying to change.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00083",
+    "section_number": "02"
+  },
+  {
+    "question_text": "What is the primary purpose of a relapse prevention plan?",
+    "options": [
+      "A) To prevent any lapses in behaviour change",
+      "B) To identify potential triggers and develop strategies to manage them",
+      "C) To punish individuals who relapse",
+      "D) To discourage individuals from attempting behaviour change"
+    ],
+    "correct_answer": "B) To identify potential triggers and develop strategies to manage them",
+    "page_reference": "Page 48",
+    "rationale": "The primary purpose of a relapse prevention plan is to assess potential triggers for lapses and develop strategies to manage these situations to prevent ongoing lapses or full relapse.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00084",
+    "section_number": "02"
+  },
+  {
+    "question_text": "Which of the following is NOT a component of the PERMA model in positive psychology?",
+    "options": [
+      "A) Positive emotions",
+      "B) Engagement",
+      "C) Relationships",
+      "D) Ambition"
+    ],
+    "correct_answer": "D) Ambition",
+    "page_reference": "Page 41-42",
+    "rationale": "The PERMA model in positive psychology consists of Positive emotions, Engagement, Relationships, Meaning, and Accomplishment. Ambition is not part of this model.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00085",
+    "section_number": "02"
+  },
+  {
+    "question_text": "What is the primary difference between a \"lapse\" and a \"relapse\" in behaviour change?",
+    "options": [
+      "A) A lapse is intentional while a relapse is unintentional",
+      "B) A lapse is a short-term deviation while a relapse is a sustained return to previous behaviour",
+      "C) A lapse occurs in the action stage while a relapse occurs in the maintenance stage",
+      "D) A lapse is less serious than a relapse"
+    ],
+    "correct_answer": "B) A lapse is a short-term deviation while a relapse is a sustained return to previous behaviour",
+    "page_reference": "Page 48",
+    "rationale": "A lapse is defined as a short-term period when an action plan is not followed, while a relapse is a sustained period when an action plan is not followed.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00086",
+    "section_number": "02"
+  },
+  {
+    "question_text": "Which of the following is an example of a double-sided reflection in motivational interviewing?",
+    "options": [
+      "A) \"You want to exercise more, but you're worried about finding the time.\"",
+      "B) \"It sounds like you're feeling frustrated with your progress.\"",
+      "C) \"Can you tell me more about why exercise is important to you?\"",
+      "D) \"I understand that exercise can be challenging to fit into a busy schedule.\""
+    ],
+    "correct_answer": "A) \"You want to exercise more, but you're worried about finding the time.\"",
+    "page_reference": "Page 44",
+    "rationale": "A double-sided reflection in motivational interviewing reveals more than one perspective at the same time, often comparing a patient's verbalized readiness to change with a contrasting statement of resistance.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00087",
+    "section_number": "02"
+  },
+  {
+    "question_text": "According to the Transtheoretical Model, what is the primary focus of interventions in the Precontemplation stage?",
+    "options": [
+      "A) Developing specific action plans",
+      "B) Building self-efficacy for change",
+      "C) Raising awareness of the need for change",
+      "D) Preventing relapse"
+    ],
+    "correct_answer": "C) Raising awareness of the need for change",
+    "page_reference": "Page 31",
+    "rationale": "In the Precontemplation stage, interventions focus on raising awareness of the need for change, as individuals in this stage are not yet considering making a change.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00088",
+    "section_number": "02"
+  },
+  {
+    "question_text": "Which of the following is an example of a social determinant of health?",
+    "options": [
+      "A) Genetic predisposition to heart disease",
+      "B) Personal choice to smoke cigarettes",
+      "C) Access to affordable, nutritious food",
+      "D) Individual exercise habits"
+    ],
+    "correct_answer": "C) Access to affordable, nutritious food",
+    "page_reference": "Page 31",
+    "rationale": "Social determinants of health are the conditions in which people are born, grow, live, work, and age. Access to affordable, nutritious food is an example of a social determinant of health.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00089",
+    "section_number": "02"
+  },
+  {
+    "question_text": "What is the primary purpose of using people-first language in healthcare?",
+    "options": [
+      "A) To simplify medical terminology",
+      "B) To respect and honour patients instead of defining them by a disease or condition",
+      "C) To improve medical documentation",
+      "D) To comply with legal requirements"
+    ],
+    "correct_answer": "B) To respect and honour patients instead of defining them by a disease or condition",
+    "page_reference": "Page 34",
+    "rationale": "People-first language is used to respect and honour patients instead of defining them by a disease, condition, or disorder. It helps to ensure a safe and supportive environment in which patients are more inclined to discuss health behaviours.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00090",
+    "section_number": "02"
+  },
+  {
+    "question_text": "A 38-year-old man with type 2 diabetes has had unstable and high haemoglobin A1c (HbA1c) over several years. He recently moved to a new city and is seeing a new primary care provider. Over the past 12 weeks, his HbA1c has decreased from 7.9% to 6.7%. Which of the following physician attributes would most likely explain this improvement?",
+    "options": [
+      "A) Insightful reflections of adaptive patient behaviours",
+      "B) Highly developed capacity for empathy",
+      "C) Autonomy-supportive informational approach",
+      "D) Curious open inquiry about the reasons behind fluctuations"
+    ],
+    "correct_answer": "B) Highly developed capacity for empathy",
+    "page_reference": "Page 43",
+    "rationale": "The correct answer is B) Highly developed capacity for empathy. This is supported by the information on page 43, which states that \"Providers with high empathy scores from their patients were more likely to achieve good HbA1c control than those with low empathy scores (56% versus 40%).\" This suggests that a physician's capacity for empathy can significantly impact a patient's diabetes management, leading to improved HbA1c levels.",
+    "issue": "Incorrect number of options",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00091",
+    "section_number": "02"
+  },
+  {
+    "question_text": "Which of the following best describes the concept of \"mastery experiences\" in relation to building self-efficacy for health behaviour change?",
+    "options": [
+      "A) Observing others successfully perform a behaviour",
+      "B) Receiving verbal encouragement from a healthcare provider",
+      "C) Successfully completing a challenging task related to the health behaviour",
+      "D) Learning about the health benefits of a behaviour"
+    ],
+    "correct_answer": "C) Successfully completing a challenging task related to the health behaviour",
+    "page_reference": "Page 35",
+    "rationale": "The correct answer is C. As stated on page 35, mastery experiences, which are the most effective way to build self-efficacy, occur when a person successfully completes a challenging task related to the health behaviour they are trying to change.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00092",
+    "section_number": "02"
+  },
+  {
+    "question_text": "In the context of motivational interviewing, what is the primary purpose of using double-sided reflections?",
+    "options": [
+      "A) To challenge the patient's beliefs about their behaviour",
+      "B) To provide expert advice to the patient",
+      "C) To acknowledge both the patient's readiness to change and their resistance",
+      "D) To diagnose underlying psychological issues"
+    ],
+    "correct_answer": "C) To acknowledge both the patient's readiness to change and their resistance",
+    "page_reference": "Page 44",
+    "rationale": "The correct answer is C. As described on page 44, double-sided reflections in motivational interviewing reveal more than one perspective at the same time, often comparing a patient's verbalized readiness to change with a contrasting statement of resistance.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00093",
+    "section_number": "02"
+  },
+  {
+    "question_text": "When using the ABCDE method of behavioural change, what does the \"D\" stand for?",
+    "options": [
+      "A) Determination",
+      "B) Demonstration",
+      "C) Dispute",
+      "D) Development"
+    ],
+    "correct_answer": "C) Dispute",
+    "page_reference": "Page 41",
+    "rationale": "The correct answer is C. As explained on page 41, in the ABCDE method developed by DR Albert Ellis, \"D\" stands for Dispute, where the patient learns to dispute or challenge the beliefs that seem to be distorted or unhealthy.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00094",
+    "section_number": "02"
+  },
+  {
+    "question_text": "When a patient expresses frustration about not being able to stick to their exercise plan due to a busy work schedule, which of the following responses best demonstrates the use of cognitive behavioural techniques?",
+    "options": [
+      "A) \"You should try to wake up earlier to fit in your exercise.\"",
+      "B) \"How about we explore some ways you might see this situation differently?\"",
+      "C) \"Many people struggle with finding time to exercise. It's normal to feel frustrated.\"",
+      "D) \"Perhaps you should consider changing jobs to one with a more flexible schedule.\""
+    ],
+    "correct_answer": "B) \"How about we explore some ways you might see this situation differently?\"",
+    "page_reference": "Page 40",
+    "rationale": "The correct answer is B. As outlined on page 40, cognitive behavioural techniques involve helping patients recognize and reframe nonproductive thinking. By inviting the patient to consider different perspectives on their situation, the provider is using a key principle of cognitive behavioural therapy to address the patient's frustration and problem-solve.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00095",
+    "section_number": "02"
+  },
+  {
+    "question_text": "In the context of health behaviour change, what is the primary purpose of using the \"coach approach\" instead of the \"expert approach\"?",
+    "options": [
+      "A) To provide expert medical advice",
+      "B) To prescribe specific treatments",
+      "C) To empower patients and foster collaborative relationships",
+      "D) To diagnose underlying health conditions"
+    ],
+    "correct_answer": "C) To empower patients and foster collaborative relationships",
+    "page_reference": "Page 33",
+    "rationale": "The correct answer is C. As described on page 33, the \"coach approach\" in lifestyle medicine aims to use a collaborative communication style that positions patients as leaders and collaborators in the direction of their own care, empowering them and fostering collaborative relationships.",
+    "section": "Fundamentals of Health Behavior Change",
+    "question_type": "General",
+    "question_id": "00096",
+    "section_number": "02"
+  }
+]

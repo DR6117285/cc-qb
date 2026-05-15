@@ -1,0 +1,404 @@
+[
+  {
+      "question_id": "1076",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "A healthcare system is implementing a new wellness program for its staff. During the planning phase, they conduct a needs assessment which reveals high rates of emotional exhaustion among nurses working in high-intensity settings. Based on research findings, which of the following interventions would be most effective in building resilience and reducing burnout in this population?",
+      "options": [
+          "A) Implementing mandatory daily mindfulness sessions",
+          "B) Creating a positive teamwork climate with structured peer support",
+          "C) Installing standing workstations in all nursing units",
+          "D) Offering monthly wellness seminars on stress management"
+      ],
+      "correct_answer": "B) Creating a positive teamwork climate with structured peer support",
+      "page_reference": "111-112",
+      "rationale": "According to research by Rushton et al., greater resiliency in nurses practicing in high-intensity settings was associated with a greater sense of personal accomplishment and lower rates of emotional exhaustion. Specifically, positive teamwork climates appear to improve the capacity for resiliency in nurses. While other options like mindfulness and ergonomic solutions may be helpful, the evidence specifically supports the effectiveness of positive teamwork climate and peer support in building resilience among nurses in high-intensity settings."
+  },
+  {
+      "question_id": "1077",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "A chief wellness officer (CWO) at a large hospital system notices increasing rates of moral injury among staff following the COVID-19 pandemic. According to current literature, which of the following statements most accurately describes the relationship between moral injury and healthcare worker well-being?",
+      "options": [
+          "A) Moral injury primarily affects only those in direct patient care roles",
+          "B) Research shows lower rates of moral injury in healthcare workers compared to combat veterans",
+          "C) Moral injury occurs independently of mental health concerns and burnout",
+          "D) Research findings note similar rates of moral injury in healthcare workers compared to post-9/11 combat veterans"
+      ],
+      "correct_answer": "D) Research findings note similar rates of moral injury in healthcare workers compared to post-9/11 combat veterans",
+      "page_reference": "111",
+      "rationale": "Research findings have noted similar rates of moral injury in healthcare workers compared to combat veterans after the events of September 11, 2001. Moral injury is defined as 'the strong cognitive and emotional response that can occur following events that violate a person's moral or ethical code.' It can contribute to both mental health concerns (post-traumatic stress disorder, alcohol/substance use, suicidality) and burnout."
+  },
+  {
+      "question_id": "1078",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "A physician group practice is seeing increased burnout among its providers. The leadership team wants to implement evidence-based prevention strategies. According to Merlo and Rippe's prevention model, which of the following represents the most appropriate primordial prevention strategy for addressing burnout?",
+      "options": [
+          "A) Implementing stress management programs that incorporate coping strategies",
+          "B) Providing referrals to mental health services for affected providers",
+          "C) Building social support networks in the workplace before burnout onset",
+          "D) Developing screening programs using validated approaches"
+      ],
+      "correct_answer": "C) Building social support networks in the workplace before burnout onset",
+      "page_reference": "112",
+      "rationale": "According to the prevention model described by Merlo and Rippe, primordial prevention is a strategy to avoid risk factors before they begin affecting the individual. Building social support networks in the workplace is specifically listed as a primordial prevention strategy. The other options represent different levels of prevention: stress management programs are secondary prevention, mental health referrals are tertiary prevention, and screening programs are secondary prevention."
+  },
+  {
+      "question_id": "1079",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "A study examines the relationship between physicians' personal health behaviors and their counseling practices. The researchers find that physicians who consume a vegetarian diet are more likely to counsel patients on certain health behaviors. According to the research, what is the correct odds ratio for increased counseling by vegetarian physicians?",
+      "options": [
+          "A) 1.4 times more likely for nutrition counseling",
+          "B) 2.1 times more likely for nutrition counseling",
+          "C) 3.0 times more likely for weight loss counseling",
+          "D) 5.7 times more likely for both nutrition and weight loss counseling"
+      ],
+      "correct_answer": "B) 2.1 times more likely for nutrition counseling",
+      "page_reference": "105-106",
+      "rationale": "According to the research cited, physicians who consumed a vegetarian diet were more likely to counsel on weight loss and nutrition with odds ratios of 2.0 and 2.1, respectively. The specific finding shows that for nutrition counseling, vegetarian physicians had an odds ratio of 2.1, making option B the correct answer. The other odds ratios mentioned in the distractors are either incorrect or represent different associations from other studies."
+  },
+  {
+      "question_id": "1080",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "A healthcare system is transitioning from the Triple Aim to the Quintuple Aim framework. Which of the following best represents the chronological evolution of this framework's development?",
+      "options": [
+          "A) Population health → Patient experience → Cost reduction → Provider well-being → Health equity",
+          "B) Patient experience → Cost reduction → Population health → Health equity → Provider well-being",
+          "C) Cost reduction → Population health → Patient experience → Health equity → Provider well-being",
+          "D) Patient experience → Population health → Cost reduction → Provider well-being → Health equity"
+      ],
+      "correct_answer": "D) Patient experience → Population health → Cost reduction → Provider well-being → Health equity",
+      "page_reference": "107",
+      "rationale": "The evolution of the healthcare optimization framework began with the Triple Aim in 2008 (improving patient experience, population health, and reducing costs), expanded to the Quadruple Aim in 2014 by adding provider well-being, and finally evolved to the Quintuple Aim in 2022 by adding health equity. The correct chronological order is: patient experience, population health, and cost reduction (original Triple Aim), followed by provider well-being (fourth aim), and finally health equity (fifth aim)."
+  },
+  {
+      "question_id": "1081",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "An occupational health researcher is studying the prevalence of healthy behaviors among healthcare workers compared to the general population. According to behavioral risk factor surveillance system questionnaire data, which combination of findings is most accurate?",
+      "options": [
+          "A) Higher exercise rates and lower BMI across all healthcare workers",
+          "B) Similar BMI and smoking rates, but higher exercise rates among healthcare workers",
+          "C) Lower BMI only among college-educated healthcare workers, with similar smoking rates",
+          "D) Higher exercise rates and lower smoking rates across all education levels"
+      ],
+      "correct_answer": "C) Lower BMI only among college-educated healthcare workers, with similar smoking rates",
+      "page_reference": "104-105",
+      "rationale": "According to the behavioral risk factor surveillance system questionnaire data, healthcare workers showed similar body mass index (BMI), smoking and smokeless tobacco use compared to the general public, with the specific finding that lower likelihood of overweight/obesity was observed only among healthcare workers with at least a college education. This matches option C, while the other options either overstate or incorrectly characterize the differences between healthcare workers and the general population."
+  },
+  {
+      "question_id": "1082",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "A lifestyle medicine practitioner is developing a personal action plan using the SMART goals framework. Which of the following represents the most appropriate application of this framework for lifestyle behavior change?",
+      "options": [
+          "A) Exercise more frequently starting next month",
+          "B) Reduce daily caloric intake by approximately 500 calories",
+          "C) Walk 30 minutes during lunch break three times weekly for the next month",
+          "D) Improve sleep habits by going to bed earlier when possible"
+      ],
+      "correct_answer": "C) Walk 30 minutes during lunch break three times weekly for the next month",
+      "page_reference": "109-110",
+      "rationale": "The SMART goals framework requires goals to be Specific (walking), Measurable (30 minutes), Achievable (during lunch break), Relevant (exercise activity), and Time-bound (three times weekly for the next month). Option C is the only choice that fulfills all SMART criteria. The other options lack one or more SMART elements: option A lacks specificity and measurability, option B lacks time-binding and specificity about implementation, and option D lacks specificity, measurability, and concrete time parameters."
+  },
+  {
+      "question_id": "1083",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "In analyzing the relationship between physician health practices and patient counseling, a meta-analysis of 24 studies examined the correlation between providers' activity habits and their likelihood of counseling patients about physical activity. What was the reported range of increased odds for counseling among physically active physicians?",
+      "options": [
+          "A) 1.1 to 3.2 times higher odds",
+          "B) 1.4 to 5.7 times higher odds",
+          "C) 2.0 to 4.5 times higher odds",
+          "D) 2.5 to 6.8 times higher odds"
+      ],
+      "correct_answer": "B) 1.4 to 5.7 times higher odds",
+      "page_reference": "105",
+      "rationale": "In the meta-analysis of 24 studies about health providers' activity habits and their likelihood of counseling patients about physical activity, 19 of the studies showed a high correlation between physicians' physical activity habits and counseling frequency, with odds of counseling 1.4-5.7 times higher among the exercising physicians (p < 0.05). This specific range is accurately represented only in option B."
+  },
+  {
+      "question_id": "1084",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "A healthcare system is experiencing increased rates of compassion fatigue among its providers. According to current research, which of the following statements most accurately describes the relationship between compassion fatigue and provider well-being?",
+      "options": [
+          "A) Compassion fatigue primarily affects providers with pre-existing mental health conditions",
+          "B) Compassion fatigue improves with decreased patient contact hours",
+          "C) Compassion fatigue improves with increased provider self-care and self-focus",
+          "D) Compassion fatigue requires complete removal from patient care for resolution"
+      ],
+      "correct_answer": "C) Compassion fatigue improves with increased provider self-care and self-focus",
+      "page_reference": "110-111",
+      "rationale": "According to the text, compassion fatigue improves with increased provider self-care and self-focus. Compassion fatigue is defined as emotional, spiritual, or physical exhaustion from repeated or prolonged exposure to the suffering of others, leading to an inability to cope and impaired ability to provide care for others. While compassion is an 'empathetic gift' necessary in healthcare, compassion overload can lead to fatigue. The improvement through self-care and self-focus is specifically noted in the literature, making option C the correct answer."
+  },
+  {
+      "question_id": "1085",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "A lifestyle medicine clinic is implementing the RAIN technique to improve therapeutic alliance. During a difficult patient encounter, a practitioner notices feelings of frustration arising. According to the RAIN framework, what is the most appropriate next step?",
+      "options": [
+          "A) Redirect attention to the patient's presenting complaint",
+          "B) Immediately investigate the source of the patient's behavior",
+          "C) Make room for the experience while maintaining presence",
+          "D) Take a break from the encounter to regain composure"
+      ],
+      "correct_answer": "C) Make room for the experience while maintaining presence",
+      "page_reference": "109",
+      "rationale": "According to the RAIN framework described in the text, after Recognizing what's happening (first step - noticing the frustration), the next step is to Allow, which means making room for the experience. This maps directly to option C. The RAIN framework consists of: Recognize (notice what's happening), Allow (make room for the experience), Investigate (be curious in the moment with interest and care), and Nurture (witness the experience and apply self-compassion). The other options either skip steps or suggest actions outside the RAIN framework."
+  },
+  {
+      "question_id": "1089",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "In a 2009 survey of Californian physicians examining health behaviors, which combination of findings most accurately represents the prevalence of concerning behaviors?",
+      "options": [
+          "A) 53% reported severe-to-moderate stress; 35% reported no or occasional exercise",
+          "B) 34% reported six or fewer hours of sleep; 27% reported occasional breakfast consumption",
+          "C) 13% reported sedative use; 4% reported marijuana use",
+          "D) 27% reported never eating breakfast; 7% reported depression"
+      ],
+      "correct_answer": "A) 53% reported severe-to-moderate stress; 35% reported no or occasional exercise",
+      "page_reference": "104",
+      "rationale": "According to the 2009 survey of Californian physicians (N = 763, 41% response rate), the exact findings showed that 53% reported severe-to-moderate stress and 35% reported no or occasional exercise. While all the statistics mentioned in the options are from the study, option A represents the two most prevalent concerning behaviors reported in the survey."
+  },
+  {
+      "question_id": "1090",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "A study examining nurses' health behaviors in New South Wales, Australia (Fit for the Future study) compared to the general population found which unique combination of characteristics?",
+      "options": [
+          "A) Higher levels of physical activity and lower levels of risky drinking",
+          "B) Lower obesity rates and higher levels of risky drinking",
+          "C) Higher levels of physical activity and higher dietary guideline adherence",
+          "D) Lower levels of physical activity and higher levels of risky drinking"
+      ],
+      "correct_answer": "D) Lower levels of physical activity and higher levels of risky drinking",
+      "page_reference": "105",
+      "rationale": "The 'Fit for the Future' study of more than 5,000 nurses in New South Wales, Australia found that nurses had lower levels of physical activity and higher levels of risky drinking across almost all age groups and genders. While nurses were slightly less likely to be obese and more likely to meet dietary guidelines and not smoke, the specific combination of lower physical activity and higher risky drinking levels is the key finding that distinguishes them from the general population."
+  },
+  {
+      "question_id": "1091",
+      "section_number": "04",
+      "question_type": "Supplementary",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_text": "According to research on gender differences in physicians' personal health practices and counseling behaviors, which pattern most accurately describes the correlation between personal habits and patient counseling?",
+      "options": [
+          "A) Male physicians show stronger correlations across all health behaviors",
+          "B) Female physicians' practices correlate only with nutrition counseling",
+          "C) Male physicians' practices correlate with all behaviors except alcohol use",
+          "D) Female physicians show stronger correlations across all health behaviors"
+      ],
+      "correct_answer": "C) Male physicians' practices correlate with all behaviors except alcohol use",
+      "page_reference": "105",
+      "rationale": "According to the research, male internists' health practices for smoking, alcohol, seat belt use, and physical activity were positively associated with counseling for each health behavior, except alcohol use. This specific pattern is captured in option C. The study showed different patterns for female physicians, whose personal health practices for physical activity were associated positively with counseling patients about exercise and alcohol use, but did not show the same broad correlation across all health behaviors as seen in male physicians (except for alcohol use)."
+  },
+  {
+    "question_id": "1092",
+    "section_number": "04",
+    "question_type": "Supplementary",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_text": "A healthcare institution is developing a wellness program. According to the literature, which combination of attributes is most strongly associated with successful wellness programs?",
+    "options": [
+      "A) Multiple engagement opportunities and strong financial incentives",
+      "B) Excellent communication and single point of leadership",
+      "C) Excellent communication, multiple engagement opportunities, and participation of leadership at all levels",
+      "D) Regular program evaluation and minimal leadership involvement"
+    ],
+    "correct_answer": "C) Excellent communication, multiple engagement opportunities, and participation of leadership at all levels",
+    "page_reference": "108",
+    "rationale": "According to the text, the most successful wellness programs have the following attributes: excellent communication within the team, multiple opportunities to engage, participation of leadership at all levels, leveraging of existing resources and relationships, and an iterative process of evaluation and refining the program based on feedback. Option C captures the three most critical elements of this framework: communication excellence, multiple engagement opportunities, and multi-level leadership participation."
+  },
+  {
+    "question_id": "1093",
+    "section_number": "04",
+    "question_type": "Supplementary",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_text": "A physician develops inflammation-related health issues after experiencing chronic workplace stress. According to research by Fagundes et al., which factor most accurately explains the relationship between close relationships and physical health outcomes in this context?",
+    "options": [
+      "A) Current stress levels are the primary mediator of health outcomes",
+      "B) Childhood stress has no impact on current inflammation levels",
+      "C) Social relationships affect morbidity independent of inflammation",
+      "D) Both current and past childhood stress affect inflammation and health outcomes"
+    ],
+    "correct_answer": "D) Both current and past childhood stress affect inflammation and health outcomes",
+    "page_reference": "112",
+    "rationale": "According to Fagundes et al., there is a well-documented link between close relationships and physical health mediated by inflammation, which is related to both current and past stress in childhood. People who have supportive close relationships have lower rates of morbidity and mortality from psychiatric illness compared to those who do not. This relationship is specifically noted to be influenced by both current stress levels and childhood stress, making option D the most complete and accurate answer."
+  },
+  {
+    "question_id": "1094",
+    "section_number": "04",
+    "question_type": "Supplementary",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_text": "In the context of lifestyle medicine advocacy, which approach best demonstrates the difference between advocacy and activism when working to implement change in a healthcare system?",
+    "options": [
+      "A) Taking an extreme position to force immediate change",
+      "B) Coordinating efforts to influence policy through evidence-based dialogue",
+      "C) Using confrontational tactics to achieve rapid results",
+      "D) Demanding immediate system-wide changes without compromise"
+    ],
+    "correct_answer": "B) Coordinating efforts to influence policy through evidence-based dialogue",
+    "page_reference": "113-114",
+    "rationale": "According to the text, advocacy is defined as coordinated efforts to defend, promote, or protect something or someone by influencing public policy debate and interacting with influencers. In contrast, activism tends to take a more extreme position and be more vocal, rigid, and upfront. The key distinction is that advocacy involves a more collaborative, evidence-based approach to influence policy, while activism takes a more confrontational stance. Option B correctly captures the advocacy approach, while the other options describe activist approaches."
+  },
+  {
+    "question_id": "1095",
+    "section_number": "04",
+    "question_type": "Supplementary",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_text": "A healthcare system is experiencing high rates of provider burnout. According to the National Academy of Medicine's consensus study report, what is the most accurate assessment of burnout prevalence among different healthcare providers?",
+    "options": [
+      "A) 35-45% of physicians and 20-30% of nurses show substantial burnout symptoms",
+      "B) 45-60% of medical students and 35-45% of nurses and physicians show substantial burnout symptoms",
+      "C) 25-35% of nurses and 45-60% of physicians show substantial burnout symptoms",
+      "D) 35-45% of nurses and physicians, with lower rates among medical students"
+    ],
+    "correct_answer": "B) 45-60% of medical students and 35-45% of nurses and physicians show substantial burnout symptoms",
+    "page_reference": "111",
+    "rationale": "According to the 2019 National Academy of Medicine consensus study report, between 35% and 45% of US nurses and physicians have substantial symptoms of burnout. Similarly, burnout for medical students is 45-60%. Option B accurately captures both statistics, while the other options either underestimate or incorrectly represent the relationships between different healthcare provider groups' burnout rates."
+  },
+  {
+    "question_id": "1096",
+    "section_number": "04",
+    "question_type": "Supplementary",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_text": "According to the professional identity formation process described in the literature, which sequence most accurately represents how clinicians develop their professional identity?",
+    "options": [
+      "A) Knowing → Being → Doing → Community participation",
+      "B) Doing → Knowing → Being → Community participation",
+      "C) Community participation → Knowing → Doing → Being",
+      "D) Knowing → Doing → Being → Through communities of practice"
+    ],
+    "correct_answer": "D) Knowing → Doing → Being → Through communities of practice",
+    "page_reference": "106",
+    "rationale": "According to the text, professional identity formation occurs by participating in communities of practice within their discipline via knowing, doing, and being, which then allows clinicians to think, act, and feel like a healthcare professional. This process requires active participation rather than passive reception of knowledge. Option D correctly captures this sequence and includes the important context of communities of practice, which is integral to the process."
+  },
+  {
+    "question_id": "1097",
+    "section_number": "04",
+    "question_type": "Supplementary",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_text": "A systematic review examining burnout in surgeons identified several factors associated with reduced burnout risk. Which combination of factors most accurately represents the findings regarding lifestyle behaviors and burnout prevention?",
+    "options": [
+      "A) Regular exercise and increased work hours",
+      "B) Regular exercise and family time for stress management",
+      "C) Reduced work hours and minimal family interaction",
+      "D) Increased patient load and regular exercise"
+    ],
+    "correct_answer": "B) Regular exercise and family time for stress management",
+    "page_reference": "112",
+    "rationale": "According to the systematic review of burnout in surgeons, those who engaged in regular exercise were less likely to experience burnout. Additionally, managing stress by spending time with family and talking about feelings appears to be another important way to reduce burnout. Option B correctly combines these two evidence-based factors: regular exercise and family time for stress management. The other options either include incorrect associations or factors not supported by the research."
+  },
+  {
+    "question_id": "1098",
+    "section_number": "04",
+    "question_type": "Supplementary",
+    "section": "The Role of The Practitioners Health and Community Advocacy",
+    "question_text": "According to research on pharmacists building resilience, which combination of strategies was identified as most effective for this professional group?",
+    "options": [
+      "A) Reducing workload and practicing mindfulness only",
+      "B) Journaling and deep breathing exercises only",
+      "C) Reducing workload, socializing, journaling, and practicing mindfulness and yoga",
+      "D) Art therapy and reduced patient contact hours only"
+    ],
+    "correct_answer": "C) Reducing workload, socializing, journaling, and practicing mindfulness and yoga",
+    "page_reference": "112",
+    "rationale": "According to Mospan and Olenik's research, several ways were identified for pharmacists to build resilience. These included reducing workload, socializing, writing in journals, deep breathing, practicing mindfulness and yoga, being involved with some form of art, and utilizing problem-focused coping strategies. Option C captures the most comprehensive and accurate combination of these strategies as identified in the research, while other options either omit key strategies or artificially limit the range of effective approaches."
+  },
+  
+    {
+      "question_text": "According to the Blue Zones Project research, which of the following characteristics is most accurately associated with longevity in these communities?",
+      "options": [
+        "A) Stop eating after 60% full and exercise daily",
+        "B) Put loved ones first and stop eating after 80% full",
+        "C) Weekly medical visits and plant-based diet",
+        "D) Regular meditation and daily aerobic exercise"
+      ],
+      "correct_answer": "B",
+      "page_reference": "115",
+      "rationale": "According to the Blue Zones Project research, individuals in these communities share nine common characteristics. Among these, putting family first and stopping eating after becoming 80% full are specifically mentioned as key characteristics. The other options contain inaccurate information: weekly medical visits are not a characteristic of Blue Zones, the 60% full metric is incorrect, and specific exercise regimens are not mentioned - rather, they 'move naturally' in their day-to-day lives.",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_type": "Supplementary",
+      "question_id": "1189",
+      "section_number": "03"
+    },
+    {
+      "question_text": "According to the AMA Code of Ethics and WHO Declaration of Geneva, which statement most accurately reflects a healthcare provider's ethical obligation regarding personal health?",
+      "options": [
+        "A) Providers should prioritize patient care over personal health needs",
+        "B) Providers must maintain their own health and wellness as an ethical responsibility",
+        "C) Providers should seek regular medical check-ups but can deprioritize personal wellness",
+        "D) Providers are encouraged but not required to maintain personal health standards"
+      ],
+      "correct_answer": "B",
+      "page_reference": "107",
+      "rationale": "The AMA Code of Ethics explicitly states that practitioners are responsible for maintaining their own health and wellness, considering it an ethical responsibility. This is reinforced by the WHO's Declaration of Geneva (2017) which includes the statement 'I will attend to my own health, well-being, and abilities in order to provide care of the highest standard.' This makes it clear that maintaining personal health is an ethical obligation, not just a suggestion.",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_type": "Supplementary",
+      "question_id": "1190",
+      "section_number": "03"
+    },
+    {
+      "question_text": "A healthcare system's newly appointed Chief Well-being Officer (CWO) is establishing their role. According to current literature, which combination of responsibilities most accurately reflects the primary focus of this position?",
+      "options": [
+        "A) Managing employee benefits and coordinating wellness programs",
+        "B) Identifying anxiety sources, utilizing support resources, and assessing provider well-being",
+        "C) Organizing social events and managing work schedules",
+        "D) Implementing fitness programs and nutrition counseling"
+      ],
+      "correct_answer": "B",
+      "page_reference": "108",
+      "rationale": "According to the text, the main CWO responsibilities include identifying evolving sources of employee anxiety, utilizing support resources, assessing provider well-being, and providing leadership within the organization. The CWO role creates a champion of well-being on the leadership team that orchestrates organizational, system-wide initiatives to improve professional fulfillment. This comprehensive role goes beyond simply managing programs or organizing events.",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_type": "Supplementary",
+      "question_id": "1191",
+      "section_number": "03"
+    },
+    {
+      "question_text": "According to research on the therapeutic alliance in healthcare, which statement most accurately describes its relationship to treatment outcomes?",
+      "options": [
+        "A) It primarily affects patient satisfaction but not treatment adherence",
+        "B) It is a measure of patient compliance with prescribed treatments",
+        "C) It represents mutual engagement in treatment work and leads to better adherence",
+        "D) It focuses mainly on the provider's clinical expertise and authority"
+      ],
+      "correct_answer": "C",
+      "page_reference": "108-109",
+      "rationale": "The therapeutic alliance is defined as 'a measure of the [clinician's] and [patient's] mutual engagement in the work of [treatment]—thus representing an important component for achieving treatment success, regardless of the specific treatment modality employed.' The text specifically states that a positive patient-provider relationship leads to better adherence to the treatment plan. This makes option C the most accurate representation of the concept and its impact.",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_type": "Supplementary",
+      "question_id": "1192",
+      "section_number": "03"
+    },
+    {
+      "question_text": "When implementing a workplace wellness program, which sequence of steps most accurately reflects evidence-based best practices for program development?",
+      "options": [
+        "A) Implement programs → Assess needs → Evaluate outcomes → Adjust resources",
+        "B) Conduct needs assessment → Identify resources → Evaluate buy-in → Implement program",
+        "C) Evaluate buy-in → Implement programs → Identify resources → Assess needs",
+        "D) Identify resources → Implement programs → Conduct needs assessment → Evaluate outcomes"
+      ],
+      "correct_answer": "B",
+      "page_reference": "108",
+      "rationale": "According to the text, prior to implementing wellness programs, it is crucial to conduct a needs assessment, identify the resources necessary, and evaluate the likelihood of buy-in from potential participants. This sequence is captured in option B, which presents these steps in the correct order. The other options either reverse the logical sequence or place critical planning steps after implementation, which would be less effective.",
+      "section": "The Role of The Practitioners Health and Community Advocacy",
+      "question_type": "Supplementary",
+      "question_id": "1193",
+      "section_number": "03"
+    }
+  ]
+  

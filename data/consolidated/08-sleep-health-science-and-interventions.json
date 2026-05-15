@@ -1,0 +1,946 @@
+[
+  {
+    "question_text": "A 32-year-old man complains of falling asleep too early in the evening and then waking up in the very early hours of the morning after five hours of sleep. He is unable to go back to sleep. Which of the following dietary interventions is most likely to help shift his sleep pattern to a later time?",
+    "options": [
+      "A) Eating breakfast shortly after awakening",
+      "B) Eating dinner earlier in the evening",
+      "C) Consuming more protein at dinnertime",
+      "D) Consuming more carbohydrates at dinner time"
+    ],
+    "correct_answer": "D) Consuming more carbohydrates at dinner time",
+    "page_reference": "Page 289",
+    "rationale": "D is correct: consuming more carbohydrates at dinnertime can shift falling asleep to later in the evening by delaying sleep onset. A is incorrect: eating breakfast shortly after waking helps shift the wake-up time earlier, not later, which would worsen this patient's early morning waking. B is incorrect: eating dinner earlier would contribute to falling asleep even earlier, worsening the problem of advanced sleep phase. C is incorrect: consuming more protein at dinner has no specific evidence for shifting sleep timing to a later hour.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080001",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman presents with difficulty staying asleep. She goes to bed at 11 pm but wakes at 2 am and is unable to return to sleep. She recently separated from her husband and is finding it difficult to cope. Which of the following is the best recommendation to help with her sleep maintenance?",
+    "options": [
+      "A) Begin high-intensity physical activity with a personal trainer at the gym",
+      "B) Increase mid-morning sunlight exposure and outdoor physical activity",
+      "C) Keep bedroom lights in a cool blue colour range for a calm sleeping environment",
+      "D) Leave a flask of a hot beverage by the bedside for use at night"
+    ],
+    "correct_answer": "B) Increase mid-morning sunlight exposure and outdoor physical activity",
+    "page_reference": "Page 287",
+    "rationale": "B is correct: increasing morning and mid-morning sunlight exposure combined with outdoor physical activity is recommended for managing sleep maintenance problems, as it reinforces the circadian rhythm. A is incorrect: high-intensity physical activity, especially later in the day, is too stimulating and can impair sleep onset and maintenance. C is incorrect: cool blue light suppresses melatonin and disrupts sleep rather than creating a calm sleeping environment. D is incorrect: hot beverages by the bedside are not recommended; a glass of cool water is preferable if needed during the night.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080002",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 56-year-old man with chronic insomnia requests a prescription for hypnotics. Which of the following statements best describes the relationship between hypnotic medication use and mortality?",
+    "options": [
+      "A) Hypnotics are associated with decreased mortality in adults over 55",
+      "B) Hypnotics have no significant impact on mortality rates",
+      "C) Hypnotics are associated with increased all-cause mortality in all age groups",
+      "D) Hypnotics decrease mortality only when used short-term"
+    ],
+    "correct_answer": "C) Hypnotics are associated with increased all-cause mortality in all age groups",
+    "page_reference": "Page 297",
+    "rationale": "C is correct: prescription-strength hypnotics are associated with increased all-cause mortality across all age groups, including risks from overdose, accidents, falls, depression, cancer, and suicide. A is incorrect: hypnotics are not associated with decreased mortality in any age group; the evidence shows the opposite effect. B is incorrect: hypnotics do have a significant and well-documented impact on mortality rates, including increased risk of multiple causes of death. D is incorrect: hypnotics do not decrease mortality at any duration of use; even short-term use carries risks and they are not recommended as first-line treatment.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080003",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "cognitive-behavioral-therapy"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old woman reports difficulty falling asleep most nights. Her typical nighttime routine includes working on her computer until bedtime at 11:30 pm. Which of the following light sources in her routine would be expected to have the greatest effect on her melatonin levels?",
+    "options": [
+      "A) Bedside clock with red numerals",
+      "B) Computer screen",
+      "C) Incandescent reading light",
+      "D) Streetlight visible through window shades"
+    ],
+    "correct_answer": "B) Computer screen",
+    "page_reference": "Page 288",
+    "rationale": "B is correct: computer screens emit blue light with the shortest wavelength, which has the greatest suppressive effect on melatonin production and most significantly delays sleep onset. A is incorrect: red light from the bedside clock actually enhances melatonin production rather than suppressing it, making it the least disruptive light source listed. C is incorrect: incandescent light has less impact on melatonin levels compared to the direct blue light exposure from a computer screen. D is incorrect: streetlight filtered through window shades is attenuated and has considerably less impact on melatonin levels than direct blue light from a screen at close range.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080004",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man is traveling from New York to London for a business trip. Which of the following interventions would be most effective in helping him adjust to the new time zone and minimize jet lag?",
+    "options": [
+      "A) Take a high dose of melatonin (5mg) upon arrival",
+      "B) Avoid bright light exposure until the evening in London",
+      "C) Use low-dose melatonin (0.25mg) 3-4 hours before intended bedtime",
+      "D) Maintain his New York sleep schedule for the first few days"
+    ],
+    "correct_answer": "C) Use low-dose melatonin (0.25mg) 3-4 hours before intended bedtime",
+    "page_reference": "Page 289",
+    "rationale": "C is correct: low-dose melatonin (0.25 mg) taken 3-4 hours before the intended bedtime in the new time zone is the recommended approach for eastward jet lag adjustment. A is incorrect: high doses of melatonin (5 mg) are not recommended; lower doses are more effective and have fewer side effects. B is incorrect: bright light exposure should be actively sought close to the new ideal wake-up time, not avoided until evening, as morning light is the most powerful circadian cue. D is incorrect: maintaining the old New York sleep schedule would prolong the adjustment period and worsen jet lag.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080005",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old shift worker complains of difficulty sleeping during the day after night shifts. Which of the following is the most accurate statement regarding shift work sleep disorder?",
+    "options": [
+      "A) It affects less than 5% of shift workers",
+      "B) It is more common in older workers",
+      "C) It affects approximately 26.5% of shift workers",
+      "D) It only occurs in those working rotating shifts"
+    ],
+    "correct_answer": "C) It affects approximately 26.5% of shift workers",
+    "page_reference": "Page 275",
+    "rationale": "C is correct: approximately 26.5% of shift workers experience shift work sleep disorder, reflecting its high prevalence in this occupational group. A is incorrect: the prevalence is far higher than 5%; approximately one-quarter of shift workers are affected, not a small minority. B is incorrect: the disorder is not limited to or more common in older workers; it can affect shift workers across all age groups. D is incorrect: shift work sleep disorder is not limited to those working rotating shifts; it can occur in any non-traditional shift pattern, including permanent night shifts.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080006",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 28-year-old woman is concerned about her sleep quality. Which of the following assessment tools would be most appropriate to help identify potential negative beliefs about sleep and sleep behaviours that may be contributing to poor sleep quality?",
+    "options": [
+      "A) Pittsburgh Sleep Quality Index",
+      "B) Epworth Sleepiness Scale",
+      "C) STOP-BANG Questionnaire",
+      "D) Adolescent Sleep Hygiene Survey"
+    ],
+    "correct_answer": "D) Adolescent Sleep Hygiene Survey",
+    "page_reference": "Page 285",
+    "rationale": "D is correct: the Adolescent Sleep Hygiene Survey (ASHS) is a 28-item tool used with teens and adults to capture beliefs and behaviours contributing to poor sleep, including negative attitudes and misunderstandings about healthy sleep. A is incorrect: the Pittsburgh Sleep Quality Index is a general sleep quality index that does not specifically target beliefs and behaviours about sleep. B is incorrect: the Epworth Sleepiness Scale assesses daytime sleepiness, not beliefs or behaviours related to sleep. C is incorrect: the STOP-BANG questionnaire screens for obstructive sleep apnoea and does not assess sleep-related beliefs or hygiene behaviours.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080007",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 60-year-old man with a BMI of 32 kg/m² complains of loud snoring and daytime fatigue. His wife reports observing pauses in his breathing during sleep. Which of the following is the most appropriate next step in his evaluation?",
+    "options": [
+      "A) Prescribe a sleep hygiene regimen",
+      "B) Recommend over-the-counter melatonin",
+      "C) Perform a STOP-BANG assessment",
+      "D) Order an at-home sleep study"
+    ],
+    "correct_answer": "C) Perform a STOP-BANG assessment",
+    "page_reference": "Page 284",
+    "rationale": "C is correct: given the patient's symptoms of snoring, observed apnoeas, and daytime fatigue alongside risk factors (age >50, elevated BMI), the STOP-BANG questionnaire is the appropriate initial screening tool to determine OSA risk level and guide further management. A is incorrect: sleep hygiene alone is insufficient for suspected OSA and does not constitute an appropriate evaluation of the underlying disorder. B is incorrect: over-the-counter melatonin is not indicated for suspected obstructive sleep apnoea and would not address the breathing pauses observed during sleep. D is incorrect: proceeding directly to an at-home sleep study without initial screening is not the most efficient first step; STOP-BANG should be used first to determine risk stratification.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080008",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "weight-management"
+    ]
+  },
+  {
+    "question_text": "A 42-year-old woman reports waking up several times during the night and having trouble getting back to sleep. She is interested in non-pharmacological approaches to improve her sleep. Which of the following interventions is considered the most effective single treatment for insomnia?",
+    "options": [
+      "A) Sleep restriction therapy",
+      "B) Relaxation training",
+      "C) Cognitive restructuring",
+      "D) Stimulus control therapy"
+    ],
+    "correct_answer": "D) Stimulus control therapy",
+    "page_reference": "Page 296",
+    "rationale": "D is correct: stimulus control therapy (SCT) is considered the most effective single treatment for insomnia, strengthening the bed as a cue for sleep by limiting bed activities to sleep and sex only. A is incorrect: sleep restriction therapy is a component of CBT-i and effective in its own right, but has not been identified as the single most effective individual treatment compared to SCT. B is incorrect: relaxation training is a helpful component of CBT-i but has not been identified as the single most effective individual treatment for insomnia. C is incorrect: cognitive restructuring is a cognitive component of CBT-i that addresses unhelpful beliefs about sleep, but it is not identified as the single most effective individual treatment.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080009",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old man undergoes a polysomnography study due to suspected sleep apnoea. His results show an apnoea-hypopnea index (AHI) of 22. How would his sleep apnoea be classified based on this result?",
+    "options": [
+      "A) Mild",
+      "B) Moderate",
+      "C) Severe",
+      "D) Borderline"
+    ],
+    "correct_answer": "B) Moderate",
+    "page_reference": "Page 291",
+    "rationale": "B is correct: an AHI of 22 falls within the moderate range, which is defined as AHI 15 to <30 in adults. A is incorrect: mild OSA is classified as AHI 5 to <15; an AHI of 22 exceeds this range. C is incorrect: severe OSA requires an AHI of 30 or above; an AHI of 22 does not reach this threshold. D is incorrect: 'borderline' is not a recognised classification category for OSA severity; the standard categories are mild, moderate, and severe.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080010",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 30-year-old woman complains of an irresistible urge to move her legs, accompanied by uncomfortable sensations, which worsen in the evening. Which of the following conditions does this most likely represent?",
+    "options": [
+      "A) Periodic limb movement disorder",
+      "B) Restless legs syndrome",
+      "C) Obstructive sleep apnoea",
+      "D) Narcolepsy"
+    ],
+    "correct_answer": "B) Restless legs syndrome",
+    "page_reference": "Page 294",
+    "rationale": "B is correct: restless legs syndrome (RLS) is characterised by an irresistible urge to move the legs accompanied by uncomfortable sensations that worsen in the evening or at rest, matching this presentation exactly. A is incorrect: periodic limb movement disorder involves involuntary limb movements during sleep, not a conscious urge to move while awake or uncomfortable sensations in the legs. C is incorrect: obstructive sleep apnoea is characterised by breathing pauses during sleep and is not associated with leg sensations or an urge to move. D is incorrect: narcolepsy involves excessive daytime sleepiness and sudden sleep attacks or cataplexy, not uncomfortable leg sensations or an urge to move.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080011",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 25-year-old man reports feeling excessively sleepy during the day, despite getting what he considers adequate sleep at night. He occasionally experiences sudden muscle weakness when laughing. Which of the following conditions is most likely?",
+    "options": [
+      "A) Insomnia",
+      "B) Obstructive sleep apnoea",
+      "C) Narcolepsy",
+      "D) Delayed sleep phase syndrome"
+    ],
+    "correct_answer": "C) Narcolepsy",
+    "page_reference": "Page 293-294",
+    "rationale": "C is correct: narcolepsy is characterised by excessive daytime sleepiness despite adequate night-time sleep and cataplexy — sudden muscle weakness triggered by strong emotion such as laughter. A is incorrect: insomnia involves difficulty initiating or maintaining sleep, not excessive daytime sleepiness with preserved night-time sleep duration or cataplexy. B is incorrect: obstructive sleep apnoea involves breathing pauses during sleep and is not typically associated with cataplexy; daytime sleepiness in OSA results from sleep fragmentation, not adequate night-time sleep. D is incorrect: delayed sleep phase syndrome involves a shift in the timing of the sleep-wake cycle without excessive daytime sleepiness or cataplexy.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080012",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 38-year-old woman is struggling with chronic insomnia and has been taking over-the-counter sleep aids nightly for the past month. What is the most appropriate next step in her management?",
+    "options": [
+      "A) Prescribe a benzodiazepine for long-term use",
+      "B) Recommend cognitive behavioural therapy for insomnia (CBT-i)",
+      "C) Increase the dose of her current over-the-counter sleep aid",
+      "D) Switch to a prescription strength hypnotic medication"
+    ],
+    "correct_answer": "B) Recommend cognitive behavioural therapy for insomnia (CBT-i)",
+    "page_reference": "Page 296",
+    "rationale": "B is correct: CBT-i is the recommended first-line treatment for chronic insomnia, producing more sustained benefit with fewer risks than pharmacological approaches. A is incorrect: benzodiazepines are not recommended as first-line or long-term treatment for chronic insomnia due to dependency potential, tolerance, and adverse effects. C is incorrect: increasing the dose of over-the-counter sleep aids risks dependence and side effects without addressing the underlying mechanisms of insomnia. D is incorrect: switching to prescription hypnotics is not advised before trying evidence-based non-pharmacological treatment; hypnotics carry risks of mortality, dependency, and tolerance.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080013",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man undergoes a sleep study that reveals frequent limb movements occurring at roughly 30-second intervals during sleep, causing brief arousals. He is unaware of these movements. What is the most likely diagnosis?",
+    "options": [
+      "A) Restless legs syndrome",
+      "B) Periodic limb movement disorder",
+      "C) Obstructive sleep apnoea",
+      "D) REM sleep behaviour disorder"
+    ],
+    "correct_answer": "B) Periodic limb movement disorder",
+    "page_reference": "Page 294-295",
+    "rationale": "B is correct: periodic limb movement disorder (PLMD) is characterised by involuntary limb movements at roughly 30-second intervals during sleep, with patients typically unaware of the movements or the resulting brief arousals. A is incorrect: restless legs syndrome involves a conscious urge to move the legs and uncomfortable sensations while awake; patients are aware of their symptoms, unlike PLMD. C is incorrect: obstructive sleep apnoea involves breathing pauses during sleep, not periodic limb movements at regular intervals. D is incorrect: REM sleep behaviour disorder involves acting out dreams during REM sleep with more complex behaviours, not regular periodic limb movements at fixed intervals.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080014",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman reports difficulty falling asleep and frequently wakes up during the night. She has been diagnosed with chronic insomnia. Which of the following is a key component of sleep restriction therapy for this condition?",
+    "options": [
+      "A) Increasing time in bed to allow more opportunity for sleep",
+      "B) Maintaining a consistent bedtime but allowing flexible wake times",
+      "C) Prescribing a sleep period shorter than the patient's typical sleep duration",
+      "D) Encouraging daytime naps to compensate for nighttime sleep loss"
+    ],
+    "correct_answer": "C) Prescribing a sleep period shorter than the patient's typical sleep duration",
+    "page_reference": "Page 296",
+    "rationale": "C is correct: sleep restriction therapy (SRT) prescribes a bedtime and wake time that results in a sleep period shorter than the patient's typical sleep duration, consolidating sleep and improving efficiency before gradually extending the sleep window. A is incorrect: increasing time in bed is the opposite of SRT and perpetuates insomnia by reducing sleep efficiency and fragmenting sleep further. B is incorrect: SRT requires a fixed wake time, not flexible wake times; consistency on waking is essential to build homeostatic sleep drive. D is incorrect: daytime naps are specifically discouraged in SRT as they reduce homeostatic sleep drive and undermine night-time sleep consolidation.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080015",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old man reports working long hours and having difficulty sleeping due to noise around his apartment complex. He feels sleepy every day around 1:30 pm and wonders if taking a nap would be helpful. What is the best guidance regarding naps for this patient?",
+    "options": [
+      "A) Daytime naps are not recommended",
+      "B) Optimal nap length would be less than 10 minutes",
+      "C) Optimal nap length would be 10 to 20 minutes",
+      "D) Optimal nap length would be 30 to 40 minutes"
+    ],
+    "correct_answer": "C) Optimal nap length would be 10 to 20 minutes",
+    "page_reference": "Page 286",
+    "rationale": "C is correct: naps of 10 to 20 minutes are optimal, allowing restorative light-stage non-REM sleep from which it is easy to wake alert, without entering deeper sleep stages. A is incorrect: daytime naps can be beneficial when taken at the right length; they are not universally contraindicated for someone with situational sleep deprivation. B is incorrect: naps shorter than 10 minutes may be insufficient to provide meaningful restoration, though they are preferable to no nap at all. D is incorrect: naps of 30 to 40 minutes risk entering deeper sleep stages, causing sleep inertia and leaving the person feeling more tired and groggy upon waking.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080016",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "stress-management"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman with type 2 diabetes presents to the primary care clinic with insomnia of 10 years duration. She has been managed with different medications by several clinicians, but none have helped. Her current health care provider recommends outdoor physical activities. Which of the following is the best recommendation for the woman at this time?",
+    "options": [
+      "A) Change medication to hypnotic type medication and add 30 minutes exercise every morning",
+      "B) Change medication to sedative type medication and add 30 minutes exercise every evening",
+      "C) Cognitive behavioural therapy for insomnia sessions and add 30 minutes exercise every morning",
+      "D) Increase the dose of supplemental melatonin and add 30 minutes exercise every afternoon"
+    ],
+    "correct_answer": "C) Cognitive behavioural therapy for insomnia sessions and add 30 minutes exercise every morning",
+    "page_reference": "Page 288",
+    "rationale": "C is correct: CBT-i is the recommended first-line treatment for chronic insomnia, particularly after multiple failed medication trials, and morning exercise reinforces circadian rhythm and sleep drive. A is incorrect: hypnotic medications are not recommended after multiple failed medication attempts; the evidence supports transitioning to CBT-i rather than further pharmacological escalation. B is incorrect: sedative medications are not first-line for chronic insomnia and exercise in the evening can be too stimulating; morning exercise aligns better with circadian reinforcement. D is incorrect: increasing supplemental melatonin dose is not evidence-based for chronic insomnia of this type, and afternoon exercise is less effective than morning exercise for circadian reinforcement.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080017",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "diabetes"
+    ]
+  },
+  {
+    "question_text": "A 32-year-old man complains of falling asleep too early in the evening and then waking up in the very early hours of the morning after five hours of sleep. He is unable to go back to sleep. Which of the following is the best advice for the man to change his sleep pattern?",
+    "options": [
+      "A) Eat breakfast shortly after awakening to shift wake-up time to later in the morning",
+      "B) Eat dinner earlier to shift falling asleep to later in the evening",
+      "C) Eat more protein at dinnertime to shift falling asleep to later in the evening",
+      "D) Eat more carbohydrates at dinner time to shift falling asleep to later in the evening"
+    ],
+    "correct_answer": "D) Eat more carbohydrates at dinner time to shift falling asleep to later in the evening",
+    "page_reference": "Page 289",
+    "rationale": "D is correct: eating more carbohydrates at dinnertime can shift falling asleep to later in the evening, helping to delay sleep onset and correct the advanced sleep phase pattern. A is incorrect: eating breakfast shortly after waking helps shift the wake-up time earlier rather than later; for this patient, that would worsen the problem of early morning waking. B is incorrect: eating dinner earlier would contribute to falling asleep even earlier in the evening, directly worsening the advanced sleep phase. C is incorrect: eating more protein at dinner has no specific evidence for shifting sleep timing to a later hour.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080018",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 50-year-old man is preparing for a business trip from New York to London. Which of the following is the most appropriate recommendation to help him adjust to the new time zone when traveling east?",
+    "options": [
+      "A) Get exposure to bright light close to new ideal wake-up time",
+      "B) Get dim-light exposure starting 1 hour before new ideal sleep time",
+      "C) Eat a hearty breakfast within 30-45 minutes of arrival time",
+      "D) Use high-dose melatonin (5mg) upon arrival"
+    ],
+    "correct_answer": "A) Get exposure to bright light close to new ideal wake-up time",
+    "page_reference": "Page 290",
+    "rationale": "A is correct: bright light exposure, preferably outdoors, close to the new ideal wake-up time is the most impactful single intervention for resetting the circadian rhythm when travelling east. B is incorrect: dim-light exposure before the new sleep time is helpful but less impactful than morning bright light exposure, which is the primary circadian zeitgeber. C is incorrect: a hearty breakfast is recommended within 30-45 minutes of the new ideal wake-up time, not upon arrival; arrival time does not correspond to the new wake-up time. D is incorrect: high-dose melatonin (5 mg) is not recommended; low-dose melatonin (0.25 mg) taken 3-4 hours before the intended bedtime is the evidence-based approach.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080019",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 28-year-old woman presents with difficulty falling asleep and frequent night wakings. She reports these symptoms occur at least three times per week and have been ongoing for the past 4 months. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A) Delayed sleep phase syndrome",
+      "B) Insomnia",
+      "C) Obstructive sleep apnoea",
+      "D) Restless legs syndrome"
+    ],
+    "correct_answer": "B) Insomnia",
+    "page_reference": "Page 291-292",
+    "rationale": "B is correct: the presentation meets the diagnostic criteria for insomnia — difficulty initiating and maintaining sleep, occurring at least three nights per week for at least three months. A is incorrect: delayed sleep phase syndrome primarily affects sleep timing (shifted to a later hour) rather than causing difficulty with sleep initiation and maintenance as described. C is incorrect: obstructive sleep apnoea is characterised by breathing pauses during sleep; there are no respiratory symptoms described in this case. D is incorrect: restless legs syndrome involves uncomfortable sensations in the legs with an urge to move, which are not described in this presentation.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080020",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "cognitive-behavioral-therapy"
+    ]
+  },
+  {
+    "question_text": "A 60-year-old man with a BMI of 33 kg/m² reports loud snoring and daytime fatigue. His wife has observed pauses in his breathing during sleep. Which of the following is the most appropriate next step in evaluating this patient?",
+    "options": [
+      "A) Order a full polysomnography study",
+      "B) Prescribe a CPAP machine",
+      "C) Recommend weight loss and sleep hygiene improvements",
+      "D) Perform a STOP-BANG assessment"
+    ],
+    "correct_answer": "D) Perform a STOP-BANG assessment",
+    "page_reference": "Page 284-285",
+    "rationale": "D is correct: the STOP-BANG questionnaire is the appropriate initial screening step given the patient's symptoms (snoring, observed apnoeas, daytime fatigue) and risk factors (age >50, BMI >30), guiding risk stratification before further investigation. A is incorrect: polysomnography is the gold standard for diagnosis but is not the most appropriate first step; initial screening with STOP-BANG should precede referral for sleep studies. B is incorrect: prescribing CPAP without a confirmed diagnosis is premature and bypasses the necessary diagnostic pathway. C is incorrect: while weight loss and sleep hygiene may benefit the patient, they do not address the immediate clinical need to properly assess and risk-stratify suspected OSA.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080021",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "weight-management"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old woman reports difficulty falling asleep and staying asleep. She has a history of anxiety and depression. Which of the following statements best describes the relationship between insomnia and mental health conditions?",
+    "options": [
+      "A) Insomnia is always a symptom of underlying mental health conditions",
+      "B) Insomnia is a risk factor for mental health conditions but not vice versa",
+      "C) Insomnia is both a symptom of and risk factor for almost every mental health condition",
+      "D) Insomnia and mental health conditions are unrelated"
+    ],
+    "correct_answer": "C) Insomnia is both a symptom of and risk factor for almost every mental health condition",
+    "page_reference": "Page 292",
+    "rationale": "C is correct: insomnia is both a symptom of and a risk factor for almost every mental health condition, with a particularly strong bidirectional connection to anxiety and depression. A is incorrect: insomnia is not always a symptom of an underlying mental health condition; it can exist as a primary disorder independent of mental health diagnoses. B is incorrect: the relationship is bidirectional; mental health conditions are also risk factors for insomnia, not just the reverse. D is incorrect: insomnia and mental health conditions are strongly and well-documentedly related through a bidirectional relationship.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080022",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 55-year-old man undergoes a sleep study due to suspected obstructive sleep apnoea. His results show an apnoea-hypopnea index (AHI) of 18. How would his sleep apnoea be classified based on this result?",
+    "options": [
+      "A) Mild",
+      "B) Moderate",
+      "C) Severe",
+      "D) Borderline"
+    ],
+    "correct_answer": "B) Moderate",
+    "page_reference": "Page 291",
+    "rationale": "B is correct: an AHI of 18 falls within the moderate category, which is defined as AHI 15 to <30 in adult OSA classification. A is incorrect: mild OSA is classified as AHI 5 to <15; an AHI of 18 exceeds this range. C is incorrect: severe OSA requires an AHI of 30 or above; an AHI of 18 does not reach this threshold. D is incorrect: 'borderline' is not a recognised classification for OSA severity; the standard categories are mild, moderate, and severe.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080023",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 30-year-old pregnant woman in her second trimester reports difficulty sleeping at night. Which of the following sleep disorders is most prevalent among pregnant women?",
+    "options": [
+      "A) Obstructive sleep apnoea",
+      "B) Insomnia",
+      "C) Restless legs syndrome",
+      "D) Narcolepsy"
+    ],
+    "correct_answer": "C) Restless legs syndrome",
+    "page_reference": "Page 294",
+    "rationale": "C is correct: restless legs syndrome (RLS) is highly prevalent among pregnant women, affecting 26-32% of this population, making it the most prevalent sleep disorder in pregnancy. A is incorrect: obstructive sleep apnoea can occur in pregnancy, particularly in later trimesters, but does not have the highest prevalence rates compared to RLS. B is incorrect: insomnia can occur in pregnancy but RLS shows specifically higher prevalence rates in pregnant women as a distinct sleep disorder. D is incorrect: narcolepsy is not particularly prevalent in pregnant women and is not considered the most common sleep disorder in this population.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080024",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 25-year-old man reports excessive daytime sleepiness despite getting what he considers adequate sleep at night. He occasionally experiences sudden muscle weakness when laughing. Which of the following conditions is most likely?",
+    "options": [
+      "A) Insomnia",
+      "B) Obstructive sleep apnoea",
+      "C) Narcolepsy",
+      "D) Delayed sleep phase syndrome"
+    ],
+    "correct_answer": "C) Narcolepsy",
+    "page_reference": "Page 293-294",
+    "rationale": "C is correct: narcolepsy is characterised by excessive daytime sleepiness despite adequate night-time sleep and cataplexy — sudden muscle weakness triggered by strong emotion such as laughter. A is incorrect: insomnia involves difficulty initiating or maintaining sleep, not excessive daytime sleepiness with preserved night-time sleep or cataplexy. B is incorrect: OSA involves breathing pauses during sleep causing fragmented sleep; it is not typically associated with cataplexy and would not present with adequate perceived night-time sleep. D is incorrect: delayed sleep phase syndrome involves a shift in the sleep-wake cycle timing without excessive daytime sleepiness on a normal schedule or cataplexy.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080025",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 35-year-old shift worker complains of persistent difficulty sleeping during the day after night shifts, leading to decreased job performance. What is the most likely diagnosis?",
+    "options": [
+      "A) Insomnia",
+      "B) Obstructive sleep apnoea",
+      "C) Shift work sleep disorder",
+      "D) Delayed sleep phase syndrome"
+    ],
+    "correct_answer": "C) Shift work sleep disorder",
+    "page_reference": "Page 291",
+    "rationale": "C is correct: shift work sleep disorder is the most likely diagnosis given the direct relationship between the night shift schedule, persistent difficulty sleeping during the day, and impaired daytime functioning and job performance. A is incorrect: insomnia is not specifically tied to a shift work schedule; it is a more general disorder of sleep initiation and maintenance not explained by occupational timing. B is incorrect: obstructive sleep apnoea involves breathing pauses during sleep and is not caused by or specifically related to shift work schedules. D is incorrect: delayed sleep phase syndrome involves a persistent shift in the circadian timing of sleep to a later hour but is not caused by shift work and does not present specifically as difficulty sleeping during day hours after night shifts.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080026",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 40-year-old woman reports difficulty falling asleep most nights. Her typical nighttime routine includes working on her computer until bedtime at 11:30 pm. Which of the following interventions would be most effective in improving her sleep onset?",
+    "options": [
+      "A) Taking a warm bath before bedtime",
+      "B) Using blue light-blocking glasses in the evening",
+      "C) Keeping a glass of wine by the bedside",
+      "D) Installing blackout curtains in the bedroom"
+    ],
+    "correct_answer": "B) Using blue light-blocking glasses in the evening",
+    "page_reference": "Page 288",
+    "rationale": "B is correct: blue light-blocking glasses directly reduce melatonin suppression caused by screen exposure, most directly addressing the likely cause of her delayed sleep onset from evening computer use. A is incorrect: a warm bath can facilitate sleep onset through thermoregulatory mechanisms but does not directly address the blue light exposure from her computer, which is the identified contributor in this case. C is incorrect: alcohol is not recommended as a sleep aid; while it may initially induce sleepiness, it disrupts sleep architecture and quality during the night. D is incorrect: blackout curtains block external light during sleep but do not address the internal blue light exposure from her computer use in the hours before bed.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080027",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "A 45-year-old woman with chronic insomnia is interested in non-pharmacological approaches to improve her sleep. Which of the following interventions is considered the most effective single treatment for insomnia?",
+    "options": [
+      "A) Sleep restriction therapy",
+      "B) Relaxation training",
+      "C) Cognitive restructuring",
+      "D) Stimulus control therapy"
+    ],
+    "correct_answer": "D) Stimulus control therapy",
+    "page_reference": "Page 296",
+    "rationale": "D is correct: stimulus control therapy (SCT) is considered the most effective single treatment for insomnia, working by strengthening the association between the bed and sleepiness while eliminating wakeful associations with the bed. A is incorrect: sleep restriction therapy is an effective component of CBT-i but has not been identified as the single most effective individual treatment compared to SCT. B is incorrect: relaxation training is helpful for arousal reduction but has not been identified as the single most effective individual component of insomnia treatment. C is incorrect: cognitive restructuring addresses unhelpful beliefs about sleep and is a valuable CBT-i component, but is not identified as the single most effective individual treatment.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080028",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "cognitive-behavioral-therapy"
+    ]
+  },
+  {
+    "question_text": "A 38-year-old man with insomnia has been taking over-the-counter sleep aids nightly for the past two months. He is concerned about long-term use and potential side effects. What is the most appropriate next step in his management?",
+    "options": [
+      "A) Prescribe a benzodiazepine for long-term use",
+      "B) Recommend cognitive behavioural therapy for insomnia (CBT-i)",
+      "C) Increase the dose of his current over-the-counter sleep aid",
+      "D) Switch to a prescription strength hypnotic medication"
+    ],
+    "correct_answer": "B) Recommend cognitive behavioural therapy for insomnia (CBT-i)",
+    "page_reference": "Page 296-297",
+    "rationale": "B is correct: CBT-i is the recommended first-line treatment for chronic insomnia, producing more sustained benefit than medications with no risk of dependence or the adverse mortality risks associated with hypnotics. A is incorrect: benzodiazepines are not recommended for long-term use due to dependency, tolerance, and adverse effects including increased all-cause mortality risk. C is incorrect: increasing the dose of over-the-counter sleep aids escalates the risk of dependence and side effects without addressing the underlying insomnia mechanisms. D is incorrect: switching to prescription hypnotics is not appropriate before trialling evidence-based non-pharmacological approaches; prescription hypnotics carry greater risks than over-the-counter aids.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080029",
+    "section_number": "08",
+    "tags": [
+      "sleep-health"
+    ]
+  },
+  {
+    "question_text": "According to the Health Professionals Follow-up Study, which of the following best describes the relationship between sleep duration and mortality?",
+    "options": [
+      "A) Linear relationship with increased mortality for longer sleep duration",
+      "B) U-shaped curve with increased mortality at both short and long sleep durations",
+      "C) Inverse relationship with decreased mortality for longer sleep duration",
+      "D) No significant relationship between sleep duration and mortality"
+    ],
+    "correct_answer": "B) U-shaped curve with increased mortality at both short and long sleep durations",
+    "page_reference": "274",
+    "rationale": "B is correct: the study found a U-shaped relationship where both insufficient sleep and excess sleep are associated with increased mortality from cardiovascular and non-cardiovascular causes. A is incorrect: a linear relationship with only longer sleep increasing mortality does not reflect the data; short sleep duration also independently increases mortality risk. C is incorrect: an inverse relationship suggesting longer sleep decreases mortality contradicts the finding that excess sleep is also associated with increased mortality. D is incorrect: the study clearly demonstrated a significant relationship between sleep duration and mortality, with both extremes increasing risk.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080030",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The Health Professionals Follow-up Study found that short sleep duration was associated with an increased risk of which of the following conditions?",
+    "options": [
+      "A) Osteoporosis",
+      "B) Type 2 diabetes",
+      "C) Alzheimer's disease",
+      "D) Rheumatoid arthritis"
+    ],
+    "correct_answer": "B) Type 2 diabetes",
+    "page_reference": "275",
+    "rationale": "B is correct: sleep deprivation and reduced short-wave sleep are associated with impaired β-cell function and decreased insulin sensitivity, which are key mechanisms in the development of type 2 diabetes. A is incorrect: osteoporosis is not specifically mentioned in relation to this study's findings on short sleep duration and metabolic outcomes. C is incorrect: Alzheimer's disease is not identified as a specific outcome of this study's findings on short sleep duration. D is incorrect: rheumatoid arthritis is not mentioned in relation to this study's findings on the metabolic consequences of short sleep duration.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080031",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "cardiovascular-disease",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Based on the Health Professionals Follow-up Study, which of the following is true regarding the impact of sleep on cardiovascular health?",
+    "options": [
+      "A) Only short sleep duration increases cardiovascular risk",
+      "B) Sleep duration has no impact on cardiovascular health",
+      "C) Both short and long sleep durations increase cardiovascular risk",
+      "D) Only long sleep duration increases cardiovascular risk"
+    ],
+    "correct_answer": "C) Both short and long sleep durations increase cardiovascular risk",
+    "page_reference": "274",
+    "rationale": "C is correct: the study found that both insufficient and excess sleep are associated with increased mortality from cardiovascular causes, indicating that both extremes of sleep duration elevate cardiovascular risk. A is incorrect: short sleep alone does not capture the full picture; excess sleep also independently increases cardiovascular mortality risk. B is incorrect: sleep duration has a well-documented and significant impact on cardiovascular health, as demonstrated by this study's mortality findings. D is incorrect: long sleep alone does not capture the full picture; short sleep also independently increases cardiovascular mortality risk.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080032",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The Western Collaborative Group Study examined the relationship between sleep and which of the following over a 30-year period?",
+    "options": [
+      "A) Cognitive decline",
+      "B) Obesity",
+      "C) Cancer risk",
+      "D) Bone density"
+    ],
+    "correct_answer": "B) Obesity",
+    "page_reference": "275",
+    "rationale": "B is correct: the Western Collaborative Group Study examined the relationship between 30-year changes in obesity and sleep-disordered breathing, as indicated by the study title in the reference material. A is incorrect: cognitive decline is not the focus of the Western Collaborative Group Study as referenced; the study specifically examined obesity and sleep-disordered breathing. C is incorrect: cancer risk is not the focus of this study; the research examined the relationship between obesity and sleep. D is incorrect: bone density is not the focus of this study; it examined changes in obesity and their relationship to sleep-disordered breathing over 30 years.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080033",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Western Collaborative Group Study, what was observed regarding the relationship between sleep and obesity over time?",
+    "options": [
+      "A) No significant relationship was found",
+      "B) Obesity led to improved sleep quality over time",
+      "C) Changes in obesity were related to sleep-disordered breathing",
+      "D) Sleep duration increased as obesity rates increased"
+    ],
+    "correct_answer": "C) Changes in obesity were related to sleep-disordered breathing",
+    "page_reference": "275",
+    "rationale": "C is correct: the study's title directly indicates that changes in obesity over 30 years were related to sleep-disordered breathing, establishing a longitudinal link between the two. A is incorrect: the study did find a significant relationship, as its title and findings directly link changes in obesity to sleep-disordered breathing. B is incorrect: obesity is associated with worsened sleep-disordered breathing, not improved sleep quality over time. D is incorrect: the study examined the relationship between obesity changes and sleep-disordered breathing, not trends in sleep duration relative to obesity rates.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080034",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "weight-management",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The Western Collaborative Group Study's findings on obesity and sleep-disordered breathing are most relevant to which of the following sleep disorders?",
+    "options": [
+      "A) Insomnia",
+      "B) Narcolepsy",
+      "C) Obstructive Sleep Apnea",
+      "D) Restless Legs Syndrome"
+    ],
+    "correct_answer": "C) Obstructive Sleep Apnea",
+    "page_reference": "275, 291",
+    "rationale": "C is correct: the findings on obesity and sleep-disordered breathing are most relevant to OSA, for which elevated BMI is a major, well-established risk factor. A is incorrect: insomnia is not primarily driven by obesity or sleep-disordered breathing; it involves difficulty initiating or maintaining sleep through different mechanisms. B is incorrect: narcolepsy is a neurological disorder involving hypocretin deficiency and is not directly related to obesity or sleep-disordered breathing. D is incorrect: restless legs syndrome is associated with iron deficiency and neurological factors, not obesity-related sleep-disordered breathing.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080035",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "The Whitehall II cohort study examined the relationship between changes in sleep duration and what health outcome?",
+    "options": [
+      "A) Cardiovascular disease",
+      "B) Mental health",
+      "C) Mortality",
+      "D) Cognitive function"
+    ],
+    "correct_answer": "C) Mortality",
+    "page_reference": "277",
+    "rationale": "C is correct: the Whitehall II study is described as 'a prospective study of change in sleep duration: associations with mortality,' clearly indicating that mortality was the primary outcome examined. A is incorrect: while cardiovascular disease is related to sleep, this specific study is described as examining mortality as its outcome, not cardiovascular disease incidence. B is incorrect: mental health outcomes are not described as the primary focus of this particular study. D is incorrect: cognitive function is not described as the outcome measured in this study; mortality is the stated outcome.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080036",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "What type of study design did the Whitehall II cohort use to examine sleep duration and mortality?",
+    "options": [
+      "A) Cross-sectional study",
+      "B) Case-control study",
+      "C) Randomized controlled trial",
+      "D) Prospective cohort study"
+    ],
+    "correct_answer": "D) Prospective cohort study",
+    "page_reference": "277",
+    "rationale": "D is correct: the study is explicitly described as 'a prospective study,' following a defined cohort over time to examine associations between changes in sleep duration and mortality. A is incorrect: a cross-sectional study examines a population at a single point in time without follow-up; the Whitehall II study followed participants prospectively over time. B is incorrect: a case-control study compares those with and without a disease retrospectively to identify risk factors; this study followed a cohort forward in time. C is incorrect: a randomised controlled trial involves deliberate allocation to intervention and control groups; this study was observational and did not involve any intervention.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080037",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Based on the Whitehall II cohort study, which of the following statements about sleep duration and mortality is most likely true?",
+    "options": [
+      "A) Only increased sleep duration was associated with higher mortality",
+      "B) Only decreased sleep duration was associated with higher mortality",
+      "C) Both increased and decreased sleep duration were associated with higher mortality",
+      "D) There was no significant association between changes in sleep duration and mortality"
+    ],
+    "correct_answer": "C) Both increased and decreased sleep duration were associated with higher mortality",
+    "page_reference": "274, 277",
+    "rationale": "C is correct: consistent with the broader literature including the Health Professionals Follow-up Study, both insufficient and excess sleep are associated with increased mortality, reflecting a U-shaped relationship. A is incorrect: only considering increased sleep duration as a mortality risk ignores the well-documented elevated mortality associated with short sleep duration. B is incorrect: only considering decreased sleep duration as a mortality risk ignores the well-documented elevated mortality associated with excess sleep duration. D is incorrect: the Whitehall II study specifically examined and found significant associations between changes in sleep duration and mortality, contradicting a finding of no relationship.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080038",
+    "section_number": "08",
+    "tags": [
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT one of the components of the STOP-BANG screening tool for obstructive sleep apnea?",
+    "options": [
+      "A) Snoring",
+      "B) Age",
+      "C) Neck circumference",
+      "D) Gender identity"
+    ],
+    "correct_answer": "D) Gender identity",
+    "page_reference": "284",
+    "rationale": "D is correct: gender identity is not a component of STOP-BANG; the G stands for Gender as in biological sex (specifically male), not gender identity as a concept. A is incorrect: Snoring is a component of STOP-BANG, represented by the S in the acronym. B is incorrect: Age (>50 years) is a component of STOP-BANG, represented by the A in the acronym. C is incorrect: Neck circumference (≥17 inches in males, ≥16 inches in females) is a component of STOP-BANG, represented by the N in the acronym.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080039",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "In the STOP-BANG questionnaire, what age is considered a risk factor for obstructive sleep apnea?",
+    "options": [
+      "A) Greater than 40 years",
+      "B) Greater than 45 years",
+      "C) Greater than 50 years",
+      "D) Greater than 55 years"
+    ],
+    "correct_answer": "C) Greater than 50 years",
+    "page_reference": "284",
+    "rationale": "C is correct: the STOP-BANG questionnaire specifies age greater than 50 years as the age-related risk factor for obstructive sleep apnoea. A is incorrect: age greater than 40 is below the STOP-BANG threshold; the tool specifies 50 years as the cut-off. B is incorrect: age greater than 45 is below the STOP-BANG threshold; the tool specifies 50 years as the cut-off. D is incorrect: age greater than 55 exceeds the specified STOP-BANG threshold; the cut-off is 50 years, not 55.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080040",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the STOP-BANG questionnaire, what neck circumference in males is considered a risk factor for obstructive sleep apnea?",
+    "options": [
+      "A) Greater than or equal to 15 inches",
+      "B) Greater than or equal to 16 inches",
+      "C) Greater than or equal to 17 inches",
+      "D) Greater than or equal to 18 inches"
+    ],
+    "correct_answer": "C) Greater than or equal to 17 inches",
+    "page_reference": "284",
+    "rationale": "C is correct: the STOP-BANG questionnaire specifies a neck circumference of ≥17 inches (43 cm) in males as the threshold for OSA risk. A is incorrect: 15 inches is below the STOP-BANG threshold for males; it does not meet the risk criterion. B is incorrect: 16 inches is the threshold for females in the STOP-BANG questionnaire, not for males. D is incorrect: 18 inches exceeds the defined threshold; the actual STOP-BANG cut-off for males is 17 inches, not 18.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080041",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "What is the primary purpose of the Pittsburgh Sleep Quality Index?",
+    "options": [
+      "A) To screen for obstructive sleep apnea",
+      "B) To assess general sleep quality",
+      "C) To diagnose insomnia",
+      "D) To evaluate daytime sleepiness"
+    ],
+    "correct_answer": "B) To assess general sleep quality",
+    "page_reference": "284",
+    "rationale": "B is correct: the Pittsburgh Sleep Quality Index is described as a brief, general sleep quality index that assesses subjective sleep quality across multiple domains. A is incorrect: screening for obstructive sleep apnoea is the purpose of the STOP-BANG questionnaire, not the Pittsburgh Sleep Quality Index. C is incorrect: diagnosing insomnia specifically is not the primary purpose of this index; it is a general measure of subjective sleep quality rather than a diagnostic tool for a specific disorder. D is incorrect: evaluating daytime sleepiness is the primary purpose of the Epworth Sleepiness Scale, not the Pittsburgh Sleep Quality Index.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080042",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which of the following statements about the Pittsburgh Sleep Quality Index is true?",
+    "options": [
+      "A) It is a single-question assessment",
+      "B) It is specifically designed for diagnosing sleep apnea",
+      "C) It is a brief but relatively extensive assessment of subjective sleep quality",
+      "D) It is recommended as the first-line screening tool for all sleep disorders"
+    ],
+    "correct_answer": "C) It is a brief but relatively extensive assessment of subjective sleep quality",
+    "page_reference": "284",
+    "rationale": "C is correct: the Pittsburgh Sleep Quality Index is described as 'relatively extensive for assessing a subjective complaint of disturbed sleep,' covering multiple domains of sleep quality in a brief format. A is incorrect: the Pittsburgh Sleep Quality Index contains multiple items across several domains, not a single question. B is incorrect: it is not specifically designed for diagnosing sleep apnoea; the STOP-BANG questionnaire serves that purpose. D is incorrect: it is not recommended as the first-line tool for all sleep disorders; more targeted tools are used for specific disorders such as OSA or daytime sleepiness.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080043",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "When is the Pittsburgh Sleep Quality Index NOT recommended for use?",
+    "options": [
+      "A) When assessing general sleep quality",
+      "B) When diagnosing specific sleep disorders",
+      "C) When trying to minimize patient assessment overload",
+      "D) When evaluating the effectiveness of sleep interventions"
+    ],
+    "correct_answer": "C) When trying to minimize patient assessment overload",
+    "page_reference": "284",
+    "rationale": "C is correct: the Pittsburgh Sleep Quality Index is generally not recommended when trying to minimise patient assessment overload due to its relatively extensive nature; a simpler targeted approach is preferred in that context. A is incorrect: assessing general sleep quality is precisely the intended purpose of this index and a clear indication for its use. B is incorrect: the index not being a diagnostic tool for specific sleep disorders is a limitation of its design, not a stated reason to avoid using it. D is incorrect: evaluating the effectiveness of sleep interventions is not mentioned as a contraindication for using this index.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080044",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "What is the primary purpose of the Epworth Sleepiness Scale?",
+    "options": [
+      "A) To diagnose insomnia",
+      "B) To screen for obstructive sleep apnea",
+      "C) To assess daytime sleepiness",
+      "D) To evaluate sleep quality"
+    ],
+    "correct_answer": "C) To assess daytime sleepiness",
+    "page_reference": "284",
+    "rationale": "C is correct: the Epworth Sleepiness Scale is designed to help healthcare providers recognise daytime sleepiness by assessing the likelihood of dozing in various everyday situations. A is incorrect: diagnosing insomnia is not the purpose of the Epworth Sleepiness Scale; the Women's Health Initiative Insomnia Rating Scale or Pittsburgh Sleep Quality Index are more appropriate for insomnia assessment. B is incorrect: screening for obstructive sleep apnoea is the purpose of the STOP-BANG questionnaire, not the Epworth Sleepiness Scale. D is incorrect: evaluating overall sleep quality is the purpose of tools such as the Pittsburgh Sleep Quality Index, not the Epworth Sleepiness Scale.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080045",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "According to the Epworth Sleepiness Scale, what score indicates excessive daytime sleepiness?",
+    "options": [
+      "A) 6 or above",
+      "B) 8 or above",
+      "C) 10 or above",
+      "D) 12 or above"
+    ],
+    "correct_answer": "B) 8 or above",
+    "page_reference": "284",
+    "rationale": "B is correct: the text explicitly states that scores of 8 or above on the Epworth Sleepiness Scale indicate excessive daytime sleepiness and warrant a more thorough review of sleep patterns and possible sleep disorders. A is incorrect: a score of 6 does not meet the threshold for excessive daytime sleepiness; the specified cut-off is 8 or above. C is incorrect: while 10 is above the threshold, it is not the defined cut-off score; the text specifies 8 or above as the indicator of excessive daytime sleepiness. D is incorrect: while 12 is well above the threshold, it is not the defined cut-off; the text specifies 8 or above as the indicator.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080046",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which of the following situations is NOT assessed in the Epworth Sleepiness Scale?",
+    "options": [
+      "A) Sitting and reading",
+      "B) Watching TV",
+      "C) Lying down to rest in the afternoon",
+      "D) Exercising in the evening"
+    ],
+    "correct_answer": "D) Exercising in the evening",
+    "page_reference": "284-285",
+    "rationale": "D is correct: exercising in the evening is not one of the situations assessed in the Epworth Sleepiness Scale, as exercise typically promotes alertness rather than sleepiness and is not a standard item on the scale. A is incorrect: sitting and reading is one of the eight standard situations assessed in the Epworth Sleepiness Scale for likelihood of dozing. B is incorrect: watching TV is one of the eight standard situations assessed in the Epworth Sleepiness Scale for likelihood of dozing. C is incorrect: lying down to rest in the afternoon is one of the eight standard situations assessed in the Epworth Sleepiness Scale for likelihood of dozing.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080047",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "How many items does the Women's Health Initiative Insomnia Rating Scale contain?",
+    "options": [
+      "A) 3 items",
+      "B) 4 items",
+      "C) 5 items",
+      "D) 6 items"
+    ],
+    "correct_answer": "C) 5 items",
+    "page_reference": "285",
+    "rationale": "C is correct: the Women's Health Initiative Insomnia Rating Scale is explicitly described as a five-item assessment of insomnia symptoms. A is incorrect: 3 items is too few; the scale contains 5 items covering distinct aspects of insomnia. B is incorrect: 4 items is too few; the scale contains exactly 5 items. D is incorrect: 6 items is too many; the scale contains exactly 5 items as stated in the reference material.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080048",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Which of the following is NOT one of the symptoms assessed by the Women's Health Initiative Insomnia Rating Scale?",
+    "options": [
+      "A) Trouble falling asleep",
+      "B) Waking up several times at night",
+      "C) Waking up earlier than planned",
+      "D) Feeling sleepy during the day"
+    ],
+    "correct_answer": "D) Feeling sleepy during the day",
+    "page_reference": "285",
+    "rationale": "D is correct: feeling sleepy during the day is not one of the five items in the Women's Health Initiative Insomnia Rating Scale, which focuses on night-time insomnia symptoms and overall sleep quality rather than daytime sleepiness. A is incorrect: trouble falling asleep is one of the five items assessed by the WHIIRS. B is incorrect: waking up several times at night is one of the five items assessed by the WHIIRS. C is incorrect: waking up earlier than planned is one of the five items assessed by the WHIIRS.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080049",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  },
+  {
+    "question_text": "Although originally validated in women, for which populations has the Women's Health Initiative Insomnia Rating Scale been used?",
+    "options": [
+      "A) Only in adult women",
+      "B) In women and men, but only adults",
+      "C) In adult women and teenage girls",
+      "D) In teens and adults of both genders"
+    ],
+    "correct_answer": "D) In teens and adults of both genders",
+    "page_reference": "285",
+    "rationale": "D is correct: although originally validated in a large study of women, the WHIIRS has been used in teen and adult populations of both women and men, as its items assess the criteria for insomnia disorder broadly. A is incorrect: the tool has been used beyond adult women; it has been validated and applied in men and teenagers as well. B is incorrect: the tool has been used in teenage populations as well as adults, not only in adults of both genders. C is incorrect: the tool has been used in both genders, including males, not only in women and girls.",
+    "section": "Sleep Health Science and Interventions",
+    "question_id": "080050",
+    "section_number": "08",
+    "tags": [
+      "clinical-assessment-tools",
+      "sleep-health",
+      "clinical-evidence"
+    ]
+  }
+]
