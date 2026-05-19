@@ -30,8 +30,6 @@ export function MockExamTimer({ sessionId, createdAtIso, timeLimitSec }: Props) 
   useEffect(() => {
     const expiresAt = new Date(createdAtIso).getTime() + timeLimitSec * 1000
 
-    let id: ReturnType<typeof setInterval>
-
     const tick = () => {
       const diff = Math.max(0, Math.floor((expiresAt - Date.now()) / 1000))
       setRemaining(diff)
@@ -43,8 +41,8 @@ export function MockExamTimer({ sessionId, createdAtIso, timeLimitSec }: Props) 
       }
     }
 
+    const id = setInterval(tick, 1000)
     tick()
-    id = setInterval(tick, 1000)
     return () => clearInterval(id)
   }, [sessionId, createdAtIso, timeLimitSec])
 
