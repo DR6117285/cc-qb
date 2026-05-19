@@ -26,6 +26,8 @@ export function MockExamTimer({ sessionId, createdAtIso, timeLimitSec }: Props) 
   const [remaining, setRemaining] = useState<number | null>(null)
   const [modal, setModal] = useState<Modal | null>(null)
   const [continuing, setContinuing] = useState(false)
+  const [expired, setExpired] = useState(false)
+  const [ending, setEnding] = useState(false)
 
   useEffect(() => {
     const expiresAt = new Date(createdAtIso).getTime() + timeLimitSec * 1000
@@ -35,9 +37,14 @@ export function MockExamTimer({ sessionId, createdAtIso, timeLimitSec }: Props) 
       setRemaining(diff)
       if (diff === 0) {
         clearInterval(id)
-        snapshotTimedScoreAction(sessionId).then((result) => {
-          if (result) setModal(result)
-        })
+        setExpired(true)
+        snapshotTimedScoreAction(sessionId)
+          .then((result) => {
+            if (result) setModal(result)
+          })
+          .catch(() => {
+            // modal will remain null; expired state already shows fallback UI
+          })
       }
     }
 
@@ -57,6 +64,21 @@ export function MockExamTimer({ sessionId, createdAtIso, timeLimitSec }: Props) 
       >
         {formatTime(remaining)} remaining
       </span>
+
+      {expired && !modal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 px-4">
+          <div className="rounded-2xl bg-white p-8 shadow-xl w-full max-w-sm">
+            <h2 className="text-xl font-semibold text-gray-900 mb-3">Time&apos;s up</h2>
+            <p className="text-sm text-gray-600 mb-6">Your exam time has ended.</p>
+            <button
+              onClick={() => setContinuing(true)}
+              className="w-full rounded-lg bg-blue-600 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700"
+            >
+              Continue without timer
+            </button>
+          </div>
+        </div>
+      )}
 
       {modal && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 px-4">
@@ -82,10 +104,14 @@ export function MockExamTimer({ sessionId, createdAtIso, timeLimitSec }: Props) 
                 Continue
               </button>
               <button
-                onClick={async () => { await endSessionAction(sessionId) }}
-                className="flex-1 rounded-lg border border-gray-300 px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50"
+                onClick={async () => {
+                  setEnding(true)
+                  await endSessionAction(sessionId)
+                }}
+                disabled={ending}
+                className="flex-1 rounded-lg border border-gray-300 px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                End Exam
+                {ending ? 'Ending…' : 'End Exam'}
               </button>
             </div>
           </div>
