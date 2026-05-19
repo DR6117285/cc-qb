@@ -1,5 +1,5 @@
 import { prisma } from '@/lib/prisma'
-import type { QuizSession, QuizAnswer, UserQuestionProgress } from '@prisma/client'
+import type { QuizSession, QuizAnswer, UserQuestionProgress, CandidateType } from '@prisma/client'
 
 export type CreateSessionInput = {
   userId: string
@@ -22,6 +22,14 @@ export async function createSession(input: CreateSessionInput): Promise<QuizSess
 
 export async function findSession(sessionId: string): Promise<QuizSession | null> {
   return prisma.quizSession.findUnique({ where: { id: sessionId } })
+}
+
+export async function findUserCandidateType(userId: string): Promise<CandidateType | null> {
+  const user = await prisma.user.findUnique({
+    where: { id: userId },
+    select: { candidateType: true },
+  })
+  return user?.candidateType ?? null
 }
 
 export async function findSessionQuestion(

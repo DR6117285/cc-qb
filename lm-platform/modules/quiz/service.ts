@@ -83,12 +83,8 @@ export type SessionResult = {
 
 export async function createSession(input: CreateSessionInput): Promise<{ sessionId: string }> {
   if (input.mode === 'mock-exam') {
-    const user = await prisma.user.findUnique({
-      where: { id: input.userId },
-      select: { candidateType: true },
-    })
-    const target =
-      user?.candidateType === 'Physician' ? 150 : 120
+    const candidateType = await repo.findUserCandidateType(input.userId)
+    const target = candidateType === 'Physician' ? 150 : 120
 
     const scaledWeights = scaleWeights(MOCK_EXAM_WEIGHTS, target)
 
