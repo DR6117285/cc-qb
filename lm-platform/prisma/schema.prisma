@@ -13,8 +13,16 @@ model User {
   emailVerified DateTime?
   image         String?
   createdAt     DateTime  @default(now())
+  role          Role      @default(User)
+  candidateType CandidateType?
   accounts      Account[]
   sessions      Session[]
+  quizSessions  QuizSession[]
+}
+
+enum Role {
+  Admin
+  User
 }
 
 model Account {
@@ -91,6 +99,82 @@ model Question {
   tags          QuestionTag[]
   sourceFile    String
 
+  quizAnswers           QuizAnswer[]
+  userQuestionProgress  UserQuestionProgress[]
+
   @@index([sectionId])
   @@map("questions")
+}
+
+// ─── QUIZ DOMAIN ──────────────────────────────────────────────────────────────
+
+model QuizSession {
+  id          String              @id @default(cuid())
+  userId      String
+  status      QuizSessionStatus   @default(InProgress)
+  score       Int?
+  totalCount  Int
+  createdAt   DateTime            @default(now())
+  completedAt DateTime?
+  timeLimitSec Int?
+  timedScore    Int?
+  timedAt       DateTime?
+
+  user      User                  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questions QuizSessionQuestion[]
+  answers   QuizAnswer[]
+
+  @@index([userId])
+  @@map("quiz_sessions")
+}
+
+enum QuizSessionStatus {
+  InProgress
+  Completed
+}
+
+enum CandidateType {
+  Physician
+  Professional
+  Practitioner
+}
+
+model QuizSessionQuestion {
+  sessionId  String
+  questionId String
+  position   Int
+
+  session  QuizSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  @@id([sessionId, questionId])
+  @@map("quiz_session_questions")
+}
+
+model QuizAnswer {
+  id            String   @id @default(cuid())
+  sessionId     String
+  questionId    String
+  selectedKey   String
+  isCorrect     Boolean
+  timeSpentSec  Int?
+  answeredAt    DateTime @default(now())
+
+  session  QuizSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  question Question    @relation(fields: [questionId], references: [id])
+
+  @@unique([sessionId, questionId])
+  @@map("quiz_answers")
+}
+
+model UserQuestionProgress {
+  userId        String
+  questionId    String
+  timesAnswered Int      @default(0)
+  timesCorrect  Int      @default(0)
+  lastAnsweredAt DateTime @updatedAt
+
+  question Question @relation(fields: [questionId], references: [id])
+
+  @@id([userId, questionId])
+  @@map("user_question_progress")
 }
