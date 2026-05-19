@@ -1,17 +1,13 @@
 import { auth } from '@/auth'
 import { redirect } from 'next/navigation'
-import { prisma } from '@/lib/prisma'
+import { getUserProfile } from '@/modules/users/service'
 import { updateCandidateTypeAction } from './actions'
 
 export default async function ProfilePage() {
   const session = await auth()
   if (!session?.user?.id) redirect('/api/auth/signin')
 
-  const user = await prisma.user.findUnique({
-    where: { id: session.user.id },
-    select: { name: true, email: true, candidateType: true },
-  })
-
+  const user = await getUserProfile(session.user.id)
   const candidateType = user?.candidateType ?? null
 
   return (

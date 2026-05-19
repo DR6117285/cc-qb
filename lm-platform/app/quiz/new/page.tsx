@@ -2,16 +2,14 @@ import { auth } from '@/auth'
 import { redirect } from 'next/navigation'
 import { prisma } from '@/lib/prisma'
 import { startQuizAction } from './actions'
+import { getUserProfile } from '@/modules/users/service'
 
 export default async function NewQuizPage() {
   const session = await auth()
   if (!session) redirect('/api/auth/signin')
 
-  const user = await prisma.user.findUnique({
-    where: { id: session.user.id },
-    select: { candidateType: true },
-  })
-  const mockExamCount = user?.candidateType === 'Physician' ? 150 : 120
+  const userProfile = session.user.id ? await getUserProfile(session.user.id) : null
+  const mockExamCount = userProfile?.candidateType === 'Physician' ? 150 : 120
 
   const sections = await prisma.section.findMany({
     orderBy: { id: 'asc' },
