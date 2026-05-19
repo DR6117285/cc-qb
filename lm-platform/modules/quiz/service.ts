@@ -1,5 +1,5 @@
 import { prisma } from '@/lib/prisma'
-import { selectQuestions, selectWeightedQuestions, MOCK_EXAM_WEIGHTS } from './selection'
+import { selectQuestions, selectWeightedQuestions, MOCK_EXAM_WEIGHTS, scaleWeights } from './selection'
 import * as repo from './repository'
 import type { QuestionOption, QuestionWithOptions } from './types'
 
@@ -83,6 +83,15 @@ export type SessionResult = {
 
 export async function createSession(input: CreateSessionInput): Promise<{ sessionId: string }> {
   if (input.mode === 'mock-exam') {
+    const user = await prisma.user.findUnique({
+      where: { id: input.userId },
+      select: { candidateType: true },
+    })
+    const target =
+      user?.candidateType === 'Physician' ? 150 : 120
+
+    const scaledWeights = scaleWeights(MOCK_EXAM_WEIGHTS, target)
+
     const rawQuestions = await prisma.question.findMany({
       select: {
         id: true,
@@ -99,11 +108,12 @@ export async function createSession(input: CreateSessionInput): Promise<{ sessio
       options: q.options as QuestionOption[],
     }))
 
-    const selected = selectWeightedQuestions(candidates, MOCK_EXAM_WEIGHTS)
+    const selected = selectWeightedQuestions(candidates, scaledWeights)
 
     const session = await repo.createSession({
       userId: input.userId,
       questionIds: selected.map((q) => q.id),
+      timeLimitSec: 14400,
     })
 
     return { sessionId: session.id }
