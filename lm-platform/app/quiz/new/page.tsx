@@ -7,6 +7,12 @@ export default async function NewQuizPage() {
   const session = await auth()
   if (!session) redirect('/api/auth/signin')
 
+  const user = await prisma.user.findUnique({
+    where: { id: session.user.id },
+    select: { candidateType: true },
+  })
+  const mockExamCount = user?.candidateType === 'Physician' ? 150 : 120
+
   const sections = await prisma.section.findMany({
     orderBy: { id: 'asc' },
     select: { id: true, name: true },
@@ -79,9 +85,18 @@ export default async function NewQuizPage() {
             className="w-full rounded-lg border border-blue-600 px-4 py-2 text-sm font-medium text-blue-600 hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
           >
             Start Mock Exam
-            <span className="ml-2 text-xs font-normal text-gray-400">200 questions · board-weighted</span>
+            <span className="ml-2 text-xs font-normal text-gray-400">
+              {mockExamCount} questions · 4 hours · board-weighted
+            </span>
           </button>
         </form>
+
+        <p className="text-center text-xs text-gray-400">
+          Wrong count?{' '}
+          <a href="/profile" className="text-blue-500 hover:underline">
+            Update your candidate type
+          </a>
+        </p>
       </div>
     </main>
   )
