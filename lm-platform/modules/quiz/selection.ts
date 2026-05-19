@@ -21,6 +21,34 @@ export const MOCK_EXAM_WEIGHTS: Record<string, number> = {
   '10': 16,
 }
 
+export function scaleWeights(
+  weights: Record<string, number>,
+  target: number,
+): Record<string, number> {
+  const total = Object.values(weights).reduce((a, b) => a + b, 0)
+  const entries = Object.entries(weights)
+
+  const floors: Record<string, number> = {}
+  const fractions: Array<[string, number]> = []
+  let floorSum = 0
+
+  for (const [key, w] of entries) {
+    const exact = (w / total) * target
+    const floor = Math.floor(exact)
+    floors[key] = floor
+    floorSum += floor
+    fractions.push([key, exact - floor])
+  }
+
+  fractions.sort((a, b) => b[1] - a[1])
+  const remainder = target - floorSum
+  for (let i = 0; i < remainder; i++) {
+    floors[fractions[i][0]]++
+  }
+
+  return floors
+}
+
 export function selectWeightedQuestions(
   candidates: QuestionWithOptions[],
   weights: Record<string, number>,

@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { selectWeightedQuestions, MOCK_EXAM_WEIGHTS } from './selection'
+import { selectWeightedQuestions, scaleWeights, MOCK_EXAM_WEIGHTS } from './selection'
 import type { QuestionWithOptions } from './types'
 
 function makeQuestion(id: string, sectionId: string): QuestionWithOptions {
@@ -62,5 +62,37 @@ describe('selectWeightedQuestions', () => {
     expect(() => selectWeightedQuestions(pool, tinyWeights)).toThrow(
       'Not enough questions in section 01',
     )
+  })
+})
+
+describe('scaleWeights', () => {
+  it('returns identical weights when target equals original sum', () => {
+    const result = scaleWeights(MOCK_EXAM_WEIGHTS, 200)
+    expect(result).toEqual(MOCK_EXAM_WEIGHTS)
+  })
+
+  it('sums to 150 for Physician target', () => {
+    const result = scaleWeights(MOCK_EXAM_WEIGHTS, 150)
+    const total = Object.values(result).reduce((a, b) => a + b, 0)
+    expect(total).toBe(150)
+  })
+
+  it('sums to 120 for Professional target', () => {
+    const result = scaleWeights(MOCK_EXAM_WEIGHTS, 120)
+    const total = Object.values(result).reduce((a, b) => a + b, 0)
+    expect(total).toBe(120)
+  })
+
+  it('preserves all section keys', () => {
+    const result = scaleWeights(MOCK_EXAM_WEIGHTS, 150)
+    expect(Object.keys(result)).toEqual(Object.keys(MOCK_EXAM_WEIGHTS))
+  })
+
+  it('all values are positive integers', () => {
+    const result = scaleWeights(MOCK_EXAM_WEIGHTS, 120)
+    for (const v of Object.values(result)) {
+      expect(v).toBeGreaterThan(0)
+      expect(Number.isInteger(v)).toBe(true)
+    }
   })
 })
