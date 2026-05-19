@@ -209,6 +209,31 @@ export async function submitAnswer(
   }
 }
 
+export type TimedSnapshotResult = {
+  timedScore: number
+  answeredCount: number
+  totalCount: number
+}
+
+export async function snapshotTimedScore(
+  sessionId: string,
+  userId: string,
+): Promise<TimedSnapshotResult> {
+  const session = await repo.findSession(sessionId)
+  if (!session) throw new Error('Session not found')
+  if (session.userId !== userId) throw new Error('Forbidden')
+
+  if (session.timedScore !== null) {
+    const answeredCount = await repo.countAnswers(sessionId)
+    return { timedScore: session.timedScore, answeredCount, totalCount: session.totalCount }
+  }
+
+  const timedScore = await repo.countCorrectAnswers(sessionId)
+  await repo.snapshotTimedScore(sessionId, timedScore)
+  const answeredCount = await repo.countAnswers(sessionId)
+  return { timedScore, answeredCount, totalCount: session.totalCount }
+}
+
 export async function endSession(
   sessionId: string,
   userId: string,

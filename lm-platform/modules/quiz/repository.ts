@@ -107,6 +107,16 @@ export async function completeSession(
   })
 }
 
+export async function snapshotTimedScore(
+  sessionId: string,
+  timedScore: number,
+): Promise<void> {
+  await prisma.quizSession.update({
+    where: { id: sessionId },
+    data: { timedScore, timedAt: new Date() },
+  })
+}
+
 export async function findSessionQuestionIds(sessionId: string): Promise<string[]> {
   const rows = await prisma.quizSessionQuestion.findMany({
     where: { sessionId },
