@@ -22,6 +22,10 @@ export type SessionView = {
   status: 'InProgress' | 'Completed'
   totalCount: number
   answeredCount: number
+  createdAt: string        // ISO string — safe to pass as a React prop
+  timeLimitSec: number | null
+  timedScore: number | null
+  timedAt: string | null   // ISO string
   questions: QuestionView[]
 }
 
@@ -51,6 +55,10 @@ export async function getSessionView(sessionId: string, userId: string): Promise
     status: session.status as 'InProgress' | 'Completed',
     totalCount: session.totalCount,
     answeredCount: questions.filter((q) => q.answer !== null).length,
+    createdAt: session.createdAt.toISOString(),
+    timeLimitSec: session.timeLimitSec ?? null,
+    timedScore: session.timedScore ?? null,
+    timedAt: session.timedAt ? session.timedAt.toISOString() : null,
     questions,
   }
 }
