@@ -26,21 +26,22 @@ export default async function NewQuizPage() {
 
         <form action={startQuizAction} className="space-y-5">
           <div>
-            <label htmlFor="sectionId" className="mb-1 block text-sm font-medium text-gray-700">
-              Section
-            </label>
-            <select
-              id="sectionId"
-              name="sectionId"
-              className="w-full rounded-lg border border-gray-300 px-3 py-2 text-sm focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
-            >
-              <option value="">All sections</option>
+            <p className="mb-2 block text-sm font-medium text-gray-700">
+              Sections <span className="font-normal text-gray-400">(leave all unchecked for all sections)</span>
+            </p>
+            <div className="space-y-1 rounded-lg border border-gray-200 p-3 max-h-56 overflow-y-auto">
               {sections.map((s) => (
-                <option key={s.id} value={s.id}>
-                  {s.name}
-                </option>
+                <label key={s.id} className="flex items-center gap-2 cursor-pointer rounded px-1 py-0.5 hover:bg-gray-50">
+                  <input
+                    type="checkbox"
+                    name="sectionId"
+                    value={s.id}
+                    className="h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
+                  />
+                  <span className="text-sm text-gray-700">{s.name}</span>
+                </label>
               ))}
-            </select>
+            </div>
           </div>
 
           <div>

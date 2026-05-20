@@ -65,7 +65,7 @@ export async function getSessionView(sessionId: string, userId: string): Promise
 
 export type CreateSessionInput = {
   userId: string
-  sectionId?: string
+  sectionIds?: string[]
   count: number
   mode?: 'mock-exam'
 }
@@ -123,7 +123,7 @@ export async function createSession(input: CreateSessionInput): Promise<{ sessio
     return { sessionId: session.id }
   }
 
-  const where = input.sectionId ? { sectionId: input.sectionId } : {}
+  const where = input.sectionIds?.length ? { sectionId: { in: input.sectionIds } } : {}
 
   const rawQuestions = await prisma.question.findMany({
     where,

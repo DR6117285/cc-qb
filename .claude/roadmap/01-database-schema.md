@@ -44,28 +44,20 @@ model QuestionTag {
 }
 
 model Question {
-  id             String           @id          // "00001" — from JSON question_id
+  id             String                @id          // "00001" — from JSON question_id
   questionText   String
   rationale      String
-  pageReference  String?                       // nullable — not all questions have one
-  questionType   QuestionType
+  pageReference  String?                            // nullable — not all questions have one
   sectionId      String
-  section        Section          @relation(fields: [sectionId], references: [id])
-  options        Json                          // [{"key":"A","text":"...","isCorrect":false}, ...]
+  section        Section               @relation(fields: [sectionId], references: [id])
+  options        Json                               // [{"key":"A","text":"...","isCorrect":false}, ...]
   tags           QuestionTag[]
-  sourceFile     String                        // e.g. "General - 1. Introduction to Lifestyle Medicine.json"
+  sourceFile     String                             // e.g. "01-introduction-to-lifestyle-medicine.json"
   sessionAnswers QuizAnswer[]
   userProgress   UserQuestionProgress[]
 
   @@index([sectionId])
-  @@index([questionType])
   @@map("questions")
-}
-
-enum QuestionType {
-  GENERAL
-  SUPPLEMENTARY       // "From Board Review Notes" files
-  STUDY_TOOL_BASED
 }
 
 
@@ -100,7 +92,6 @@ model QuizSession {
   userId       String
   user         User          @relation(fields: [userId], references: [id])
   sectionId    String?       // null = mixed sections
-  questionType QuestionType? // null = mixed types
   totalCount   Int
   score        Int?          // null until session ends
   completedAt  DateTime?
@@ -167,5 +158,4 @@ Never mix content and quiz tables in the same migration.
 | `options` as `Json` (not `QuestionOption` rows) | Options are always read together, never queried individually — a join table adds overhead with no benefit |
 | `pageReference` nullable | Not all questions have a page reference; nullable is honest |
 | `sourceFile` on Question | Audit trail — tracks which JSON file each question was seeded from |
-| `QuestionType` enum values `GENERAL` / `STUDY_TOOL_BASED` | DB-level enforcement; original JSON values map to these at seed time |
-| `QuizSession.questionType` removed | Sessions should filter by tags going forward, not question type |
+| `QuestionType` removed | Consolidated JSON files carry no type field — all questions are general; filter by tags instead |

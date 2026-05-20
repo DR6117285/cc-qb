@@ -36,108 +36,13 @@ npx prisma migrate dev --name add-questions
 ## Seed Script
 
 The seed script reads the consolidated, tagged JSON files from `data/consolidated/`.
-Each question in those files has a `tags` array of slug strings (e.g. `["diabetes", "clinical-evidence"]`).
+Each question has a `tags` array of slug strings (e.g. `["diabetes", "clinical-evidence"]`).
 
-```typescript
-// scripts/seed-questions.ts
-import { PrismaClient, QuestionType } from '@prisma/client'
-import fs from 'fs'
-import path from 'path'
+See `lm-platform/scripts/seed-questions.ts` for the implementation.
 
-const prisma = new PrismaClient()
-
-const TYPE_MAP: Record<string, QuestionType> = {
-  'General': QuestionType.GENERAL,
-  'Supplementary': QuestionType.SUPPLEMENTARY,
-  'Study-Tool Based': QuestionType.STUDY_TOOL_BASED,
-}
-
-function parseOptions(options: string[], correctAnswer: string) {
-  const correctKey = correctAnswer.trim()[0].toUpperCase()
-  return options.map((opt: string) => ({
-    key: opt.trim()[0].toUpperCase(),
-    text: opt.replace(/^[A-D]\)\s*/, '').trim(),
-    isCorrect: opt.trim()[0].toUpperCase() === correctKey,
-  }))
-}
-
-async function main() {
-  const dataDir = path.join(process.cwd(), 'data', 'consolidated')
-  const files = fs.readdirSync(dataDir).filter(f => f.endsWith('.json'))
-
-  // Pass 1 — collect all unique sections and tags
-  const sections = new Map<string, string>()
-  const allTags = new Map<string, string>() // slug → label
-
-  for (const file of files) {
-    const questions = JSON.parse(fs.readFileSync(path.join(dataDir, file), 'utf-8'))
-    for (const q of questions) {
-      sections.set(q.section_number, q.section)
-      for (const slug of (q.tags ?? [])) {
-        if (!allTags.has(slug)) {
-          // Convert slug to display label: "planetary-health" → "Planetary Health"
-          allTags.set(slug, slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()))
-        }
-      }
-    }
-  }
-
-  // Upsert sections
-  for (const [id, name] of sections) {
-    await prisma.section.upsert({ where: { id }, create: { id, name }, update: {} })
-  }
-  console.log(`Sections: ${sections.size}`)
-
-  // Upsert tags
-  for (const [slug, label] of allTags) {
-    await prisma.tag.upsert({ where: { slug }, create: { slug, label }, update: {} })
-  }
-  console.log(`Tags: ${allTags.size}`)
-
-  // Pass 2 — import questions
-  let imported = 0, skipped = 0
-
-  for (const file of files) {
-    const questions = JSON.parse(fs.readFileSync(path.join(dataDir, file), 'utf-8'))
-
-    for (const q of questions) {
-      const questionType = TYPE_MAP[q.question_type]
-      if (!questionType) {
-        console.warn(`Unknown type "${q.question_type}" — skipping ${q.question_id}`)
-        skipped++
-        continue
-      }
-
-      const tagRecords = await prisma.tag.findMany({
-        where: { slug: { in: q.tags ?? [] } },
-        select: { id: true },
-      })
-
-      await prisma.question.upsert({
-        where: { id: q.question_id },
-        create: {
-          id: q.question_id,
-          questionText: q.question_text,
-          rationale: q.rationale,
-          pageReference: q.page_reference ?? null,
-          questionType,
-          sectionId: q.section_number,
-          options: parseOptions(q.options, q.correct_answer),
-          sourceFile: file,
-          tags: {
-            create: tagRecords.map(t => ({ tagId: t.id })),
-          },
-        },
-        update: {},
-      })
-      imported++
-    }
-  }
-
-  console.log(`Done — imported: ${imported}, skipped: ${skipped}`)
-}
-
-main().finally(() => prisma.$disconnect())
+Run with:
+```bash
+npx tsx scripts/seed-questions.ts
 ```
 
 Run with:

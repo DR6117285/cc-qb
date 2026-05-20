@@ -11,7 +11,7 @@ export async function startQuizAction(formData: FormData) {
   const rawMode = formData.get('mode')
   const mode = rawMode === 'mock-exam' ? 'mock-exam' as const : undefined
 
-  const sectionId = formData.get('sectionId') as string | null
+  const sectionIds = formData.getAll('sectionId').map(String).filter(Boolean)
   const count = parseInt(formData.get('count') as string, 10)
 
   if (!mode && (!count || count < 1 || count > 200)) {
@@ -20,7 +20,7 @@ export async function startQuizAction(formData: FormData) {
 
   const { sessionId } = await createSession({
     userId: session.user.id,
-    sectionId: sectionId || undefined,
+    sectionIds: sectionIds.length > 0 ? sectionIds : undefined,
     count: count || 200,
     mode,
   })
